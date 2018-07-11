@@ -9,7 +9,7 @@
 #include <fstream>
 using namespace std;
 
-#define ALP 26 //the number of words in the alphabet
+#define ALP 36 //the number of words in the alphabet plus the 10 digits
 
 //forward declaration
 class Word_t;
@@ -33,7 +33,6 @@ private:
 
 class Trie_t {
 public:
-	Trie_t();
 	Word_t* insert(string word);
 	Word_t* search(string word);
 private:
