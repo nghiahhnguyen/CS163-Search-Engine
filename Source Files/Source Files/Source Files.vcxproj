@@ -142,7 +142,8 @@
     <ClInclude Include="Function.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Function.cpp" />
+    <ClCompile Include="Auxilary Functions.cpp" />
+    <ClCompile Include="Trie_Implementation.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
