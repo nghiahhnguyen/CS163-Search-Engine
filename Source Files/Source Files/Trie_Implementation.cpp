@@ -1,59 +1,35 @@
 #include "Function.h"
 
+
+Trie_t::Trie_t() {
+	root = new Word_t;
+}
+
+
 Word_t* Trie_t::insert(string word) {
 	//Nghia
 	//return true if the word is inserted
 	//return false if the word already existed and is not inserted
+
+
 	Word_t* cur = root;
-	int n = word.size(), i, link_position;
-	for (i = 0; i < n; ++i) {
+	int n = word.size(), link_index;
 
-		//if this the first time a word is insert into the Trie
-		if (cur == root) {
+	for (int i = 0; i < n; ++i) {
 
-			if (!root) root = new Word_t;
+		//find the index of the next link
+		link_index = linkIndex(word[i]);
 
-			//if the character is a digit
-			if (isdigit(word[i]))
-				link_position = word[i] - '0' + 26;
-			else
-				link_position = tolower(word[i]) - 'a';
+		//if that link didnt' exist, create the link
+		if (!cur->link[link_index])
+			cur->link[link_index] = new Word_t;
 
-			//mark that this character exist the Trie
-			root->character_existed[link_position] = true;
-
-			//if we are evaluating the last character of the word
-			if (i == n - 1) {
-				root->is_end = true;
-				return root;
-			}
-			cur = root;
-		}
-		else {
-			//the position of the new link added depending on whether the character is digit or not
-			if (cur->link[link_position] == NULL) cur->link[link_position] = new Word_t;
-
-			cur = cur->link[link_position];
-			
-			//if it's a digit
-			if (isdigit(word[i])) 
-				link_position = word[i] - '0' + 26;
-			else 
-				link_position = tolower(word[i]) - 'a';
-			
-			cur->character_existed[link_position] = true;
-
-			//if it's the last character of the word
-			if (i == n - 1) {
-				cur->is_end = true;
-				return cur;
-			}
-		}
+		//move to the next node
+		cur = cur->link[link_index];
 	}
-	//the function should never reach this line
-	//this is just to avoid a compilation error
-	cerr<<"Sth is wrong with Trie_t::insert";
-	return NULL;
+	//mark the end of the word
+	cur->is_end = true;
+	return cur;
 }
 
 
@@ -62,43 +38,26 @@ Word_t* Trie_t::search(string word) {
 	//return the pointer to the word if it exists in the Trie
 	//return NULL if the word doesn't exist in the Trie
 	
+
 	Word_t* cur = root;
-	int n = word.size(), i, link_position;
-	for (i = 0; i < n; ++i) {
+	int n = word.size(), link_index;
+	for (int i = 0; i < n; ++i) {
 
-		//if there is no word in the Trie
-		if (!root) {
+		//find the index of the next link
+		link_index = linkIndex(word[i]);
+
+
+		//if the word doesn't exist
+		if (!cur->link[link_index])
 			return NULL;
-		}
-		else {
 
-			//if this is not the first character of the word
-			if (cur != root) {
-
-				if (cur->link[link_position] == NULL) return NULL;
-
-				cur = cur->link[link_position];
-			}
-
-			//if it's a digit
-			if (isdigit(word[i]))
-				link_position = word[i] - '0' + 26;
-			else
-				link_position = tolower(word[i]) - 'a';
-
-			if (!cur->character_existed[link_position]) return NULL;
-
-			if (i == n - 1) {
-				if (cur->is_end)
-					return cur;
-				else
-					return NULL;
-			}
-		}
+		//move to the next node
+		cur = cur->link[link_index];
 	}
-
-	return NULL;
-	
+	if (cur->is_end)
+		return cur;
+	else
+		return NULL;	
 }
 
 
@@ -174,3 +133,7 @@ void Trie_t::inputFromFile(string folder_path) {
 }
 
 
+
+void Trie_t::minus(string word_not_in_operator, string word_in_operator) {
+
+}
