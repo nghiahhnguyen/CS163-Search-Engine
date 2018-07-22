@@ -33,16 +33,16 @@ public:
 private:
 	vector<Node>file_list, title_list;
 	Word_t *link[ALP] = { NULL };
-	bool character_existed[ALP]{ false };
-	vector<int>position_of_character;
 	bool is_end = false;
 };
 
 class Trie_t {
 public:
+	Trie_t();
 	Word_t* insert(string word);
 	Word_t* search(string word);
 	void inputFromFile(string folder_path);
+	void minus(string word_not_in_operator, string word_in_operator);
 private:
 	Word_t * root = NULL;
 };
@@ -50,5 +50,6 @@ private:
 //auxilary functions
 string itoXX(int number);
 bool NodeMaxFirst(Node a, Node b);
+int linkIndex(char x);
 
 #endif // !_FUNCTION_H_
