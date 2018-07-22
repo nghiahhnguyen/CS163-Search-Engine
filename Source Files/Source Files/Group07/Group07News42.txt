@@ -1,0 +1,17 @@
+﻿"Facebook develops AI to open your damn eyes in photos
+Facebook wants to recreate eyes in photos using AI.
+Facebook
+There's always one person. Seventeen takes. And Karen's blinking.
+But no need to host an intervention -- Facebook plans to fix your photos with AI.
+The company released a research paper this week, authored by two Facebook engineers, which outlines a new method of recreating eyes in photos using what's known as a ""exemplar generative adversarial network"" or ExGAN. It's the kind of deep learning that's already used to generate pictures of faces from scratch and now Facebook wants to use it to fix your selfies.
+According to the researchers, regular deep neural networks can learn to recreate eyes in photos, but there's a way to make them look like that person's real eyes. Put another way, your Karens could end up looking like Darrens.
+Watch this: Facebook fixer-upper: Can artificial intelligence clean...
+1:36
+Rather than teaching a deep network to recreate eyes from a data set of other people's eyes, the researchers figure the AI can use photos of the same person as a reference point. And that's where Facebook has the upper hand -- it already has countless photos of you tagged on its servers, ready to cross-reference.
+Facebook is already using machine learning to help identify faces on its platform and to give you tagging suggestions. And while the current technology is just in the research phase, it's a sign that the social network wants to maintain its dominance as a photo sharing platform. With more than 350 million photos uploaded to Facebook, the company wants to make sure everyone is a keeper.
+Follow the Money: This is how digital cash is changing the way we save, shop and work.
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+Share your voice
+Post a comment
+Tags
+Internet Artificial intelligence (AI) Facebook"

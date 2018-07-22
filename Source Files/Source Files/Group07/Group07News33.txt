@@ -1,0 +1,26 @@
+﻿"Send and receive Android text messages on your PC
+You can send and receive texts on your computer too.
+Anne Dujmovic/CNET
+Want to keep texting someone even though you don't have your phone on you? You can now send and receive Android text messages on your computer -- but you'll want to set it up before you lose your phone.
+Google on Monday announced Messages for web as a brand-new feature for Android Messages, as spotted by 9to5Google. The feature begins rolling out Monday and will continue through next week.
+To use the feature you'll need the latest version of the Android Messages app, which you can probably download here. Then do the following:
+On your computer, go to messages.android.com
+Then on your phone, open the Android Messages app
+In Messages, tap the More options menu (the one with three dots) and select Messages for web
+Use your phone to scan the QR code on your computer
+Follow these instructions.
+Screenshot by Gordon Gottsegen/CNET
+The ability to send and receive texts on your Android phone and computer has been long overdue. Apple's iMessages has supported this feature for a few years, but since you need an iPhone ($800 at Cricket Wireless) and Mac, not everyone could use the feature. Now that Android's messaging platform supports this, an awful lot more people can start texting without their phones.
+Google also announced four other new features in Messages:
+Integrated GIF support so you can search for and send GIFs in the Messages app
+Smart reply which suggests text or emoji responses to incoming texts
+Preview links within conversations
+Easy copy and pasting for passwords and verification codes sent through texts
+13
+12 Android P features to get excited about
+Watch this: New features in Android P
+2:17
+Share your voice
+Post a comment
+Tags
+Phones Target Android P Google Apple"

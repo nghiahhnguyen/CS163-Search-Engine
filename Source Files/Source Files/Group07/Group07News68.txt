@@ -1,0 +1,17 @@
+Don't be fooled: Fortnite for Android links on YouTube aren't legit.
+"Beware of scams.
+Frederic J. Brown / Getty Images
+As fans await the arrival of video game Fortnite on Android this summer, mobile malware developers are taking advantage of their anticipation by releasing YouTube videos with fake links claiming to be versions of the game.
+Doing a YouTube or Google search for ""Download Fortnite for Android"" or ""How to install Fortnite on Android"" yields dozens of results claiming to show users how to get the game on the platform. People are then directed to download a fake app. Some of these YouTube videos have millions of views.
+The fake app features a realistic-looking icon, Malwarebytes' Nathan Collier wrote, and uses the Epic Games logo and Fortnite loading screen to make it look legit. The app then starts playing the game's intro song, and a screen pops up showing ""news updates."" Clicking that screen leads to a different screen that says it's ""logging in,"" which also feels realistic.
+Things go awry when the app asks for a mobile verification. Hitting OK redirects users to a site claiming to verify that ""You'r Not A BOT"" (the poor spelling and grammar is a definite red flag). Users have to download another app to verify, and clicking on a link prompts a pop-up showing ""unlock instructions."" But hitting ""tap to install"" only leads you to Google Play, and regardless of how many apps you download, you'll never actually get to Fortnite.
+The malware developers are essentially looking for more downloads, which ultimately equals more money, Collier wrote.
+Last week, Lukas Stefanko, a malware researcher at ESET, warned users about these kinds of scams.
+A YouTube representative said the company uses machine learning systems to detect and remove millions of spam videos, and its teams ""continue to train these systems to adapt to new types of abuse, allowing us to tackle this content at scale.""
+""Our Community Guidelines prohibit spam, scams, and other deceptive practices and we remove these video when we are made aware of them,"" the representative said. ""We are committed to removing spam quickly, in many cases, preventing it from ever being viewed by users, while also making sure that we do not harm legitimate creators.""
+First published June 20, 12:52 p.m. PT
+Update, 1:20 p.m. PT: Adds comment from YouTube.
+Share your voice
+Post a comment
+Tags
+Security Fortnite Malware YouTube"

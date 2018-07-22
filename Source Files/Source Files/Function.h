@@ -8,11 +8,12 @@
 #include <cstring>
 #include <fstream>
 #include <map>
+#include <sstream>
 using namespace std;
 
 typedef map<string, int> word_map;
 
-#define ALP 36 //the number of words in the alphabet plus the 10 digits
+#define ALP 38 //the number of words in the alphabet + 10 digits + '$' + '#'
 
 //forward declaration
 class Word_t;
@@ -30,9 +31,10 @@ class Word_t {
 public:
 	friend Trie_t;
 private:
-	vector<Node>file_list;
+	vector<Node>file_list, title_list;
 	Word_t *link[ALP] = { NULL };
 	bool character_existed[ALP]{ false };
+	vector<int>position_of_character;
 	bool is_end = false;
 };
 
@@ -48,7 +50,5 @@ private:
 //auxilary functions
 string itoXX(int number);
 bool NodeMaxFirst(Node a, Node b);
-
-//TO DO: list of stopwords
 
 #endif // !_FUNCTION_H_

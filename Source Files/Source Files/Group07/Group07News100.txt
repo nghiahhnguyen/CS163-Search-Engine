@@ -1,0 +1,32 @@
+9 Siri commands to use with your Apple TV remote.
+"With only six buttons and a clicking touchpad, the Siri Remote for the Apple TV seems like an overly-simplified remote, especially when you consider everything the streamer can do. It gets its job done pretty well, even if the trackpad can be a bit cumbersome at times.
+In fact, if you're not using Siri all that much, you're likely missing out on some of the finer aspects of the Apple TV. (My favorite thing to use the remote for is asking, ""What did he/she just say?"" This rewinds your show or movie a few seconds and temporarily turns on closed captions so you can see and hear what the actor said a second time.)
+Simple as it may be, Apple has tucked away several hidden features into the Siri remote, and here are some of the most important you should be using.
+Watch this: 5 helpful Siri Remote tips and tricks
+2:27
+App switcher
+The app switcher on Apple TV works almost exactly the same as on iOS. And similar to iPhones ($800 at Cricket Wireless) with home buttons, double-clicking the Home button (top right) will open the app switcher, allowing you to see and scroll through all your recently used apps. Swiping up on the trackpad while hovering over one of the previews will force close that app.
+Force reboot
+If your Apple TV is acting up or not working like it should, the first thing you should try is a reboot. You can find the Restart option under Settings > System. A faster way to force a reboot is by holding Menu + Home until the lights on the front of the Apple TV blink rapidly. Let go of the buttons and the Apple TV will restart.
+Put the TV to sleep
+Like restarting the Apple TV, you can put it to sleep by opening Settings and selecting Sleep Now at the very bottom. That said, long-pressing the Home button for about a second will bring up a menu asking if you want to put the Apple TV to sleep.
+Screen saver
+Apple TV has several different options for screen savers that can automatically start after two to 30 minutes of inactivity. You can use Apple's Aerial videos, Apple Photos or your own media. If you want to manually activate the screensaver, simply double-press the Menu button.
+Caps lock and deleting text
+One of the worst experiences you'll likely have with the Siri remote is text input. Fortunately, you can use Siri to dictate into text fields for you, or you can use an iOS device on the same wireless network to enter text with an onscreen keyboard.
+However, if you find yourself needing to enter text manually, you can toggle caps lock by pressing the Play/Pause button. You can also delete all entered text by quickly pressing the Siri button.
+Change audio output
+If audio from your Apple TV isn't playing through the correct source, you can manually select the audio output by going to Settings > Video and Audio > Audio Output and selecting one of the available sources.
+Another (and faster) way to select the output from anywhere is by long-pressing Play/Pause. A menu overlay with all currently available audio outputs will appear so you can change it on the fly.
+Accessibility shortcuts
+Under Settings > General > Accessibility, you're given several accessibility options for vision and hearing impairments. To quickly toggle some of the settings you have enabled, triple-press the Menu button.
+Jump home despite the TV app
+When Apple released the new TV app in 2016, it changed the way the Home button works. By default, instead of taking you back to your home screen, pressing it will first take you to the TV app. Pressing it a second time will take you to the app launcher. Despite this, you can still quickly return to the home screen by long-pressing the Menu button.
+If you don't use the TV app or would prefer the Home button to, you know, take you to the home screen, you can revert to the old Home button function. Go to Settings > Remotes and Devices > Home Button and clicking to toggle it between Home Screen and TV App.
+Re-pair the remote
+If the remote isn't working properly (or at all) there could be a few things going on. First, make sure it's charged. (You can check the battery level by using your iOS device as a remote and going to Settings > Remotes and Devices > Remote.)
+If that's not the problem or the remote isn't showing as connected there, try pairing the remote to the TV again. To do this, place the remote within a couple inches of the Apple TV and press and hold Menu and Volume Up.
+Share your voice
+Post a comment
+Tags
+Media Streamers Smart Home iOS 11 Siri Apple"

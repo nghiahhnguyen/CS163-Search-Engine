@@ -1,0 +1,61 @@
+﻿"California's net neutrality bill faces a grim fate
+State capitol building, Sacramento, California.
+Education Images
+All eyes are on California on Wednesday as a State Assembly committee considers moving forward a net neutrality bill that could lead to the strongest open internet protections in the country.
+If passed in its current form and signed into law by Governor Jerry Brown, the legislation could set a new nationwide standard of comprehensive protections to replace the Obama-era rules thrown out by the Trump administration. But a report issued late Tuesday by the Assembly's Communications and Conveyance Committee suggests lawmakers plan to gut key provisions of the bill.
+(Update: California lawmakers introduced amendments gutting the provisions from the net neutrality bill.)
+Watch this: Beer helps explain battle brewing over net neutrality
+2:10
+Groups supporting net neutrality, such as Fight for the Future, had warned earlier on Tuesday that Assemblyman Miguel Santiago, a Democrat from Los Angeles who chairs the committee, was planning to introduce amendments that would strip the bill of its most aggressive protections. They accused him of succumbing to pressures from AT&T, which has donated to his campaigns.
+The group blasted the chairman's report ahead of the hearing.
+""If Assemblyman Santiago does not change course, he will become the first Democrat to actively help the Trump administration dismantle net neutrality protections that are essential for a free and open Internet,"" said Evan Greer, deputy director of Fight for the Future.
+The contest in California has drawn the attention of national Democrats, who had hoped the California bill would help spur their own efforts to restore federal net neutrality protections passed in 2015, which the Republican-led Federal Communications Commission threw out in December. The rules officially expired last week.
+A strict law that bans zero rating will force companies like AT&T to change their business practices in California.
+Ernesto Falcon, a lawyer with the Electronic Frontier Foundatio
+If the most potent protections in the bill are stripped out, it would be a major blow to congressional Democrats, who have been pushing an effort to reinstate the FCC's rules through the Congressional Review Act, which gives Capitol HIll the power to overturn federal regulations. Democrats in Washington have been hoping to use net neutrality as an issue in the midterm elections to get millennials to the polls. But a loss in a heavily Democratic state like California, which has pushed back hard against Trump's policies, may not bode well for a national net neutrality movement.
+On Monday, House Minority Leader Nancy Pelosi sent a letter to Santiago, urging him to pass ""comprehensive protections"" and warning against giving in to the broadband industry.
+""We will not settle for the weak bills pushed by Republicans that eliminate crucial consumer protections and are net neutrality in name only,"" she wrote. ""Californians deserve the strong protections they had on the Internet until last week.""
+Santiago did not return calls for comment.
+AT&T couldn't immediately be reached for comment.
+The 'gold standard' in net neutrality
+The committee hearing scheduled for Wednesday morning will consider two bills, including SB 822, authored by Sen. Scott Wiener from San Francisco. Net neutrality supporters have called SB 822 the ""gold standard"" in net neutrality protections, because it goes further than rules passed by Democrats at the FCC three years ago.
+The other bill being considered, SB 460, drafted by Kevin de Leon, a Democrat from Los Angeles, also codifies the rules outlined by the FCC in 2015, but it doesn't go as far as Wiener's bill. Wiener and de Leon had proposed Monday to combine their bills, in an effort to give Wiener's bill a greater chance of passing without amendments that would weaken it. But Santiago's committee report recommended the bills be considered separately.
+Wiener's legislation not only transforms the FCC's 2015 net neutrality rules into California law, it also bars internet service providers from offering sponsored content, zero rating or other deals that could provide an economic incentive to broadband companies to discriminate against content riding on their networks. Such offerings allow a company to pay data charges so that certain content doesn't count against a wireless subscriber's data plan.
+It also ensures that broadband providers adhere to net neutrality at so-called interconnection points, which means they also won't be allowed to slow or block access to services from companies like Netflix that connect to their networks to deliver services to consumers.
+The fight at the state level
+California is one of more than two dozen states that are considering bills to reinstate net neutrality rules. Other states, including New York, Connecticut and Maryland, are also preparing legislation to protect net neutrality. Oregon and Washington state have already signed their own net neutrality legislation into law. Governors in several states, including New Jersey and Montana, have signed executive orders requiring ISPs that do business with the state adhere to net neutrality principles.
+But how California's proposed legislation shakes out will likely influence how strict other states will be in their own net neutrality laws. Net neutrality supporters have hoped that a strong bill like Wiener's would set the tone across the country.
+It's a tall order to fill, but with a population of nearly 40 million and as the fifth largest economy in the world, California has huge market power. And the state has a long history of leading the country on progressive issues, such as climate change, LGBT and labor rights, and the legalization of marijuana. Not only have other states followed California in enacting their own laws, but California has also forced federal regulators to adopt standards matching its own. And its immense market power has also led to changes in industry. For instance, the state's stricter safety and emission standards have forced the auto industry to produce safer cars that pollute less not just in California but throughout the country.
+Net neutrality supporters say the state could have the same influence on spreading strong net neutrality protections.
+""A strict law that bans zero rating will force companies like AT&T to change their business practices in California,"" said Ernesto Falcon, a lawyer with the Electronic Frontier Foundation. ""And that could affect how it provides service throughout the country.""
+The pressure is on
+AT&T and other large ISPs have been lobbying to either kill the proposed legislation or to water it down. While they say they support the basic idea of net neutrality, they argue that bans on things like zero rating and paid priority, which could allow companies to pay broadband providers to get their services delivered faster than that of competitors, limit their ability to try new business models.
+The big broadband providers say that without the ability to experiment with new business models, they'll have to charge consumers more for their services in the future.
+CNET Daily News
+Get today's top news and reviews collected for you.
+Lobbyists for these companies have been targeting California lawmakers to defeat the bill.
+It appears those efforts may have worked. The committee's report issued late Tuesday suggests Santiago plans to strip Wiener's bill of its most potent protections, namely the ban on zero rating and net neutrality compliance at interconnection points. The group urged net neutrality supporters to flood Santiago with emails, tweets and phone calls, which they did for much of the day Tuesday.
+Greer from Fight for the Future said it's ""unthinkable that California Democrats would even consider weakening an extremely popular net neutrality bill.""
+The hearing to decide the fate of the bill will begin at 9:30 a.m. PT.
+Update, 11:21 a.m. PT: To note that California lawmakers voted to amend the bill.
+The Smartest Stuff: Innovators are thinking up new ways to make you, and the things around you, smarter.
+It's Complicated: This is dating in the age of apps. Having fun yet?
+Net Fix
+reading
+â€¢
+California's net neutrality bill faces a grim fate
+Jun 20
+â€¢
+California lawmakers gut 'gold standard' net neutrality bill
+Jun 18
+â€¢
+California lawmakers combine net neutrality bills
+Jun 15
+â€¢
+Why net neutrality supporters are cringing at the AT&T-Time Warner merger
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+Net Fix Internet Politics Net neutrality AT&T FCC Legislation"

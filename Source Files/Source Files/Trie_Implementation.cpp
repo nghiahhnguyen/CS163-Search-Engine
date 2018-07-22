@@ -116,22 +116,45 @@ void Trie_t::inputFromFile(string folder_path) {
 		//get the name of file
 		file_path = "Group07News" + itoXX(i);
 
-		word_map word_occurrence;
+		word_map word_occurrence, word_occurrence_title;
 		word_map::iterator wmi;
 		ifstream fin(folder_path);
 		string word;
 
-		while (fin.good()) {
-			fin >> word;
-			wmi = word_occurrence.find(word);
+		if (fin.good()) {
+			//clear the input buffer
+			fin >> ws;
+			string title;
+			stringstream ss;
+			getline(fin, title);
+			ss = stringstream(title);
+
+			//start reading the title
+			while (ss.good()) {
+				ss >> word;
+				wmi = word_occurrence_title.find(word);
+
+				//if the word doesn't exist then add it to the map
+				if (wmi == word_occurrence_title.end())
+					word_occurrence_title[word] = 1;
+				//else just increment the counter of the word
+				else
+					++wmi->second;
+			}
+
+			//start reading the rest of the file
+			while (fin.good()) {
+				fin >> word;
+				wmi = word_occurrence.find(word);
 
 
-			//if the word doesn't exist then add it to the map
-			if (wmi == word_occurrence.end())
-				word_occurrence[word] = 1;
-			//else just increment the counter of the word
-			else
-				++wmi->second;
+				//if the word doesn't exist then add it to the map
+				if (wmi == word_occurrence.end())
+					word_occurrence[word] = 1;
+				//else just increment the counter of the word
+				else
+					++wmi->second;
+			}
 		}
 
 		//pointer to get the position of the word in the Trie
@@ -149,3 +172,5 @@ void Trie_t::inputFromFile(string folder_path) {
 
 
 }
+
+

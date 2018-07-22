@@ -1,0 +1,27 @@
+Intel shares down after CEO Brian Krzanich resigns over relationship with employee.
+"Intel CEO Brian Krzanich has stepped down from the company.
+Stephen Shankland/CNET
+Brian Krzanich is out as CEO of Intel.
+The chip giant on Thursday said that Brian Krzanich had resigned and that the board had named Chief Financial Officer Robert Swan as interim CEO. The board has begun a search for a permanent CEO, looking at both internal and external candidates.
+The resignation comes after the board learned of a past consensual relationship with an Intel employee and an investigation confirmed that it violated Intel's nonfraternization policy, which applied to all managers, the company said.
+""We appreciate Brian's many contributions to Intel,"" Intel Chairman Andy Bryant said in the release. ""The board believes strongly in Intel's strategy and we're confident in Bob Swan's ability to lead the company as we conduct a robust search for our next CEO.""
+The resignation marks an ignoble end for an executive whose chief legacy is the push to diversify one of Silicon Valley's biggest and most powerful players. Krzanich, who took the reins five years ago after serving as the operating chief, was considered a safe pick. He steered Intel through questions about whether the company could remain dominant as the world went more mobile, investing in everything from drones to virtual reality.
+Watch this: Intel CEO explains Real Sense tech and Intel's new diversity...
+4:50
+Intel built the x86 chips that traditionally powered PCs, but the world was increasingly turning to smartphones that used so-called Arm chips from the likes of Qualcomm. Under Krzanich, Intel positioned itself for a fresh start with the advent of next-generation 5G wireless technology, and it has edged into the mobile world as a supplier for Apple's iPhones.
+Not all of his bets have paid off, including Intel's hasty retreat from VR once the buzz over the technology died down.
+The most recent headaches for Krzanich have come from having to deal with massive vulnerabilities (called Spectre and Meltdown) that potentially left chips from Intel, Arm and AMD open to hacking attacks. He's long been a fixture as a CES keynote speaker, but security concerns dominated this year's presentation.
+But Krzanich will likely most be remembered for championing workplace diversity. He made it a central issue at his CES keynote address in 2015, pledging $300 million to support better representation in technology. His action was one of the boldest at a time when the noise over diversity was just starting to spike.
+""This isn't just good business,"" Krzanich said in his speech. ""This is the right thing to do.""
+But Intel doesn't have an obvious successor. The company has seen a slew of key executives, including former CFO Stacy Smith, Diane Bryant, once the head of the data center group but now with Google, and former president, Renee James.
+""Krzanich's resignation comes at a difficult time for Intel,"" Cowen analyst Matthew Ramsey said. ""We fail to see a clear internal long-term successor given recent changes to senior management.""
+Intel, which declined to comment further, is hoping for a smooth transition during the search for a new CEO. To reassure investors, the company said it expects to have a record second quarter with revenue of roughly $16.9 billion and earnings, excluding one-time items, of 99 cents a share, above its previous forecast. Intel will report full results on July 26.
+Despite the rosy guidance, shares fell nearly 2 percent to $52.40.
+The story originally published at 6:21 a.m. PT.
+Update at 8 a.m. PT: To include stock quote and background on succession concerns.
+Silicon Valley speaking out against Trump: This isn't the first time tech CEOs have disagreed with the president.
+Trump and Silicon Valley: How politics and tech are changing in the age of Trump.
+Share your voice
+Post a comment
+Tags
+Tech Industry Operating Systems Brian Krzanich Drones Intel Apple"

@@ -1,0 +1,25 @@
+Google to patch Home and Chromecast bug that leaked your location.
+"It might not surprise you that Google has a pretty good idea of where you are right now. It turns out, the company is also leaking that information from your Google Home speakers and Chromecast in a way that hackers could scoop up -- and potentially use against you.
+That's according to research from Craig Young, a security expert at Tripwire, and a report from security writer Brian Krebs published Monday. Google confirmed the same day that it plans to patch the issue in July.
+""I was actually able to use data extracted from the devices to determine their physical location with astonishing accuracy,"" Young said in a blog post.
+Young found he could use the web browser on a computer as a stepping stone to reach a Chromecast or Google Home smart speaker that was connected to the same router. In his test, he was able to harvest information about his own location from his Chromecast. The hack works remotely as long as attackers are targeting someone who's using a computer and one of the affected Google devices on the same router.
+The hack is an example of how data collection by tech companies -- even data collection you know about and consent to -- can put you at risk from hackers if the information isn't locked down tight.
+How he did it
+First, Young set up a website that could run malicious software. Then he opened the website on his own computer. The website ran its hacking program, which looked around and found his Chromecast was also connected to the same router as his computer. Finally, the website sent a request to the Chromecast, which sent back the location data.
+The technique works whether you're using Windows machines or Mac computers, and could target you as you use either the Chrome or Firefox browser, Young found.
+The fix from Google is currently scheduled to roll out in mid to late July, a company spokesman said in an email.
+Why Google knows where your router is
+You might be asking yourself how Google would know your exact location data anyway. It's not because of GPS. Instead, Young explained, Google collects finely tuned information about the location of web routers, including the one you use to go online at home.
+That's why Google can tell your location in its Maps service, for example, even on a device that doesn't have GPS running.
+As Young points out, you can see this for yourself by opening Google Maps on your Chrome browser and clicking on the ""My location"" icon in the lower right corner. Especially if you're in a dense urban area, this should pinpoint your computer's location with precision. As Krebs points out, it even lets services like Google's Waze app continue to navigate for you even without GPS.
+That's the information the Chromecast and Google Home sends out when asked. What Young did was find a way for hackers to make that request through a computer that's connected to the same router as your Chromecast or Google Home speaker.
+Why it matters
+The flaw is a concern not just because it could tell hackers where you live, Young said in his blog post about the research, but also because it could help scammers make their messages to you seem more convincing.
+That includes things like fake calls from the IRS or demands for cash from hackers who claim they recorded video of their victims watching porn, both of which are real problems.
+Hackers, Young said, could use your location ""to lend credibility to the warnings and increase their odds of success.""
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+'Hello, humans': Google's Duplex could make Assistant the most lifelike AI yet.
+Share your voice
+Post a comment
+Tags
+Security Small Appliances Hacking Privacy"

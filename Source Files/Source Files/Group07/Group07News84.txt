@@ -1,0 +1,27 @@
+Cracking Open the Polaroid Snap Touch camera printer combo.
+"Take a palm-size photo printer, bolt on a digital camera and you've got the Polaroid Snap Touch. Just like the instant shooters of yesteryear, the Snap Touch will give you a paper photo seconds after you take a shot. But with this new camera, you can pick which photos to print, edit your shots beforehand and even decorate your pics with borders, filters and stickers. Thanks to the Snap Touch's Bluetooth connectivity you can also print photos from your iOS or Android device using the free Polaroid Print App. It even has a mirror and timer to help you take the perfect selfie.
+Snap Touch teardown: Half camera, half printer, all fun
+Disassembling the Snap Touch ($180) was surprisingly simple. The plastic shell snaps together and is secured with several Phillips screws. Inside the device, the main components include a pair of circuit boards, the printer mechanism, the battery and a flash and button assembly. All the components are easily removable using the same Phillips #000 screwdriver used to open the shell.
+Paid Content
+6D Mark II updates Canon's cheapest full-frame dSLR
+Canon's entry full-framed dSLR flips out
+Paid Content by Canon
+Polaroid Snap Touch digital camera and printer combo teardown
+CNET/TechRepublic
+The components: Picture-perfect
+It takes tech to capture those special moments:
+Flash and button assembly: Attached to the camera's pop-up flash are the shutter and power buttons, the autofocus sensor and a super-small selfie mirror. A cylindrical Miwecon 60uF 330v photoflash capacitor powers the flash.
+Plastic shell: My camera's blue plastic shell consists of three parts: The main body on which the internal hardware is mounted, a front panel that protects the lens and internal hardware and a rear frame that surrounds the LCD touchscreen.
+Photo printer assembly: The Snap Touch prints photos on special Zink zero-ink thermal paper. Dye crystals are embedded in each 2x3-inch sheet that when heated change from colorless to their respective colors (cyan, magenta or yellow).
+Battery: Powering this camera/printer combo is a Fuji Electronics 7.4V, 1,100mAh, 8.14Wh Li-Polymer Battery Pack.
+Touchscreen LCD: The Snap Touch's 3.5-inch LCD touchscreen, which serves as a viewfinder when shooting photos or video, lets you browse photos stored on the camera's internal memory or an inserted microSD card and gives you access to the camera and printer controls.
+Shielding: A thin metal shield sits directly behind the shell's front panel and in front of the camera's camera and printer control boards, which are sandwiched on top of each other inside the plastic shell.
+Camera control board: At the center of the Snap Touch's camera control board is a 13-megapixel camera that can shoot stills and record 1080p full HD video. The camera is controlled by an iCatch Technology SPCA6330M camera system-on-chip (SoC). A 128MB Macronix MX30LF1G18AC SLC NAND flash memory module allows you to store up to 10 photos without inserting a microSD card (of up to 128GB). An ISSC (Microchip) IS1678S Bluetooth Dual-Mode SoC provides wireless connectivity. Also attached to this board are the microphone, speaker, antenna, microSD card slot, Micro-USB port and reset button.
+Printer control board: Compared with the camera board, the printer control board is much less crowded. The main chips are a Conexant (Synaptics) X92132 ImagingSmart SoC printer controller and image processor and a 64MB Nanya NT5TU32M16FG-AC DDR2 SDRAM module.
+Screws (not shown): It takes over two dozen tiny screws, a pair of hinge pins and two springs to hold all the Snap Touch's hardware together.
+15
+Cameras to give a photography-loving dad
+Share your voice
+Post a comment
+Tags
+Cameras Gadgets Printers Philips"
