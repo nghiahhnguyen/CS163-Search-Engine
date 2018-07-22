@@ -1,0 +1,24 @@
+﻿"The Brave browser has a developer version for those who want to test new features.
+Stephen Shankland/CNET
+Brave, a browser that blocks conventional online ads and strips privacy-invading trackers off the web, has begun testing its own technology for supplying advertisements.
+The startup, co-founded by former Firefox leader Brendan Eich, announced a special test version of Brave that will show about 250 prepackaged ads to those who sign up for an early-access version of the software. It'll expand that test later in June, Brave said in a blog post Tuesday.
+Then, in the coming months, a more significant part of the company's plan begins: a system that pays you with Brave's crypto-tokens if you view or interact with ads. The key difference from conventional ads is that the browser itself chooses them from a catalog, basing its choices on its observation of your online interests but not sharing that information outside the browser. In contrast, today's ad companies track you online from one site to another, building a profile of your behavior and interests that's beyond your control.
+It's been hard to sell people on privacy-focused services and software. But privacy has a chance to become a bigger deal right now as developments like the Facebook-Cambridge Analytica scandal highlight the massive scale and technological sophistication of online tracking.
+Brave shipped its first ad-blocking browser in 2016, with Eich likening the move to ""putting chlorine in the pool."" There already were plugins that would block ads and online behavior tracking, but Brave helped accelerate the technology's spread. Mozilla's Firefox is making it steadily easier to block ad trackers, and Apple's latest Safari cracks down, too, with an updated version of its intelligent tracking protection feature.
+Brave is built on the core, open-source technology of Google's Chrome browser, which dominates web browser usage. Relying on Google helps Brave with website compatibility but also means the company could spend its funding on other engineering work like researching better tracker-blocking technology than the human-curated lists used today.
+Mercury, Gemini, Apollo
+Brave's development has three phases, named after the US space missions of the 1960s and early 1970s: Mercury, Gemini and Apollo. The Mercury phase began last year as Brave launched its basic attention token (BAT), a payment mechanism using cryptocurrency foundations. Along with that came versions of Brave that send BAT to websites, YouTube publishers and Twitch videogame streamers.
+You can buy BAT, but Brave also has doled the tokens out in various promotional efforts to get people on board. So far BAT aren't good for much beyond paying your frequently visited websites, but eventually Brave hopes you'll be able to use them to unlock premium content with easy one-off payments.
+The new in-browser ad system is part of the Gemini phase. The idea is to let advertisers use BAT to pay publishers for showing ads, but Brave users and Brave itself also get a cut. After the ad system test expands beyond Tuesday's initial step, you'll get get 70 percent of the BAT payments as a Brave user.
+Brave is free for Windows, Linux, MacOS, Android and iOS devices, but right now the payment and ad system only works on the version for personal computers.
+In the third phase, Apollo, Brave expects its system to produce ""real ad revenue."" Also expected is the possibility that the BAT payment system will spread beyond Brave. In a tweet Tuesday, though, Eich declined to say which other software that might be, but said there will be a software developer kit to make it easier.
+Paid Content
+Microsoft's latest feels like more laptop, less Surface
+Microsoft Surface Laptop review
+Paid Content by Microsoft
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.
+CNET en EspaÃ±ol: Get all your tech news and reviews in Spanish.
+Share your voice
+Post a comment
+Tags
+Laptops Advertising Chrome Privacy"

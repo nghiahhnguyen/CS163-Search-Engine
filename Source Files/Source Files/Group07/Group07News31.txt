@@ -1,0 +1,35 @@
+﻿"6 tips and tricks for Android Messages on the web
+Earlier this week Google released Messages for web, a service that lets you send and receive text messages from any web browser. The website is live right now, but an update to the Android Messages app is required before you can begin using it.
+You will need to use Android Messages, as opposed to Samsung's Messages app for Galaxy users, to use Messages for web.
+Setup is a breeze
+Screenshot by Jason Cipriani/CNET
+Seriously, if you have ever scanned a QR code, you are already prepared to link the Messages app on your phone to your browser.
+On a computer, open your browser and enter messages.android.com into the address bar. On your phone, open the Messages app and tap the menu button (top-right corner) then select Messages for web > Scan QR Code. Point your camera at the QR code on your computer's screen.
+A few seconds later your phone's Messages app is now linked to your computer. Easy peasy.
+Remember this computer
+Screenshot by Jason Cipriani/CNET
+You don't have to go through the linking process every time you want to use Messages for web. Instead, you can toggle the Remember this computer button below the QR code in your browser so each time you visit the site, the link is preserved.
+If you didn't notice the button during setup, a prompt just above your conversation threads will ask if you want to remember or you can click on the menu icon just above the New Conversation button in the web app > Settings > Remember this computer.
+If you're worried about someone else using the same computer and monitoring your messages, don't worry â€” you can remotely log out (more on that in a minute).
+Handy reminder
+Screenshot by Jason Cipriani/CNET
+When you are actively using Messages for web, a persistent notification will show up on your Android device, letting you know Messages is in use elsewhere. Opening the notification will take you directly to the app's settings page.
+From my own testing, it appears the alert only shows up when the Messages web page is actually in use. If you (or someone else) opens another tab, the alert disappears from your phone.
+Remotely log out
+Screenshot by Jason Cipriani/CNET
+If you forget to log out of the Messages app on a computer, you can log out of all computers linked to your account from your phone.
+To log out, either use the reminder notification we just discussed or open the Messages app, open the menu and select Messages for web.
+Watch this: Android P has features to curb smartphone addiction
+3:07
+There you will find a list of all the computers currently linked to your account. Tap the ""X"" next to the computer you want to disconnect from, or select Sign out all computers at the bottom of the page.
+Drag and drop
+Have a sweet collection of GIFs saved on your computer? You can drag and drop them directly into a conversation. You can't share PDFs or Word documents, but image and video files seem to work just fine.
+Keyboard shortcuts
+Screenshot by Jason Cipriani/CNET
+Press Shift and the ""/"" key at the same time to view a list of keyboard shortcuts for Messages on the web.
+14
+13 best downloadable keyboards for Android
+Share your voice
+4 comments
+Tags
+Mobile Google Samsung Android Oreo"

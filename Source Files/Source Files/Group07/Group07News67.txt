@@ -1,0 +1,18 @@
+Google partnership with Huawei worrying US lawmakers.
+"US lawmakers say the partnership between Google and Huawei poses serious threats to US national security and consumers.
+Josh Miller/CNET
+The scrutiny over Chinese phone maker Huawei continues to intensify.
+US lawmakers on Wednesday sent a letter to Google CEO Sundar Pichai expressing concerns regarding Huawei's ties with the Chinese government. The lawmakers said the strategic partnership between Google and Huawei on instant messaging, announced in January, poses serious threats to US national security and consumers.
+The letter also addressed Google's recent refusal to renew a research partnership, Project Maven, with the Department of Defense. The project used artificial intelligence to improve the accuracy of US military targeting such as drone strikes. Google's participation in the project elicited a strong backlash over its involvement in the project.
+""We urge you to reconsider Google's partnership with Huawei, particularly since your company recently refused to renew a key research partnership, Project Maven, with the Department of Defense,"" the letter said. ""While we regret that Google did not want to continue a long and fruitful tradition of collaboration between the military and technology companies, we are even more disappointed that Google apparently is more willing to support the Chinese Communist Party than the US military.""
+The letter is the latest hammer to drop on Chinese telecom giants Huawei and ZTE, which have both long dealt with security concerns regarding their ties to the Communist Party. AT&T and Verizon both dropped plans to sell Huawei phones after government pressure, and ZTE faced a ban preventing US businesses to work with it until President Donald Trump intervened. US intelligence officials have expressed concerns about the security of their products.
+The signees include Republicans, Sen. Tom Cotton, Sen. Marco Rubio, Rep. Liz Cheney and Rep. K. Michael Conaway, and Democratic Rep. Dutch Ruppersberger.
+""Congress is considering a number of bipartisan measures to address the threat posed by Huawei,"" lawmakers wrote in the letter. ""Over the coming months, the federal government will likely take further measures to defend US telecommunications networks from Huawei and companies like it.""
+Google said it looks forward to responding to the lawmakers' questions.
+""Like many US companies, we have agreements with dozens of OEMs around the world, including Huawei,"" a Google representative said. ""We do not provide special access to Google user data as part of these agreements, and our agreements include privacy and security protections for user data.""
+Solving for XX: The tech industry seeks to overcome outdated ideas about ""women in tech.""
+Security: Stay up-to-date on the latest in breaches, hacks, fixes and all those cybersecurity issues that keep you up at night.
+Share your voice
+Post a comment
+Tags
+Security Tech Industry ZTE AT&T Google Huawei Verizon"

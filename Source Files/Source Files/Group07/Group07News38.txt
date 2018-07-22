@@ -1,0 +1,22 @@
+﻿"How to backup and restore your Steam library
+Downloaded games and apps through Steam is usually a one-time occurrence, save for the occasional updates. It's a good thing, too, because some games can push 100 GB in size, if not more.
+Watch this: Blade Shadow lets you game on your tablet like it's a...
+1:35
+For those of us who now have to worry about data caps from our service provides, the task of moving a Steam library to another computer can be the cause of overages and unnecessary charges depending on how many items are in your library.
+Steam offers a method to backup your current library with relative ease, so long as you have a spare drive big enough for the backup and a couple hours to kill.
+Before you get started, make sure all apps and games are up to date. If not, the first thing that will occur after restoring from a backup is the download of updates.
+Backup
+With everything updated, click on Steam in the top left corner, then select Backup and Restore Games.
+Backing up on Steam.
+Screenshot by Jason Cipriani/CNET
+Next, select Backup Currently Installed Games, then check the box next to each app and game you want to backup. Choose a location to store the backup, then give the backup a name (ignore the CDROM option below the text field).
+You'll need a big drive if you have a lot of games that need backing up.
+Screenshot by Jason Cipriani/CNET
+Once you've started the backup, leave the computer to do its own thing. Depending on the size of your library, it can take a couple of hours to complete the process.
+Restore
+To restore your backup on a different computer after installing Steam and signing into your account, connect the external drive, select Steam > Backup and Restore Games > Restore a previous backup > select the location of your backup > pick the apps or games you want to restore.
+After the restore process has finished, all of your settings and progress should be intact. It may take a bit of time, but likely no longer than the time it takes to download a game from scratch and you don't have so stress about your data cap.
+Share your voice
+1 comment
+Tags
+Gaming Software Computers Steam"

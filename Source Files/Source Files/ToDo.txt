@@ -1,0 +1,2 @@
+Nghia:
+-Add the ability to read title to functions: insert and search
