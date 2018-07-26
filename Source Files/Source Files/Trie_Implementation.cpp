@@ -133,7 +133,28 @@ void Trie_t::inputFromFile(string folder_path) {
 }
 
 
+vector<int> Trie_t::minus(string word_not_in_operator, string word_in_operator) {
+	//Nghia
+	//Perform the search on the word "word_not_in_operator" while excluding any result that has the "word_in_opertor" word
+	//return an empty vector if word_not_in_operator is not present. Otherwise return an unempty vector
+	//havent' been test
 
-void Trie_t::minus(string word_not_in_operator, string word_in_operator) {
+	vector<int>results;
+	Word_t* search_word=search(word_not_in_operator), *ex_word=search(word_in_operator);
 
+	if (search_word) {
+		vector<Node> search_v = search_word->file_list, ex_v = ex_word->file_list;
+		int news_count = 0, m = search_v.size(), n = ex_v.size(), i = 0, j = 0;
+
+		while (news_count <= 5 && i < m) 
+			if (n == 0 || !exist(ex_v, search_v[i].file_name)) {
+				results.push_back(search_v[i].file_name);
+				++i;
+			}
+	}
+
+	return results;
 }
+
+
+vector<int> 
