@@ -42,7 +42,7 @@ public:
 	Word_t* insert(string word);
 	Word_t* search(string word);
 	void inputFromFile(string folder_path);
-	void minus(string word_not_in_operator, string word_in_operator);
+	vector<int> minus(string word_not_in_operator, string word_in_operator);
 private:
 	Word_t * root = NULL;
 };
@@ -51,5 +51,14 @@ private:
 string itoXX(int number);
 bool NodeMaxFirst(Node a, Node b);
 int linkIndex(char x);
+
+bool exist(vector<Node> v, int file_name) {
+	vector<Node>::iterator it;
+	for (it = v.begin(); it != v.end(); ++it) {
+		if ((*it).file_name == file_name)
+			return true;
+	}
+	return false;
+}
 
 #endif // !_FUNCTION_H_
