@@ -6,6 +6,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cstring>
+#include <climits>
 #include <fstream>
 #include <map>
 #include <sstream>
@@ -42,16 +43,12 @@ public:
 	Word_t* insert(string word);
 	Word_t* search(string word);
 	void inputFromFile(string folder_path);
-<<<<<<< HEAD
-	void minus(string word_not_in_operator, string word_in_operator);
+	//void minus(string word_not_in_operator, string word_in_operator);
 	
-	// return data of a keyword
-	vector<Node> getData(string keyword);
-	// return if s is a stopword or not
-	bool isStopWord(string s);
-=======
-	vector<int> minus(string word_not_in_operator, string word_in_operator);
->>>>>>> c2fd3ced93d6e42e6f99a8dc47980604c4bfe2e2
+	vector<Node> getData(string keyword); // return data of a keyword
+	bool isStopWord(string s); // return if s is a stopword or not
+
+	//vector<int> minus(string word_not_in_operator, string word_in_operator);
 private:
 	Word_t * root = NULL;
 };
@@ -61,7 +58,6 @@ string itoXX(int number);
 bool NodeMaxFirst(Node a, Node b);
 int linkIndex(char x);
 
-<<<<<<< HEAD
 // vector functions
 void operator+= (vector<Node> &v1, const vector<Node> &v2); // add two vectors
 vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2); // return nodes in v1 or v2
@@ -71,8 +67,9 @@ vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2); // retur
 // string functions
 void splitString(string inputStr, vector<string> &tokens, vector<string> &exactMatch); // split intputStr into tokens
 vector<string> synonyms(string word); // return all synonyms of word
+vector<string> findExactValue(string keyword, const vector<int> &existValue); /* replace range in keyword by value in existValue array
+	Precondition: existValue should be sorted*/
 
-=======
 bool exist(vector<Node> v, int file_name) {
 	vector<Node>::iterator it;
 	for (it = v.begin(); it != v.end(); ++it) {
@@ -81,6 +78,6 @@ bool exist(vector<Node> v, int file_name) {
 	}
 	return false;
 }
->>>>>>> c2fd3ced93d6e42e6f99a8dc47980604c4bfe2e2
+
 
 #endif // !_FUNCTION_H_
