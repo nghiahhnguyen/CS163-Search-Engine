@@ -1,2 +1,3 @@
-﻿  Function.cpp
-  Source Files.vcxproj -> D:\Nghia\Học tập Nghĩa\CS163-Search-Engine\Source Files\Debug\Source Files.exe
+﻿  Source.cpp
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Source Files.vcxproj -> D:\Nghia\Học tập Nghĩa\CS163-Search-Engine\Source Files\Source Files\Debug\Source Files.exe

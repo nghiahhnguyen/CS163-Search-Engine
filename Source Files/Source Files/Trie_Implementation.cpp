@@ -61,100 +61,137 @@ Word_t* Trie_t::search(string word) {
 }
 
 
-void Trie_t::inputFromFile(string folder_path) {
+void Trie_t::inputSynonymFromFile() {
+	//Nghia
+	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
+	ifstream fin("Synonym.txt");
+	string keyword, hyphen, syn, syn_list;
+	stringstream ss;
+	while (fin.good()) {
+		fin >> keyword;
+		Word_t* keyword_node = search(keyword);;
+		//eat the hyphen in the file
+		fin >> hyphen;
+		getline(fin, syn_list);
+		ss = stringstream(syn_list);
+		int it = 0;
+		while (ss.good() && it++<3) {
+			getline(ss, syn, ',');
+			//push the word into the vector
+			keyword_node->synonyms.push_back(syn);
+		}
+	}
+	fin.close();
+}
+
+
+void Trie_t::inputFromFile(const string& folder_path) {
 	//Nghia
 	//Read all the find and put all the occurrence of words data into the Trie
-
-
+	
+	//to read all the num
 	string file_path;
-
-
 	//traverse the file
 	for (int i = 1; i <= 100; ++i) {
 
 		//get the name of file
 		file_path = "Group07News" + itoXX(i);
+		ifstream fin(file_path);
 
-		word_map word_occurrence, word_occurrence_title;
-		word_map::iterator wmi;
-		ifstream fin(folder_path);
-		string word;
+		map<string, Article_t> article_word_count;
+		map<string, Article_t>::iterator article_wmi;
 
-		if (fin.good()) {
+		//the position of the paragraph (the title is the 1st paragraph)
+		int para_position = 0;
+		string paragraph, word;
+		stringstream ss;
+
+		//process each paragraph
+		while (fin.good()) {
+			//increment the count of paragraphs
+			++para_position;
 			//clear the input buffer
 			fin >> ws;
-			string title;
-			stringstream ss;
-			getline(fin, title);
-			ss = stringstream(title);
+			//read in the paragraph
+			getline(fin, paragraph);
+			ss = stringstream(paragraph);
+			word_map para_word_count;
+			word_map::iterator para_wmi;
 
-			//start reading the title
+			//start processing words
 			while (ss.good()) {
 				ss >> word;
-				wmi = word_occurrence_title.find(word);
-
-				//if the word doesn't exist then add it to the map
-				if (wmi == word_occurrence_title.end())
-					word_occurrence_title[word] = 1;
-				//else just increment the counter of the word
+				preprocessing(word);
+				para_wmi = para_word_count.find(word);
+				//if the word doesn't exist in the dictionary
+				if (para_wmi == para_word_count.end()) {
+					para_word_count[word] = 1;
+				}
 				else
-					++wmi->second;
+					++para_wmi->second;
 			}
 
-			//start reading the rest of the file
-			while (fin.good()) {
-				fin >> word;
-				wmi = word_occurrence.find(word);
+			string keyword;
+			//update the best paragraph and pass the information of the title(if this paragraph is the title)
+			for (para_wmi = para_word_count.begin(); para_wmi != para_word_count.end(); ++para_wmi) {
+				keyword = para_wmi->first;
 
+				//find the keyword in the article dictionary
+				article_wmi = article_word_count.find(keyword);
 
-				//if the word doesn't exist then add it to the map
-				if (wmi == word_occurrence.end())
-					word_occurrence[word] = 1;
-				//else just increment the counter of the word
-				else
-					++wmi->second;
+				//if the word doesn't exist
+				if (article_wmi == article_word_count.end()) {
+					//initialize the word count of the word
+					article_word_count[keyword].word_count = para_wmi->second;
+					//redirect the iterator to point to the word
+					article_wmi = article_word_count.find(keyword);
+					//initialize the info about the best paragraph
+					article_wmi->second.best_para_posi = para_position;
+					//initialize the word count of the best paragraph in the article
+					article_wmi->second.best_para_word_count = para_wmi->second;
+				}
+				//otherwise
+				else {
+					//update the article word count of that word
+					article_wmi->second.word_count += para_wmi->second;
+					//if the word count of this word in the paragraph is better than the current best paragraph
+					if (para_wmi->second > article_wmi->second.best_para_word_count) {
+						//update the best paragraph position
+						article_wmi->second.best_para_posi = para_position;
+						//update the best paragraph word count
+						article_wmi->second.best_para_word_count = para_wmi->second;
+					}
+				}
+
+				//if the paragraph is the title
+				if (para_position == 1) {
+					article_wmi->second.is_intitle = true;
+					article_wmi->second.word_count_title = para_wmi->second;
+				}
+
 			}
 		}
 
 		//pointer to get the position of the word in the Trie
 		Word_t* word_in_trie;
 
+		//traverse through all the word found in this article stored in the map
+		for (article_wmi = article_word_count.begin(); article_wmi != article_word_count.end(); ++article_wmi) {
+			word_in_trie = this->insert(article_wmi->first);
 
-		//traverse through all the word found in this file stored in the map
-		for (wmi = word_occurrence.begin(); wmi != word_occurrence.end(); ++wmi) {
-			word_in_trie = this->insert(wmi->first);
-			Node tmp(wmi->second, i);
-			word_in_trie->file_list.push_back(tmp);
+			//push the article info in the node in the Trie
+			Node this_article(article_wmi->second.word_count, i, article_wmi->second.best_para_posi);
+			word_in_trie->file_list.push_back(this_article);
+
+			//if the word is in the article, pass that info to the Trie
+			if (article_wmi->second.is_intitle) 
+				word_in_trie->title_list.push_back(Node(article_wmi->second.word_count_title, i));
+
+			//sort the file list
 			sort(word_in_trie->file_list.begin(), word_in_trie->file_list.end(), NodeMaxFirst);
 		}
+		fin.close();
 	}
 
 
 }
-
-
-vector<int> Trie_t::minus(string word_not_in_operator, string word_in_operator) {
-	//Nghia
-	//Perform the search on the word "word_not_in_operator" while excluding any result that has the "word_in_opertor" word
-	//return an empty vector if word_not_in_operator is not present. Otherwise return an unempty vector
-	//havent' been test
-
-	vector<int>results;
-	Word_t* search_word=search(word_not_in_operator), *ex_word=search(word_in_operator);
-
-	if (search_word) {
-		vector<Node> search_v = search_word->file_list, ex_v = ex_word->file_list;
-		int news_count = 0, m = search_v.size(), n = ex_v.size(), i = 0, j = 0;
-
-		while (news_count <= 5 && i < m) 
-			if (n == 0 || !exist(ex_v, search_v[i].file_name)) {
-				results.push_back(search_v[i].file_name);
-				++i;
-			}
-	}
-
-	return results;
-}
-
-
-vector<int> 
