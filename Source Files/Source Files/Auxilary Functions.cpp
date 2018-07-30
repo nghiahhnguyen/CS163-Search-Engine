@@ -84,6 +84,15 @@ void splitString(string inputStr, vector<string> &tokens, vector<string> &exactM
 	}
 }
 
+bool exist(vector<Node> v, int file_name) {
+	vector<Node>::iterator it;
+	for (it = v.begin(); it != v.end(); ++it) {
+		if ((*it).file_name == file_name)
+			return true;
+	}
+	return false;
+}
+
 vector<Node> Trie_t::getData(string keyword) {
 	// TO DO: wildcard character (*)
 	if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
@@ -91,8 +100,8 @@ vector<Node> Trie_t::getData(string keyword) {
 	if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
 		return search(keyword.substr(8, string::npos))->title_list;
 	if (keyword.size() >= 1 && keyword[0] == '~') {
-		vector<Node> ans;
-		vector<string> syn = synonyms(keyword.substr(1, string::npos));
+		vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
+		vector<string> syn = findSynonym(keyword.substr(1, string::npos));
 		int n = syn.size();
 		for (int i = 0; i < n; ++i)
 			ans = merge(ans, getData(syn[i]));
@@ -148,4 +157,10 @@ vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
 	for (vector<int>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
 		stringsWithExactVal.push_back(keyword.substr(0, startValPos) + to_string(*i) + keyword.substr(endValPos, string::npos));
 	return stringsWithExactVal;
+
+void preprocessing(string& word) {
+	while (!isalnum(word[0]) && word[0]!='$' && word[0]!='#')
+		word.erase(word.begin());
+	while (!isalnum(*(word.rbegin())))
+		word.pop_back();
 }

@@ -1,0 +1,46 @@
+﻿"Microsoft CEO Satya Nadella.
+Sarah Tew/CNET
+The Trump administration's recent moves to separate children from their parents at the US border is a hot-button topic -- hot enough that Microsoft got burned.
+In January, the company wrote that it was ""proud"" to supply its Azure cloud services to US Immigration and Customs Enforcement (ICE), including the ability to use ""deep learning capabilities to accelerate facial recognition and identification.""
+Needless to say, some weren't too happy to hear that in light of the government's new separation policy. Here are a few tweets that have been making the rounds:
+The Tech Workers Coalition and Patreon engineer Erica Joy urged Microsoft employees directly to ""not be complicit"" and ""make the biggest noise imaginable,"" respectively.
+Then, Bloomberg caught Microsoft attempting to change the blog post by removing the references to the US immigration agency, which could have made people even angrier. (They've since been restored, and a source with knowledge of the issue said the deletion was a mistake.)
+But Microsoft is now taking a stand. In a statement, the company said Monday that it's ""dismayed"" by the actions of ICE and is asking the government to change its policy.
+Here's the company's statement, provided to CNET:
+As a company, Microsoft is dismayed by the forcible separation of children from their families at the border. Family unification has been a fundamental tenant [sic] of American policy and law since the end of World War II. As a company, Microsoft has worked for over 20 years to combine technology with the rule of law to ensure that children who are refugees and immigrants can remain with their parents. We need to continue to build on this noble tradition rather than change course now. We urge the administration to change its policy and Congress to pass legislation ensuring children are no longer separated from their families.
+In a second statement, Microsoft added:
+Microsoft is not working with US Immigration and Customs Enforcement or US Customs and Border Protection on any projects related to separating children from their families at the border, and contrary to some speculation, we are not aware of Azure or Azure services being used for this purpose.
+Microsoft didn't immediately comment about whether it's still ""proud"" to supply ICE with its services.
+As Bloomberg points out, Microsoft has spoken out against the Trump administration's treatment of immigrants in the past, with President and Chief Legal Officer Brad Smith calling a planned repeal of the Dreamers program ""a step backwards for our entire nation.""
+Smith also published a story Sunday on his LinkedIn page in support of keeping families together, and Microsoft CEO Satya Nadella has called on the tech industry to help prevent a dystopian future like in George Orwell's 1984.
+Other tech companies have also recently been under fire for their government contracts. Google recently promised it wouldn't build AI weaponry after the company's own employees protested. And the American Civil Liberties Union (ACLU) is delivering a petition to Amazon on Monday that asks it to stop providing facial recognition technology to law enforcement.
+Tech companies also have been vocal in opposing some of the Trump administration's other policies. Companies such as Apple, Google, Facebook, Uber and Airbnb have protested policies such as the decision to instate a travel ban against several majority Muslim countries and the move to rescind the Deferred Action for Childhood Arrivals (DACA) program. Airbnb also spoke out Monday against the administration's treatment of immigrant families at the border.
+""Ripping children from the arms of their parents is heartless, cruel, immoral and counter to the American values of belonging,"" Airbnb's co-founders, Brian Chesky, Joe Gebbia and Nathan Blecharczyk, said in a joint statement. ""The US government needs to stop this injustice and reunite these families. We are a better country than this.""
+Watch this: The most interesting Microsoft hardware rumors
+2:32
+First published June 18, 2:35 p.m. PT.
+Update, 4:40 p.m. PT: Adds additional information and comment from Airbnb co-founders.
+Update, 4:57 p.m. PT: Adds Microsoft's second statement.
+iHate: CNET looks at how intolerance is taking over the internet.
+US Tech Policy
+reading
+â€¢
+Microsoft takes a stand against ICE separating parents from children
+Jun 21
+â€¢
+Tech condemns Trump: Apple, Microsoft, Airbnb oppose separating families at the border
+Jun 20
+â€¢
+Trump signs order reversing family separation policy after tech, political backlash
+Jun 20
+â€¢
+Microsoft employees protest company's work with ICE
+Jun 19
+â€¢
+Facebook, Apple and Microsoft among tech companies continuing to criticize Trump
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+US Tech Policy Tech Industry Satya Nadella Target Airbnb Facial recognition Google Microsoft Apple"
