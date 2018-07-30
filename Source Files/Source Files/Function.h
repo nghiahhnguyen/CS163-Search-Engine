@@ -6,6 +6,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cstring>
+#include <climits>
 #include <fstream>
 #include <map>
 #include <sstream>
@@ -59,14 +60,13 @@ public:
 	Trie_t();
 	Word_t* insert(string word);
 	Word_t* search(string word);
+	vector<Node> getKeywordData(string keyword); // return data of a keyword
+	bool isStopWord(string s); // return if s is a stopword or not
 	//read the data into the Trie
 	void inputFromFile(const string& folder_path);
 	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
 	void inputSynonymFromFile();
-	// return data of a keyword
-	vector<Node> getData(string keyword);
-	// return if s is a stopword or not
-	bool isStopWord(string s);
+	vector<Node> getQuieryData(string quiery); // return ranking of a quiery
 private:
 	Word_t * root = NULL;
 	vector<ll>numbers;
@@ -84,7 +84,12 @@ vector<Node> substract (const vector<Node> &v1, const vector<Node> &v2); // retu
 vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2); // return nodes in both v1 and v2
 
 // string functions
-void splitString(string inputStr, vector<string> &tokens, vector<string> &exactMatch); // split intputStr into tokens
+vector<string> splitString(string inputStr); // split intputStr into tokens
+vector<string> findExactValue(string keyword, const vector<int> &existValue); /* replace range in keyword by value in existValue array
+	Precondition: existValue should be sorted*/
+string getFileName(int fileName);
+int countFreq(const string &pattern, const string &text); // find frequency of pattern in text
+
 bool exist(vector<Node> v, int file_name);
 void preprocessing(string& word);
 
