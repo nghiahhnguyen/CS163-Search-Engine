@@ -80,6 +80,7 @@ void Trie_t::inputSynonymFromFile() {
 			//push the word into the vector
 			keyword_node->synonyms.push_back(syn);
 		}
+		ss.clear();
 	}
 	fin.close();
 }
