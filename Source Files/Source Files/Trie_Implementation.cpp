@@ -193,6 +193,11 @@ void Trie_t::inputFromFile(const string& folder_path) {
 		}
 		fin.close();
 	}
+}
 
-
+void Trie_t::addAllNumbers(const string& word) {
+	vector<ll>numbers_in_string = numbersInString(word);
+	vector<ll>::iterator it;
+	for (it=numbers_in_string.begin(); it!=numbers_in_string.end(); ++it)
+		numbers.insert(*it);
 }
