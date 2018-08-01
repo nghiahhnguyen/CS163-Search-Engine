@@ -95,60 +95,59 @@ bool exist(vector<Node> v, int file_name) {
 	return false;
 }
 
-//vector<Node> Trie_t::getKeywordData(string keyword) {
-//	// TO DO: wildcard character (*)
-//	if (keyword.find(" ") == string::npos) {
-//		// if it is a token
-//		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
-//			return search(keyword.substr(1, string::npos))->file_list;
-//		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
-//			return search(keyword.substr(8, string::npos))->title_list;
-//		if (keyword.size() >= 1 && keyword[0] == '~') {
-//			vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
-//			vector<string> syn = search(keyword.substr(1, string::npos))->synonyms;
-//			syn.push_back(keyword);
-//			int n = syn.size();
-//			for (int i = 0; i < n; ++i)
-//				ans = merge(ans, getKeywordData(syn[i]));
-//			return ans;
-//		}
-//		if (keyword.find("..") != string::npos) {
-//			vector<string> f = findExactValue(keyword, numbers);
-//			vector<Node> result;
-//			int n = f.size();
-//			for (int i = 0; i < n; i++)
-//				result = merge(result, getKeywordData(f[i]));
-//			return result;
-//		}
-//		return search(keyword)->file_list;
-//	}
-//	// if it is an exact match phase
-//	vector<string> kw = splitString(keyword);
-//	vector<Node> result;
-//	if (kw.size() == 0) return result;
-//	result = getKeywordData(kw[0]);
-//	for (int i = 1; i < kw.size(); ++i)
-//		if (strcmp(kw[i].c_str(), "*") != 0)
-//			result = intersect(result, getKeywordData(kw[i]));
-//	// open file to recalculate word_count
-//	ifstream fin;
-//	for (int i = 0; i < result.size(); ++i) {
-//		result[i].keyword_count = 0;
-//		fin.open(getFileName(result[i].file_name).c_str());
-//		if (!fin.is_open()) continue;
-//		// TODO: count apperance in file
-//		string text;
-//		while (getline(fin, text)) {
-//			result[i].keyword_count += countFreq(keyword, text);
-//		}
-//		fin.close();
-//	}
-//	// remove files with 0 word_count
-//	for (int i = 0; i < result.size(); ++i)
-//		if (result[i].keyword_count == 0)
-//			result.erase(result.begin() + i);
-//	return result;
-//}
+vector<Node> Trie_t::getKeywordData(string keyword) {
+	if (keyword.find(" ") == string::npos) {
+		// if it is a token
+		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
+			return search(keyword.substr(1, string::npos))->file_list;
+		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
+			return search(keyword.substr(8, string::npos))->title_list;
+		if (keyword.size() >= 1 && keyword[0] == '~') {
+			vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
+			vector<string> syn = search(keyword.substr(1, string::npos))->synonyms;
+			syn.push_back(keyword);
+			int n = syn.size();
+			for (int i = 0; i < n; ++i)
+				ans = merge(ans, getKeywordData(syn[i]));
+			return ans;
+		}
+		if (keyword.find("..") != string::npos) {
+			vector<string> f = findExactValue(keyword, numbers);
+			vector<Node> result;
+			int n = f.size();
+			for (int i = 0; i < n; i++)
+				result = merge(result, getKeywordData(f[i]));
+			return result;
+		}
+		return search(keyword)->file_list;
+	}
+	// if it is an exact match phase
+	vector<string> kw = splitString(keyword);
+	vector<Node> result;
+	if (kw.size() == 0) return result;
+	result = getKeywordData(kw[0]);
+	for (int i = 1; i < kw.size(); ++i)
+		if (strcmp(kw[i].c_str(), "*") != 0)
+			result = intersect(result, getKeywordData(kw[i]));
+	// open file to recalculate word_count
+	ifstream fin;
+	for (int i = 0; i < result.size(); ++i) {
+		result[i].keyword_count = 0;
+		fin.open(getFileName(result[i].file_name).c_str());
+		if (!fin.is_open()) continue;
+		// TODO: count apperance in file
+		string text;
+		while (getline(fin, text)) {
+			result[i].keyword_count += countFreq(keyword, text);
+		}
+		fin.close();
+	}
+	// remove files with 0 word_count
+	for (int i = 0; i < result.size(); ++i)
+		if (result[i].keyword_count == 0)
+			result.erase(result.begin() + i);
+	return result;
+}
 
 vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	// Minh
@@ -168,7 +167,7 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	long long startVal;
 	if (startValPos == dotPos)
 		startVal = INT_MIN;
-	else startVal = stoi(keyword.substr(startValPos, dotPos - startValPos));
+	else startVal = stoll(keyword.substr(startValPos, dotPos - startValPos));
 
 	size_t endValPos = dotPos + 2;
 	size_t n = keyword.size();
@@ -179,7 +178,7 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	long long endVal;
 	if (endValPos == dotPos + 2)
 		endVal = INT_MAX;
-	else endVal = stoi(keyword.substr(dotPos + 2, endValPos - dotPos - 2));
+	else endVal = stoll(keyword.substr(dotPos + 2, endValPos - dotPos - 2));
 
 	if (startVal > endVal) return stringsWithExactVal;
 
@@ -212,6 +211,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 	int n = tokens.size();
 	vector<Node> result = getKeywordData(tokens[0]);
 	bool pendingOrOperator = false;
+	vector<vector<Node>> pendingMinusOperator;
 	for (int i = 1; i < n; ++i) {
 		if (isStopWord(tokens[i])) continue;
 		if (pendingOrOperator) {
@@ -224,40 +224,56 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '-') {
-			result = substract(result, getKeywordData(tokens[i]));
+			pendingMinusOperator.push_back(getKeywordData(tokens[i].substr(1,string::npos)));
+			continue;
+		}
+		if (tokens[i].size() >= 1 && tokens[i][0] == '+') {
+			result = intersect(result, getKeywordData(tokens[i].substr(1, strin g::npos)));
 			continue;
 		}
 		result = intersect(result, getKeywordData(tokens[i]));
 	}
+	for (vector<vector<Node>>::iterator i = pendingMinusOperator.begin(); i != pendingMinusOperator.end(); ++i)
+		result = substract(result, *i);
 	sort(result.begin(), result.end(), NodeMaxFirst);
 	return result;
 }
 
 int countFreq(const string &pat, const string &txt) {
-	stringstream ss(pat);
-	string pat1;
-	string pat2;
-	getline(ss, pat1, '*');
-	getline(ss, pat2);
-	int M = pat1.length();
-	int N = txt.length();
+	// count number of occurence of pat in txt
+	// pat might contain wildcard char 
+	stringstream ss;
+	if (pat.size() >= 1 && pat[0] == '*') ss << ' ';
+	ss << pat;
+	vector<string> patterns;
+	string tmp;
+	while (getline(ss, tmp, '*'))
+		patterns.push_back(tmp);
+	int n = txt.length();
+	int m = patterns[0].length();
 	int res = 0;
 
 	/* A loop to slide pat[] one by one */
-	for (int i = 0; i <= N - M; i++) {
+	for (int i = 0; i <= n - m; i++) {
 		/* For current index i, check for
 		pattern match */
 		int j;
-		for (j = 0; j < M; j++)
-			if (txt[i + j] != pat1[j])
+		for (j = 0; j < m; j++)
+			if (txt[i + j] != patterns[0][j])
 				break;
-
-		// if pat[0...M-1] = txt[i, i+1, ...i+M-1]
-		if (j == M) {
-			int t = i + j + 1;
-			while (t < N && txt[t] != ' ') t++;
-			if (pat2.length() == 0) res++;
-			else if (t < N && txt.substr(t, pat2.length()) == pat2) res++;
+		// if patterns[0][0...m-1] = txt[i, i+1, ...i+m-1]
+		if (j == m) {
+			int t = i + j;
+			bool found = true;
+			for (int k = 1; k < patterns.size(); ++k) {
+				while (t < n && txt[t] != ' ') ++t; // skip a word
+				if (t == n || txt.substr(t, patterns[k].length()) != patterns[k]) {
+					found = false;
+					break;
+				}
+				++t;
+			}
+			if (found) ++res;
 		}
 	}
 	return res;
