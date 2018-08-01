@@ -19,9 +19,11 @@ int linkIndex(char x) {
 		return x - '0' + 26;
 	else if (x == '$')
 		return 36;
-	//meaning x=='#'
-	else
+	else if (x == '#')
 		return 37;
+	// meaning x is "  '  "
+	else
+		return 38;
 }
 
 void operator+= (vector<Node> &v1, const vector<Node> &v2) {
@@ -191,6 +193,49 @@ vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
 	return stringsWithExactVal;
 }
 
+vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
+	// Minh
+	// replace range in keyword by value in exactVal
+	// assume there is at most 1 range in keyword
+	// PreCondition: exactVal should be sorted 
+	// if the startVal or endVal if empty it will assign INT_MIN or INT_MAX
+	// eg. #worldcup..2018 == #worldcupINT_MIN..2018
+	int dotPos = keyword.find("..");
+	vector<string> stringsWithExactVal;
+	if (dotPos == string::npos) return stringsWithExactVal;
+	int startValPos = dotPos;
+	while (startValPos >= 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
+		--startValPos;
+	if (startValPos != 0 && keyword[startValPos - 1] == '-')
+		--startValPos;
+	int startVal;
+	if (startValPos == dotPos)
+		startVal = INT_MIN;
+	else startVal = stoi(keyword.substr(startValPos, dotPos - startValPos));
+
+	int endValPos = dotPos + 2;
+	int n = keyword.size();
+	if (endValPos < n - 1 && keyword[endValPos] == '-' && keyword[endValPos + 1] >= '0' && keyword[endValPos + 1] <= '9')
+		++endValPos;
+	while (endValPos < n && keyword[endValPos] >= '0' && keyword[endValPos] <= '9')
+		++endValPos;
+	int endVal;
+	if (endValPos == dotPos + 2)
+		endVal = INT_MAX;
+	else endVal = stoi(keyword.substr(dotPos + 2, endValPos - dotPos - 2));
+
+	if (startVal > endVal) return stringsWithExactVal;
+
+	vector<int>::const_iterator findStartIndex = upper_bound(exactVal.begin(), exactVal.end(), startVal);
+	vector<int>::const_iterator findEndIndex = lower_bound(exactVal.begin(), exactVal.end(), endVal);
+	if (findStartIndex != exactVal.begin() && *(findStartIndex - 1) == startVal)
+		--findStartIndex;
+	if (*findEndIndex == endVal) ++findEndIndex;
+	for (vector<int>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
+		stringsWithExactVal.push_back(keyword.substr(0, startValPos) + to_string(*i) + keyword.substr(endValPos, string::npos));
+	return stringsWithExactVal;
+}
+
 string getFileName(int fileName) {
 	string name = to_string(fileName);
 	name += ".txt";
@@ -203,8 +248,7 @@ void preprocessing(string& word) {
 	while (!isalnum(*(word.rbegin())))
 		word.pop_back();
 }
-
-vector<Node> Trie_t::getQuieryData(string quiery) {
+vector<Node> Trie_t::getQueryData(string quiery) {
 	vector<string> tokens = splitString(quiery);
 	int n = tokens.size();
 	vector<Node> result = getKeywordData(tokens[0]);
@@ -258,4 +302,74 @@ int countFreq(const string &pat, const string &txt) {
 		}
 	}
 	return res;
+}
+
+vector<ll> numbersInString(const string& word) {
+	int sz = word.size(), num_digit = 0;
+	ll cur_number;
+	vector<ll>results;
+	bool last_char_is_digit = false;
+	for (int i = sz - 1; i >= 0; --i) {
+		if (isdigit(word[i])) {
+			if (!last_char_is_digit) {
+				cur_number = word[i] - '0';
+				num_digit = 1;
+				last_char_is_digit = true;
+			}
+			else 
+				cur_number += (word[i] - '0')*int(pow(10, num_digit++));
+		}
+		else {
+			if (last_char_is_digit) {
+				results.push_back(cur_number);
+				cur_number = 0;
+				num_digit = 0;
+			}
+			last_char_is_digit = false;
+		}
+	}
+	if (cur_number != 0) results.push_back(cur_number);
+	return results;
+}
+
+bool wildCardMatch(const string& input, const string& pattern) {
+	// Nghia
+	int n = input.size(), m = pattern.size();
+	//two empty string match with each other
+	if (m == 0) return n == 0;
+	vector<vector<bool>>lookup;
+	vector<bool>tmp;
+	for (int i = 0; i <= m; ++i) tmp.push_back(false);
+	for (int i = 0; i <= n; ++i) lookup.push_back(tmp);
+	// empty pattern can match with empty string
+	lookup[0][0] = true;
+	// Only '*' can match with empty string
+	for (int j = 0; j <= m; j++)
+		if (pattern[j - 1] == '*')
+			lookup[0][j] = lookup[0][j - 1];
+	// fill the table in bottom-up fashion
+	for (int i = 1; i <= n; i++)
+	{
+		for (int j = 1; j <= m; j++)
+		{
+			// Two cases if we see a '*'
+			// a) We ignore ‘*’ character and move
+			//    to next  character in the pattern,
+			//     i.e., ‘*’ indicates an empty sequence.
+			// b) '*' character matches with ith
+			//     character in input
+			if (pattern[j - 1] == '*')
+				lookup[i][j] = lookup[i][j - 1] ||
+				lookup[i - 1][j];
+
+			//if the characters match
+			else if (input[i - 1] == pattern[j - 1])
+				lookup[i][j] = lookup[i - 1][j - 1];
+
+			// If characters don't match
+			else lookup[i][j] = false;
+		}
+	}
+
+	return lookup[n][m];
 }

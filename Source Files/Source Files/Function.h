@@ -9,6 +9,7 @@
 #include <climits>
 #include <fstream>
 #include <map>
+#include <set>
 #include <sstream>
 using namespace std;
 
@@ -17,7 +18,7 @@ typedef long long ll;
 typedef map<string, int> word_map;
 
 #define mp make_pair
-#define ALP 38 //the number of words in the alphabet + 10 digits + '$' + '#'
+#define ALP 39 //the number of words in the alphabet + 10 digits + '$' + '#' + "  '  "
 
 //forward declaration
 class Word_t;
@@ -66,10 +67,12 @@ public:
 	void inputFromFile(const string& folder_path);
 	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
 	void inputSynonymFromFile();
-	vector<Node> getQuieryData(string quiery); // return ranking of a quiery
+	//add all the numbers found into set<ll>numbers
+	void addAllNumbers(const string& word);
+	vector<Node> getQueryData(string quiery); // return ranking of a quiery
 private:
 	Word_t * root = NULL;
-	vector<ll>numbers;
+	set<ll>numbers;
 };
 
 //auxilary functions
@@ -89,8 +92,10 @@ vector<string> findExactValue(string keyword, const vector<int> &existValue); /*
 	Precondition: existValue should be sorted*/
 string getFileName(int fileName);
 int countFreq(const string &pattern, const string &text); // find frequency of pattern in text
+bool wildCardMatch(string& input, string& pattern);
 
 bool exist(vector<Node> v, int file_name);
 void preprocessing(string& word);
+vector<ll> numbersInString(const string& word);
 
 #endif // !_FUNCTION_H_
