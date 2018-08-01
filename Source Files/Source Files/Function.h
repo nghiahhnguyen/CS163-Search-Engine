@@ -88,7 +88,7 @@ vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2); // retur
 
 // string functions
 vector<string> splitString(string inputStr); // split intputStr into tokens
-vector<string> findExactValue(string keyword, const vector<int> &existValue); /* replace range in keyword by value in existValue array
+vector<string> findExactValue(string keyword, const set<long long> &existValue); /* replace range in keyword by value in existValue array
 	Precondition: existValue should be sorted*/
 string getFileName(int fileName);
 int countFreq(const string &pattern, const string &text); // find frequency of pattern in text
