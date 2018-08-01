@@ -150,88 +150,47 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 	return result;
 }
 
-vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
+vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	// Minh
 	// replace range in keyword by value in exactVal
 	// assume there is at most 1 range in keyword
 	// PreCondition: exactVal should be sorted 
 	// if the startVal or endVal if empty it will assign INT_MIN or INT_MAX
 	// eg. #worldcup..2018 == #worldcupINT_MIN..2018
-	int dotPos = keyword.find("..");
+	size_t dotPos = keyword.find("..");
 	vector<string> stringsWithExactVal;
 	if (dotPos == string::npos) return stringsWithExactVal;
-	int startValPos = dotPos;
+	size_t startValPos = dotPos;
 	while (startValPos >= 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
 		--startValPos;
 	if (startValPos != 0 && keyword[startValPos - 1] == '-')
 		--startValPos;
-	int startVal;
+	long long startVal;
 	if (startValPos == dotPos)
 		startVal = INT_MIN;
 	else startVal = stoi(keyword.substr(startValPos, dotPos - startValPos));
 
-	int endValPos = dotPos + 2;
-	int n = keyword.size();
+	size_t endValPos = dotPos + 2;
+	size_t n = keyword.size();
 	if (endValPos < n - 1 && keyword[endValPos] == '-' && keyword[endValPos + 1] >= '0' && keyword[endValPos + 1] <= '9')
 		++endValPos;
 	while (endValPos < n && keyword[endValPos] >= '0' && keyword[endValPos] <= '9')
 		++endValPos;
-	int endVal;
+	long long endVal;
 	if (endValPos == dotPos + 2)
 		endVal = INT_MAX;
 	else endVal = stoi(keyword.substr(dotPos + 2, endValPos - dotPos - 2));
 
 	if (startVal > endVal) return stringsWithExactVal;
 
-	vector<int>::const_iterator findStartIndex = upper_bound(exactVal.begin(), exactVal.end(), startVal);
-	vector<int>::const_iterator findEndIndex = lower_bound(exactVal.begin(), exactVal.end(), endVal);
-	if (findStartIndex != exactVal.begin() && *(findStartIndex - 1) == startVal)
+	set<long long>::const_iterator findStartIndex = upper_bound(exactVal.begin(), exactVal.end(), startVal);
+	set<long long>::const_iterator findEndIndex = lower_bound(exactVal.begin(), exactVal.end(), endVal);
+	set<long long>::const_iterator tmp = findStartIndex;
+	--tmp;
+	if (findStartIndex != exactVal.begin() && *(tmp) == startVal)
 		--findStartIndex;
 	if (*findEndIndex == endVal) ++findEndIndex;
-	for (vector<int>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
-		stringsWithExactVal.push_back(keyword.substr(0, startValPos) + to_string(*i) + keyword.substr(endValPos, string::npos));
-	return stringsWithExactVal;
-}
-
-vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
-	// Minh
-	// replace range in keyword by value in exactVal
-	// assume there is at most 1 range in keyword
-	// PreCondition: exactVal should be sorted 
-	// if the startVal or endVal if empty it will assign INT_MIN or INT_MAX
-	// eg. #worldcup..2018 == #worldcupINT_MIN..2018
-	int dotPos = keyword.find("..");
-	vector<string> stringsWithExactVal;
-	if (dotPos == string::npos) return stringsWithExactVal;
-	int startValPos = dotPos;
-	while (startValPos >= 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
-		--startValPos;
-	if (startValPos != 0 && keyword[startValPos - 1] == '-')
-		--startValPos;
-	int startVal;
-	if (startValPos == dotPos)
-		startVal = INT_MIN;
-	else startVal = stoi(keyword.substr(startValPos, dotPos - startValPos));
-
-	int endValPos = dotPos + 2;
-	int n = keyword.size();
-	if (endValPos < n - 1 && keyword[endValPos] == '-' && keyword[endValPos + 1] >= '0' && keyword[endValPos + 1] <= '9')
-		++endValPos;
-	while (endValPos < n && keyword[endValPos] >= '0' && keyword[endValPos] <= '9')
-		++endValPos;
-	int endVal;
-	if (endValPos == dotPos + 2)
-		endVal = INT_MAX;
-	else endVal = stoi(keyword.substr(dotPos + 2, endValPos - dotPos - 2));
-
-	if (startVal > endVal) return stringsWithExactVal;
-
-	vector<int>::const_iterator findStartIndex = upper_bound(exactVal.begin(), exactVal.end(), startVal);
-	vector<int>::const_iterator findEndIndex = lower_bound(exactVal.begin(), exactVal.end(), endVal);
-	if (findStartIndex != exactVal.begin() && *(findStartIndex - 1) == startVal)
-		--findStartIndex;
-	if (*findEndIndex == endVal) ++findEndIndex;
-	for (vector<int>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
+	for (set<long long>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
 		stringsWithExactVal.push_back(keyword.substr(0, startValPos) + to_string(*i) + keyword.substr(endValPos, string::npos));
 	return stringsWithExactVal;
 }
@@ -353,9 +312,9 @@ bool wildCardMatch(const string& input, const string& pattern) {
 		for (int j = 1; j <= m; j++)
 		{
 			// Two cases if we see a '*'
-			// a) We ignore ‘*’ character and move
+			// a) We ignore ï¿½*ï¿½ character and move
 			//    to next  character in the pattern,
-			//     i.e., ‘*’ indicates an empty sequence.
+			//     i.e., ï¿½*ï¿½ indicates an empty sequence.
 			// b) '*' character matches with ith
 			//     character in input
 			if (pattern[j - 1] == '*')
