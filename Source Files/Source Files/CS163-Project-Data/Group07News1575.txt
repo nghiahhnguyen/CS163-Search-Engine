@@ -1,0 +1,19 @@
+British cyber security start-up Panaseer raises $10m
+
+A British startup has raised $10m in funding to further its mission to clean up the poor “cyber hygiene” of the world’s largest businesses.
+
+Panaseer, which claims to monitor some of the world’s most prominent companies’ technology estates, will use the cash to boost its research and development efforts in the UK while expanding sales and marketing across the US.
+
+Customers pay subscription fees to have Panaseer detect which of its systems are most vulnerable to attack using an automated inventory monitor, which eliminates human error. 
+
+Formed in the basement of Nik Whitfield’s Surrey basement after he left BAE Systems’ cyber security department in 2014, the company now has 33 employees across two offices in London and New York. It received $5.6m in a seed round in 2017 and has secured the Series A funding from Evolution Equity Partners with participation from existing investors as well as new investor Cisco, a major networking company headquartered in Silicon Valley.
+
+Mr Whitfield hopes that a relationship with Cisco would help with access in the highly saturated US cyber security market, and open up new customers but crucially, had lots of customer data that could help Panaseer’s product become smarter.
+
+“They have loads of products that generate data and with a platform like ours, what we are really hungry for is data. I see a research and development relationship where Panaseer takes data from Cisco and merges it with our customer data to give them a better understanding of how they need to secure themselves," he said. 
+
+Using data from networking equipment and presenting it through Panaseer’s product could help executives better monitor threat detection and maintaining software patches to avoid breaches like Dixons Carphone.
+
+Mr Whitfield said: “Panaseer identifies the weaknesses across the organisation and makes better risk decisions and continually reduces the chance of a breach such as we have seen in the papers this week. Cisco is thinking about what enterprise will look like in five years and what they are going to need.
+
+"They have a view of the future which involves better understanding of the data that sits in enterprise and I think they have seen us as a company that shares their vision."

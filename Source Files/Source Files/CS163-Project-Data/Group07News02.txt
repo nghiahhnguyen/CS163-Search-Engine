@@ -1,0 +1,16 @@
+﻿"Windows 10 is adding SwiftKey, laying the groundwork for dual-screen tablets
+Look at this picture. Now imagine you're holding a laptop that -- instead of a keyboard -- has a second screen. Like something out of Westworld. Swiping might be a tad easier than typing, yes?
+Microsoft-owned SwiftKey was one of the first virtual keyboards to offer intelligent, predictive swipe-typing on Android and iOS phones, and now Microsoft has announced that it will become the default keyboard for touchscreen-equipped Windows 10 computers as well.
+""SwiftKey will now power the typing experience on Windows when using the touch keyboard to write in English (United States), English (United Kingdom), French (France), German (Germany), Italian (Italy), Spanish (Spain), Portuguese (Brazil), or Russian,"" reads a portion of Microsoft's blog post.
+Which could be pretty handy if the rumors are true: Microsoft is reportedly planning to ship several new Surface tablets this year, including a new low-cost Surface slate and the dual-screen ""Andromeda."" Dual screens were a theme among laptop manufacturers at Computex last week, too.
+And that's without mentioning all the existing Windows two-in-ones (detachables and convertibles) that could benefit from a better touchscreen keyboard.
+If you're daring, you can actually try the new SwiftKey-powered keyboard on Windows 10 right now -- the news came as part of the announcement of a new Windows 10 Insider Preview Build. Here's how.
+The new preview build also comes with another intriguing feature -- the ability to block autoplay video in the Microsoft Edge web browser. Apple's Safari browser has offered that since late 2017, and Google's been trying it as well.
+Watch this: Surface Pro or iPad Pro: How to choose
+1:26
+10
+Asus Project Precog is basically the tablet from Westworld
+Share your voice
+1 comment
+Tags
+Laptops Tablets Microsoft Windows 10"

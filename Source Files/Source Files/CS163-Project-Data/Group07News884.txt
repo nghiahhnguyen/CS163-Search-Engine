@@ -1,0 +1,21 @@
+Some dogs in China carry a mixed bag of influenza viruses. The discovery raises the possibility that dogs may be able to pass the flu to people, perhaps setting off a pandemic.
+
+About 15 percent of pet dogs that went to the vet because of respiratory infections carried flu viruses often found in pigs, researchers report June 5 in mBio. Of the virus strains detected, three have recombined in dogs to form new varieties.
+
+That mixing generates genetic diversity in the viruses that makes them potentially a pandemic threat, says study coauthor Adolfo García-Sastre, a virologist who directs the Global Health and Emerging Pathogens Institute of the Icahn School of Medicine at Mount Sinai in New York City.
+
+Evolution of the flu viruses in dogs has been very rapid, occurring in just a few years, García-Sastre says. There’s no sign yet that the dog flu viruses can infect people, but that could change. “The more diversity of viruses there is in an animal reservoir, the higher the chances that it will lead to a version of the virus that is able to jump” to humans, he says.
+
+Pigs and birds remain the prime suspects for mixing up the next human pandemic influenza virus, says Amesh Adalja, an infectious disease physician at Johns Hopkins University and a spokesperson for the Infectious Diseases Society of America. Even if a dog flu virus infected a person, the pathogen may not be able to transmit easily from person-to-person — an important characteristic a virus must have before it can circulate around the world.
+
+But because most people encounter dog noses far more frequently than those of pigs, it’s worth keeping an eye on the pups, Adalja says. “Knowing that dogs could contribute is important for preparing for the next pandemic, because we don’t know exactly what that virus will be,” he says.
+
+The first flu virus in dogs was discovered in 2005 in the United States. That pathogen, from a horse flu virus called H3N8 that had jumped to canines, sometimes spreads among pooches in shelters (SN: 10/8/05, p. 237). And, in 2010, some dogs in Asia were found carrying a version of the H3N2 virus from birds. (Cats can catch the dog H3N2 flu virus, but don’t transmit it to other cats, as far as scientists know.)
+
+In the new study, the team swabbed the noses of 800 dogs in the Guangxi region of southern China from 2013 to 2015. All of the dogs had respiratory illnesses, but only 116 were infected with influenza viruses. To the scientists’ surprise, the dogs had various swine H1N1 flu viruses. The researchers determined the genetic makeup of 16 of the samples and discovered that some of these swine viruses had previously circulated in people and pigs in Europe and Asia. Some are strains of bird flu that have infected pigs.
+
+In pigs, the viruses swapped genes among themselves, creating new varieties, some of which were passed to dogs. A virus genetically similar to one of the swine viruses passed to dogs was found in a person in China, raising the possibility that some swine flus can strike both pups and people. Dogs remixed some of the viruses from the pigs with bits of the dog flu virus in Asia, creating the three new canine influenza virus strains, the researchers found.
+
+Since the study collected samples from only one part of China, the team doesn’t know how widespread flu is among dogs, or how many canine-infecting influenzas may be out there.
+
+Finding flu viruses in dogs isn’t cause for alarm. But researchers should monitor the situation and use vaccines, quarantine and other infection-control methods to limit outbreaks and keep the canine viruses from catching hold in humans, García-Sastre says.

@@ -1,0 +1,27 @@
+Media Blasters DVDs
+2000-09-21 14:40 UTC-8
+Media Blasters announced yesterday that they would be replacing the first Kenshin disk for people who have experienced
+
+From the Media Blasters / AnimeWorks Webpage:
+
+Hello, Here is the official word from Media Blasters on the Kenshin #1 DVD. So read and be informed.
+
+On the first Kenshin disk, certain players were having sound problems of various degrees. After much effort, I have finally tracked down their causes and 
+had them corrected. In fact, the reason the second Kenshin disk was delayed was that we decided to be absolutely sure that every trace of the audio problems 
+had been eradicated. The problems with the crossed stereo on certain scenes had to do with the fact that the audio track was encoded in segments, 
+so that certain parts could be crossed while others were not. The other problem was that the original master used to encode the video and audio from had the 
+Japanese audio on tracks three and four. Even though they were then encoded on to tracks one and two of the DVD, some more temperamental players got confused, 
+and had trouble deciding whether or not these two tracks were supposed to be front (channel one and two) or rear (channel three and four) stereo. 
+Usually a forced down mix to straight stereo or a tweak to the player's virtual surround or 3D Phonic settings could correct this problem. Switching the 
+output to the rear and front speakers, either via tuner settings or manually will also solve the problem. 
+
+Our second Kenshin disk, Battle in the Moonlight, is free of these problems. It also has some improvements in the video quality and even more extras than the last one. 
+There is no time-search for this one however, in order to allow a DVD player to search by time-code, the disk must have a certain file structure. 
+As this structure is rather storage-inefficient, we didn't have the space to implement it on this disk, but I think we'll end up doing a DVD-9 for disk three, 
+so we can have it then. In addition, we will be re-printing the first Kenshin disk with the sound problem corrected, so if you are one of those with a 
+player that didn't like the first printing, you can still enjoy Kenshin on DVD. --Sean Molyneaux, Production Media Blasters
+
+Now the word from the Pres is that we will be replacing the DVDs that have been sent into us but you have to be patient. We have been back logged due to the delay 
+in the Kenshin #2 disc so we must get those out first and than we will reprint the corrected #1. So for those who have sent in their discs, we have them and 
+will replace them but be patient. We apologize for this inconvenance and hope you continue to support Media Blasters.
+

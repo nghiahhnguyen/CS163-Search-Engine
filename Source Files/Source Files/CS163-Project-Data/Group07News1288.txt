@@ -1,0 +1,90 @@
+Facebook faces greater scrutiny. Maybe the rest of Big Tech should, too.
+American law enforcement is doubling down on investigations of Facebook. The Justice Department and the F.B.I. have broadened inquiries into Cambridge Analytica to add a focus on Facebook, and the S.E.C. has started looking at the social network’s public statements about the data scandal.
+
+No big surprise there. But this WSJ article on Google’s data privacy practices may shock even those who are already jaded by tech scandals:
+
+The internet giant continues to let hundreds of outside software developers scan the inboxes of millions of Gmail users who signed up for email-based services offering shopping price comparisons, automated travel-itinerary planners or other tools. Google does little to police those developers, who train their computers — and, in some cases, employees — to read their users’ emails.
+
+In an NYT Op-Ed, Dipayan Ghosh, a former privacy and public policy adviser at Facebook, argues that all tech companies should face greater scrutiny:
+
+Facebook’s internal review, even if it was undertaken in response to external criticism, is vital to ensure that personal data is not used inappropriately. And that is precisely why we should also take the magnifying glass to Google, Apple and others that similarly partner with vast developer communities that receive special access to inordinate amounts of sensitive user data.
+
+More tech privacy news: Facebook has admitted that a bug that unblocked people affected 800,000 users. And Google’s policies may mean that some companies are targeting users in ways that could violate Europe’s General Data Protection Regulation.
+
+A $1 trillion trade war? Don’t bet against it
+The FT has done some math and come to a worrying conclusion: A trillion-dollar trade war scenario “is not wholly implausible.” Here’s how that could happen:
+
+• Tit-for-tat tariffs are escalating quickly. The FT points out that $635.4 billion worth of goods are threatened by tariffs so far. At least some of those levies will come to pass.
+
+• The auto industry could be a huge battleground. President Trump promoted auto tariffs as a weapon. They may not happen, but, if they do, they could lead to a further $600 billion worth of goods facing charges.
+
+• Then there’s Nafta. U.S. trade with Canada and Mexico, which totals $1.1 trillion, is still up in the air as Mr. Trump seeks to renegotiate trade arrangements under the treaty.
+
+Elsewhere in trade: 401(k)’s could be hit by the trade war. Cross-border megadeals are in decline. China is censoring comments from the U.S. to play down trade tensions. Mr. Trump said he would block China Mobile from operating in the U.S. Even electric scooters and vaping equipment could be affected by tariffs.
+
+Lyft and Uber want to be one-stop city transport apps
+Lyft agreed on Monday to buy the core business of Motivate, the operator of bike-sharing programs like CitiBike. It may seem like a diversion — bikes aren’t nearly as big a market as cars — but there’s a reason the ride-hailing company is reportedly spending $250 million on the business.
+
+Different forms of transportation are becoming more popular, particularly for covering short distances. In buying Motivate, Lyft is responding to Uber’s acquisition of the electric bike start-up Jump. And both companies are said to be quietly exploring the market for electric scooters, as existing players like Bird and Lime explode in popularity.
+
+Both Lyft and Uber are betting that gaining footholds in those markets will eventually give them a way to offer users more options to get around. That could even extend to paying for subway and bus rides — Uber is already experimenting with allowing users to pay for public transit from inside its app. So expect the two, both flush with cash from investors, to keep spending money trying to gain pole position in that race.
+
+A cat-and-mouse game over sports data
+A Supreme Court decision to legalize sports betting in the U.S. will make money for many companies. Among them are the collectors of in-game sports data, who sell that valuable information to bettors.
+
+But as the NYT explains, that industry is at the heart of a fight between sports leagues, which fiercely protect their data, and bettors, who need information to make big wagers on games. The leagues think that unofficial courtside data collectors are stealing information and tampering with the integrity of sports. But collectors argue that leagues may be violating antitrust law.
+
+How much money is at stake? The offshore sports betting industry generates an estimated $150 billion a year. Leagues have proposed requiring sports books to use official data and pay royalty fees for the privilege — which could eat about 20 percent of revenue.
+
+The robots are coming, but don’t panic
+A lot of time is spent worrying about robots taking jobs. But a paper by Lukas Schlogl and Andy Sumner from the Center for Global Development, a Washington think tank, argues that we might be better off admitting that’s the case and working out what to do next.
+
+The paper points out that automation could create “unlimited supplies of artificial labor,” especially in agriculture and industry, where robots are beginning to excel. When that happens, it says, the outcome isn’t necessarily mass unemployment — though many workers will be squeezed into low-income service jobs. (A small number will profit from that increased productivity.)
+
+Mr. Schlogl and Mr. Sumner pick holes in many of the solutions proposed so far:
+
+• Policies to discourage automation would encourage people to move to areas where no such rules exist.
+• Retraining workers may not be cost-effective and is hard to plan correctly.
+• Universal income is politically fraught.
+
+They didn’t offer a solution. But they urged decision makers to think differently about the problem rather than rejecting automation outright.
+
+Revolving door
+The investigative reporter Brian Ross is leaving ABC News, months after he botched a report on President Trump’s links with Russia. (NYT)
+
+Doug Field formally resigned as Tesla’s chief engineer after having taken a leave of absence. (WSJ)
+
+Eric Leathers, the former head of TPG’s financial services investments, has joined an investment fund led by a onetime rival, Olivier Sarkozy. (Bloomberg)
+
+The speed read
+Deals
+
+• Atlantic Media has sold the business news site Quartz to the Japanese publisher Uzabase for at least $75 million. (NYT)
+
+• Interpublic Group has agreed to buy the marketing solutions unit of Acxiom, one of the biggest managers of consumer data, for $2.3 billion. (WSJ)
+
+• The cost of luring Roger Federer away from a two-decade sponsorship deal with Nike: $300 million. (WSJ)
+
+Politics and policy
+
+• The Trump administration has softened its demand that countries end all imports of Iranian oil. (NYT)
+
+• Commerce Secretary Wilbur Ross said that he shorted shares in two more companies, Air Lease and Ocwen Financial, than he had previously disclosed. (CNBC)
+
+• Michael Cohen appears to be seeking a plea deal with prosecutors — or is he? (NYT)
+
+Tech
+
+• Tesla’s sprint to increase production of its Model 3 included mandatory weekend shifts and a lot of yelling by Elon Musk. Now that the company hit its target, some of its production lines are taking a break. (But the carmaker isn’t in the clear yet.)
+
+• Dell is going public after five years of being private to reboot itself. But has it really changed? And who benefits from the move, other than Michael Dell?
+
+• Amazon’s push into prescription drugs isn’t a guaranteed success.
+
+Best of the rest
+
+• A fare war means that trans-Atlantic flights are supercheap right now. (NYT)
+
+• Many believe that companies prioritized quick profits over sustainable, long-term change because of investors’ short-term thinking. But is that true? (NYT)
+
+• Matt Damon is in talks to star as the financier Marc Rich, the founder of what is now Glencore, in the forthcoming movie “The King of Oil.” (Deadline)

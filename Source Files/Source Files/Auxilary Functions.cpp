@@ -95,60 +95,60 @@ bool exist(vector<Node> v, int file_name) {
 	return false;
 }
 
-vector<Node> Trie_t::getKeywordData(string keyword) {
-	// TO DO: wildcard character (*)
-	if (keyword.find(" ") == string::npos) {
-		// if it is a token
-		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
-			return search(keyword.substr(1, string::npos))->file_list;
-		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
-			return search(keyword.substr(8, string::npos))->title_list;
-		if (keyword.size() >= 1 && keyword[0] == '~') {
-			vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
-			vector<string> syn = search(keyword.substr(1, string::npos))->synonyms;
-			syn.push_back(keyword);
-			int n = syn.size();
-			for (int i = 0; i < n; ++i)
-				ans = merge(ans, getKeywordData(syn[i]));
-			return ans;
-		}
-		if (keyword.find("..") != string::npos) {
-			vector<string> f = findExactValue(keyword, numbers);
-			vector<Node> result;
-			int n = f.size();
-			for (int i = 0; i < n; i++)
-				result = merge(result, getKeywordData(f[i]));
-			return result;
-		}
-		return search(keyword)->file_list;
-	}
-	// if it is an exact match phase
-	vector<string> kw = splitString(keyword);
-	vector<Node> result;
-	if (kw.size() == 0) return result;
-	result = getKeywordData(kw[0]);
-	for (int i = 1; i < kw.size(); ++i)
-		if (strcmp(kw[i].c_str(), "*") != 0)
-			result = intersect(result, getKeywordData(kw[i]));
-	// open file to recalculate word_count
-	ifstream fin;
-	for (int i = 0; i < result.size(); ++i) {
-		result[i].keyword_count = 0;
-		fin.open(getFileName(result[i].file_name).c_str());
-		if (!fin.is_open()) continue;
-		// TODO: count apperance in file
-		string text;
-		while (getline(fin, text)) {
-			result[i].keyword_count += countFreq(keyword, text);
-		}
-		fin.close();
-	}
-	// remove files with 0 word_count
-	for (int i = 0; i < result.size(); ++i)
-		if (result[i].keyword_count == 0)
-			result.erase(result.begin() + i);
-	return result;
-}
+//vector<Node> Trie_t::getKeywordData(string keyword) {
+//	// TO DO: wildcard character (*)
+//	if (keyword.find(" ") == string::npos) {
+//		// if it is a token
+//		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
+//			return search(keyword.substr(1, string::npos))->file_list;
+//		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
+//			return search(keyword.substr(8, string::npos))->title_list;
+//		if (keyword.size() >= 1 && keyword[0] == '~') {
+//			vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
+//			vector<string> syn = search(keyword.substr(1, string::npos))->synonyms;
+//			syn.push_back(keyword);
+//			int n = syn.size();
+//			for (int i = 0; i < n; ++i)
+//				ans = merge(ans, getKeywordData(syn[i]));
+//			return ans;
+//		}
+//		if (keyword.find("..") != string::npos) {
+//			vector<string> f = findExactValue(keyword, numbers);
+//			vector<Node> result;
+//			int n = f.size();
+//			for (int i = 0; i < n; i++)
+//				result = merge(result, getKeywordData(f[i]));
+//			return result;
+//		}
+//		return search(keyword)->file_list;
+//	}
+//	// if it is an exact match phase
+//	vector<string> kw = splitString(keyword);
+//	vector<Node> result;
+//	if (kw.size() == 0) return result;
+//	result = getKeywordData(kw[0]);
+//	for (int i = 1; i < kw.size(); ++i)
+//		if (strcmp(kw[i].c_str(), "*") != 0)
+//			result = intersect(result, getKeywordData(kw[i]));
+//	// open file to recalculate word_count
+//	ifstream fin;
+//	for (int i = 0; i < result.size(); ++i) {
+//		result[i].keyword_count = 0;
+//		fin.open(getFileName(result[i].file_name).c_str());
+//		if (!fin.is_open()) continue;
+//		// TODO: count apperance in file
+//		string text;
+//		while (getline(fin, text)) {
+//			result[i].keyword_count += countFreq(keyword, text);
+//		}
+//		fin.close();
+//	}
+//	// remove files with 0 word_count
+//	for (int i = 0; i < result.size(); ++i)
+//		if (result[i].keyword_count == 0)
+//			result.erase(result.begin() + i);
+//	return result;
+//}
 
 vector<string> findExactValue(string keyword, const vector<int> &exactVal) {
 	// Minh

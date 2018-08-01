@@ -1,0 +1,32 @@
+Verizon, AT&T are cutting off location-data sharing contracts.
+"Verizon says it's cutting off its contracts with location aggregators.
+Roberto Machado Noa/LightRocket via Getty Images
+Verizon and AT&T are hanging up on companies that boasted they could track any American with a phone.
+In a letter sent to Sen. Ron Wyden, a Democrat from Oregon, Verizon's chief privacy officer, Karen Zacharia, said the company is ending its contracts with location aggregators like LocationSmart and Zumigo.
+""We are committed to protecting the privacy and security of our customers' location information, and will keep you informed as we execute our plan to terminate these location-based aggregation arrangements with the aggregators,"" Zacharia wrote.
+Major wireless carriers are allowed to sell real-time location data to third parties, and that data is often used for targeted advertising from advertisers. In its letter, Verizon noted that services like truck rental companies often use location data provided from phones to help customers who have trouble on the road.
+The services allowed people to find anybody using their phone number, potentially tracking them down based on location data that wireless carriers provided.
+But that location data has been abused. A former Missouri sheriff, for instance, used Securus Technologies, a service for monitoring calls to prison inmates, to track down a judge and five other police officers. LocationSmart, another aggregating service that sells tracking abilities, suffered a major vulnerability that gave anybody access without proper vetting.
+As Verizon prepares to end its contracts with location aggregators, it said it will not start any new agreements until it feels ""comfortable that we can adequately protect our customers' location data,"" discussing the benefits providing location data can provide if it's not being abused.
+""When these issues were brought to our attention, we took immediate steps to stop it. Customer privacy and security remain a top priority for our customers and our company,"" Verizon spokesman Rich Young said in a statement.
+LocationSmart disputes the characterization that it's a tracking firm and insists that mobile users need to consent to the sharing of their location data for the service to work. ""LocationSmart continues to review the letters from each of the four major carriers to Sen. Wyden that were made public this morning, and will provide further comments as it is able,"" said a company spokesman in an email.
+The vulnerability to its service, LocationSmart said, affected a website demo that was taken down in May, and the company said that no one else had exploited the bug.
+The company said it would continue to work with the carriers.
+""LocationSmart has maintained close communications with the wireless carriers about recent incidents, and continues to work with them to ensure that mobile device user access to important services are maintained and that user privacy is treated with the utmost priority,"" the company said in a follow-up statement via e-mail. ""We are working with each of them to ensure that industry best practices and carrier guidelines are met and service is not interrupted for any of our customers as the carriers implement changes to their respective programs for use of location data. We do not anticipate adverse impact to current services in the near future.""
+Securus, meanwhile, said the termination of the ability for law enforcement to use these tools puts Americans at risk. ""Securus Technologies takes privacy and security extremely seriously and we are supportive of efforts to ensure individual data is protected,"" said a company spokesman.
+Wyden, however, took a different stance.
+""Verizon did the responsible thing and promptly announced it was cutting these companies off,"" Wyden said in a statement. ""In contrast, AT&T, T-Mobile, and Sprint seem content to continuing to sell their customers' private information to these shady middle men, Americans' privacy be damned.""
+AT&T soon followed Verizon's lead, canceling its contracts with the trackers.
+""Our top priority is to protect our customers' information, and to that end, we will be ending our work with aggregators for these services as soon as practical in a way that preserves important, potential life-saving services like emergency roadside assistance,"" an AT&T spokesman said.
+Sprint said it had suspended all services with LocationSmart since May 25 and will begin the process of terminating its contracts with data aggregators after concluding an internal review.
+T-Mobile CEO John Legere tweeted a pledge that his company wouldn't sell location data to ""shady middlemen.""
+""Your consumer advocacy is admirable and we remain committed to consumer privacy,"" he said.
+CNET's Roger Cheng contributed to this story.
+Originally published at 9:07 a.m. PT.
+Updated at 9:38 a.m. PT: To include the statement from AT&T, at 9:49 a.m. PT: To include the response from Verizon, at 10:38 a.m. PT: To add the response from Sprint, at 11:54 a.m. PT: To include a response from LocationSmart, at 1:30 p.m. PT: To include a response from T-Mobile, at 1:36 p.m. PT: To include a response from Securus and at 2:22 p.m. PT: To include a follow-up statement from LocationSmart.
+Cambridge Analytica: Everything you need to know about Facebook's data mining scandal.
+Tech Enabled: CNET chronicles tech's role in providing new kinds of accessibility.
+Share your voice
+2 comments
+Tags
+Mobile Security AT&T Privacy Sprint T-Mobile Verizon"

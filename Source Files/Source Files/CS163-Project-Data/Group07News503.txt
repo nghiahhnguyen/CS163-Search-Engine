@@ -1,0 +1,10 @@
+WEB WARNING This popular Chrome and Firefox addon tracks EVERYTHING you do online
+A POPULAR Google Chrome and Firefox browser extension that has over 1.8million users is secretly spying on your every online move.
+Stylish – which lets users edit the appearance of websites with a brighter look or darker theme and even Manga characters – has been blasted as "a covert surveillance tool".
+If you created a Stylish account, the tool would send your complete browsing activity back to its servers together with a "unique identifier", explains software engineer Robert Heaton who spotted the spyware.
+"This allows its..owner, SimilarWeb, to connect all of an individual’s actions into a single profile," writes Heaton.
+The company can easily link this info to a login cookie, meaning it now owns a a copy of your complete browsing history.
+This combined with the other data the firm collects can theoretically allow it to glean your email address and real-world identity, claims Heaton.
+Google and Mozilla (which operates Firefox) didn't need any more convincing: the two companies swiftly removed Stylish from their respective browser stores following its outing as a secret tracking tool.
+But the extension is still active online, where you can create your own custom themes for web pages.
+The problem seems to have started when SimilarWeb (a data mining company) bought Stylish in 2017, after which it immediately inserted bonus spyware into the tool that snoops on your online history, claims Heaton.

@@ -1,0 +1,32 @@
+﻿"ACLU wants to keep your phone safe from sneaky government malware
+The ACLU has concerns that the US government could start demanding tech companies create software updates laced with surveillance tools.
+James Martin/CNET
+The balance between security and law enforcement is often an issue for tech companies. The American Civil Liberties Union wants to tip the scales in security's favor.
+On Thursday, the ACLU released its guide to developers on how to respond to government demands when the requests require companies to compromise their own security. It happens a lot more often than you probably think.
+Two years ago, Apple famously fought off FBI demands to unlock an iPhone belonging to one of the San Bernardino terrorists, which would have required that the company create backdoor access, essentially installing a vulnerability that could extend across the iPhone line.
+Officials in the US, Australia and the UK have also called for tech companies to build ""responsible encryption,"" which security experts argue would create more openings for hackers to penetrate systems.
+We see this as a public safety issue.
+Daniel Kahn Gillmor, ACLU technologist
+The ACLU anticipates a new threat from government requests: potentially forcing developers to install software updates with hidden surveillance tools, whether for tracking a phone's location or bypassing encryption and passcodes.
+""As the engineering becomes better, and as the encryption becomes stronger, there's still always going to be this one channel into the device, which is the software update channel,"" said Brett Max Kaufman, an ACLU attorney. ""In some sense, that's the hole that can never be closed.""
+As digital evidence becomes more important in investigations, governments are ramping up requests to tech companies, asking tech giants like Apple and Google to provide data that police wouldn't be able to get otherwise.
+In 2017, both Apple and Google reported their highest number of government data requests ever, with Apple receiving 8,929 demands, while Google received 32,877 orders for information. Those numbers don't include government requests to weaken security, but the ACLU worries they could in the future.
+Watch this: A new sweep of home security
+1:49
+A major consequence of tainted security updates, ACLU technologist Daniel Kahn Gillmor said, would be that you'd lose trust in necessary patches.
+""People will likely stop wanting to run the automatic updates because they'll feel like they're under threats,"" Gillmor said. ""We see this as a public safety issue.""
+The organization said the scenario was the digital equivalent of the CIA's fake vaccination drive in Pakistan, which led to public distrust of health workers and an increase in cases of polio.
+If people don't trust security updates, it could lead to vulnerabilities allowing widespread malware, like the WannaCry ransomware attack that ensnared thousands of computers in hospitals, universities and financial institutions.
+The ACLU's guide breaks down what developers should do across four sections, but here's the short version: understand the issue; implement privacy-minded policies; plan responses to government orders ahead of time; and lawyer up.
+CNET Daily News
+Get today's top news and reviews collected for you.
+The US government can request companies weaken their own security through court orders demanding technical assistance. Apple's battle with the FBI in 2016 kicked off with a court order, for example. Some court orders can even have secrecy clauses, forcing companies to keep quiet about the unsecure updates, the ACLU said.
+""Some of this could be happening under seal, or via informal agreements with software suppliers,"" Gillmor said.
+The organization said developers have a right to challenge these orders in court, and that preparation will improve their chances of winning the arguments.
+The guide includes policy, legal and technical advice on how companies should deal with government orders on security. The ACLU said it would be interested in helping any companies struggling to fight off these requests.
+Follow the Money: This is how digital cash is changing the way we save, shop and work.
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+Share your voice
+Post a comment
+Tags
+Security"

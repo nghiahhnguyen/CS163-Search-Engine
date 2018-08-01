@@ -1,0 +1,53 @@
+Facebook bug exposed private posts of up to 14 million people - were you affected?
+
+A Facebook software bug changed private posts settings of up to 14 million users regardless of their privacy settings, the social network has admitted.
+
+Facebook said the flaw, which affected users over several days in May, had now been fixed. It is just the latest privacy debacle to hit the social network.
+
+On Facebook, users can select whether to send posts out to "friends only" or to make them "public", which means anybody can see them. The bug caused Facebook to automatically suggest posts be free for the world to see, no matter what the user's preferred settings were.
+
+Facebook chief privacy officer Erin Egan said the company was letting all users affected know starting on Thursday. He said the bug had been fixed and did not affect older posts. "We'd like to apologise for this mistake," Mr Egan said.  
+
+How do I know if the bug affects me?
+The bug, which would mean some posts users thought were just for friends appeared publicly, occurred between the 18 and 27 May. Facebook will be sending a notification out to all users who were affected. The notification will tell users Facebook has reset any posts during this time to their original default setting.
+
+The notification states: "The problem has been fixed, and we changed the audience of any posts you made to what you had been using before, just in case. You can go to Activity Log to review the posts you made during this time."
+
+The bug is just the latest privacy problem for Facebook, which is attempting to reassure governments and users that it can keep user data safe. Facebook's Mr Egan said in a blog post: "We’ve heard loud and clear that we need to be more transparent about how we build our products and how those products use your data – including when things go wrong."
+
+Facebook said the bug occurred when it was testing a new "featured items" tool for user profiles, which would give them a new way to share certain posts publicly. However, this caused all posts from affected users to be set to public. The feature was only being tested on some profiles, rather than the whole of Facebook.
+
+Why it matters
+The bug comes at a sensitive time for Facebook after the details of as many as 87 million Facebook users was accessed by a data-mining researcher and sold to Cambridge Analytica, which used the details for targeting political advertising.
+
+The ensuing scandal has seen Facebook hauled before politicians to explain how it ensures user privacy. It is thought more than one million British users were affected by the Cambridge Analytica scandal. It is not clear how many British users were affected by the new bug.
+
+Jonathan Mayer, a professor of computer science at Princeton University, said on Twitter that this latest privacy flaw could affect a legal agreement with the US's Federal Trade Commission, signed in 2011, which says Facebook must get "express consent" before sharing information beyond their default settings.
+
+"Facebook made a representation that its sharing setting would maintain the most recent privacy preference," he said. "That wasn’t true."
+
+How Facebook uses the information
+
+Location
+What Facebook collects: It asks for access to your smartphone GPS signal, but also uses Wi-Fi connections, information you’ve entered about your hometown and address, and your IP address to determine your location.
+What this is used for: Advertisers can target ads at people who live in a particular location, from countries down to individual postcodes. Companies can even target tourists in a certain area by comparing their current location with their hometown. Apps that use Facebook can see users’ hometowns and current cities. Nearby friends can also see where you are if you activate this in Facebook’s settings.
+
+Likes
+What Facebook collects: “Likes” include the statuses and photos you have liked, but also pages that you follow – from films to celebrities and football teams.
+What this is used for: Facebook uses likes to determine your interests, which advertisers can then target with ads: an interest in Star Wars might mean adverts for a local cinema for example. Installed apps can also gain access to your interests, depending on your privacy settings. There have been concerns that likes can be exploited to target personality types: research has shown that liking particular things can give away your religious and political beliefs in addition to your taste.
+
+Relationships
+What Facebook collects: If you have shared your phone’s address book with Facebook it collects those names, phone numbers and nicknames, contact photos, relationships and more. It has also taken these details from WhatsApp, although not in Europe. Even if you have denied it this data, your friends may have shared your contact details with their data settings. Facebook also has information on who you are friends with and any special relationship details, such as your romantic partner.
+What this is used for: Everybody with a Facebook account, and many without one, has a “shadow profile” gleaned from this information. It is largely used to suggest people you may know, which has resulted in some bizarre situations such as long-lost relatives being found. Facebook apps were once allowed to gather information about a user’s friends as well as their own data – but Facebook pulled the feature in 2015. Advertisers can still target the friends of somebody who has liked a product or company page.
+
+Your web history
+What Facebook collects: Thousands of websites have plugin “like” buttons that send data back to Facebook every time you visit them, even if you don’t interact with the button.
+What this is used for: If you are logged in to Facebook, your browsing history is matched with your Facebook account to show you adverts based on your web history. Users can also be tracked even if they have logged out.
+
+Apps you install
+What Facebook collects: If you have clicked that useful “log in with Facebook” button instead of coming up with a username and password, you are telling Facebook something new about you.
+What this is used for: The apps you install are used to create a picture of what you are interested in. Advertisers then target these interests.
+
+External data
+What Facebook collects: Facebook buys information from data companies such as credit ratings agencies and Dunnhumby, the operator of Tesco Clubcard.
+What this is used for: Facebook uses the information to build up a picture of your interests and of your demographic, which advertisers can then zero in on when targeting adverts. There are dozens of different buckets Facebook can put you into, from the year your car was bought to your credit card type to your salary bracket.

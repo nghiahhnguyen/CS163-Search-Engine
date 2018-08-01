@@ -1,0 +1,53 @@
+Wyoming makes rush for hyped new tech; results still virtual
+
+By Mead Gruver - Associated Press - Wednesday, May 23, 2018
+
+CHEYENNE, Wyo. (AP) — Block Chain Gang LLC, Crypto Cowboy, Something Something Blockchain LLC: Based on the names of dozens of new companies registering to set up shop in Wyoming, the state’s effort to lure the latest tech craze appears to be paying off.
+
+Proponents say blockchain — the ledger where transactions of digital currencies, like bitcoin, are recorded — could be the kick in the pants Wyoming needs to attract tech businesses and diversify its economy beyond fossil fuels.
+
+As for how many of these new businesses will get off the ground in Wyoming or anywhere else, time will tell. So far, only a small fraction of them exist as more than electronic paperwork.
+
+Wyoming is willing to find out. In March, Gov. Matt Mead signed four blockchain-friendly bills that arguably make the least-populated state friendlier to the technology than any other.
+
+One new law exempts certain types of blockchain tokens, or cryptocurrencies issued to people who invest in tech startups, from state securities laws.
+
+Another allows businesses incorporated in Wyoming to use blockchain for record-keeping, promising easier and more accurate files on transactions and shareholders. The other two facilitate cryptocurrency trading and exempt cryptocurrency from property tax - a measure more symbolic than anything because Wyoming doesn’t have property taxes.
+
+“If you can grab that tiger by the tail, your advantage over other states is tremendous,” said state Rep. Tyler Lindholm, a Republican rancher and electrician who sponsored the bills.
+
+The stakes are high as Wyoming struggles with low prices for oil and natural gas and weak demand for coal. The fossil fuels account for 20 percent of Wyoming’s economy, more than any other state, and the industry’s recent weakness has saddled the state with a $500 million deficit.
+
+Other states hoping to lure tech companies with blockchain-friendly laws include Arizona and Tennessee, which also will now let businesses use blockchain for record-keeping.
+
+One potential problem in Wyoming: Under the U.S. Constitution’s supremacy clause, blockchain tokens sooner or later are likely to be regulated by federal law and the U.S. Securities and Exchange Commission, which take precedence over state securities laws and regulations.
+
+“It’s taking a sort of pro-business stance, which is great in some respects,” Clyde Tinnen, a blockchain attorney with the Withers Bergman law firm in New York, said of the state incentives. “The tricky part is that as a result of the supremacy clause, it may not be as beneficial as they hope.”
+
+In February, SEC Chairman Jay Clayton told a U.S. Senate committee that in his opinion, blockchain tokens issued to launch a company during what’s called an initial coin offering in most cases appear to qualify as securities.
+
+Initial coin offerings raised more than $4 billion worldwide in 2017, up 18-fold from 2016, according to financial sector research provider Autonomous Research.
+
+Meanwhile, the number of businesses registered in Wyoming with “blockchain” or “crypto” in their names has surged from 17 to over 145 since late last year, when advocates began pushing for the state to pass blockchain-friendly legislation.
+
+One new Wyoming business, Wyoming Blockchain Technologies LLC, registered March 5, seeks to help cities and towns use blockchain for records and collecting sales taxes, said company founder Joseph Coyne.
+
+“It will primarily be an educational effort initially. It will shift into improving cybersecurity, and then we’ll start exploring actual use cases,” Coyne said. “Ultimately we think the real value will be in the collection and distribution of municipal revenues.”
+
+Coyne works from home on the Wyoming plains near the Nebraska and Colorado lines. He’s no fan of “some of the craziness we see in the cryptocurrency world right now,” including the hype and speculation surrounding Bitcoin.
+
+Neither is the founder of Something Something Blockchain, registered March 20, which despite its name has nothing to do with blockchain. Seattle-based tech consultant Evan Zlotnick said he set up the corporation to bill clients.
+
+“I picked the name as a joke as I am pretty negative on blockchain and cryptocurrency. It seems like nothing but hype,” Zlotnick wrote via LinkedIn messaging.
+
+In Cheyenne, cheap electricity and cool weather would seem ideal for bitcoin mining, the complex computations on warehouses of servers that make the cryptocurrency work in exchange for a share of its value. The city is home to a small tech business park with a Microsoft data center and supercomputer dedicated to earth sciences.
+
+But so far at least, bitcoin miners are setting up in Montana, not Wyoming. And Cheyenne has a long way to go to catch up to the Rocky Mountain region’s undisputed tech capital, Denver, where the economy is booming and construction cranes bristle the skyline.
+
+A few bitcoin miners have asked about Wyoming’s new blockchain laws, but nothing major has come of the legislation just yet, said Ron Gullberg, business development director for the Wyoming Business Council, the state’s economic development agency.
+
+“There could be opportunities for developers to come to Wyoming. So we’re doing a lot of research and a lot networking and studying up on it,” Gullberg said.
+
+Still, optimism about blockchain abounds.
+
+“The thing that I’m excited about is that Wyoming is willing to jump in and experiment, knowing full well we have a great deal of additional work to do,” said Coyne. “That includes appropriate regulation.”

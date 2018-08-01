@@ -1,0 +1,21 @@
+15-year-old Mac security flaw left millions of Apple customers vulnerable to hackers
+
+Apple customers have been warned that they may have been exposed to hackers “hiding in plain sight” on their Mac devices after a 15-year-old vulnerability was discovered by a cyber security researcher.
+
+The exploit could allow a hacker to install malicious software on devices like MacBooks to access personal, financial and sensitive insider information by fooling security products into thinking it is safe.
+
+This would enable hackers to circumvent antivirus protection by pretending to be Apple, using a technique called “code signing” and sit on the device for years without the owner knowing.
+
+The flaw was found be researchers at San Francisco cloud security company Okta. Josh Pitts, the researcher who discovered the flaw, told the Telegraph: “When I found this, it really freaked me out because this is a way for someone to hide in plain sight for a long time”.
+
+He said that it was not clear whether anyone had executed the attack yet, but that potentially millions of devices were left vulnerable. The flaw exists on devices running on current versions of macOS, Apple's computer operating system, and even old devices running Apple's OS X system.
+
+Pitts said that the discovery was “four out of ten” for severity, but that it was particularly worrying “because people trust Apple”.
+
+Okta security chief Yassir Abousselham warned: “If you are someone who uses your computer at work and for personal use, they can get potentially install ransomware or get access to anything you do - be it your personal financial information, photos, or critical business intelligence. Once you're in, the damage you can do is limitless."
+
+When contacted by Okta, a global cloud-based security company headquartered in San Francisco, Apple said the fault lay at the door of third party vendors including Google, Facebook, Carbon Black and VirusTotal for failing to follow the steps laid out when adding in "code signing" features.
+
+However, Okta’s research director Matias Brutti said that although the fault was “not Apple’s” that code signing was a “very complicated process” and that the documentation “should have been clearer” to avoid mistakes on this scale.
+
+Apple has not responded to the Telegraph’s request for comment.
