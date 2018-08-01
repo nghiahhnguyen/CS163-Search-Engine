@@ -92,6 +92,7 @@ vector<string> findExactValue(string keyword, const vector<int> &existValue); /*
 	Precondition: existValue should be sorted*/
 string getFileName(int fileName);
 int countFreq(const string &pattern, const string &text); // find frequency of pattern in text
+bool wildCardMatch(string& input, string& pattern);
 
 bool exist(vector<Node> v, int file_name);
 void preprocessing(string& word);
