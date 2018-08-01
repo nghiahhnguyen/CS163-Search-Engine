@@ -96,7 +96,7 @@ void Trie_t::inputFromFile(const string& folder_path) {
 	for (int i = 1; i <= 2268; ++i) {
 
 		//get the name of file
-		file_path = "Group07News" + itoXX(i);
+		file_path = "CS163-Project-Data\\Group07News" + itoXX(i);
 		ifstream fin(file_path);
 
 		map<string, Article_t> article_word_count;
