@@ -1,3 +1,31 @@
 ﻿  Source.cpp
-d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
-  Source Files.vcxproj -> D:\Nghia\Học tập Nghĩa\CS163-Search-Engine\Source Files\Source Files\Debug\Source Files.exe
+  Trie_Implementation.cpp
+  Old code.cpp
+  Auxilary Functions.cpp
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(114): error C2664: 'std::vector<std::string,std::allocator<_Ty>> findExactValue(std::string,const std::vector<int,std::allocator<int>> &)': cannot convert argument 2 from 'std::vector<ll,std::allocator<_Ty>>' to 'const std::vector<int,std::allocator<_Ty>> &'
+          with
+          [
+              _Ty=std::string
+          ]
+          and
+          [
+              _Ty=ll
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(114): note: Reason: cannot convert from 'std::vector<ll,std::allocator<_Ty>>' to 'const std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=ll
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(114): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(128): warning C4018: '<': signed/unsigned mismatch
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(133): warning C4018: '<': signed/unsigned mismatch
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
