@@ -1,0 +1,55 @@
+Code for America wants to clear 250,000 marijuana convictions
+Over the years Jennifer Pahlka has listened as discouraged people across America shared their stories of missed employment, education, financial, and housing opportunities with her. She’s comforted these individuals, gotten to know them, and learned that past marijuana convictions follow them in ways that make it impossible to move forward in life.
+
+"The things that people write will break your heart: 'I made a small mistake a long time ago and it’s just haunting me, I need a job to take care of my kids, I need a job to take care of my parents,'" Pahlka, founder and executive director of Code for America, said. "In a human way, when you see the problem up close it becomes a moral imperative to solve it."
+
+As more and more states around the country start legalizing marijuana, thousands of people find themselves haunted by past convictions that show up on background checks. In many cases, removing the harmful marks from criminal records is possible, but the journey towards record expungement is an extremely stressful one filled with lengthy paperwork and costly legal assistance.
+
+That's where Code for America’s Clear My Record program comes in. Using a new and advanced technology, Code for America set out to revolutionize the record expungement process, starting in California. The organization hopes to work nationally to clear a monumental 250,000 marijuana convictions by 2019.
+Code for America, a nonprofit organization based off Teach for America, was founded in 2009 to connect tech professionals with city governments. The team worked to tackle pressing local issues in innovative ways, eventually branching into criminal justice work with programs like Clear My Record.
+
+Clear My Record was first introduced in 2016 with hopes of helping people reduce or clear any low-level, non-violent, and non-serious crimes from their records. (Not simply those related to marijuana legalization.)
+
+By offering individuals a way to apply for record expungement online, the program was able to connect 7,000 people across 14 California counties with attorneys. But in doing so, the team learned the harsh realities facing people when they attempt to move on from past charges.
+"In getting those 7,000 users we collected data about what the rest of the process was like for them, and really came to the conclusion that this process is a very bad one," Pahlka explained.
+
+Oftentimes those who do know they're eligible for expungement have to engage in an elaborate multi-step process to clear their own records. From locating and filling out the proper forms, to obtaining criminal records, hiring and paying for legal support, and waiting for responses needed to move forward. Trying to clear a record as an individual can be a nightmare and consumes so much time that opportunities tend to slip away before a clean slate can be achieved.
+
+So earlier this year, when San Francisco District Attorney George Gascón announced plans to clear thousands of marijuana convictions under Proposition 64 — a law passed in Nov. 2016 that legalizes recreational marijuana use for adults ages 21 and older — Pahlka thought Clear My Record’s technical expertise and tools would be the perfect way to speed up and enhance the DA's auto-expungement process. 
+
+Why these decriminalization efforts matter so much
+Clear My Record is teaming up with the San Francisco District Attorney's office to review, identify, and submit paperwork necessary to overturn eligible convictions automatically. It's a huge deal.
+
+When California passed Proposition 47 in 2014, making people with certain felony convictions eligible to reduce or dismiss their charges, record expungement seemed hopeful for many people with low-level misdemeanors. But in many cases the complex appeal process is too heavy a burden to bear.
+
+"There are literally millions of people in California alone who can’t really break out of the cycle of poverty and incarceration," Pahlka noted. "You need to have a job to do that, and so few jobs are open to people with that on their records."
+While marijuana possession in California was previously classified as a misdemeanor for most people without any serious prior offenses, the charges still show up on criminal records, and therefore are flagged during background checks to this day.
+"It’s a very negative event in someone’s life, when they're almost about to get a job and then don’t,” Pahlka said, recalling stories her team has heard first hand. "If you’re up close to these people you really get a sense of how painful it is for them to try to move on with their lives ... but be so frustrated by the poor implementation."
+
+With this partnership, the DA's office will review each of the 4,940 felony marijuana convictions in San Fransisco county dating back to 1975, giving thousands of people the ability to move forward with their lives.
+
+"Clear My Record has given me a chance to have a second chance," Amanda Cardell, an individual who used the original online Clear My Record program, said in a promotional video. "It was very easy and it's going to change my life."
+
+How Clear My Record’s technology works
+With the Clear My Record program, people applying for expungement online would upload photographs of their criminal records to the website and the organization's character-recognition technology would work to determine which convictions on the paperwork could be expunged. 
+
+Now, in partnering with the DA’s office, eligibility for record clearance can be easily determined under state law.
+Rather than snapping photos of records and uploading them to a website, Clear My Record’s transferable technology can be used to digitally review criminal records in bulk. After reading and determining if a record is eligible for expungement, the program auto-fills the required paperwork and submits information needed to have the charges reduced (in PDF format) as a motion to the courts.
+While misdemeanor cases are relatively simple to comb through, felony marijuana convictions are more complex and usually take a good chunk of time to review. That's where the technology will most come in handy.
+
+The algorithm can easily search criminal records for serious offenses, such as violent felonies, that would prevent a person from having charges cleared or reduced. And while not every record can be expunged, the overall process will certainly be improved.
+
+Since the bulk record assessment can be done with a groundbreaking level of efficiency, the DA's office will also have the power to review everyone’s past convictions. This means even people who are unaware they're eligeable or who have yet to initiate the expungement process will be cleared.
+
+"In the new system people won’t ever have to see that paperwork, they’ll just find out the conviction has been taken off their record," Pahlka said.
+
+The future of auto-expungement
+To reach the lofty goal of clearing 250,000 marijuana convictions by 2019, Clear My Record plans to share its technology with three to five other counties in California.
+
+"That number is an estimate assuming we get a certain number of counties to come onboard showing the same sort of leadership that DA Gascón has shown. And I would think it's a high likelihood," Pahlka said. "It's ambitious and I'm excited about it. I also don’t want to stop there."
+Code for America currently has government partners in cities across the country, and has made noteworthy efforts to improve communities throughout the years — from helping individuals attend required court hearings in Salt Lake County, Utah, to working to keep people experiencing homelessness and mental illness away from the criminal justice system in Seattle, Washington
+In the future, the organization hopes to share its expungement technology nationally, working with other city and state governments to help deliver on voter promises. And aside from expanding the services location-wise, the program hopes to assist people with criminal records under different propositions, eventually moving beyond the focus of marijuana convictions.
+
+"When the government uses 20th century tools to tackle 21st century problems, it's the public that pays the price," District Attorney George Gascón said in a statement. "I'm hopeful that this partnership will inspire many prosecutors who have cited resource constraints to join this common sense effort and provide this relief."
+
+On May 14, the DA's office had prepared 962 motions to dismiss misdemeanor marijuana convictions, submitted 528 to the San Francisco Superior Court, and granted 428. The remaining thousands will be processed with the help of Clear My Record's technology.

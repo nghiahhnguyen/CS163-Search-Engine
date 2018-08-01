@@ -1,0 +1,24 @@
+Facebook says Chinese phone makers got access to data
+Huawei was able to access Facebook data to get the leading social network's applications to perform on smartphones.
+Facebook has confirmed that a Chinese phone maker deemed a national security threat by the U.S. was among companies given access to data on users.
+Huawei was able to access Facebook data to get the leading social network's applications to perform on smartphones, according to the California-based company.
+"Facebook along with many other U.S. tech companies have worked with them and other Chinese manufacturers to integrate their services onto these phones," Facebook mobile partnerships leader Francisco Varela said in a statement on Tuesday.
+"Given the interest from Congress, we wanted to make clear that all the information from these integrations with Huawei was stored on the device, not on Huawei's servers."
+Before now-ubiquitous apps standardized the social media experience on smartphones, some 60 device makers like Amazon, Apple, Blackberry, HTC, Microsoft and Samsung worked with Facebook to adapt interfaces for the Facebook website to their own phones, the company said.
+Facebook, which has been blocked in China since 2009, also had data-access deals with Chinese companies Lenovo, OPPO and TCL, according to Varela.
+"Facebook's integrations with Huawei, Lenovo, OPPO and TCL were controlled from the get-go," Varela said.
+Huawei has long disputed any links to the Chinese government, noting that its infrastructure and computing products are used in 170 countries.
+"Concerns about Huawei aren't new," U.S. Senator Mark Warner, vice chairman of the senate select committee on intelligence, said Tuesday.
+"I look forward to learning more about how Facebook ensured that information about their users was not sent to Chinese servers."
+Contracts with phone makers placed tight limits on what could be done with data, and "approved experiences" were reviewed by engineers and managers before being deployed, according to the social network.
+Facebook said it does not know of any privacy abuse by cellphone makers who years ago were able to gain access to personal data on users and their friends.
+Chinese foreign ministry spokeswoman Hua Chunying said she would not comment on cooperation between companies because she was unaware of the details.
+"But I hope that the U.S. can provide a fair, transparent, open and friendly environment for the investments and business activities of Chinese companies," Hua told a regular press briefing in Beijing on Wednesday.
+Done with deals
+Facebook is winding up the interface arrangements with device makers as the company's smartphone apps now dominate the service. The integration partnership with Huawei will terminate by the end of this week, according to the social network.
+The social network said it "disagreed" with the conclusions of a New York Times report that found that the device makers could access information on Facebook users' friends without their explicit consent.
+But the report raised concerns that massive databases on users and their friends -- including personal data and photographs -- could be in the hands of device makers.
+Huawei maintains that its products "meet the highest standards of security, privacy and engineering in every country we operate," and that "no government has ever asked us to compromise the security or integrity of any of our networks or devices."
+The social network came under attack early this year over British political consultant Cambridge Analytica's harvesting of personal data on 87 million Facebook users and their friends.
+Cambridge Analytica obtained the data without Facebook's permission and used it to help the election campaign of U.S. President Donald Trump.
+In April, Facebook chief executive Mark Zuckerberg apologized in Congress over the Cambridge Analytica fiasco, amid rising calls for more regulation of the company.

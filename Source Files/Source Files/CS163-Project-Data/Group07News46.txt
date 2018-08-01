@@ -1,0 +1,37 @@
+﻿"California lawmakers combine net neutrality bills
+Legislators have combined two separate net neutrality bills in the California State Senate to create a unified front to fight big internet service providers lobbying against strong statewide net neutrality protections.
+Sacramento Bee
+Legislators in California are combining two net neutrality bills into one in an effort to pass the strictest set of net neutrality protections in the country.
+On Monday, California state Sens. Scott Wiener from San Francisco and Kevin de Leon from Los Angeles officially linked their bills to create unified legislation they hope will become the ""gold standard"" for other states to follow in developing net neutrality protections.
+The two bills, each introduced in January, came about as a reaction to the Republican-led Federal Communications Commission's vote to repeal net neutrality rules passed in 2015. The rules officially came off the books last week.
+Net neutrality is the idea that broadband companies can't slow down or block access to the internet, nor can they pick and choose which content can get speedier access to customers.
+Wiener's bill has been closely followed by net neutrality supporters for months and has been considered the stronger of the two proposed laws because it goes further than rules passed by Democrats at the FCC three years ago. The legislation not only transforms the FCC's 2015 net neutrality rules into California law, but it also bars internet service providers from offering sponsored content, zero-rating or other deals that could provide an economic incentive to broadband companies to discriminate against content riding on their networks. Such offerings allow a company to pay data charges so that certain content doesn't count against a wireless subscriber's data plan.
+""California must step up to protect our residents and businesses,"" Wiener said. ""I'm thrilled to partner with Senator De Leon and our broad coalition to get this bill passed.""
+The bills -- Wiener's SB 822 and de Leon's SB 460 -- will be joined through a process known as ""contingent enactment."" What this means is that both bills must pass or neither becomes law. Each of the bills has already passed the California State Senate, and they'll be considered together in the first of two hearings in the California State Assembly on Wednesday.
+AT&T and other large internet service providers have been lobbying to either kill the proposed legislation or to water it down. While they say they support the basic idea of net neutrality, they argue that bans on things like zero-rating and paid-priority, which could allow companies to pay broadband providers to get their services delivered faster than competitors, limit their ability to try new business models. The big broadband providers say without the ability to experiment with new business models, they'll have to charge consumers more for their services in the future.
+So far, supporters of the legislation say the combined bills still leave critical net neutrality protections intact. But they're worried that legislators will cave to intense lobbying efforts, according to Evan Greer, deputy director of Fight for the Future, a grassroots group pushing for net neutrality protections.
+""It's unthinkable that California Democrats would even consider weakening an extremely popular net neutrality bill in the immediate wake of the FCC's attack on our Internet freedom,"" Gree said in a statement.
+California is one of more than two dozen states considering legislation to reinstate net neutrality rules, which were repealed by the Trump administration's FCC in December. The repeal became official on June 11. Other states, including New York, Connecticut and Maryland, are also preparing legislation to protect net neutrality.
+Earlier this year, Washington became the first state to sign such legislation into law. Governors in several states, including New Jersey and Montana, have signed executive orders requiring ISPs that do business with the state adhere to net neutrality principles.
+Meanwhile, Democrats in the US Senate are trying to reinstate the FCC's rules through the Congressional Review Act, which gives Congress 60 legislative days to overturn federal regulations. The resolution passed the Senate last month and must pass the House of Representatives and eventually be signed into law by President Donald Trump to officially turn back the repeal of the rules.
+The Smartest Stuff: Innovators are thinking up new ways to make you, and the things around you, smarter.
+It's Complicated: This is dating in the age of apps. Having fun yet?
+Net Fix
+reading
+â€¢
+California lawmakers combine net neutrality bills
+Jun 20
+â€¢
+California lawmakers gut 'gold standard' net neutrality bill
+Jun 20
+â€¢
+California's net neutrality bill faces a grim fate
+Jun 15
+â€¢
+Why net neutrality supporters are cringing at the AT&T-Time Warner merger
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+Net Fix Internet Politics Net neutrality FCC"

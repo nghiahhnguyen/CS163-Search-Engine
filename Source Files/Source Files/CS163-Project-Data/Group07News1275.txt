@@ -1,0 +1,62 @@
+The Evolutionary Origin of Descending Testicles
+Descending testicles were likely present in the earliest mammals, then subsequently disappeared in elephants, manatees and their relatives, according to a new study.
+
+By Steph Yin
+June 29, 2018
+
+Image
+Bull elephants in Addo Elephant Park in South Africa. They belong to a diverse group called afrotherians — mammals that live in or originated in Africa — that include manatees and rodent-like insect-eaters whose testicular descent was lost over time.CreditFinbarr O'Reilly for The New York Times
+Reader, here’s an incomplete list of things you shouldn’t try with elephants: a memory contest, jump rope and castration.
+
+See, in addition to having uncanny recall and a firm relationship with gravity, elephants have their testicles nestled deep within their bodies, all the way up near their kidneys. That’s unusual: In most other mammals, testicles form during embryonic development near the kidneys and then descend, either to the lower abdomen or an external scrotum, by the time of a male’s birth.
+
+Biologists have wondered about this discrepancy for decades. Did the earliest mammals retain their testicles, like elephants, or did they let their family jewels drop? A new study, published Thursday in PLOS Biology, says it was the latter.
+
+Studying the DNA of 71 mammals, a German team concluded that testicular descent is an ancestral trait that was later lost in so-called afrotherians, a ragtag group that includes elephants, manatees and several insect-eaters that live in or originated from Africa.
+
+ADVERTISEMENT
+
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]
+
+In four afrotherian subgroups — manatees and dugongs, elephant shrews, golden moles and tenrecs (small insectivores that resemble hedgehogs) — the authors found nonfunctional remnants of two genes specifically involved in testicular descent.
+
+Scientists often rely on geologic fossils to piece together evolutionary history, but this study shows that there is also a “fossil record in the genome,” said Mark Springer, a biology professor at the University of California, Riverside, who was not involved in the research.
+
+Image
+
+Tinus, a manatee at the Zoological Park in Paris whose gonads are not descended.CreditBertrand Rindoff Petroff/Getty Images
+These “molecular fossils” abound across the tree of life. “For pretty much any species, you’ll typically find on the order of a hundred or more broken genes that existed back in time and were lost,” said Michael Hiller, a senior research group leader at the Max Planck Institute of Molecular Cell Biology and Genetics in Dresden, Germany, and senior author of the new paper.
+
+He and the study’s lead author, Virag Sharma, did not start out targeting testicles.
+
+Over years, their group had developed a computational method to screen different genomes for broken genes with high precision. They observed vestiges of genes that were rendered useless by evolution: enamel-making genes in toothless whales, fat-digestion genes in sugar-dependent fruit bats and DNA repair genes in armadillos with armor that protects them from harmful UV radiation.
+
+ADVERTISEMENT
+
+
+Additionally, they noticed that two genes called RXFP2 and INSL3 were inactive in several afrotherian species.
+
+From a literature search the researchers learned that if you knock these genes out in male mice, the rodents’ testicles won’t descend. They also learned that evolutionary biologists have long debated whether this absence of testicular descent — called testicondy — is a primitive trait, or one that afrotherians uniquely evolved.
+
+“It became clear that we’d be able to help resolve that debate,” Dr. Hiller said.
+
+Based on the fact that genes start to rack up mutations once they lose their function, the researchers worked backward and estimated that testicondy independently arose at least four times, ranging from about 25 million years ago in cape golden moles to about 80 million years ago in cape elephant shrews.
+
+Image
+
+A rock hyrax in Cape Town. Though the rock hyrax does not have descended testicles, it does have the two inactive genes that are specifically associated with testicular descent.CreditJoao Silva/The New York Times
+This also meant that testicondy evolved after afrotherians split from other placental mammals, about 100 million years ago, which suggests the common ancestor of all mammals did indeed lower their testes, Dr. Hiller said.
+
+But mysteries still remain. Not all afrotherians exhibit testicondy — aardvarks, for instance, have descending testicles. And although elephants and rock hyraxes (which resemble guinea pigs) do not have descending testicles, RXFP2 and INSL3 are still intact in both.
+
+It may be that researchers are only “looking at part of the picture,” and that other genes and processes involved have not yet been identified, said Ross MacPhee, a mammalogy curator at the American Museum of Natural History who did not participate in the new study.
+
+ADVERTISEMENT
+
+
+There’s also the question of why testicles plummet in the first place. Given that they hold precious, life-giving contents, why carry them in vulnerable sacks? Scientists know that optimal sperm production requires temperatures lower than that of rest of the body, but they don’t understand why.
+
+Various hypotheses have been proposed, including the idea that dangling gonads are a way to signal virility and good health, but none are satisfactory.
+
+The answer may lie in further study of afrotherians, particularly why and how they came to hold their testicles so close.
+https://www.nytimes.com/2018/06/29/science/descending-testicles-evolution.html

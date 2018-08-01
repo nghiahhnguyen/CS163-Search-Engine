@@ -1,0 +1,87 @@
+﻿"Tech condemns Trump: Apple, Microsoft, Airbnb oppose separating families at the border
+A father and son from Honduras, seeking asylum, are detained near the U.S.-Mexico border near Mission, Texas.
+John Moore/Getty Images
+Apple CEO Tim Cook calls it ""inhumane."" Airbnb co-founders Brian Chesky, Joe Gebbia and Nathan Blecharczyk say it's ""immoral."" And Microsoft describes itself as ""dismayed.""
+They were all reacting to President Donald Trump's moves to separate members of families that cross US borders illegally. The move has resulted in the US government sending thousands of children to holding camps around the country, images of which have sparked international outrage, even from within Trump's own party.
+On Monday, tech companies began issuing statements condemning the Trump administration's actions. Someone even added Trump's policies to Wikipedia's entry on concentration camps (though it's being reviewed).
+The White House didn't respond to a request for comment.
+Here's what the companies have said:
+Microsoft
+Microsoft released a pair of statements after critics raised concerns about a January blog post in which the company wrote it was ""proud"" to supply tech services to US Immigration and Customs Enforcement (ICE), including its Azure cloud computing service and the ability to use ""deep learning capabilities to accelerate facial recognition and identification.""
+As a company, Microsoft is dismayed by the forcible separation of children from their families at the border. Family unification has been a fundamental tenant [sic] of American policy and law since the end of World War II. As a company, Microsoft has worked for over 20 years to combine technology with the rule of law to ensure that children who are refugees and immigrants can remain with their parents. We need to continue to build on this noble tradition rather than change course now. We urge the administration to change its policy and Congress to pass legislation ensuring children are no longer separated from their families.
+In a second statement, Microsoft added:
+Microsoft is not working with US Immigration and Customs Enforcement or US Customs and Border Protection on any projects related to separating children from their families at the border, and contrary to some speculation, we are not aware of Azure or Azure services being used for this purpose.
+Microsoft CEO Satya Nadella went on to call the new policy ""simply cruel and abusive, and we are standing for change.""
+Airbnb
+The three co-founders of the room and house rental service said in a joint statement that ""ripping children from the arms of their parents is heartless, cruel, immoral and counter to the American values of belonging.""
+Apple
+Apple CEO Tim Cook said the Trump administration's moves were ""inhumane"" and ""need to stop.""
+""It's heartbreaking to see the images and hear the sounds of the kids. Kids are the most vulnerable people in any society. I think that what's happening is inhumane, it needs to stop,"" Cook told the Irish Times.
+Cook was in Ireland to open a new office for Apple there. During the interview, he also explained why he's spoken out so much on issues ranging from gay rights to immigration. ""I'm personally a big believer in the way to be a good citizen is to participate, is to try to advocate your point of view, not to just sit on the sideline and yell or complain,"" he said.
+Google
+Sundar Pichai, Google's CEO, said the stories and images of families being separated were ""gut wrenching"" and urged the US government to find a ""better, more humane way.""
+Box
+Box CEO Aaron Levie, who's an avid Twitter user and often speaks his mind, called the Trump administration's moves ""un-American"" and urged the government to address immigration in a ""compassionate and scalable"" way.
+Uber
+Uber CEO Dara Khosrowshahi, himself an immigrant, said the stories coming from the border are heartbreaking. ""Families are the backbone of society, "" Khosrowshahi tweeted. ""A policy that pulls them apart rather than building them up is immoral and just plain wrong.""
+Uber also said it's working with the National Immigration Forum, the US Chamber of Commerce and the tech industry's lobbying group FWD.us to push legislators to act. The company also said it's reaching out to law firms with a ""strong commitment"" to offer pro bono work to help children affected by these policies. The company also donated $100,000 to Kids in Need of Defense (or KIND).
+Lyft
+Lyft's co-founders Logan Green and John Zimmer issued statements saying their company would offer free rides to 12 organizations helping families separated at the border, such as The Texas Civil Rights Project, Kids in Need of Defense, Texas Rio Grande Legal Aid and South Texas Pro Bono Asylum Representation Project. Lyft also said it'll continue to support the ACLU with its Round Up & Donate program, which lets passengers round up the fare of their ride and donate the extra money to the organization.
+YouTube
+YouTube CEO Susan Wojcicki also found the stories ""heartbreaking"" and recommended ways for her nearly 200,000 followers to help.
+Facebook
+Facebook co-founder and CEO Mark Zuckerberg praised organizations working to provide families at the border with legal and translation services and documenting events there. He also urged people to donate to those groups, including the Texas Civil Rights Project.
+Organizations like Texas Civil Rights Project and RAICES are doing great work helping families at the US border get...
+Posted by Mark Zuckerberg on Tuesday, June 19, 2018
+Zuckerberg and Facebook COO Sheryl Sandberg, meanwhile, have donated to a Facebook campaign to help reunite children with their parents. More than 121,000 people have contributed nearly $5 million to the Facebook fundraiser, set up Saturday by a Silicon Valley couple.
+Twitter / Square
+Jack Dorsey, the CEO of both Twitter and the payments company Square, threw his support behind the popular hashtag #KeepFamiliesTogether before asking Twitter users for their suggestions about the ""highest impact way to help.""
+Mozilla
+Denelle Dixon, chief operating officer at Mozilla, said in a statement the ""cruelties"" at the border should go ""far beyond disagreements over politics.""
+The cruelties Americans are witnessing today at our borders go far beyond disagreements over politics. As an American, and separately as a mother, I am horrified beyond measure by stories of children mercilessly separated, and kept apart from, their parents. The United States once championed human rights around the world. If we want to keep our humanity and the world's respect, the Administration must stop this practice immediately.
+Salesforce
+Marc Benioff, CEO of the business software giant Salesforce, tweeted out biblical verses, including ""Thou shalt love thy neighbour as thyself,"" while linking to an article about the detention facilities.
+eBay
+The online marketplace's CEO, Devin Wenig, said he supports border enforcement, but not separating families. ""America's moral and ethical leadership is at stake,"" he tweeted.
+Cisco Systems
+Chuck Robbins, CEO of networking equipment maker Cisco, called Trump's policy ""cruel."" ""We need policies that reflect our values and do what's right for society,"" he tweeted.
+Reddit
+Reddit co-founder Alexis Ohanian, who stepped down from his daily duties at the social network earlier this year, called a video of the camps given to the press by the US Border Patrol ""propaganda.""
+SV Angel
+Ron Conway, who co-founded the San Francisco-based seed stage investment firm SV Angel, tweeted support for a bill working through Congress called the Keep Families Together Act that would only separate kids from their families if they're being trafficked or abused.
+""#Republicans who fail to stop the #disgraceful separation of children from their parents will be #shamed by #history,"" he tweeted.
+FWD.us
+FWD.us, a collection of tech companies lobbying for immigration reform, said it has been ""supporting groups on the ground"" in addition to sending members of its team to help immigrants affected by these policies.
+We have seen first hand the damage and horror that separating and jailing children and families has inflicted on these kids. We have seen buses filled with shackled parents who are criminalized as a result of the 'zero tolerance' policy, all of whom are set to be sentenced for seeking hope, safety and security in the United States. We have heard first-hand accounts from those in this region aware of the regular turning away of families at ports of entry trying to seek asylum.
+You can read about its efforts here.
+Coursera
+Andrew Ng, co-founder of the online education startup Coursera, said he's ""deeply disappointed"" by the White House's policies. ""No one wants illegal immigration, but cruelty to children is unethical and we cannot justify it as 'deterrence,'"" he wrote.
+SmugMug
+Don MacAskill, CEO of the photo storage and sharing service that just bought Flickr, said on Twitter that he typically tries to stay out of politics but that ""this is about kids,"" adding the hashtag #FamiliesBelongTogether.
+CareZone
+Jonathan Schwartz, the former CEO of Sun and current head of the health management app CareZone, publicly asked Dorsey whether the Trump administration's moves violate Twitter's policies. Twitter has been criticized by those who say Trump violates its terms of service by harassing other users and using the service to threaten the lives of millions of people.
+Zillow
+Amy Bohutinsk, COO of the online real estate company Zillow. disagreed with the White House policy, saying ""We are better than this.""
+Originally published June 19 at 11:05 a.m. PT.
+Updated at 11:51 a.m. PT: Added statement by Facebook CEO Mark Zuckerberg; at 12:15 p.m. PT: Added statements from Uber, eBay, Coursera and others; 1:15 p.m. PT: Added Lyft CEO and Zillow COO statements; 1:28 p.m. PT: Added Google CEO statement; 2:40 p.m.: Adds Ron Conway statement; 2:59 p.m.: Adds comment from Salesforce CEO; 3:08 p.m.: Adds statement from Mozilla; 4:22 p.m.: Adds details on efforts by Uber and FWD.us. 5:29 p.m.: Adds additional information on efforts by Lyft.
+Silicon Valley speaking out against Trump: This isn't the first time tech CEOs have disagreed with the president.
+Trump and Silicon Valley: How politics and tech are changing in the age of Trump.
+US Tech Policy
+reading
+â€¢
+Tech condemns Trump: Apple, Microsoft, Airbnb oppose separating families at the border
+Jun 20
+â€¢
+Microsoft employees protest company's work with ICE
+Jun 19
+â€¢
+Facebook, Apple and Microsoft among tech companies continuing to criticize Trump
+Jun 19
+â€¢
+Apple's Tim Cook calls for end to 'inhumane' separation of immigrant families
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+US Tech Policy Politics Tech Industry Airbnb Jack Dorsey Cisco Mark Zuckerberg Facebook Sheryl Sandberg Tim Cook Microsoft Twitter Uber Apple"

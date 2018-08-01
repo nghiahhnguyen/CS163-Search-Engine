@@ -1,0 +1,29 @@
+How to download your photo archive from SmugMug's Flickr.
+"Flickr lets you retrieve images you've uploaded to the photo-sharing site.
+Screenshot by Stephen Shankland/CNET
+If you're one of the 75 million or so people using Flickr's photo-sharing service, you might be fretting about the future of your online photo collection right about now.
+Verizon in 2017 acquired Flickr's former parent, Yahoo, and now SmugMug just acquired Flickr from Verizon, and the changing corporate priorities might have you thinking it's best to have copies of all those pictures you uploaded over the years. Or maybe the change in ownership reawakened interest in an account that's been gathering dust along with your Blogger and MySpace pages.
+It used to be a pain to retrieve lots Flickr photos, but no more. Three years ago, Yahoo added a bulk download mechanism and redesigned album pages to give your photos another out.
+Here's a look at the two options. Note that you'll need a computer -- the download features aren't in the phone or tablet app.
+Exporting your whole Flickr collection
+To get all your photos, or big batches of them, first open up your Flickr camera roll, an interface that organizes all your shots by the date they were taken. This is essentially Flickr's file-management interface, letting you select many photos that you might want to add to an album, contribute to a group, restrict to friends and family viewing -- or export. On the upper right of the screen, you can change the view to show larger or smaller thumbnails of your photos.
+Flickr's camera roll lets you download photos you've selected.
+Screenshot by Stephen Shankland/CNET
+Next, click on the top left photo -- the most recent shot. The photo thumbnail will get a checkmark, and it'll appear in a pane across the bottom of the page.
+Then comes an awkward part: selecting a group of up to 500 images, Flickr's current maximum for each download batch. Scroll down until a few dozen photos have slid by. Now hold down the shift key and click a photo to select all the photos between that shot and the first you clicked. The selected photos will get checkboxes and appear in the bottom pane. Check the left side of the pane at the bottom of the screen to see how many photos you've selected. Keep adding more photos with the shift-click technique until you approach 500. If you overshoot, you can click individual photos in the pane across the bottom to deselect them relatively swiftly.
+After you've selected a batch, click the Download button at the bottom of the page. Flickr will package all the photos into a compressed file and send you a download link through Flickr's message system. You can check for Flickr messages by clicking on the bell icon in the upper right of the main Flickr.com page, but don't expect immediate gratification.
+Next, repeat the selection and download process to retrieve another group of up to 500. Yes, it's a pain if you have thousands of photos, but the good news is SmugMug has said it hopes to improve the process eventually.
+Exporting a Flickr album
+If you don't want to export everything, you can select just a subset of photos in the camera roll. Or you can use a different approach, downloading just a single collection of photos you've collected into an album.
+From Flickr's album page, you can download individual groups of your photos.
+Screenshot by Stephen Shankland/CNET
+For this method, first go to Flickr.com, then toward the upper left click the ""You"" button then the ""Albums"" option.
+When you've found the album you want, hover your mouse pointer over it and click the down-arrow button that appears. Again, you'll get a notification through the Flickr message system.
+First published April 23, 4:54 p.m. PT
+Update, April 24 at 1:22 p.m.: Adds details about how to work around the limit of 500 photos per download batch.
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.
+Follow the Money: This is how digital cash is changing the way we save, shop and work.
+Share your voice
+1 comment
+Tags
+Culture Photography Digital Media Yahoo"

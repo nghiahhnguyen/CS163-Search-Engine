@@ -1,0 +1,35 @@
+﻿"5 tips for Google Podcasts
+When you use the Google app to search for podcasts, you can launch directly into the Podcasts app (left) and it offers personalized recommendations (right).
+Google
+Google on Tuesday took the wraps off its eponymous Podcasts app, answering the prayers of many an Android user tired of relying on Google Play Music for podcast listening and management.
+If you're new to podcasts or just planning to take Google Podcasts for a spin to see how it compares with other apps, here are some tips to help you make the most of it.
+Read more: 6 tips from a podcast addict
+Watch this: 7 Google Pixel 3 rumors you need to know
+1:51
+Start here, finish there
+If you own more than one Google-powered device -- not only Android phones, but also tablets and Google Home ($129 at Crutchfield) speakers -- you'll appreciate this: You can start a podcast on one device and then, on another, pick up where you left off. There's nothing special you need to do -- the Podcasts app automatically keeps track of your listening progress.
+Adjust playback speed
+Use this slider to adjust playback speed in your selected podcast.
+Screenshot by Rick Broida/CNET
+Too many podcasts to listen to and not enough time? The Google Podcasts app lets you adjust the playback speed so you can consume shows more quickly. Fortunately, the pitch remains the same, so voices still sound normal.
+While listening to any podcast, bring up the player controls, then tap the 1.0x icon in the lower-left corner. That'll bring up a speed slider you can use to set your preferred multiplier. I recommend starting with 1.1x or 1.2x, just to see how you like it. You can always bump up if you want to go faster. (Prefer to slow things down? You can slide the control in that direction as well.)
+Download episodes for offline listening
+Getting ready to hop on a flight? You might want to download some podcasts first. And you'll have to do that manually by tapping any given episode, then the download icon. You can see all your available episodes in the Downloads section of the home screen.
+Search from outside the app
+A regular Google search will yield podcasts you can play right from the Podcasts app.
+Screenshot by Rick Broida/CNET
+Looking for a specific podcast? You don't have to load Google Podcasts to run a search (although it has that capability, of course); just fire up Google like you normally would.
+Assuming there's a match within the search results, you can tap an episode and you'll immediately land at Podcasts, where you can subscribe and do all the other app-specific things.
+Use a different podcast manager
+Let's be honest: Although Google Podcasts will likely improve with time, right now it's extremely limited.
+For example, as noted above, it can't automatically download new episodes of your subscribed podcasts -- you have to fetch each one manually.
+The app also doesn't support playlists, doesn't offer global settings for most features, doesn't have car or night modes, and so on.
+Thus, if you are indeed new to podcasts, you might appreciate a more full-featured app. Some great picks include Podcast Addict, Pocket Casts and Podcast Go.
+19
+Pod people: CNET's favourite podcasts
+The 3:59: Listen to CNET News' daily podcast.
+CNET UK Podcast: Britain's best tech podcast brings you the hottest news and most desirable gadgets.
+Share your voice
+Post a comment
+Tags
+Phones Audio Mobile Apps Target Google"

@@ -1,0 +1,9 @@
+Q. Google Maps gives the mileage between places based on driving directions on the available highways, but is there a way to calculate the distance between two towns “as the crow flies”?
+
+A. The driving directions that Google offers between locations do factor in the available roads, as well as traffic conditions, detours and other situations that may take you out of your way. While this is helpful for trip planning and navigation, Google Maps also includes a tool to simply measure distances between points in a straight line.
+When using Google Maps in a desktop web browser, right-click the city or starting point you want to use and select “Measure distance” from the menu. Next, click the second point on the map to see the direct distance in miles and kilometers displayed in a small box at the bottom of the window.
+Click elsewhere on the map to add more points to measure, or click an added point to delete it. You can move measurement points by dragging them on the map. When you have finished, click the X in the box at the bottom of the screen.
+In the Google Maps app for Android and iOS, find your starting point and press your finger on the screen until a red map pin appears. The address or name of the location is shown at the bottom of the screen, so tap it and scroll down to select “Measure distance.” Use your finger to slide the map — and a black targeting circle — to your second point so the circle is over the location. Tap the Add (+) button to link it to your first point. The direct mileage total is shown at the bottom of the screen.
+
+You can add more points to the original location by repeating the process. Tap the Undo button to remove a point at the top of the screen, or go to the three-dot More menu and choose Clear to remove them all.
+

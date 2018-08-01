@@ -1,0 +1,17 @@
+HAL-like robot to help astronaut in space odyssey
+Joey Roulette
+
+CAPE CANAVERAL, Fla. (Reuters) - A science fiction-inspired robot hardwired to assist astronauts launched from Florida early Friday to become the first personal, artificial intelligence-powered companion in space. 
+Bret Greenstein of IBM holds an artificial intelligence bot named CIMON, following a news conference at the Kennedy Space Center in Florida, U.S., June 28, 2018. Picture taken on June 28, 2018. REUTERS/Joey Roulette
+The Crew Interactive Mobile Companion, or CIMON, is an English-speaking droid roughly the size of a basketball that will help German astronaut Alexander Gerst conduct experiments on the International Space Station. 
+“What we’re trying to do with CIMON is to increase the efficiency of the astronaut,” Matthias Biniok, an engineer for chip maker IBM (IBM.N) and one of the lead architects behind CIMON’s artificial intelligence, told Reuters. 
+CIMON will verbally communicate step-by-step instructions to Gerst during three planned science experiments on the space station’s European module. Currently, astronauts read these instructions from a laptop, which Biniok says is an arduous process that a responsive, hands-free companion like CIMON can replace. 
+“Right now our main mission is to support the astronauts with their daily tasks to save time, because time is the most valuable and most expensive thing on the ISS,” Biniok said.
+SCIENCE FICTION COMIC
+The German Aerospace Center plans for CIMON to undergo three one-hour sessions to demonstrate how well the robot can help with experiments, like a crystal growth study, a test for its eight on-board cameras and an exercise to help Gerst solve a Rubik’s cube. 
+CIMON will return to Earth on Dec. 13. 
+Biniok said the concept of CIMON was inspired by a 1940s science fiction comic series set in space, where a sentient, brain-shaped robot named Professor Simon mentors an astronaut named Captain Future. CIMON also parallels HAL, the sentient computer in Stanley Kubrick’s movie, “2001: A Space Odyssey.”
+Philipp Schulien, a German engineer for CIMON’s hardware contractor, Airbus (AIR.PA), said extending astronauts’ abilities in space is imperative for future space exploration journeys, like the crewed missions to Mars that are scheduled to take off as early as 2020. 
+“There are certain effects that might appear during long-term missions like the so-called groupthink effect,” Schulien said, citing a behavioral phenomenon in which humans that spend lengthy periods of time in isolation are driven to make irrational decisions. “Long, isolated groups tend to stop communicating with the ground,” he said.
+A robot like CIMON with human-like personalities could help mitigate the disorientation astronauts may feel in space, Schulien said. 
+CIMON is among 5,900 pounds of cargo that launched to the International Space Station on Friday, atop a SpaceX Falcon 9 rocket. It is scheduled to reach the station on Monday.

@@ -1,0 +1,29 @@
+When Michael S. Dell took his namesake technology company private in 2013, he said that doing so would give him the freedom to prepare it for a future that stretched well beyond personal computers.
+
+Having expanded Dell into a huge one-stop technology shop for businesses, he and his financial partner, the investment firm Silver Lake, plan to bring the company back to the public markets — albeit in a complicated fashion that keeps them firmly in control.
+
+Mr. Dell and Silver Lake are expected to announce as early as Monday that they have struck a $21.7 billion deal to buy out investors in a special class of shares created in 2016 to help Dell buy the networking company EMC. That stock effectively tracks the performance of Dell’s 82 percent stake in VMware, the fast-growing network software company that Dell inherited when it bought EMC. (The other 18 percent of VMware is publicly traded as a different stock.)
+
+The deal, which was approved by the boards of Dell and VMware on Sunday evening, would simplify the stock structure of Dell and its publicly traded subsidiary. But it would also mark the return of Dell to the public markets, with a twist: The special shares held by Mr. Dell and Silver Lake would give them more votes than other investors.
+
+The transaction represents in some ways the culmination of a nearly $100 billion bet by Mr. Dell and Silver Lake that, away from the harsh glare of public markets, they could retool a company best-known for making personal computers and traditional servers for an age of smartphones and cloud computing. Dell still supplies the machines that sit on the desks inside many office buildings, and has also found a ready market selling equipment and software to the kinds of networked computing services that were once thought to spell its end.
+
+“In 2012, people were saying the PC was dead. It wasn’t,” Mr. Dell said in a telephone interview. “Three years ago, people were saying that everything’s going to the public cloud. Turns out that was completely wrong, too.”
+
+It was an expensive wager, with Mr. Dell and Silver Lake spending roughly $25 billion to take Dell private, and then $67 billion to buy EMC — a transaction that created a kind of one-stop shop for hardware and software needed by companies to run their businesses.
+
+Dell has increased its share of both the PC and the server markets. The research firm IDC estimated that Dell’s worldwide server revenue jumped more than 50 percent in the first quarter, taking the top spot from the longtime sector leader Hewlett Packard as it sells more equipment to cloud service providers. Dell also moved into the top spot in United States PC shipments in the first quarter, according to estimates by the research firm Gartner.
+
+And Mr. Dell has pushed the company into areas like internet-connected devices and artificial intelligence.
+
+With much of the transformation work done, Dell’s owners are ready to make the company public once again.
+
+Under the terms of the deal, Dell will offer either $109 a share in cash or 1.3665 shares of newly issued Class C stock in itself for each share of the tracking stock, known by its ticker, DVMT. The cash portion of the transaction will come from an $11 billion special dividend that VMware will issue to all its shareholders — $9 billion of which will go to Dell.
+
+The transaction would help simplify what has been a complicated stock structure. If the deal is approved by shareholders of the DVMT stock, there will be only two publicly traded types of shares tied to Dell: Dell’s Class C shares and the regular shares in VMware.
+
+Some DVMT shareholders — including Carl C. Icahn, the billionaire who bitterly fought Mr. Dell’s 2013 deal to take his company private — may fight for more money. But Mr. Dell and Mr. Durban pointed out that DVMT shares, although trading well below VMware’s own publicly traded stock, have more than doubled during their existence. The new offer is 29 percent higher than where DVMT shares closed on Friday.
+
+While the transaction would return Dell to the public markets, the new stock structure would leave Mr. Dell with a free hand to keep making changes in the company to adapt to new trends.
+
+“I believe we’ve accomplished what we set out to do in evolving the business,” Mr. Dell said. “But the work of evolving a company is never done.”

@@ -1,0 +1,24 @@
+Kaspersky Lab cut off from U.S. contractors
+
+By Andrew Blake - The Washington Times - Friday, June 15, 2018
+
+An interim rule published Friday in the Federal Register aims to ensure U.S. agencies and government contractors alike are banned from using hardware, software and services made by Russian antivirus vendor Kaspersky Lab effective July 15.
+
+While a provision included in the current National Defense Authorization Act (NDAA) will ban federal agencies from using Kaspersky Lab products beginning Oct. 1, the interim rule amends the Federal Acquisition Regulation (FAR) to begin implementing the prohibition sooner than slated and to a larger extent by broadening the ban to cover government contractors and starting next month.
+
+“The objective of the rule is to prescribe appropriate policies and procedures to enable agencies to determine and ensure that they are not purchasing products and services of Kaspersky Lab and its related entities for use by the Government on or after October 1, 2018,” reads the entry in the Federal Register. “The legal basis for the rule is section 1634 of the NDAA for FY 2018, which prohibits Government use of such products on or after that date.
+
+Yet while the NDAA banned Kaspersky Lab products among U.S. agencies, however, the interim rule issued Friday prohibits contractors as well from “providing any hardware, software or services developed or provided by Kaspersky Lab or its related entities, or using any such hardware, software, or services in the development of data or deliverables first produced in the performance of the contract.”
+
+“The contractor must also report any such hardware, software, or services discovered during contract performance; this requirement flows down to subcontractors,” the rule says.
+There is “an unacceptable level of risk for the Government in buying hardware, software or services developed or provided in whole or in part by Kaspersky Lab,” reads the entry in the Federal Register.
+
+“This level of risk is not alleviated by the fact that the item being acquired has been sold or offered for sale to the general public, either in the same form or a modified form as sold to the Government … nor by the small size of the purchase,” the rule says. “As a result, agencies may face increased exposure for violating the law and unknowingly acquiring a covered article absent coverage of these types of acquisitions by this rule.”
+
+Along with a directive issued in September by the Department of Homeland Security, the NDAA passed by Congress and signed by President Trump in December was meant to rein in the use of Kaspersky Lab products within Washington amid accusations involving the company’s connection to Russia.
+
+Kaspersky Lab has repeatedly denied maintaining improper ties to Moscow, but U.S. officials have warned that its products risk being exploited by Russian intelligence and harnessed to spy on individuals using the company’s antivirus software.
+
+The company sued the Trump administration in D.C. federal court over both the NDAA provision and DHS directive, but its cases were dismissed last month by U.S. District Judge Colleen Kollar-Kotelly.
+
+“Kaspersky Lab continues to maintain that the underlying statutory provisions of the interim rule … violate the U.S. Constitution by specifically and unfairly singling out the company for legislative punishment, based on vague and unsubstantiated allegations without any basis in fact,” Kaspersky Lab said in a statement to The Washington Times on Friday. “Through our appeal filed in federal appellate court, Kaspersky Lab will continue to challenge the constitutionality of these provisions.”

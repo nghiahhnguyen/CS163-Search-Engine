@@ -1,0 +1,37 @@
+The Facebook data debacle may not change internet behavior
+If you’re not paying, you’re the product, so the saying goes. For years, Facebook users have known that they — or, more specifically, their data — make up the bulk of the goods the social media company leverages for profit.
+
+Then came news that London-based data firm Cambridge Analytica accessed an estimated 87 million Facebook profiles without permission and used that data for political campaigning. The public was incensed.  
+
+The hashtag #DeleteFacebook started trending on Twitter, and media outlets have published a slew of how-tos on blocking online snoops. Facebook CEO Mark Zuckerberg was brought before Congress April 10 and 11 to answer for the company’s handling of user data.
+
+But it’s unclear if the uproar will actually change how people behave online or help them wrest more control over their data. Experts on human behavior and online privacy say people’s expectations of privacy may simply become a thing of the past. Here are a few key questions about online activity in the wake of this data breach:  
+
+Will people be less willing to share information online?
+That’s highly unlikely, says behavioral economist George Loewenstein. There had already been a string of high-profile data breaches, including Equifax and Anthem Health. But most people haven’t suffered severe, personal consequences from those intrusions. Cumulatively, he says, these episodes “may have created a kind of boy-who-cried-wolf effect.”
+
+One study from 2012 suggests how easily people can become desensitized to privacy invasion; when 10 homes were fitted with cameras, microphones and other surveillance equipment, residents grew to accept the lack of privacy after just a few months.
+
+“I don’t think we’re suddenly going to reach a level of data breaches where people are going to hit their limit,” says Loewenstein, of Carnegie Mellon University in Pittsburgh. “Quite the opposite.”
+
+People may become more cautious, however, about which information they do share, suggests management information systems researcher Laura Brandimarte. She points to a 2017 study of search engine queries before and after whistleblower Edward Snowden revealed government surveillance programs in 2013. The researchers saw fewer uses of sensitive search terms — including both words likely to be flagged as suspicious by the National Security Agency, or NSA, and potentially personally embarrassing words, like those related to health issues — after the government surveillance revelations. It’s possible that people will now censor themselves similarly on social media, says Brandimarte, of the University of Arizona in Tucson.
+
+Can people find out who is using their data and how?
+That’s difficult. Once information is released, it’s hard to track where it goes. “There’s a million companies that share data about us without us being aware of it,” Brandimarte says.
+
+Platforms often hide their data-sharing practices in convoluted privacy policies, which are “not only long and difficult to read for the average internet users, but they’re also hopelessly ambiguous and opaque,” says privacy researcher Alessandro Acquisti of Carnegie Mellon. “A privacy policy often has a statement such as, ‘We may share some of your information with third parties.’… There’s no truly actionable information that really tells individuals what exactly is being collected, who it is being shared with [or] what are the possible consequences.”
+
+Many people may not even bother reading these policies, because they wrongly assume that just the existence of privacy policy means a site cannot share user data without permission — a belief held by 62 percent of respondents to one survey, researchers reported in 2014.  
+
+Can people expect to have control of their online privacy?
+“People almost don’t stand a chance,” Acquisti says. Even if someone follows all expert advice on what not to share, they have no control over what others might post about them.
+
+The digital footprints a person leaves can lead to a host of inferences about a personal profile and regular contacts (SN: 2/3/18, p. 18). Even if you send encrypted emails, for instance, those messages “still show a connection — a relationship between you and other people, which can be analyzed by your ISP [internet service provider], can be analyzed perhaps by Google, can be analyzed perhaps by the NSA,” Acquisti says. “No amount of technology there can completely shield your information.”
+
+Changes to a platform’s policy can also upset people’s privacy controls, according to a 2013 study tracking how Facebook users shared information between 2005 and 2011. In late 2009 and early 2010, the company changed its settings so that some previously private information was made public by default. Around the same time, the researchers saw a sudden boost in publicly available information, probably because people didn’t realize the new settings publicly revealed some of the information they thought was private, says Acquisti, who was one of the study authors.
+
+What can people do to gain more privacy control?
+There’s little that individual internet users can do on their own, according to Loewenstein. “A few people changing their privacy settings on Facebook or getting off Facebook altogether just isn’t going to make a difference,” he says. “We need to have government intervention.”
+
+Facebook users in the European Union, however, will soon see stricter controls. New EU regulations going into effect in May will, among other things, limit tech companies to gathering the minimum amount of user data required to provide a specific service. Zuckerberg has suggested that Facebook may extend those privacy controls to users worldwide.
+

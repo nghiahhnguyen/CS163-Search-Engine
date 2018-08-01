@@ -1,0 +1,44 @@
+Cancer cells engineered with CRISPR slay their own kin
+Using gene editing, scientists have hoodwinked tumor cells into turning against their own kind.
+
+Cancer cells circulating in the bloodstream have something of a homing instinct, able to find and return to the tumor where they originated. To capitalize on that ability, researchers engineered these roving tumor cells to secrete a protein that triggers a death switch in resident tumor cells they encounter. The cancer-fighting cancer cells also have a built-in suicide switch — so the weaponized cells self-destruct before they can start tumors of their own, the team reports in the July 11 Science Translational Medicine.
+
+The new study isn’t the first attempt to fight cancer with cancer. Previous research has used circulating tumor cells to deliver cancer-killing viruses to noncirculating tumor cells, for example. But the new approach uses a gene-editing technology called CRISPR/Cas9 to manipulate the offensive-line cancer cells and give them more sophisticated properties, such as the ability to self-destruct once no longer needed.  
+
+Cells on the move
+When circulating tumor cells (green) that are engineered with CRISPR to kill other tumor cells are injected into a mouse, they migrate over time to established tumor cells (red), as seen in these fluorescence photomicrographs.
+
+
+C. REINSHAGEN ET AL/SCIENCE TRANSLATIONAL MEDICINE 2018
+“The new twist here is the use of CRISPR-based technology to add resistance or sensitivity features to the parental cells,” says Renata Pasqualini, a cancer biologist at Rutgers Cancer Institute of New Jersey in Newark.  
+
+Getting the technique to work took several steps. First, researchers hunted for a protein that could trigger cell death in many types of cancer cells. The winning candidate, a protein called S-TRAIL, killed off a variety of cancer cells and wasn’t particularly toxic to healthy cells.
+
+Then, the team tested two different approaches. The first used glioblastoma (a kind of aggressive brain cancer) cells that were resistant to the effects of S-TRAIL. Researchers used CRISPR to edit genes in these tumor cells to make them produce lots of S-TRAIL, and then set the cells loose on cancer cells that were sensitive to the deadly protein.
+
+In another approach, scientists took glioblastoma cells that were sensitive to S-TRAIL’s effects, and cut out the genes that impart that sensitivity before giving the cells the genes to produce the protein.
+
+Both kinds of engineered cells reduced the size of tumors in mice compared with mice who didn’t get the treatment, the researchers found. Mice given the treatment lived longer, too.
+
+Each approach has pros and cons, says study coauthor Khalid Shah, a stem cell researcher at Brigham and Women’s Hospital in Boston.
+
+In a clinical setting — still a long way off for this research — using cells that aren’t yet resistant to S-TRAIL could be “a little bit cumbersome,” Shah says. It would enable doctors to collect patients’ own cancer cells, and then turn them into a weapon targeted against people’s specific cancer. But the wait time for that special cellular engineering might make the option a no-go for very sick patients.
+
+The other approach, built with standard cells that are already resistant to S-TRAIL, could be stockpiled in hospitals for quick and easy access. But because those cells would be foreign to a patient, there would be a greater risk that the body would reject them.
+
+Citations
+C. Reinshagen et al. CRISPR-enhanced engineering of therapy-sensitive cancer cells for self-targeting of primary metastatic tumors. Science Translational Medicine. Vol. 10, July 11, 2018. doi:10.1126/scitranslmed.aao3240.
+
+Further Reading
+N. Seppa. A pox upon cancer. Science News. Vol. 183, March 23, 2013, p. 18.
+
+T.H. Saey. Therapy flags DNA typos to rev cancer-fighting T cells. Science News. Vol. 191, July 8, 2017, p. 7.
+
+Get Science News headlines by e-mail.
+There’s more to a galaxy than meets the eye. Galaxies’ bright stars seem to spiral serenely against the dark backdrop of space. But a more careful look reveals a whole lot of mayhem.
+
+“Galaxies are just like you and me,” Jessica Werk, an astronomer at the University of Washington in Seattle, said in January at a meeting of the American Astronomical Society. “They live their lives in a constant state of turmoil.”
+
+
+
+

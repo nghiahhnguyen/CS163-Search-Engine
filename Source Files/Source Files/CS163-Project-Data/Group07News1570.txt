@@ -1,0 +1,36 @@
+Britain's first 'unhackable' internet network may solve quantum computing threat
+
+Scientists have created the UK’s first ever "unhackable" fibre network in anticipation of the dawn of quantum computers, a technology that could render current security systems completely useless and leave critical infrastructure, banking and healthcare networks open to hackers. 
+
+The network, constructed by researchers from BT, the University of York and the University of Cambridge over the past two years, is secured by the laws of quantum physics which dictate how light and matter behave at a fundamental level. Using this, it is able to block anyone attempting to crack into the fibre link.
+
+This could be a game changer for the healthcare and financial sector, when it is feared existing encryption protocols will be rendered obsolete because we will have computers powerful enough to "crack" encryption keys within hours, rather than billions of years. 
+
+China has made some advancements in the area however this is the first time a fully functioning network is ready for commercial use. 
+
+Professor Andrew Lord,  BT’s head of optical research told The Telegraph: "We are worried because quantum computers are on the horizon, with billions of dollars of investment from Google, Microsoft and governments around the world and we believe that this technology will be able to hack cryptography-based schemes and make them pretty vulnerable in five to ten years. We are trying to get ahead so that when it happens, our security systems are ready and waiting."
+
+It comes as the government announces new powers to block quantum computing firms from foreign takeovers due to national security concerns. 
+
+It has announced a crackdown on foreign investors buying British technology companies, a move that could affect the country’s position as a tech hub, the Institute of Directors (IoD) has warned.
+
+The Department for Business, Energy & Industrial Strategy has moved the threshold for intervening in mergers and involving companies that provide hardware and software used in the military or dual technology, which is mostly used by civilians but can be offered up to the military if needed, like GPS. 
+
+Quantum computing | Why is the government worried?
+Quantum computing could be a force for good, potentially solving lots of healthcare issues and improving communications and navigation systems among many other applications. 
+
+Theoretically, it works by using a collection of small pieces of matter that when held in a state of entanglement, are able to calculate the answers to an entire problem all in one go.
+
+That poses a risk because it could allow someone to crack encryption by generating all the possible keys that are protecting the information in hours, rather than billions of years it could take now. 
+
+Now it can intervene on deals among companies that turnover £1m, down from the previous £70m. It has widened the net to almost all forms of technology, from microchips to quantum computing.
+
+Professor Lord said the move was a "positive" move as it showed the government was taking data privacy seriously and that while quantum computing "could be a force for good" it also "poses a risk" for cyber and networking security. 
+
+However IoD policy chief Edwin Morgan told the Telegraph that the announcement would be "alarming for investors" due to its "vagueness", adding that the agenda appears to be going against the government's plan to make Britain more outward looking".
+
+The broadening of the review criteria may deal a blow to research and development in the UK, just as ministers have outlined plans to cash in on areas such as big data and artificial intelligence, powered by chips and supercomputers. AI alone could add an additional £630bn to the UK economy by 2035, the government has previously claimed.
+
+It is unclear whether the rules will have affected recent deals including British chipmaker Imagination Technologies Group, which agreed to be bought by China-backed equity firm Canyon Bridge Capital Partners, in a deal structured to avoid scrutiny from US regulators.
+
+Two months earlier, Canyon Bridge was blocked from buying chipmaker Lattice Semiconductor Corp for $1.3 billion by US President Donald Trump.

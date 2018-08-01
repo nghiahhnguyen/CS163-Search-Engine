@@ -1,0 +1,29 @@
+Students find a way to break into Windows PCs using fault in voice assistant Cortana
+
+Two students have discovered a severe vulnerability in the security of Cortana, Microsoft’s voice-activated virtual assistant, that could allow anyone to take control of a locked Windows computer.  
+
+Yuval Ron and Ron Marcovich, two third-year computer science students at Technion - Israel Institute of Technology, succeeded in breaching Cortana using a straightforward command.
+
+They were able to take control of a locked computer and download an external file, enabling them to control all of the computer’s operations and look at private documents.
+
+All the students had to do was wake up the Windows' operating system by saying "Hey Cortana" and then type a simple line of text into Cortana's search which then gave them greater access to the computer.  
+
+The discovery was “groundbreaking” since it was the first time that a voice interface was used to bypass security features in such a dangerous manner.  
+
+This would enable people who are not technologically savvy to breach computer security and obtain complete access to a locked computer.
+
+Cortana is a virtual assistant that allows users to operate their computer, smartphone or smartwatch using voice commands. It was unveiled at Microsoft’s global developers’ conference in 2014.
+
+According to Amichai Shulman, founder of cybersecurity company Imperva, this is the second time a security vulnerability of this sort has been discovered but this one is the most dramatic.
+
+The two discovered the problem with Cortana as part of the undergraduate course Information Security Project, taught by Amichai Shulman, Tal Be'ery and Professor Eli Biham, head of the Technion's Hiroshi Fujiwara cybersecurity research center.
+
+They reported their findings to Microsoft who started working with them on a patch to protect against this form of attack.
+
+As of yesterday, the vulnerability has been repaired and it is no longer possible to access locked computers using Cortana in this way.
+
+Ron and Marcovich will receive a reward from Microsoft’s Bounty Program, and this August they will travel to the cyber security conference ‘Black Hat USA 2018’ in Las Vegas, where they will present the Cortana vulnerability.
+
+Microsoft’s Israel-based Research and development center was involved in the program’s original development.  
+
+A spokesmen from Microsoft said: “Customers who have applied our latest updates are protected.”

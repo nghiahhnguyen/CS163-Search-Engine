@@ -1,0 +1,50 @@
+﻿"Why your next gaming console may be in the cloud
+I first made this call back in 2013. Now I'm making it again, and this time I might actually be right.
+The arms race of living room gaming consoles, cramming in faster hardware and extra features, is doomed to (eventually) collapse under its own weight, replaced by the same cloud-based model that has seen streaming video revenue eclipse physical discs since 2016.
+Just as the Xbox One and PlayStation 4 were preparing for near-simultaneous release, I wrote about the shift from disc-based gaming to downloads, and the future shift to cloud-based streaming game services:
+Since the launch of the previous generation of living room game consoles more than half a decade ago, we've moved toward a far more connected way to access content, largely through cloud services that can stream both video and game content, as well as live interactive experiences such as shopping and social networking... To see where games and game systems are going, look at how people connect to video content. It's through streaming services such as Netflix and Amazon Prime Video, delivered over hardware devices that are little more than simple online conduits, such as the Roku or Apple TV.
+The video game equivalent of this trend is streaming-game services such as OnLive and Gaikai. Both offload the hardware and storage-intensive tasks of housing and rendering games to cloud-based server farms, literally broadcasting the live gameplay back to you through your TV or web browser. No, it's not perfect yet, and still far too reliant on maintaining a strong broadband internet connection, but that's why we're talking about the following generation of game consoles, not this one.
+Even if I was on the early side (and both OnLive and Gaikai are dead and gone), that shift to the cloud is coming. Part of the holdup is that the big game console makers and publishers don't seem ready to fully commit yet, taking positions along the spectrum from cautious to ambitious.
+Microsoft teased a streaming service of some kind at its Xbox conference.
+Josh Miller
+Microsoft's next Xbox
+Now Microsoft is finally talking about its next-gen console. ""Our hardware team... is deep into architecting the next Xbox consoles,"" Microsoft's Phil Spencer said during the Xbox press event at the 2018 Electronic Entertainment Expo in Los Angeles. But more importantly, the company is also working on streaming games, with Spencer saying, ""Our cloud engineers are building a game streaming network to unlock console gaming on any device."" These could be parts of the same device, or two separate threads that won't unify until some future hardware generation.
+EA and Ubisoft embrace streaming
+Our Ian Sherr got a chance to see EA's in-the-works cloud gaming system at E3, watching a Titanfall 2 gaming session on, ""a TV connected to a $20 controller and a high-speed internet connection."" As impressive as the demo was, there's no information on what a service like that could cost or when it might be available.
+Similarly, In a pre-E3 interview with Variety, Ubisoft CEO Yves Guillemot said, ""there will be one more console generation and then after that, we will be streaming, all of us."" That's at least partial buy-in from two of the biggest game publishers, albeit ones with less of a vested interest in selling expensive hardware boxes.
+Nvidia's new GeForce Now beta.
+Screenshot by Lori Grunin/CNET
+Sony and Nvidia are already doing it
+The PlayStation Now service, launched in 2014, does a decent job of streaming older PlayStation games (and a few newer ones) over broadband internet. It doesn't feel like a console replacement yet, but it does show that you can get a perfectly acceptable consumer gaming experience from cloud gaming.
+GeForce Now, from Nvidia, is a streaming service built around PC games. In its latest still-in-beta iteration, it supports games you may already own from Steam or other game services, and in the words of Lori Grunin, ""GFN gets high marks for performance, and when it's working right, it's addictive.""
+Both these services are already up and running, admittedly in limited fashion. But they point towards a future where high-end local hardware may not be necessary, even for premium gaming experiences.
+Back in 2013, I made the unwise move of going all-in on my optimistic predictions:
+The end result: the PlayStation 5 and Xbox, uh, Two (?) are more likely to look like a Roku or Apple TV than a hulking squared-off gaming PC... Think I'm crazy? Let's tune back in four-to-six years from now and we'll see what the next wave of living room game devices and services look like. If we're looking at more big, black boxes brimming with silicon, I'll be happy to eat my words.
+It hasn't quite been six years yet, but I'm willing to admit I may have jumped the gun a bit on the shift from discs and downloads to server-side streams. But now I think it's safe to say that the next generation of living room consoles, or at least the ones from Sony and Microsoft, will be the last that are not fully or mostly cloud-based. And if they're not, I'll be back to eat my words yet again.
+28
+Biggest games of E3 2018
+E3 2018: Everything you need to know.
+E3 2018 coverage at CNET: All of our E3 2018 coverage in one place.
+Watch this: Here are the E3 2018 games you should care about
+4:24
+E3 2018 coverage at GameSpot: Wall-to-wall coverage of the show from our sister site GameSpot.
+E3 2018 coverage at Giant Bomb: Still more commentary and news from E3, from our colleagues at Giant Bomb.
+E3 2018
+reading
+â€¢
+Why your next gaming console may be in the cloud
+Jun 20
+â€¢
+Marvel's Spider-Man on PS4: Everything we know about Spidey's new game
+Jun 17
+â€¢
+Here's why Elder Scrolls Blades is my most anticipated iPhone game
+Jun 16
+â€¢
+Super Smash Bros. Ultimate is Nintendo's biggest push into esports
+â€¢
+See All
+Share your voice
+5 comments
+Tags
+E3 2018 Video Games Electronic Arts (EA) Amazon Prime Disney Microsoft Nvidia Roku Sony Apple"

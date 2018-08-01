@@ -1,0 +1,32 @@
+Scouting for gerrymandering
+The decision will make it tougher to challenge state voting district plans. But the court left open the chance for people to prove that their votes were watered down. And it doesn’t prevent voters from raising different arguments in future suits. But first, plaintiffs will need to show that their district’s lines were drawn unfairly.
+
+In Duchin’s view, you need a range of math tools to do that.
+Among them: computers. Algorithms are groups of rules to solve a problem in a series of steps. Using them, computers can come up with many thousands of possible ways to divide a state map into voting districts. Those computer techniques can also suggest many, many ways to split up the actual distribution of voters. (Remember, people are not equally distributed across a state.) All those other district maps form a huge sample set of plans. Then, Duchin says, you can compare plans and how fairly they would represent all voters.
+
+Another important tool: statistics. In this field of mathematics, researchers study sets of data and information that can be gleaned from them. An outlier is a datum, a single piece of data, that is well outside the range of the rest of the set. It can be either higher or lower than those other data. But in any case, it’s not what you’d otherwise expect from a random sample.
+Outliers happen. But they raise questions in voting rights cases.
+
+One question: Compared with other possible plans, does the outlier plan give members of one political party a significant advantage or disadvantage? “If your plan performs the way lots and lots of other plans would, then it’s presumptively okay,” Duchin says. But if it waters down the value of votes from one party, compared with the other, “then your plan is really an abusive outlier,” she suggests. In other words, it would suggest someone went out of their way to hurt or help one party.
+
+Random switches
+Wesley Pegden is a mathematician. He works at Carnegie Mellon University in Pittsburgh, Pa. His testimony about gerrymandering helped persuade judges to find that Pennsylvania’s congressional election map could not stand under state law. On March 19, the Supreme Court refused to block the new district map.
+
+Like Duchin, Pegden likes the idea of seeing how voting district maps compare with other possible plans. But he suggests a different way to get a good sample of what other mapped districts would look like. His approach: Start with the plan that was drawn up. Then make random switches. At each step, pull a voting precinct (part of a district) in from a neighboring one, or give it up to a neighbor. This will create a whole lot of maps based on those small random changes.
+Then see how those new maps compare to the one that politicians drew up. So, Pegden would ask: If one party was at a big disadvantage in the politicians’ plan, does its handicap get bigger, smaller or stay pretty much the same as random changes are made to produce new maps?
+
+Here's a way to think about it, Pegden explains. Suppose you were asked to write numbers from one to 10 anywhere on a grid of squares. But you also want to make sure that any square someone might pick at random will be surrounded by squares with higher numbers. You can’t do it, Pegden says.
+
+Likewise, when it comes to voting districts, “it is impossible,” Pegden says, for a series of random changes to map out new districts where each is fairer than the first — unless that first one had not been fair. That’s true regardless of an area’s political geography or other features, he notes.
+
+Suppose almost all those maps made from little random-step changes would give election results with less bias for one party over the other. “Then that shows you that somebody worked hard to make that [first] map how it is,” Pegden says. And, presumably, the map produced by all of that hard work is unfair. His team wrote about the math and gerrymandering in the March 14, 2017 Proceedings of the National Academy of Sciences.
+
+How could you draw districts that would be fair? Pegden and another group he works with suggest one approach. It’s like the “I cut, you choose” way to split a piece of cake. Under the plan, one party could “cut” the state’s area into districts. The other party could freeze the boundaries of one of those districts. Next, that other party could redraw all the other district lines. Now the first party would freeze one district’s lines. The process would go on until all the districts were frozen. The group plans to publish its work in a journal soon.
+
+If an individual district was unfairly set, the Supreme Court said the remedy would be to change that district. But remember that districts need to have roughly equal numbers of voters. And the redrawn districts would have to avoid any legal problems that the first ones had. So it’s possible that challenges to enough single districts could lead to big changes in state maps.
+
+Also, the courts are not the only place to work out complaints about voting district maps. 
+
+Voters can ask state lawmakers to change the way they set districts. Voters can also push to amend a state’s constitution.
+
+The gerrymandering issue shows the importance of math “for everyday basic problems,” such as how to hold fair elections, Pegden adds. “It’s important for us all to feel like government in a democracy is basically fair,” he says.

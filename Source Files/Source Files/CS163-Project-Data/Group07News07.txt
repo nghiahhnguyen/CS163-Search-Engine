@@ -1,0 +1,18 @@
+﻿"EarTrumpet is the only volume control app you need in Windows 10
+Matt Elliott/CNET
+A joint project among former Microsoft engineers Dave Amenta, Rafael Rivera and David Golden, EarTrumpet is a volume control app with an exceptionally clean and friendly UI. It makes navigating your various audio devices on a Windows 10 machine much simpler.
+In the space of only a couple of clicks, EarTrumpet allows you to manage default audio devices and change the volume on individual apps. One of the real benefits is that it provides a quick option to mute web browsers, should something start playing in the background and ruin your Spotify sing-a-long.
+The app was originally released in 2015, but on Wednesday, EarTrumpet 2.0 hit the Microsoft Store, bringing a couple of UI changes, such as the ability to use a scroll wheel to change volumes. The most notable of those are new keyboard shortcuts and the ability to move apps between your different audio devices.
+The clean UI and expansive features in EarTrumpet puts Windows 10 default volume controls to shame.
+Jackson Ryan / CNET
+My advice? Replace the default volume control app that comes standard in Windows 10. When EarTrumpet is installed, it places an identical volume controller in the taskbar with a greater range of features.
+There's no point having two, right?
+You can turn the default controls off by right-clicking on the taskbar, head to ""Taskbar settings"" and then scroll down to ""turn system icons on or off"", you can switch the default volume control off.
+If you want to upgrade your audio controls, you can grab EarTrumpet 2.0 here. You'll need to have installed the Windows 10 April 2018 Update to take full advantage, though.
+The source code is also available on GitHub, if you're into that kind of thing.
+Security: Stay up-to-date on the latest in breaches, hacks, fixes and all those cybersecurity issues that keep you up at night.
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad services that will change your life.
+Share your voice
+1 comment
+Tags
+Computers Microsoft Windows 10"
