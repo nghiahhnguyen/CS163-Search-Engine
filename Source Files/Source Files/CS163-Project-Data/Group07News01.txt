@@ -1,4 +1,5 @@
-﻿"The Brave browser has a developer version for those who want to test new features.
+﻿The Brave browser has a developer version for those who want to test new features.
+
 Stephen Shankland/CNET
 Brave, a browser that blocks conventional online ads and strips privacy-invading trackers off the web, has begun testing its own technology for supplying advertisements.
 The startup, co-founded by former Firefox leader Brendan Eich, announced a special test version of Brave that will show about 250 prepackaged ads to those who sign up for an early-access version of the software. It'll expand that test later in June, Brave said in a blog post Tuesday.
@@ -22,3 +23,4 @@ Share your voice
 Post a comment
 Tags
 Laptops Advertising Chrome Privacy"
+	

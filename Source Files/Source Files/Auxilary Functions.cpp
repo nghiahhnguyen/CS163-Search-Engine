@@ -84,6 +84,7 @@ vector<string> splitString(string inputStr) {
 				result.push_back(tmp2);
 		}
 	}
+	return result;
 }
 
 bool exist(vector<Node> v, int file_name) {
@@ -201,10 +202,13 @@ string getFileName(int fileName) {
 }
 
 void preprocessing(string& word) {
-	while (!isalnum(word[0]) && word[0]!='$' && word[0]!='#')
-		word.erase(word.begin());
-	while (!isalnum(*(word.rbegin())))
-		word.pop_back();
+	string::iterator it, tmp_it;
+	for (it = word.begin(); it != word.end(); ++it) {
+		if (!(*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\''))) {
+			*it = ' ';
+		}
+		*it = tolower(*it);
+	}
 }
 vector<Node> Trie_t::getQueryData(string quiery) {
 	vector<string> tokens = splitString(quiery);
@@ -213,7 +217,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 	bool pendingOrOperator = false;
 	vector<vector<Node>> pendingMinusOperator;
 	for (int i = 1; i < n; ++i) {
-		if (isStopWord(tokens[i])) continue;
+		if (checkStopWordUsingTrie_t(tokens[i])) continue;
 		if (pendingOrOperator) {
 			pendingOrOperator = false;
 			result = intersect(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])));
@@ -228,7 +232,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '+') {
-			result = intersect(result, getKeywordData(tokens[i].substr(1, strin g::npos)));
+			result = intersect(result, getKeywordData(tokens[i].substr(1, string::npos)));
 			continue;
 		}
 		result = intersect(result, getKeywordData(tokens[i]));
@@ -349,34 +353,7 @@ bool wildCardMatch(const string& input, const string& pattern) {
 	return lookup[n][m];
 }
 
-bool checkStopWordUsingBS(string word, int l, int r) {
-    
-    // Using binary search to find whether user searching contains stop word or not.
-    // int l = 0, r = 666;
-    if (r >= l)
-    {
-        int mid = l + (r - l)/2;
-        
-        // Found stop word - Return TRUE
-        if (sWords[mid].compare(word) == 0)
-            return true;
-        
-        if (sWords[mid].compare(word) > 0)
-            return checkStopWordUsingBS(word, l, mid-1);
-        
-        return checkStopWordUsingBS(word, mid+1, r);
-    }
-    
-    return false;
-}
 
-bool initCheckStopWordUsingBS(string word) {
-    locale loc;
-    for (string::size_type i = 0; i<word.length(); ++i)
-        word[i] = tolower(word[i],loc);
-    
-    return checkStopWord(word, 0, 666);
-}
 
 bool checkStopWordUsingTrie_t (string word) {
     // Return FALSE if NOT FOUND THE STOP WORD
@@ -442,11 +419,11 @@ bool checkStopWordUsingTrie_t (string word) {
         "wont","words","world","would","wouldnt","www","x","y","yes","yet","you","youd","you'll",
         "your","youre","yours","yourself","yourselves","you've","z","zero"};
 
-    Trie_t *stopWords;
+	Trie_t stopWords;
+
     for (int i = 0; i < 667; i++) stopWords.insert(sWords[i]);
     if (stopWords.search(word) == NULL) return false;
     else return true;
     
-    delete stopWords;
     
 }

@@ -98,8 +98,6 @@ bool exist(vector<Node> v, int file_name);
 void preprocessing(string& word);
 vector<ll> numbersInString(const string& word);
 bool checkStopWordUsingTrie_t (string word);
-bool checkStopWordUsingBS(string word, int l, int r);
-bool initCheckStopWordUsingBS (string word);
 
 
 #endif // !_FUNCTION_H_

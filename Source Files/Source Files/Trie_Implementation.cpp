@@ -64,19 +64,19 @@ Word_t* Trie_t::search(string word) {
 void Trie_t::inputSynonymFromFile() {
 	//Nghia
 	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
-	ifstream fin("Synonym.txt");
+	ifstream fin("data\\Synonym.txt");
 	string keyword, hyphen, syn, syn_list;
 	stringstream ss;
 	while (fin.good()) {
 		fin >> keyword;
-		Word_t* keyword_node = search(keyword);;
+		Word_t* keyword_node = insert(keyword);;
 		//eat the hyphen in the file
 		fin >> hyphen;
 		getline(fin, syn_list);
 		ss = stringstream(syn_list);
 		int it = 0;
 		while (ss.good() && it++<3) {
-			getline(ss, syn, ',');
+			ss >> syn;
 			//push the word into the vector
 			keyword_node->synonyms.push_back(syn);
 		}
@@ -92,13 +92,14 @@ void Trie_t::inputFromFile(const string& folder_path) {
 	
 	//to read all the num
 	string file_path;
-	//traverse the file
-	for (int i = 1; i <= 2268; ++i) {
+	//traverse the file. Total files: 2268
+	for (int i = 200; i <= 500; ++i) {
 
 		//get the name of file
-		file_path = "CS163-Project-Data\\Group07News" + itoXX(i);
+		file_path = folder_path + "\\Group07News" + itoXX(i) +".txt";
 		ifstream fin(file_path);
 
+		if (fin.good()) cout << file_path << " is open\n";
 		map<string, Article_t> article_word_count;
 		map<string, Article_t>::iterator article_wmi;
 
@@ -106,7 +107,7 @@ void Trie_t::inputFromFile(const string& folder_path) {
 		int para_position = 0;
 		string paragraph, word;
 		stringstream ss;
-
+		
 		//process each paragraph
 		while (fin.good()) {
 			//increment the count of paragraphs

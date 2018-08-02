@@ -1,11 +1,26 @@
 #include "Function.h"
+#include "FunctionTrang.h"
 
 int main() {
-	Trie_t Trie;
-	Trie.insert("Nghia");
-	Trie.insert("Nghiasdfs");
-	Trie.insert("Ngh");
-	Trie.insert("Nghsdfs");
-	Trie.search("Nghsdfs");
+
+	Trie_t stopWord, mainTree;
+
+	mainTree.inputFromFile("CS163-Project-Data");
+	mainTree.inputSynonymFromFile();
+
+	char search[500];
+	ResizeConsole(1220, 700);
+	system("color 70");
+	tc(112);
+	LoadText();
+	LoadBorder();
+	readHistory();
+	ready(search);
+
+	string str(search);
+	vector<Node> top5Ranking = mainTree.getQueryData("~come");
+
+	system("pause");
+
 	return 0;
 }
