@@ -9,6 +9,14 @@ pho mua dong nguyen ha
 6
 population
 5
+"Ho Chi Minh" -district
+5
+"Ho Chi Minh" AND district
+5
+"a developer version"
+5
+"a list of trusted dental"
+5
 #food
 5
 2018
@@ -38,6 +46,8 @@ hanoi population million 2010
 ho tuan thanh
 5
 ho tuan thanh bigO
+5
+intitle:weather Hanoi
 5
 mini search engine
 5

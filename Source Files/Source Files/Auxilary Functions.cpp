@@ -141,12 +141,14 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 		return m->file_list;
 	}
 	// if it is an exact match phase
-	vector<string> kw = splitString(keyword);
+	vector<string> splitIntoTokens = splitString(keyword);
+	vector<string> kw;
+	for (vector<string>::iterator i = splitIntoTokens.begin(); i != splitIntoTokens.end(); ++i)
+		if ((*i) != "*") kw.push_back(*i);
 	vector<Node> result;
 	if (kw.size() == 0) return result;
 	result = getKeywordData(kw[0]);
 	for (int i = 1; i < kw.size(); ++i)
-		if (strcmp(kw[i].c_str(), "*") != 0)
 			result = intersect(result, getKeywordData(kw[i]));
 	// open file to recalculate word_count
 	ifstream fin;
@@ -241,7 +243,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			result = merge(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])));
 			continue;
 		}
-		if (i < n - 1 && strcmp(tokens[i + 1].c_str(), "OR") == 0) {
+		if (i < n - 1 && strcmp(tokens[i + 1].c_str(), "AND") == 0) {
 			pendingAndOperator = true;
 			continue;
 		}
