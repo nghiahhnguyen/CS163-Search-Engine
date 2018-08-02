@@ -39,9 +39,9 @@ struct Node {
 class Word_t {
 public:
 	friend Trie_t;
+	vector<string>synonyms;
 private:
 	vector<Node>file_list, title_list;
-	vector<string>synonyms;
 	Word_t *link[ALP] = { NULL };
 	bool is_end = false;
 };
@@ -62,7 +62,6 @@ public:
 	Word_t* insert(string word);
 	Word_t* search(string word);
 	vector<Node> getKeywordData(string keyword); // return data of a keyword
-	bool isStopWord(string s); // return if s is a stopword or not
 	//read the data into the Trie
 	void inputFromFile(const string& folder_path);
 	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
@@ -82,7 +81,7 @@ int linkIndex(char x);
 
 // vector functions
 void operator+= (vector<Node> &v1, const vector<Node> &v2); // add two vectors
-vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2); // return nodes in v1 or v2
+vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int m = 1); // return nodes in v1 or v2
 vector<Node> substract (const vector<Node> &v1, const vector<Node> &v2); // return nodes in v1 but not in v2
 vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2); // return nodes in both v1 and v2
 

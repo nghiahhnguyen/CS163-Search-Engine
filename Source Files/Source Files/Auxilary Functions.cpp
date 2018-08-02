@@ -32,11 +32,14 @@ void operator+= (vector<Node> &v1, const vector<Node> &v2) {
 		v1.push_back(*i);
 }
 
-vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2) {
+vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int m) {
 	vector<Node> result;
+	result += intersect(v1, v2);
+	// increase the score if Node is both in v1 and v2
+	for (vector<Node>::iterator i = result.begin(); i != result.end(); ++i)
+		i->keyword_count *= m;
 	result += substract(v1, v2);
 	result += substract(v2, v1);
-	result += intersect(v1, v2);
 	return result;
 }
 
@@ -61,10 +64,14 @@ vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2) {
 	vector<Node> result;
 	for (i = v1.begin(); i != v1.end(); ++i) {
 		int totalKeywordCount = (*i).keyword_count;
+        bool isInBothVector = false;
 		for (j = v2.begin(); j != v2.end(); ++j)
-			if ((*i).file_name == (*j).file_name)
+			if ((*i).file_name == (*j).file_name) {
+                isInBothVector = true;
 				totalKeywordCount += (*j).keyword_count;
-		result.push_back(Node(totalKeywordCount, (*i).file_name));
+            }
+		if (isInBothVector)
+			result.push_back(Node(totalKeywordCount, (*i).file_name));
 	}
 	return result;
 }
@@ -97,16 +104,25 @@ bool exist(vector<Node> v, int file_name) {
 }
 
 vector<Node> Trie_t::getKeywordData(string keyword) {
+	vector<Node> tmp; // empty vector to return in the case there is no data
 	if (keyword.find(" ") == string::npos) {
 		// if it is a token
-		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-'))
-			return search(keyword.substr(1, string::npos))->file_list;
-		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:")
-			return search(keyword.substr(8, string::npos))->title_list;
+		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-')) {
+			Word_t* m = search(keyword.substr(1, string::npos));
+			if (!m) return tmp;
+			return m->file_list;
+		}
+		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:") {
+			Word_t* m = search(keyword.substr(8, string::npos));
+			if (!m) return tmp;
+			return m->title_list;
+		}
 		if (keyword.size() >= 1 && keyword[0] == '~') {
-			vector<Node> ans = search(keyword.substr(1, string::npos))->file_list;
-			vector<string> syn = search(keyword.substr(1, string::npos))->synonyms;
-			syn.push_back(keyword);
+			vector<string> syn;
+			vector<Node> ans;
+			Word_t* m = search(keyword.substr(1, string::npos));
+			if (m) syn = m->synonyms;
+			syn.push_back(keyword.substr(1, string::npos));
 			int n = syn.size();
 			for (int i = 0; i < n; ++i)
 				ans = merge(ans, getKeywordData(syn[i]));
@@ -120,7 +136,9 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 				result = merge(result, getKeywordData(f[i]));
 			return result;
 		}
-		return search(keyword)->file_list;
+		Word_t* m = search(keyword);
+		if (!m) return tmp;
+		return m->file_list;
 	}
 	// if it is an exact match phase
 	vector<string> kw = splitString(keyword);
@@ -196,8 +214,8 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 }
 
 string getFileName(int fileName) {
-	string name = to_string(fileName);
-	name += ".txt";
+	string name("CS163-Project-Data\\Group07News");
+	name += itoXX(fileName) + ".txt";
 	return name;
 }
 
@@ -213,18 +231,18 @@ void preprocessing(string& word) {
 vector<Node> Trie_t::getQueryData(string quiery) {
 	vector<string> tokens = splitString(quiery);
 	int n = tokens.size();
-	vector<Node> result = getKeywordData(tokens[0]);
-	bool pendingOrOperator = false;
+	vector<Node> result;
+	bool pendingAndOperator = false;
 	vector<vector<Node>> pendingMinusOperator;
-	for (int i = 1; i < n; ++i) {
+	for (int i = 0; i < n; ++i) {
 		if (checkStopWordUsingTrie_t(tokens[i])) continue;
-		if (pendingOrOperator) {
-			pendingOrOperator = false;
-			result = intersect(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])));
+		if (pendingAndOperator) {
+			pendingAndOperator = false;
+			result = merge(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])));
 			continue;
 		}
 		if (i < n - 1 && strcmp(tokens[i + 1].c_str(), "OR") == 0) {
-			pendingOrOperator = true;
+			pendingAndOperator = true;
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '-') {
@@ -232,10 +250,10 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '+') {
-			result = intersect(result, getKeywordData(tokens[i].substr(1, string::npos)));
+			result = merge(result, getKeywordData(tokens[i].substr(1, string::npos)));
 			continue;
 		}
-		result = intersect(result, getKeywordData(tokens[i]));
+		result = merge(result, getKeywordData(tokens[i]));
 	}
 	for (vector<vector<Node>>::iterator i = pendingMinusOperator.begin(); i != pendingMinusOperator.end(); ++i)
 		result = substract(result, *i);

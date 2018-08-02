@@ -19,6 +19,10 @@ int main() {
 
 	string str(search);
 	vector<Node> top5Ranking = mainTree.getQueryData("~come");
+	vector<Node> come = mainTree.getKeywordData("come");
+	vector<Node> arrive = mainTree.getKeywordData("arrive");
+	vector<Node> nearr = mainTree.getKeywordData("near");
+	vector<Node> advance = mainTree.getKeywordData("advance");
 
 	system("pause");
 
