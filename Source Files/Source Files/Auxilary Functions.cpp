@@ -37,8 +37,8 @@ vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int bonusPoin
 	vector<Node> result;
 	result += intersect(v1, v2);
 	// increase the score if Node is both in v1 and v2
-	for (vector<Node>::iterator i = result.begin(); i != result.end(); ++i)
-		i->keyword_count += bonusPoint;
+	for (size_t i = 0; i < result.size(); ++i)
+		result[i].keyword_count += bonusPoint;
 	result += substract(v1, v2);
 	result += substract(v2, v1);
 	return result;
@@ -61,18 +61,19 @@ vector<Node> substract (const vector<Node> &v1, const vector<Node> &v2) {
 }
 
 vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2) {
-	vector<Node>::const_iterator i, j;
+	size_t i, j;
 	vector<Node> result;
-	for (i = v1.begin(); i != v1.end(); ++i) {
-		int totalKeywordCount = (*i).keyword_count;
+	for (i = 0; i < v1.size(); ++i) {
+		int totalKeywordCount = v1[i].keyword_count;
         bool isInBothVector = false;
-		for (j = v2.begin(); j != v2.end(); ++j)
-			if ((*i).file_name == (*j).file_name) {
+		for (j = 0; j < v2.size(); ++j)
+			if (v1[i].file_name == v2[j].file_name) {
                 isInBothVector = true;
-				totalKeywordCount += (*j).keyword_count;
+				totalKeywordCount += v2[j].keyword_count;
+				break;
             }
 		if (isInBothVector)
-			result.push_back(Node(totalKeywordCount, (*i).file_name));
+			result.push_back(Node(totalKeywordCount, v1[i].file_name, (v1[i].keyword_count > v2[j].keyword_count) ? v1[i].best_paragraph : v2[j].best_paragraph));
 	}
 	return result;
 }
@@ -104,18 +105,22 @@ bool exist(vector<Node> v, int file_name) {
 	return false;
 }
 
-vector<Node> Trie_t::getKeywordData(string keyword) {
-	vector<Node> tmp; // empty vector to return in the case there is no data
+vector<Node> Trie_t::getKeywordData(string keyword, set<string> &highlightWords) {
+	vector<Node> emptyVector; // empty vector to return in the case there is no data
 	if (keyword.find(" ") == string::npos) {
 		// if it is a token
 		if (keyword.size() >= 1 && (keyword[0] == '+' || keyword[0] == '-')) {
-			Word_t* m = search(keyword.substr(1, string::npos));
-			if (!m) return tmp;
+			string sTmp = keyword.substr(1, string::npos);
+			Word_t* m = search(sTmp);
+			if (!m) return emptyVector;
+			if (keyword[0] != '-') highlightWords.insert(sTmp);
 			return m->file_list;
 		}
 		if (keyword.size() >= strlen("intitle:") && keyword.substr(0, 8) == "intitle:") {
-			Word_t* m = search(keyword.substr(8, string::npos));
-			if (!m) return tmp;
+			string sTmp = keyword.substr(8, string::npos);
+			Word_t* m = search(sTmp);
+			if (!m) return emptyVector;
+			highlightWords.insert(sTmp);
 			return m->title_list;
 		}
 		if (keyword.size() >= 1 && keyword[0] == '~') {
@@ -126,7 +131,7 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 			syn.push_back(keyword.substr(1, string::npos));
 			int n = syn.size();
 			for (int i = 0; i < n; ++i)
-				ans = merge(ans, getKeywordData(syn[i]));
+				ans = merge(ans, getKeywordData(syn[i], highlightWords));
 			return ans;
 		}
 		if (keyword.find("..") != string::npos) {
@@ -134,11 +139,12 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 			vector<Node> result;
 			int n = f.size();
 			for (int i = 0; i < n; i++)
-				result = merge(result, getKeywordData(f[i]));
+				result = merge(result, getKeywordData(f[i], highlightWords));
 			return result;
 		}
 		Word_t* m = search(keyword);
-		if (!m) return tmp;
+		if (!m) return emptyVector;
+		highlightWords.insert(keyword);
 		return m->file_list;
 	}
 	// if it is an exact match phase
@@ -148,9 +154,10 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 		if ((*i) != "*") kw.push_back(*i);
 	vector<Node> result;
 	if (kw.size() == 0) return result;
-	result = getKeywordData(kw[0]);
+	set<string> tmpArrayForFunctCall;
+	result = getKeywordData(kw[0], tmpArrayForFunctCall);
 	for (int i = 1; i < kw.size(); ++i)
-			result = intersect(result, getKeywordData(kw[i]));
+			result = intersect(result, getKeywordData(kw[i], tmpArrayForFunctCall));
 	// open file to recalculate word_count
 	ifstream fin;
 	for (int i = 0; i < result.size(); ++i) {
@@ -160,15 +167,16 @@ vector<Node> Trie_t::getKeywordData(string keyword) {
 		// TODO: count apperance in file
 		string text;
 		while (getline(fin, text)) {
-			result[i].keyword_count += countFreq(keyword, text);
+			result[i].keyword_count += countFreq(keyword, text, highlightWords);
 		}
 		fin.close();
 	}
 	// remove files with 0 word_count
-	for (int i = 0; i < result.size(); ++i)
-		if (result[i].keyword_count == 0)
-			result.erase(result.begin() + i);
-	return result;
+	vector<Node> resultAfterRemove0WordCount;
+	for (vector<Node>::iterator i = result.begin(); i != result.end(); ++i)
+		if (i->keyword_count != 0)
+			resultAfterRemove0WordCount.push_back(*i);
+	return resultAfterRemove0WordCount;
 }
 
 vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
@@ -232,7 +240,7 @@ void preprocessing(string& word) {
 	}
 	word = result;
 }
-vector<Node> Trie_t::getQueryData(string quiery) {
+vector<Node> Trie_t::getQueryData(string quiery, set<string> &highlightWords) {
 	vector<string> tokens = splitString(quiery);
 	int n = tokens.size();
 	vector<Node> result;
@@ -242,7 +250,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 		if (checkStopWordUsingTrie_t(tokens[i])) continue;
 		if (pendingAndOperator) {
 			pendingAndOperator = false;
-			result = merge(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])), BONUSPOINT);
+			result = merge(result, merge(getKeywordData(tokens[i - 2], highlightWords), getKeywordData(tokens[i], highlightWords)), BONUSPOINT);
 			continue;
 		}
 		if (i < n - 1 && strcmp(tokens[i + 1].c_str(), "AND") == 0) {
@@ -250,14 +258,14 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '-') {
-			pendingMinusOperator.push_back(getKeywordData(tokens[i].substr(1,string::npos)));
+			pendingMinusOperator.push_back(getKeywordData(tokens[i].substr(1,string::npos), highlightWords));
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '+') {
-			result = merge(result, getKeywordData(tokens[i].substr(1, string::npos)), BONUSPOINT);
+			result = merge(result, getKeywordData(tokens[i].substr(1, string::npos), highlightWords), BONUSPOINT);
 			continue;
 		}
-		result = merge(result, getKeywordData(tokens[i]), BONUSPOINT);
+		result = merge(result, getKeywordData(tokens[i], highlightWords), BONUSPOINT);
 	}
 	for (vector<vector<Node>>::iterator i = pendingMinusOperator.begin(); i != pendingMinusOperator.end(); ++i)
 		result = substract(result, *i);
@@ -265,7 +273,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 	return result;
 }
 
-int countFreq(const string &pat, const string &txt) {
+int countFreq(const string &pat, const string &txt, set<string> &highlightWords) {
 	// count number of occurence of pat in txt
 	// pat might contain wildcard char 
 	stringstream ss;
@@ -299,8 +307,12 @@ int countFreq(const string &pat, const string &txt) {
 				}
 				++t;
 			}
-			if (found) ++res;
+			if (found) {
+				++res;
+				highlightWords.insert(txt.substr(i, t - 1 + patterns[patterns.size() - 1].length() - i));
+			}
 		}
+
 	}
 	return res;
 }

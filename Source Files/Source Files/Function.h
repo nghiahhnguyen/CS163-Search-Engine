@@ -61,14 +61,14 @@ public:
 	Trie_t();
 	Word_t* insert(string word);
 	Word_t* search(string word);
-	vector<Node> getKeywordData(string keyword); // return data of a keyword
+	vector<Node> getKeywordData(string keyword, set<string> &highlightWords); // return data of a keyword
 	//read the data into the Trie
 	void inputFromFile(const string& folder_path);
 	//add at most 3 symnonyms(if exist) to vector<string>symnonyms
 	void inputSynonymFromFile();
 	//add all the numbers found into set<ll>numbers
 	void addAllNumbers(const string& word);
-	vector<Node> getQueryData(string quiery); // return ranking of a quiery
+	vector<Node> getQueryData(string quiery, set<string> &highlightWords); // return ranking of a quiery and the words that need to be highlights in the text
 private:
 	Word_t * root = NULL;
 	set<ll>numbers;
@@ -90,7 +90,7 @@ vector<string> splitString(string inputStr); // split intputStr into tokens
 vector<string> findExactValue(string keyword, const set<long long> &existValue); /* replace range in keyword by value in existValue array
 	Precondition: existValue should be sorted*/
 string getFileName(int fileName);
-int countFreq(const string &pattern, const string &text); // find frequency of pattern in text
+int countFreq(const string &pattern, const string &text, set<string> &highlightWords); // find frequency of pattern in text
 bool wildCardMatch(string& input, string& pattern);
 
 bool exist(vector<Node> v, int file_name);
