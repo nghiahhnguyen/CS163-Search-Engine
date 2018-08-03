@@ -18,8 +18,8 @@ int main() {
 	ready(search);
 
 	string input(search);
-	vector<Node> top5Ranking = mainTree.getQueryData(input);
-
+	set<string> highlightWords;
+	vector<Node> top5Ranking = mainTree.getQueryData("~come", highlightWords);
 
 	system("pause");
 

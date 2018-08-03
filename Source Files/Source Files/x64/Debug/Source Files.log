@@ -1,9 +1,9 @@
 ﻿  Auxilary Functions.cpp
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(134): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(235): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(277): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(307): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(336): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(132): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(140): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(244): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(285): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(286): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(320): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\github\cs163-search-engine\source files\source files\auxilary functions.cpp(349): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Source Files.vcxproj -> E:\GitHub\CS163-Search-Engine\Source Files\Source Files\x64\Debug\Source Files.exe
