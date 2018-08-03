@@ -5,9 +5,13 @@ come
 7
 nigga
 6
+hanoi population million 2010
+6
 pho mua dong nguyen ha
 6
 population
+5
+	become "Vincom *"
 5
 "Ho Chi Minh" -district
 5
@@ -23,9 +27,13 @@ population
 5
 approach
 5
+become "Vincom *"
+5
 camera 24mp
 5
 cham day noi dau
+5
+d
 5
 dgdg
 5
@@ -40,8 +48,6 @@ dinh ba tien
 erik cham day noi dau
 5
 gdsg
-5
-hanoi population million 2010
 5
 ho tuan thanh
 5

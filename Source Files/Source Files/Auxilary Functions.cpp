@@ -22,7 +22,7 @@ int linkIndex(char x) {
 		return 36;
 	else if (x == '#')
 		return 37;
-	// meaning x is "  '  "
+	// meaning x is '\''
 	else
 		return 38;
 }
