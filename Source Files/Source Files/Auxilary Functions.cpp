@@ -1,4 +1,5 @@
 #include "Function.h"
+const int BONUSPOINT = 500;
 
 string itoXX(int number) {
 	//Nghia
@@ -32,12 +33,12 @@ void operator+= (vector<Node> &v1, const vector<Node> &v2) {
 		v1.push_back(*i);
 }
 
-vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int m) {
+vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int bonusPoint) {
 	vector<Node> result;
 	result += intersect(v1, v2);
 	// increase the score if Node is both in v1 and v2
 	for (vector<Node>::iterator i = result.begin(); i != result.end(); ++i)
-		i->keyword_count *= m;
+		i->keyword_count += bonusPoint;
 	result += substract(v1, v2);
 	result += substract(v2, v1);
 	return result;
@@ -240,7 +241,7 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 		if (checkStopWordUsingTrie_t(tokens[i])) continue;
 		if (pendingAndOperator) {
 			pendingAndOperator = false;
-			result = merge(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])));
+			result = merge(result, merge(getKeywordData(tokens[i - 2]), getKeywordData(tokens[i])), BONUSPOINT);
 			continue;
 		}
 		if (i < n - 1 && strcmp(tokens[i + 1].c_str(), "AND") == 0) {
@@ -252,10 +253,10 @@ vector<Node> Trie_t::getQueryData(string quiery) {
 			continue;
 		}
 		if (tokens[i].size() >= 1 && tokens[i][0] == '+') {
-			result = merge(result, getKeywordData(tokens[i].substr(1, string::npos)));
+			result = merge(result, getKeywordData(tokens[i].substr(1, string::npos)), BONUSPOINT);
 			continue;
 		}
-		result = merge(result, getKeywordData(tokens[i]));
+		result = merge(result, getKeywordData(tokens[i]), BONUSPOINT);
 	}
 	for (vector<vector<Node>>::iterator i = pendingMinusOperator.begin(); i != pendingMinusOperator.end(); ++i)
 		result = substract(result, *i);

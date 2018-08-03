@@ -81,7 +81,7 @@ int linkIndex(char x);
 
 // vector functions
 void operator+= (vector<Node> &v1, const vector<Node> &v2); // add two vectors
-vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int m = 1); // return nodes in v1 or v2
+vector<Node> merge(const vector<Node> &v1, const vector<Node> &v2, int bonusPoint = 0); // return nodes in v1 or v2, there's a bonus point for nodes in both 2 vector
 vector<Node> substract (const vector<Node> &v1, const vector<Node> &v2); // return nodes in v1 but not in v2
 vector<Node> intersect(const vector<Node> &v1, const vector<Node> &v2); // return nodes in both v1 and v2
 
