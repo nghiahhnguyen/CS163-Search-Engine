@@ -231,13 +231,14 @@ string getFileName(int fileName) {
 }
 
 void preprocessing(string& word) {
-	string::iterator it, tmp_it;
+	string::iterator it;
+	string result;
 	for (it = word.begin(); it != word.end(); ++it) {
-		if (!(*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\''))) {
-			*it = ' ';
+		if (*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\'')) {
+			result.push_back(tolower(*it));
 		}
-		*it = tolower(*it);
 	}
+	word = result;
 }
 vector<Node> Trie_t::getQueryData(string quiery, set<string> &highlightWords) {
 	vector<string> tokens = splitString(quiery);
