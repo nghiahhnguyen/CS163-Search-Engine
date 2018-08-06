@@ -215,10 +215,10 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	set<long long>::const_iterator findStartIndex = upper_bound(exactVal.begin(), exactVal.end(), startVal);
 	set<long long>::const_iterator findEndIndex = lower_bound(exactVal.begin(), exactVal.end(), endVal);
 	set<long long>::const_iterator tmp = findStartIndex;
-	--tmp;
+	if (findStartIndex != exactVal.begin()) --tmp;
 	if (findStartIndex != exactVal.begin() && *(tmp) == startVal)
 		--findStartIndex;
-	if (*findEndIndex == endVal) ++findEndIndex;
+	if (findEndIndex != exactVal.end() && *findEndIndex == endVal) ++findEndIndex;
 	for (set<long long>::const_iterator i = findStartIndex; i != findEndIndex; ++i)
 		stringsWithExactVal.push_back(keyword.substr(0, startValPos) + to_string(*i) + keyword.substr(endValPos, string::npos));
 	return stringsWithExactVal;
