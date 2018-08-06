@@ -190,9 +190,9 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	vector<string> stringsWithExactVal;
 	if (dotPos == string::npos) return stringsWithExactVal;
 	size_t startValPos = dotPos;
-	while (startValPos >= 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
+	while (startValPos > 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
 		--startValPos;
-	if (startValPos != 0 && keyword[startValPos - 1] == '-')
+	if (startValPos > 0 && keyword[startValPos - 1] == '-')
 		--startValPos;
 	long long startVal;
 	if (startValPos == dotPos)
@@ -233,7 +233,7 @@ string getFileName(int fileName) {
 void preprocessing(string& word, set<ll>& numbers_in_word) {
 	string::reverse_iterator it;
 	string result = "";
-	ll cur_number;
+	ll cur_number = 0;
 	int num_digit = 0;
 	bool last_char_is_digit = false;
 	for (it = word.rbegin(); it != word.rend(); ++it) {
