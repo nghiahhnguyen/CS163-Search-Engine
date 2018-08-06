@@ -1,0 +1,67 @@
+In Mexico, this coding school gives returning immigrants a second chance
+Growing up in the small town of Bradenton, Florida, Miriam Álvarez had a pretty typical American childhood. She took the pledge of allegiance every morning in elementary school and cheered the U.S. team during Olympic spirit week in high school. Her younger brother enrolled in the Army, and is now serving in South Korea.
+
+But when Álvarez was 14, her parents sat her down in the living room and told her a secret they’d been keeping her whole life: Álvarez, her sister, and her parents were undocumented. Her mother had brought Álvarez from Mexico to the U.S. when she was just nine months old. 
+
+"It was a shock because you felt lied to," says the shy 22-year-old, who laughs nervously when talking about her past. "Telling me that I'm not American, or not even Mexican American. So really, what am I?"
+As deportations increased under former President Barack Obama, Álvarez's parents began to worry for their family's safety. Realizing, too, that being undocumented would make going to college for their children prohibitively expensive, her parents decided to move the family back to Mexico in 2010, hoping for a brighter future.
+
+For Álvarez, however, the difficulties were just beginning. She’d lived her whole life in the U.S., and Mexico felt like a totally foreign country.
+
+"It was really scary," she says. "I couldn't read, I couldn't write Spanish. I could barely speak it. In school I would keep quiet so people wouldn’t make fun of my accent."
+
+Worse still, when she tried to enroll at a university, the local college wouldn’t accept her American documentation.
+
+"This is literally all I had," she says. 
+
+But now, eight years after she returned to Mexico, Álvarez has finally found a place where speaking English is an asset, and the only language she really needs to know is HTML
+That place is Hola<code/>, a software engineering boot camp in Mexico City that launched last year to support returning Dreamers and other young immigrants like Álvarez who grew up in the U.S. The intensive five-month course, modeled after San Francisco coding school Hack Reactor, currently has 22 students enrolled, including Álvarez. 
+"Coding seems like a puzzle to me," Álvarez says with a smile. "It's like filling in the pieces. I don't like being told something's wrong — I like figuring it out for myself."
+
+Unlike local colleges and universities, Hola<code/> doesn't require any documentation or previous education — just the willingness to learn.
+
+"We hacked the obstacles," explains Marcela Torres, the school's cofounder and CEO. "We wanted to eliminate all the barriers."
+
+After passing an entrance exam, students receive a monthly stipend of $270 (nearly twice Mexico’s monthly minimum wage) so they can devote 12 hours a day to the training. They only pay their tuition of around $6,000 if they get a job.
+
+"The heart of Hola<code/> is to go against the current climate of building walls," Torres says. "We're building bridges, but this isn’t charity. The students are their own agents of change."
+
+Places like Hola<code/> are becoming increasingly important in Mexico, where hundreds of young Mexicans who grew up in the U.S. are returning every year, either forced home by deportation or, like Álvarez, returning voluntarily because of the political climate. 
+But unlike Álvarez, who left before Obama instituted the Deferred Action Childhood Arrivals program known as DACA, there are some 600,000 undocumented Mexican Dreamers with legal status who are at risk of deportation if Congress doesn't pass a replacement.
+
+With the March 5 deadline set by President Donald Trump now long passed, the fate of these thousands of young immigrants hangs in the balance. Even though a federal judge has blocked Trump's order to rescind the program for now, without concrete legislation from Congress to renew DACA, it's unclear how long this legal protection will last. 
+
+"It's a monumental injustice," says Gustavo Mohar, a senior associate at the Center for Strategic and International Studies, a Washington, D.C.-based think tank. "A perverse political use of people that are completely innocent. They're the scapegoats of American internal politics."
+
+But for Mohar, who was Mexico's chief migration negotiator during the administration of former president Vicente Fox, the greater concern is what will happen to those young people who are sent back to Mexico. Like Álvarez, many returnees grew up speaking English, and have almost no memory of Mexico, making the transition incredibly challenging.
+
+"From any optic, it's clearly a very difficult change," he says. "Even though they're Mexican by origin, they're really foreigners."
+
+The Mexican government offers some assistance to returning migrants, such as food and basic shelter as well as assistance finding work. In Mexico City, deportees can receive unemployment allowance for up to six months, and sign up for training schemes to facilitate integration into the workforce. 
+
+But few of these programs cater specifically to young returnees and Dreamers, and in any case, the Mexican government has admitted it may not have the budget to fully support a potentially huge increase in the number of returning Dreamers
+For now, a number of nonprofits and private companies like Hola<code/> are stepping in to ease the transition for young returnees who, with their fluent English and American educations, could be a boon to the Mexican workforce, particularly the country's growing tech sector. 
+As companies from Amazon to Facebook expand their operations south of the border, and as the U.S. immigration policy makes skilled immigrants harder to find, there is a growing need for software engineers who can either work remotely, or join Mexico’s own technology boom. 
+
+"These young people swallowed the American dream," says Torres, the Hola<code/> founder. "Mexico has a lot to gain if they wanted to look at it that way."
+
+Jorge Cervantes, 20, is another student at the school who tasted that American dream. Taken to the U.S. when he was just over a year old, he came back to Mexico at 15 after his father was deported.
+
+"It was overwhelming," he remembers. "I felt more American than Mexican — my whole life was over there."
+
+Like Álvarez, Cervantes also struggled with the language — his own family made fun of his Spanish when he first arrived. Still, like many young migrants back in Mexico, speaking English landed him a job at a call center, work that he calls "cubicle hell."
+Before coming to Hola<code/>, Cervantes had never even seen a snippet of HTML. Now he's learning to build websites and mobile apps from the inside out.
+
+"It's like learning a new language," he says. "But now that you know the basic alphabet, any code that you see is like reading a book."
+
+But according to founder Torres, Hola<code/> is about more than just learning code. For many students, the school gives them a sense of belonging.
+
+"Behind everyone, there are stories of pain," she says. "The shock of deportation hits them really hard. This is a safe space — the only thing we see in them is potential." 
+
+For Álvarez, the young immigrant from Florida, the coding school has made her finally feel at home in Mexico. "They become like family," she says of her classmates. 
+
+Finding her place in Mexico has also given her some perspective on her former home: "Living in the U.S., you're living in a bubble," she says. "Once you’re out of it, you can see all the  flaws that need to be changed in order to make it as great as people think it is."
+
+As for Cervantes, beyond the skills he's picked up, he says the coding school has changed his whole mindset.
+
+"Before Hola<code/>, I wasn't sure where my life was headed,” he says. “Now that I'm halfway through, I have so many visions of doing the things that I used to dream of when I was a kid, dreams that started to seem impossible. Now I see them, closer and closer."

@@ -1,0 +1,50 @@
+WannaCry hero Marcus Hutchins 'admitted to writing banking code'
+
+The British computer expert who helped shut down the WannaCry cyber attack on the NHS admitted writing code which was used to harvest bank details, according to documents filed with a US court.
+
+Marcus Hutchins, 23, is alleged to have said in a phone call from prison that he had written code as a teenager that was turned into malicious software that US prosecutors said harvested banking details.
+
+Hutchins, from Ilfracombe, Devon, is accused of six counts of creating and distributing the malware known as Kronos and faces a maximum 40 years in prison.
+
+The computer whizz, who is known online as Malwaretech, denies the charges and his lawyers argue the call is inadmissible as evidence as he had been "coerced" by investigators.
+
+Hutchins was arrested by FBI agents in a first-class lounge in August last year at McCarran International Airport in Las Vegas as he waited to board a flight back to the UK after attending a computer security conference.
+
+Documents filed by US prosecutors on Tuesday contain a transcript of a telephone call made from jail hours later with an unidentified individual.
+
+Hutchins allegedly said: "So I wrote code for a guy a while back who then incorporated it into a banking malware, so they have logs of that, and essentially they want to know my part of the banking operation or if I just sold the code on to some guy... once they found I sold the code to someone, they wanted me to give them his name, and I don't actually know anything about him."
+
+Hutchins also reportedly said that logs of an online chat showed he had also given software called "compiled binary" to someone "to repay a debt" of "about five grand".
+
+The debt arose from a software glitch which meant Hutchins lost Bitcoin he was holding on behalf of another person.
+
+According to the transcript, Hutchins said: "I think the coding part I was less than 18, but I think giving him the binary I might have been older than 18."
+
+He added: "I knew it was always going to come back, I just didn't think it would be so soon."
+
+The cyber expert was hailed as a hero in May last year when he found a "kill-switch" that slowed the effects of the WannaCry virus that hit more than 300,000 computers in 150 countries.
+
+The investigation into the banking malware predates that attack and is completely unrelated, officials said.
+
+The FBI claims that Hutchins created the Kronos malware before conspiring with another defendant, whose name has not been disclosed, to advertise and sell it on internet forums.
+
+The unnamed defendant sold the software for 2,000 dollars (£1,500) in cryptocurrency, according between July 2014 and July 2015, an indictment from July 2017.
+
+Hutchins is due to appeal for the telephone call transcript, along with post-arrest statements, to be dismissed from legal proceedings at a hearing on Wednesday.
+
+Lawyers argue that “the government coerced Mr Hutchins, who was sleep-deprived and intoxicated, to talk”. They claim that as a British citizen he did not understand warnings about how comments he made would affect his case.
+
+About | WannaCry
+What is it?
+Also known as Wanna Decryptor or wcry, it is a piece of malicious software that encrypts files on a user's computer, blocking them from view and threatening to delete them unless a payment is made.
+
+How is it installed?
+The virus made it onto computers thanks to a vulnerability in Windows that was exploited using a tool named EternalBlue, believed to be first developed by America's NSA. Many computers had not been updated with protection against the exploit.
+
+What does it do?
+Once opened, the virus is able to encrypt files and block user access to them, displaying a pop-up window on-screen telling users they have been blocked and demanding payment - often via a digital currency such as Bitcoin.
+
+Can you remove it without paying?
+Yes, by using advanced anti-malware software. The malware can also be removed manually with a computer in "safe mode", however security experts warn this runs the risk of damage to a PC as users must go through sensitive system files in order to find and isolate files created by the Wanna Decryptor software.
+
+Source: PA

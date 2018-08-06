@@ -1,0 +1,10 @@
+A new AI can focus on one voice in a crowd
+Much like someone listening to a conversation at a crowded party, a new artificial intelligence can tune out background noise in videos to hear what a particular person on screen is saying.
+
+Humans are naturally good at focusing on specific voices amidst the din — a phenomenon known as the cocktail party effect (SN Online: 4/29/14). But until now, programs designed to listen for specific speakers in noisy audio tracks have struggled to mimic humans’ selective mental muting. The new AI is designed to use both audio and visual cues, such as mouth movements, to separate sounds produced by different speakers in videos.
+
+Researchers at Google tested their AI on cocktail party–like video clips that featured two or three people talking over each other, with various levels of background noise. By watching and listening to the videos, the new AI could distinguish which sounds were coming from each speaker much more accurately than a similar algorithm that simply listened to the audio.
+
+This AI, to be presented in August at the 2018 SIGGRAPH meeting in Vancouver, could be used to caption videos more accurately than current transcription systems. And a future, faster version of the program that can filter background noise from live video feeds could help people hear each other more clearly during teleconferences, says Shmuel Peleg, a computer scientist at the Hebrew University of Jerusalem. 
+
+What’s more, this kind of AI could help virtual assistants hear voice commands more clearly, adds Jen-Cheng Hou, an engineer at the Research Center for Information Technology Innovation, Academia Sinica in Taiwan.

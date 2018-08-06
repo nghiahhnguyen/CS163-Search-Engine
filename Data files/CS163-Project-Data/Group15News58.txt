@@ -1,0 +1,23 @@
+Facial recognition software can spot liars and could help bust airport terrorists
+
+Facial recognition software that spots when someone is lying could help weed out terrorists and drug smugglers at airports.
+
+After analysing millions of frames of footage, researchers have discovered the giveaway facial expressions of untrustworthy individuals that could be utilised by smart surveillance cameras to assess boarding passengers.
+
+The artificial intelligence would aid officers decide whether a suspicious person in an immigration queue is telling the truth or just nervous. It could also minimise cases of racial profiling by airport staff.
+
+In the study, computer scientists at the University of Rochester, in New York, created the largest public data resource of liars’ facial expressions. In a few weeks, they amassed 1.3 million frames from 151 pairs of individuals.
+
+To collect the footage they used a system like Skype “on steroids”, where one participant played the interrogator and the other lied or told the truth whilst being filmed by their webcams.
+
+Using a machine learning program that detects patterns in video footage, the researchers spotted new expressions that are associated with liars. Tay Sen, one of the scientists, explained: “It told us there were basically five kinds of smile-related ‘faces’ that people made when responding to questions.”
+
+They found an intense smile involving cheek, eye and mouth muscles, called the Duchenne smile, was one of the most frequently associated with not telling the truth. Liars appear to “smile with their eyes” in the expression, which Mr Sen said is consistent with the “duping delight” theory that “when you’re fooling someone, you tend to take delight in it”.
+
+Strangely their researcher found honest participants would often contract their eyes, but not smile at all with their mouths. However they concluded these expressions were down to the person “concentrating and trying to recall honestly”.
+
+Seasoned liars would apparently not be able to deceive trained officers who know how to spot untruthful expressions because the Duchenne smile involves “a cheek muscle you cannot control”.
+
+Ehsan Hoque, a co-author of the research, said: “In the end, we still want humans to make the final decision.  
+
+“But as they are interrogating, it is important to provide them with some objective metrics that they could use to further inform their decisions.”

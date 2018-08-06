@@ -1,0 +1,62 @@
+﻿"Nintendo Switch now works with these 20+ wireless USB headsets
+Thanks to firmware updates, the Switch's dock will now let you use wireless USB headsets like this Logitech G933.
+Sean Hollister/CNET
+When the Nintendo Switch arrived a year ago, you couldn't connect a wireless headset at all. Your only private listening option was a pair of wired headphones, plugged directly into the 3.5mm headphone jack on top of the handheld console.
+But Nintendo has quietly added support for a whole bunch of wireless USB headphones, too, meaning you can now play Switch on your big-screen TV as loud as you like without waking up the neighbors. Just plug your USB dongle into the Switch dock.
+Which wireless headsets work with Nintendo Switch, though? We teamed up with our friends at GameSpot to test more than 30 pairs, and we'll update this guide if Nintendo adds more support (or as new headsets come out).
+Just know that the Switch still doesn't support voice chat through a headset. It's one of the many features we hope Nintendo adds.
+Works with Nintendo Switch as of update V5.0.0
+Astro A50 Gen 3 (but only by plugging 3.5mm into base station)
+Logitech G533
+Logitech G933
+LucidSound LS30 (if you trick the dongle by plugging in a 3.5mm cable first)
+LucidSound LS40 (if you trick the dongle by plugging in a 3.5mm cable first)
+Plantronics Rig 800HS
+Plantronics Rig 800LX
+Sony PlayStation Gold Wireless (aka Wireless Stereo Headset)
+Sony PlayStation Gold Wireless (2018)
+Sony PlayStation Platinum Wireless
+Sound Blaster Tactic 3D Rage Wireless
+SteelSeries Arctis Pro Wireless (when set to PS4 mode)
+SteelSeries Arctis 7 (but only by plugging 3.5mm into dongle)
+SteelSeries Siberia 800
+SteelSeries Siberia 840 (discontinued)
+Turtle Beach Stealth 450
+Turtle Beach Stealth 520
+Turtle Beach Stealth 600 for PS4
+Turtle Beach Stealth 700 for PS4
+Turtle Beach Elite 800
+Does not work
+Astro A20
+Astro A50 Gen 3 over USB
+Asus Strix Wireless
+Corsair Void Wireless
+Corsair Void Pro Wireless
+HyperX Cloud Flight
+Razer Man O' War Wireless
+Razer Thresher Ultimate Xbox
+Razer Thresher Ultimate PS4
+Razer Thresher 7.1 for PS4
+Turtle Beach Stealth 420X+
+Anything that requires an Xbox One wireless adapter (Razer Thresher Xbox direct connect, Turtle Beach 600 and Turtle Beach 700 for Xbox)
+Have not tested
+Astro A50 Gen 2
+Astro A50 Gen 1
+Corsair Gaming H2100 (does not work, according to SeraphisQ on Reddit)
+Logitech G930
+Plantronics Rig 800HD (does work, according to Hylje5000 on Reddit)
+Skullcandy Plyr1 and Plyr2
+SteelSeries H Wireless
+Turtle Beach Stealth 400
+Turtle Beach Stealth 420X (does not work, according to Pantoner at Reddit)
+Turtle Beach Stealth 500P (does work, according to 3600CCH6WRX at Reddit)
+Earlier headsets like Turtle Beach Ear Force PX4, Razer Chimaera, etc.
+Is there a wireless headset that works perfectly but isn't on our list? Hit me up at sean [dot] hollister [at] cnet [dot] com.
+Read next: Nintendo Switch, Year Two: 5 ways it's set to leap forward
+Also this: Nintendo Switch update embraces GameCube controller adapter
+40
+Everything Nintendo just announced for Switch and 3DS
+Share your voice
+Post a comment
+Tags
+Gaming Accessories Headphones Nintendo"

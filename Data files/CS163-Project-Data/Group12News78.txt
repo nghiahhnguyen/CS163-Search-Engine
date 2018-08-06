@@ -1,0 +1,57 @@
+Workers across the technology industry are forcing their employers to reconsider how their products are being used by the United States government.
+
+At Microsoft, employees protested the company’s contract with the Immigration and Customs Enforcement agency. Workers at Amazon pushed the firm to stop selling facial recognition services to law enforcement agencies. And after thousands of employees signed a petition against building “warfare technology,” Google decided last month against renewing a contract to provide artificial intelligence systems for the Pentagon.
+
+But it’s premature to declare those giant tech companies as suddenly woke. The government contracts in question are inconsequential to their fortunes.
+
+A better test of tech-worker activism would involve a company with a primary product that is being used to inject misinformation and authoritarian speech into mainstream conversation — and, more to the point, a company that appears to have directly benefited from the toxic flood of political vitriol in which all of us are now drowning.
+
+In other words: Will there be an employee uprising at Twitter?
+
+The social network favored by President Trump has a complicated political ethos. Jack Dorsey, Twitter’s co-founder and chief executive, is an outspoken supporter of liberal causes, and the company has reveled in its centrality to viral progressive movements — the Arab Spring, #BlackLivesMatter, #metoo and #MarchForOurLives were all animated by forces on Twitter.
+
+But Twitter’s real-world effect has hardly been a liberal panacea. Around the world and particularly in the United States, Twitter is used every day to infuse misogyny, racial and ethnic animus and conspiratorial thinking into mainstream news coverage.
+
+And Twitter is obviously the favored tool of President Trump, who has recently picked up the pace of his tweeting. The president often uses the service to seed threats and falsehoods into the world — falsehoods that are then picked up and amplified by supporters and critics alike, ricocheting to deafening effect across the news.
+
+The tension between Twitter’s liberal employee base and the service’s role in news and politics has only heightened recently. For years, Twitter’s business looked gloomy; with about 300 million users, it had a fraction of Facebook’s billions of members, and it struggled to convince advertisers and the mainstream public of its relevance. But in the last 18 months, Twitter found a new focus in the news. The company shed ancillary businesses and tweaked its central feed to highlight virality, turning Twitter into a bruising barroom brawl featuring the most contentious political and cultural fights of the day.
+
+The strategy is working. Users and advertisers are returning, the stock has made steady gains, and thanks to Mr. Trump, no one questions Twitter’s relevance anymore. As BuzzFeed News declared last month, “Twitter is making an unexpected, somewhat miraculous comeback.”
+
+Perhaps. But at what cost to the world?
+
+“You have a platform that’s damaging people on a regular basis, and it’s being used to target groups of people on a regular basis,” said Leslie Miley, an engineer who left Twitter in 2015 after he said he became disillusioned with what he saw as the company’s weak efforts to hire a more diverse work force. “At some point you have to ask yourself if you’re doing more harm than good.”
+
+Last week, I reached out to Twitter’s employees to ask just that. Insiders were reluctant to talk on the record, but a few said that even if there’s little public evidence of organized resistance, some employees are constantly debating the role the service plays in public discourse. Mr. Trump’s tweets, in particular, arouse internal conflict, they said. And Mr. Dorsey’s decision — earlier reported by The Washington Post — to meet with conservative pundits who have accused the platform of liberal bias did not sit well with many workers.
+
+Twitter declined to make Mr. Dorsey available for an interview. The company did put me on the phone with Vijaya Gadde, its head of legal, policy, trust and safety, who echoed the idea that there is robust debate within Twitter about its impact on the world.
+
+“A lot of our employees are here because they’re tied to the mission that we’re serving and to our purpose in the world,” Ms. Gadde said. She defined that mission as providing “a healthy public conversation,” but acknowledged the company has had trouble defining exactly what such a healthy conversation might look like.
+
+“We do have our own internal metrics, but some of that can be really noisy,” she said. For instance, the company looks at reports from users flagging abuse, or the rates at which people block, mute or follow others. “But we just don’t know if they’re all correct,” she said, which is why the company recently put out a call to academics and other experts to suggest new metrics for measuring the “health” of discourse on Twitter. That work, Ms. Gadde said, could soon lead to a better Twitter.
+
+To critics, Twitter’s call for outside help in deciding the most straightforward element of its platform feels like part of a familiar pattern at the company — slow-walking a response to problems that have long been obvious to users, and that grow more obvious by the day.
+
+Perhaps. But at what cost to the world?
+
+“You have a platform that’s damaging people on a regular basis, and it’s being used to target groups of people on a regular basis,” said Leslie Miley, an engineer who left Twitter in 2015 after he said he became disillusioned with what he saw as the company’s weak efforts to hire a more diverse work force. “At some point you have to ask yourself if you’re doing more harm than good.”
+
+Last week, I reached out to Twitter’s employees to ask just that. Insiders were reluctant to talk on the record, but a few said that even if there’s little public evidence of organized resistance, some employees are constantly debating the role the service plays in public discourse. Mr. Trump’s tweets, in particular, arouse internal conflict, they said. And Mr. Dorsey’s decision — earlier reported by The Washington Post — to meet with conservative pundits who have accused the platform of liberal bias did not sit well with many workers.
+
+Twitter declined to make Mr. Dorsey available for an interview. The company did put me on the phone with Vijaya Gadde, its head of legal, policy, trust and safety, who echoed the idea that there is robust debate within Twitter about its impact on the world.
+
+“A lot of our employees are here because they’re tied to the mission that we’re serving and to our purpose in the world,” Ms. Gadde said. She defined that mission as providing “a healthy public conversation,” but acknowledged the company has had trouble defining exactly what such a healthy conversation might look like.
+
+“We do have our own internal metrics, but some of that can be really noisy,” she said. For instance, the company looks at reports from users flagging abuse, or the rates at which people block, mute or follow others. “But we just don’t know if they’re all correct,” she said, which is why the company recently put out a call to academics and other experts to suggest new metrics for measuring the “health” of discourse on Twitter. That work, Ms. Gadde said, could soon lead to a better Twitter.
+
+To critics, Twitter’s call for outside help in deciding the most straightforward element of its platform feels like part of a familiar pattern at the company — slow-walking a response to problems that have long been obvious to users, and that grow more obvious by the day.
+
+He also directed his supporters against the Red Hen, a Virginia restaurant that denied service to the White House press secretary, Sarah Huckabee Sanders — resulting in protests and threats against that restaurant and others that happen to share its name.
+
+And Mr. Trump has continued to tweet an unending stream of brazenly false statements. Among other things, he claimed that thanks to migration, “Crime in Germany is way up” (in fact, it’s way down). Last month, he tweeted the false claim that Democrats were responsible for his administration’s policy of separating migrant families at the border. He also said he never pushed Republicans to vote for recent immigration legislation in the House of Representatives — even though he advocated exactly that in an all-caps tweet just days before.
+
+I asked Ms. Gadde in several different ways if there was anything Mr. Trump could tweet that might result in censure from the company. She declined to answer directly, pointing me instead to a January statement in which the company stated that blocking a world leader’s tweets “would hide important information people should be able to see and debate.”
+
+But what if that “important information” conflicts with Twitter’s mission to promote a healthy public conversation?
+
+Sooner or later, Twitter’s executives and employees are going to have to make a decision about which is more important, Mr. Trump’s tweets or the company’s desire to promote a healthy public conversation. It’s hard to see how both are tenable.

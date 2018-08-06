@@ -1,0 +1,41 @@
+Uber wants to know if riders are drunk -- but why?
+
+By Cheryl K. Chumley - The Washington Times - Tuesday, June 12, 2018
+ANALYSIS/OPINION:
+
+Uber has just applied for a patent for machine learning that will tell if the caller for a ride is drunk.
+Why? Isn’t that why people use Uber in the first place — because they’re drunk? Uber ought to know that by now.
+
+Anyhow, the patent (which may or may not be fully developed) focuses on developing an app that can determine “user state” (read: drunk or sober) by the way the potential passenger holds the phone, inputs data for a driver or walks down the street to the appointed meeting place.
+
+Sounds good — except for that whole safety thing.
+
+What of the more nefarious Uber drivers who want to use such knowledge to prey on passengers?
+
+Uber, after all, is hardly squeaky clean.
+
+This is the company that had to pay out $20,000 in 2016 for its secret tracking of its riders — for the viewing enjoyment of others, no less — by way of a little tool its designers liked to call “God View.”
+
+This is also the company that revealed the personal information of, oh, roughly 20 million of its users — and then hid the data breach from passengers and regulators.
+
+Oops.
+
+But that particular security lapse went even deeper, a bit darker.
+
+“Uber Paid Off Hackers to Hide Massive Data Breach,” MIT Technology wrote in a headline in November.
+
+Or, as HuffPo put it during that same month: “Uber Paid Hackers $100,000 to Keep a Massive Data Breach Quiet.”
+
+But even more startling is this, from CNN.
+
+“A recent CNN investigation found at least 103 Uber drivers in the United States who have been accused of sexually assaulting or abusing their passengers in the past four years,” the news outlet reported in June.
+
+And guess what? Many of these passengers had been under the influence of alcohol, according to police and court documents analyzed by CNN.
+
+Seems pertinent, discomforting, even.
+
+So to circle on back to the question about Uber’s latest quest to develop artificial intelligence that would tell when potential passengers are drunk — once again: Why?
+
+Uber says it’s partly to help match passengers with the drivers who can best help them to their final destination. Uber drivers say it’s about identifying which passengers might be most problematic — a tip that could lead them to quote a higher transport rate, pre-ride, for the drunks of the bunch.
+
+But neither of those reasons justifies the creation of an artificial intelligence app that analyzes, say, the gait and pace of the person holding the phone to make a determination of sobriety. That’s not just intrusive. It’s a safety risk, and Uber just doesn’t have enough of a clean image to make the question marks go away.

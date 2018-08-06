@@ -1,0 +1,14 @@
+For more than a century, scientists have tried to grow Treponema pallidum, the corkscrew-shaped bacterium that causes syphilis. But the stubborn spirochete has refused to thrive any place outside of a human or rabbit for more than 18 days. That doesn’t give researchers much time to study it.
+
+“I’ve basically spent my entire career watching these organisms die,” says microbiologist Steven Norris, of the University of Texas Health Science Center at Houston. Until now. Norris and colleagues have cooked up a new recipe that keeps the bacteria alive for months, they report June 26 in mBio.
+
+“We know very little about the organism,” Norris says. Being able to study it long-term in a dish could lead to better treatments for the millions infected worldwide and pave the way for the development of a vaccine to prevent the sexually transmitted disease (SN: 11/26/16, p.5).
+
+The first ingredient, rabbit epithelial cells, was adapted from a 1981 method that managed to grow the bacteria for about two weeks. But it needed a secret sauce, a medium that would encourage the bacteria to grow within the rabbit cells.
+
+First, the team tried “the kitchen sink approach,” testing between 10 and 20 mixes of nutrients and additives. No luck.
+
+Then, inspiration — from the bacteria that causes Lyme disease — struck. Although Borrelia burgdorferi and T. pallidum behave differently and cause different diseases, the two have similar spiral structures. Maybe they would grow in the same medium. That logic paid off. CMRL 1066, a brothy complex of sugars and vitamins favored by the Lyme spirochete, has helped keep T. pallidum alive for almost eight months, Norris says.
+
+Each week, he gets a thrill as he moves the multiplying bacteria to a fresh version of the medium. “It’s still a surprise to us that the organisms are growing,” he says.
+

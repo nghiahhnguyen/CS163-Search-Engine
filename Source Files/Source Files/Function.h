@@ -95,6 +95,7 @@ bool wildCardMatch(string& input, string& pattern);
 
 bool exist(vector<Node> v, int file_name);
 void preprocessing(string& word, set<ll>& numbers_in_word);
+void preprocessing(string& word);
 vector<ll> numbersInString(const string& word);
 bool checkStopWordUsingTrie_t (string word);
 

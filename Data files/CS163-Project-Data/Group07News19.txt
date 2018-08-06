@@ -1,0 +1,42 @@
+﻿"2018 iPhone X with USB-C: Why we want it but won't get it
+Close-up of Lightning (left) vs. USB-C (right) connectors.
+Sarah Tew/CNET
+Believe it or not, the launch of the 2012 iPhone 5 was highly controversial for two reasons. The first one -- the replacement of the Google-powered Maps app with Apple Maps -- was rendered moot when a proper Google Maps app came to the phone three months later. But the sting of the second took longer to wear off: The 30-pin connector that had long been a staple of the iPod, iPad and iPhone line was summarily killed off with the surprise transition to the new Lightning connector.
+In 2012, Schiller says the iPod 30-pin connector, which launched in 2003, has served the company well for almost a decade.
+James Martin/CNET
+Lightning had a lot going for it: It was smaller, faster and reversible. But for the owners of tens of millions of instantly obsolete accessories, it was a painful, acrimonious conversion. It took years for people and businesses -- especially hotel alarm clocks -- to transition away from the mighty 30-pin connector.
+Flash forward to 2018. With new iPhones presumed to arrive in September -- less than 90 days from now -- the iPhone rumor mill is in full swing. And the latest one is that that Apple might adopt USB-C on future iPhones. That could mean one of two things: USB-C ports could replace Lightning ports on the phone, or USB-C power cables and a wall charger might be included with the next iPhone instead of USB-A ones.
+To be clear: The latter is much more likely, if there's even any deviation from the status quo.
+Why USB-C power cables and chargers would be great
+If iPhones shipped with a Lightning-to-USB-C cable you could plug them into newer MacBooks and USB-C battery packs without the pain of using an adapter. This combo would also allow you to fast-charge your phone.
+Indeed, to be clear, the USB-C power solution for Apple products already exists. Buy a USB-C-to-Lightning cable ($25, Â£25, AU$35) and a 30W USB-C power brick ($49, Â£49, AU$69), and your iPhone will charge the battery to 50 percent within roughly 30 minutes.
+(From top-to-bottom) Apple's Lightning connector, a USB-C connector and a USB-A connector.
+Patrick Holland/CNET
+But like the aforementioned hotel alarm clock, there could be annoying real-world circumstances where you still need a USB-A cable or adapter -- charging on a plane, or the dozens of other places where the classic rectangular USB-A port has become the closest thing we have to a worldwide electrical outlet standard.
+I'm more interested in the possibility that Apple might drop the Lightning port in favor of a USB-C one for future iPhones. However impossible it might be -- and it's pretty impossible -- the advantages would be worth it.
+Watch this: USB-C and Thunderbolt 3: One port to rule them all
+2:58
+Just one connector, give it to me
+My Mac has USB-C ports, so does my Nintendo Switch. It would be incredibly convenient to just need one type of cable to charge them and my iPhone. USB-C is widely used on Android phones, tablets and PCs and is found on new peripherals such as external hard drives and displays, and new cameras such as Panasonic's popular GH5.
+USB-C supports a variety of connections like USB 3.1 and the bonkers-fast Thunderbolt 3, which can reach speeds up to 40 gigabits per second. Currently, Lightning on the iPad Pro is capable of USB 3.0 speeds, which top out at 5Gbps.
+Physically, USB-C is slightly larger than a Lightning connector but could fit in the existing iPhone 8, 8 Plus and X body design. And imagine if you need to borrow a cable to charge your phone: You could ask both friends with iPhones and those with Android phones to borrow theirs.
+Despite my dreams of a USB-C utopia, a USB-C iPhone would have to overcome many real-world obstacles.
+Lightning on the iPhone is here to stay
+As convenient as a ""universal"" connector would be, it's highly unlikely that Apple will dump Lightning in favor of USB-C.
+A downside to having a Lightning-to-USB-C cable included with future iPhones is that nearly all USB power ports are designed for USB-A.
+Patrick Holland/CNET
+USB-A is the unquestioned standard for USB power and data connections. If Apple were to put its weight behind USB-C, that would be a major signal to the industry to begin a consolidated transition. That's exactly what happened once Apple backed the Qi wireless charging standard with the iPhone 8, 8 Plus and X in 2017.
+People hate connector changes. When the original 30-pin connector was dropped in favor of Lightning, there was a lot of brouhaha about having to buy new cables and adapters from Apple.
+A similar backlash happened in 2016 when Apple removed the headphone jack from the iPhone in favor of Lightning. Apple's push to have one connector for everything on the iPhone shows how committed it is to Lightning.
+Also, not all USB-C connections are made the same. This can be confusing. For example, if you're buying a USB-C-to-headphone jack dongle, there are several kinds and not all will work with all phones.
+Lightning feels like a tighter physical connection than USB-C. I was editing video on a new MacBook Pro via a USB-C-connected external hard drive. Occasionally, when the cable was nudged, the hard drive disconnected. Whereas I've seen people hold their iPhone up from a connected Lightning cable like a prized fish on a line.
+Apple values slimness, and despite the similar size, Lightning is still thinner than USB-C. Apple also loves wireless and introduced AirPods at the same time it dropped the headphone jack. It makes sense that the company would drop the Lightning connector when wireless charging is fast enough to be a viable alternative.
+Soâ€¦ yeah. My hopes for a USB-C iPhone are likely just that. In the meantime, I will keep my fingers crossed for a USB-C cable and charger to be included in the box with the next iPhone. Even if that means I'll need a dongle to charge it on a plane.
+41
+USB Type-C is taking over -- here are the phones to prove it
+AirPower is still MIA: Everything we know about Apple's wireless charging pad.
+iPhone 2018: Everything we know about Apple's next phone.
+Share your voice
+6 comments
+Tags
+Phones Apple Maps Google Maps Panasonic Nintendo Apple"

@@ -1,0 +1,29 @@
+Microsoft buys coding database GitHub for $7.5bn
+
+Microsoft has snapped up code-sharing site GitHub in a $7.5bn (£5.6bn) deal that represents the tech giant's largest acquisition since professional networking site LinkedIn.
+
+GitHub provides an open source database for coders currently used by 28m developers to share their code. The site allows others to make amends and improve it, potentially creating new features or services. 
+
+It is home to more than 85 million code sets used by people in nearly every country, some of which will include the work of engineers and developers at rival technology firms. 
+
+Microsoft chief executive Satya Nadella said: "Microsoft is a developer-first company and by joining forces with GitHub we strengthen our commitment to developer freedom, openness and innovation."
+
+Open source coding allows developers to work with others on collaborative projects. Much software development now includes an open source element, and Microsoft employees are some of the top contributors to GitHub. Projects such as Linux and web-browser Mozilla rely on open source coding.
+
+Historically, open source projects were seen by Microsoft executives as a threat to the dominance of their Windows operating system, but they have been embraced in recent years under Mr Nadella.
+
+GitHub chief executive and co-founder Chris Wanstrath will join Microsoft as a technical fellow. Mr Wanstrath had been slated to leave GitHub last year when he announced his resignation, but stayed on as the de-facto head of the company.
+
+"I’m extremely proud of what GitHub and our community have accomplished over the past decade, and I can’t wait to see what lies ahead," Mr Wanstrath said.
+
+News of the deal has divided developers and coders, many of whom see object to the arrival of a corporate giant like Microsoft. Others fear the product could suffer, citing the example of Microsoft's botched acquisition of Nokia Mobile in 2013, which led to a multi-billion dollar write-down. 
+
+Microsoft's failure to entice developers to write popular apps for Microsoft phones instead of Apple or Google's Android, made the phones an unpopular choice. 
+
+"Sad to see all these cheap negative quips about Github [and] Microsoft," Google engineer Filippo Valsorda said on Twitter.  "Microsoft has been doing some awesome work in Open Source recently... and hired some excellent people. I see no reason to be worried."
+
+Microsoft promised that GitHub will "remain an open platform, which any developer can plug into and extend". The deal represents Microsoft's biggest since its acquisition of professional networking site LinkedIn in 2016 for $26.2bn.
+
+Despite its popularity among developers, GitHub lost $66m over three quarters in 2016, according to Bloomberg. GitHub was founded in 2008 by Mr Wanstrath and Tom Preston-Werner. GitHub will be led by Microsoft's Cloud chief Nat Friedman, who will become chief executive of GitHub.
+
+Microsoft's share price opened marginally up in US trading on Monday.

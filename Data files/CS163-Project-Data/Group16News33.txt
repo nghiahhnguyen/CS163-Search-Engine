@@ -1,0 +1,36 @@
+Facebook faces UK fine over Cambridge Analytica scandal
+Facebook is facing by the UK's privacy watchdog for allowing Cambridge Analytica to improperly access key personal data on millions of its users.
+
+The UK Information Commissioner's Office on Tuesday announced a preliminary fine of £500,000 ($664,000 or AU$896,000) after finding the social-media giant had failed to protect user data and wasn't transparent about how the user data was obtained by others. The fine -- the maximum amount allowed -- comes after revelations that as many as 87 million Facebook users had their data improperly shared with Cambridge Analytica, a digital consultancy with ties to the Trump campaign.
+
+"We are at a crossroads. Trust and confidence in the integrity of our democratic processes risk being disrupted because the average voter has little idea of what is going on behind the scenes," Information Commissioner Elizabeth Denham said in a statement. "People cannot have control over their own data if they don't know or understand how it is being used."
+
+Facebook will address the proposed penalty before the watchdog makes a final ruling.
+
+"As we have said before, we should have done more to investigate claims about Cambridge Analytica and take action in 2015," Erin Egan, Facebook's chief privacy officer, said in a statement. "We have been working closely with the ICO in their investigation of Cambridge Analytica, just as we have with authorities in the US and other countries. We're reviewing the report and will respond to the ICO soon."
+
+The ICO fine is a fraction of the amount the social media giant could have faced had a new EU law that gives residents of the European Union more control over their personal data been in affect when the data was shared. The General Data Protection Regulation, more commonly called the GDPR, allowed for a maximum fine of 20 million euros or 4 percent of a company's annual global revenue from the year before, whichever is higher.
+
+Facebook's annual revenue in 2017 was nearly $40 billion, translating to a much higher possible fine of $1.6 billion.
+
+
+Watch this: Cambridge Analytica is just the tip of the iceberg for...
+1:40 
+The ICO launched an investigation in March into Cambridge Analytica, the UK-based political data analysis firm at the heart of a scandal that's stirred up two national governments and the world's largest social network. Facebook banned the company earlier this year, saying it had improperly received as many as 87 million user profiles leaked from its service.
+
+Facebook has said that a Cambridge University lecturer named Aleksandr Kogan collected the data legitimately through a personality quiz app but then violated Facebook's terms by sharing the information with Cambridge Analytica, a firm later hired by the Trump presidential campaign during the 2016 US election.
+
+Facebook learned of the infraction in 2015 but didn't inform the public. Instead, the company demanded that all the parties involved destroy the information. But not all the data may have been deleted, according to some reports.
+
+In the aftermath of the Cambridge Analytica scandal, Facebook notified users who were affected by the data misuse with alerts at the tops of their news feeds.
+
+CNET's Katie Collins contributed to this report.
+
+iHate: CNET looks at how intolerance is taking over the internet.
+
+Tech Enabled: CNET chronicles tech's role in providing new kinds of accessibil
+
+SHARE YOUR VOICE
+ 6 comments
+TAGS
+Tech Industry Cambridge Analytica Facebook

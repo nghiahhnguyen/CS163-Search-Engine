@@ -1,0 +1,80 @@
+Facebook and Lenovo
+
+By Bill Gertz - Wednesday, June 6, 2018
+
+Social media giant Facebook is under fire for sharing data with four Chinese electronics companies that critics say pose security and privacy risks for Americans’ data.
+
+The most worrisome data-sharing took place between Facebook and Huawei Technologies, the telecommunications giant that U.S. officials have linked to both the Chinese military and intelligence services.
+
+Facebook also shared data with Lenovo, a Chinese computer company that was the subject of an intelligence warning from the Pentagon’s Joint Staff two years ago. In October 2016, the Joint Staff issued a classified report that warned against using any equipment made by Lenovo over concerns about cyberspying.
+
+The J-2 intelligence directorate stated that Lenovo computers and handheld devices could be used by Chinese intelligence to introduce compromised hardware into the Defense Department supply chain, according to U.S. officials familiar with the report. The Sept. 28, 2016, report also stated that Lenovo was attempting to purchase entire U.S. information technology companies as a means of gaining indirect access to classified Pentagon and military information networks.
+
+The J-2 said using Lenovo products could assist Chinese intelligence cyberespionage against both classified and unclassified but sensitive military networks. Lenovo equipment in the past has been detected by U.S. intelligence agencies engaged in “beaconing” — covert communication with remote users as part of a cyberspying operation.
+
+The Army’s Cyber Directorate in 2007 detected a Lenovo-brand desktop computer engaged in beaconing activity that a congressional China commission report said was a “self-initiating attempt to establish a connection to a suspicious foreign entity.”
+
+“There is no way that that company or any Chinese company should be doing business in the United States after all the recent hacking incidents,” one defense official said of Lenovo.
+
+The Chinese Academy of Sciences, a government research institute, owns about 27 percent of Lenovo Group Ltd., and U.S. intelligence has reported that one Chinese Academy of Sciences space imagery expert recently assumed a senior post in the People’s Liberation Army Strategic Support Force, a new military service in charge of cyber, space and electronic warfare operations.
+
+Rep. Bob Goodlatte, Virginia Republican, has voiced security concerns about Lenovo computers related to the controversial FBI investigation into former Secretary of State Hillary Clinton’s private email server. Mr. Goodlatte wrote then-FBI Director James Comey in 2016 that Heather Samuelson, former White House liaison to the State Department, used two Lenovo laptops to review thousands of classified emails found on Mrs. Clinton’s server.
+
+“Lenovo computers, and specifically the models used by Heather Samuelson for reviewing classified emails, have been shown by the Department of Homeland Security to contain software, dating back to 2010, that permits remote hacking attacks,” Mr. Goodlatte said.
+
+In April 2016, the Air Force Cyber Command warned in an email notice that it was banning Lenovo products over cybersecurity risks.
+
+The notice said that Lenovo products “are being removed from the Approved Products List and should not be purchased for DoD use,” while “Lenovo products currently in use will be removed from the network.”
+
+Lenovo purchased IBM’s laptop computer business in 2005, prompting security concerns at the time.
+
+In 2014, the Navy was forced to replace IBM servers in all Aegis battle-management-equipped warships after Lenovo purchased IBM’s BladeCenter line of servers. The Navy was concerned that China could hack its most advanced warships through the servers in wartime.
+
+The Department of Homeland Security also warned that Lenovo computers built since 2014 come loaded with adware called Superfish that could allow hackers to thwart encrypted security controls.
+
+Lenovo bought Motorola Mobility, the cellphone division of Motorola, in 2014 and has tried to buy BlackBerry, the Canadian handheld smartphone company. The intelligence alliance known as Five Eyes, made up of spy services from the United States, Britain, Australia, Canada and New Zealand, banned the use of Lenovo products several years ago over cyberespionage fears.
+
+Francisco Varela, vice president of mobile partnerships for Facebook, said his company’s interactions with Chinese manufacturers Huawei, Lenovo, OPPO and TCL were “controlled” and that Facebook approved the interactions and data used by the companies.
+
+“Facebook along with many other U.S. tech companies have worked with them and other Chinese manufacturers to integrate their services onto these phones,” he said in a statement.
+
+Citing “interest from Congress,” Mr. Varela said Facebook wants to make it clear that all information shared with Huawei was not stored on Huawei’s servers. Facebook plans to end its cooperation with Huawei, Lenovo and the two other Chinese companies this week, Mr. Varela added.
+
+RUSSIA TO ADD WARHEADS
+U.S. intelligence agencies have recently detected signs that Russian President Vladimir Putin plans to sharply increase the number of warheads deployed on Moscow’s force of multiple, independently targetable re-entry vehicles (MIRV) missiles.
+
+No details about the potential “uploading” of more warheads on Russian missiles could be learned, but the warhead increase likely would be added to Russia’s newest ballistic missiles, the Sarmat heavy ICBM, the new SS-X-28 Rubzeh and submarine-launched R-30 Bulava.
+
+The Sarmat heavy ICBM is expected to carry up to 15 warheads on each missile, giving the weapons massive nuclear strike capabilities.
+
+The silo-based Sarmat recently underwent a silo-ejection and launch test, according to defense officials. It was the second test of its kind this year following a test in late March. The missile is expected to be deployed in the next several years.
+
+The road-mobile SS-X-28 can be deployed with a range of payloads, ranging from three to six MIRVs or up to 16 nuclear maneuvering warheads. The missile that Russia calls the RS-26 also can be used to launch a hypersonic glide vehicle strike weapon now in development.
+
+The Bulava missile currently is deployed on Typhoon- and Borey-class missile submarines and is equipped with up to six warheads. Other potential missiles in the Russian arsenal that could be uploaded with additional warheads include the 10-warhead SS-18, the six-warhead SS-19 and the multiwarhead variant of the SS-27 Mod 2.
+
+Submarine missiles for uploading could include the four-warhead SSN-23 and the triple-warhead SSN-18.
+
+The Russian Foreign Ministry announced in February that the number of deployed warheads mandated under the 2010 New START arms accord had been reached. The Russian arsenal is now said to include 1,444 deployed nuclear warheads on intercontinental ballistic missiles, submarine-launched ballistic missiles and bomber-launched cruise missiles.
+
+The State Department announced a level of 1,350 deployed warheads. Both figures are under the New START limit of 1,550 warheads.
+
+Russia is believed to maintain a very large force of nuclear warheads in storage that could be used in the upload plan.
+
+D-DAY BY THE NUMBERS
+
+It was 74 years ago this week that American and allied forces conducted the large-scale military operation to liberate the European continent from Nazi Germany control.
+
+More than 160,000 troops landed along the beaches of a 50-mile stretch of the heavily fortified coast near Normandy, France. The troops were under the command of Gen. Dwight D. Eisenhower for what was code-named Operation Overlord.
+
+The operation spelled the beginning of the end of World War II and the Nazi regime in Germany under Adolf Hitler. According to the D-Day Encyclopedia by Barrett Tillman, for the 1st U.S. Army in the first 24 hours of the operation that began on the morning of June 6, 1944, 1,465 troops were killed, 1,928 were reported missing and 6,603 were wounded. An after-action report through July 1, 1944, by the U.S. VII Corps listed 22,119 casualties: 2,811 killed, 5,665 missing, 79 prisoners and 13,564 wounded.
+
+British losses included 2,500 to 3,000 dead, wounded and missing. Canadian forces sustained 946 casualties, including 335 dead.
+
+German Field Marshal Erwin Rommel reported that Germans killed, wounded and missing for June 1944 was around 250,000 men, including 28 generals.
+
+Allied forces by early July had captured 41,000 German troops.
+
+An estimated 15,000 French civilians were killed during the Normandy campaign.
+
+Total casualties from D-Day from June 6 to Aug. 30 when German forces retreated across the Seine River totaled over 425,000 combined Allied and German troops, including over 209,000 Allied casualties.

@@ -1,0 +1,50 @@
+﻿"Here's what Apple's doing to get you excited about AR
+The future of augmented reality headgear and smartglasses is still very much in flux. The long-awaited Magic Leap might emerge this year. Microsoft's Hololens has hung in a state of enterprise limbo -- one from which it may finally emerge next year. Little smartglasses like ODG's might get better with Qualcomm's next chips, but don't expect miracles.
+Then there's Apple. As CNET reported in April, Apple is working on a powerful headset capable of both AR and VR. Whether that version is a ""what if"" prototype or something akin to what Apple may ship in 2 years is anyone's guess. But you don't need to wait until 2020: Apple's plans for virtual magic are playing out in real-time, right now, on the iPads and iPhones that your currently own.
+Apple showcased its upgraded augmented reality toolkit, ARKit 2, alongside iOS 12 at its Worldwide Developers Conference earlier this month. And it already has a surprising number of key upgrades that vastly improves how iOS can handle augmented reality. These bits and pieces, combined, are a roadmap for where AR needs to head if it's to move from nerdy plaything to Fortnite-level mass market adoption.
+Watch this: Apple's Greg Joswiak says AR is going to be huge
+2:13
+Apple's AR doesn't live on a headset (yet) but according to Apple, that doesn't matter. ""We think the big deal right now is we've got it on hundreds of millions of devices, iPhones and iPads,"" Apple's Greg Joswiak, Vice President of iPhone and iPad product marketing, told CNET. ""We think that's an unbelievably great place to start because a lot of us are already carrying iPhones in our pockets.""
+Playing AR slingshot games at a table with two people, which means holding up a phone/tablet.
+James Martin/CNET
+Multiplayer shared worlds
+If a set of layers on top of our world are going to be a part of our future, then everyone needs to be able to see them. Shared AR worlds are a relatively new thing: Google demoed its first multiplayer AR apps a month ago at its own developer conference, and Apple's multiplayer support in ARKit 2 does similar things.
+Watch this: Apple's ARKit 2 goes multiplayer on iOS 12
+1:16
+My first hands-on experience of multiplayer AR in iOS 12 was really impressive, although holding an iPad upright for a long time can get tiring. Same-room gaming in a real space feels completely fascinating, but this also opens up collaborative projects or persistent virtual objects that many people could visit and interact with. For now, it's Lego kits on tables that blend physical pieces and virtual ones. Think shared augmented-reality site-specific theater pieces of the kind that William Gibson dreamed of years ago. Or the next wave of holograms in classrooms. Or experimental art projects, such as Google's group AR doodle app that's already live.
+Object detection, with pop-up info
+Going back to Google Glass, the future fantasy of magic glasses is that they'll somehow show head-up annotations to things seen in the real world. Google Lens, a part of Google's Android Oreo OS last year and Android P this year, can recognize objects through the camera and automatically search for related information. ARKit 2 can also be used to not just see objects, but to pin information to them. Maybe it's purchase information, or someone's name floating over their head, or the name of a dinosaur, or player stats hovering over athletes at a future sports event. The above demo by a developer shows promise.
+Face and eye tracking
+Eye tracking is coming to VR, allowing better graphics and more ways to control things with simple eye movements -- or even make direct eye contact for shockingly intimate social experiences. In AR, it could be used to control hovering interfaces, change events based on emotions or expressions, or map avatars to do things puppeted by facial expressions.
+ARKit 2 can track eye movement using the iPhone X's front-facing TrueDepth camera, which will also likely end up on Apple's other iPhones arriving later this year, and maybe Apple's next iPad Pros. The results, based on developer experiments seen on Twitter, are already impressive. This could be a test run to evolve where Apple's future eye-tracking tech goes next. Maybe it'll be in headsets eventually. Or it'll be used to find ways to not just read what we're looking at and make eye-controlled hands-free interfaces, but turn our expressions and emotions into information. Or it could help make a whole new wave of Memoji-like avatar puppets.
+Virtual objects live everywhere
+The persistence of virtual things -- where you ""leave"" a virtual teddy bear on a real-world table, and it's still there when you return in a later AR session -- looks like it's ready to leap across apps. iOS 12 can handle AR in-browser or anywhere else thanks to a new common format developed with Pixar, called USDZ, that will be how Apple turns 3D files into AR-ready objects.
+For now, it's aimed at going across all iOS devices. It could vie to be a universal format everywhere, but that might be a bigger battle. ARKit 2 can also make these virtual things look better: 3D AR creations can now reflect real-life objects in them. That, plus realistic shadows, can make that everything feel like it's even more present.
+These could be used for specialized apps, too
+While all of the ARKit 2 developments seem designed to work well together, I could see a lot of them used individually to create new categories of apps: smart cameras, heads-up display apps. Apple's built-in Measure app in iOS 12 will embed an augmented-reality tape measure similar to what third party apps already provide, but having that quick-access tool come standard indicates how other other parts of ARKit could eventually could make their way to other core apps in the future. Much like Google Lens now lives in Android's camera app, future ARkit enhancements could emerge in unexpected ways, or take advantage of just one feature like eye tracking.
+iPhone AR now, headset AR later
+We won't know much more about how Apple's AR vision really feels until iOS 12 arrives in its final form with a lot more supported apps. And who knows: Maybe the new iPhones, expected in September, will have a few hardware enhancements to make AR even better (think TrueDepth 2 cameras, for instance).
+But here's the thing: That fabled Apple headset, whenever it arrives, becomes less and less of a heavy lift with each present-day ARKit advancement. At a certain point, the headset comes down to design considerations, battery constraints and hitting a viable price. Because it will really be the guts of an iPhone 13 (or whatever the 2020 iPhone is called), just crammed into a different shape.
+After all, Apple already has a lot of this AR stuff working on your iPhone and iPad already: It just needs to figure out how to strap it to your head. There's a long way to go, but working from the inside out seems like it might be the smartest path.
+Apple
+reading
+â€¢
+Here's what Apple's doing to get you excited about AR
+Jun 21
+â€¢
+Oppo's pricey Find X looks even cooler than the OnePlus 6
+Jun 21
+â€¢
+iOS 12: Release date, new features, and hidden features
+Jun 21
+â€¢
+Logitech's school-targeted Crayon stylus is so good, Apple should copy it for iPad
+Jun 21
+â€¢
+AT&T unveils new unlimited plans with WatchTV live television bundle
+â€¢
+See All
+Share your voice
+2 comments
+Tags
+WWDC 2018 Mobile iOS 11 iOS 12 Augmented reality Google Microsoft Pixar Apple"

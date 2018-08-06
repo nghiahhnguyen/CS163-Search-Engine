@@ -1,0 +1,42 @@
+Apple bans developers from harvesting user contact details from App Store
+
+Apple has told app developers not to build databases of users' contacts from the App Store or risk being banned, according to its latest rules for developers.
+
+The rule changes mean app developers will no longer be able to gather contact details from users' iPhones, which can include names, phone numbers, email addresses and photos.
+
+The new developer guidelines come after months of criticism for tech companies over user privacy. Facebook has been hit by headlines and political scrutiny over the misuse of data by third-party app developers on the social network. Apple, meanwhile, has emerged relatively unscathed.
+
+The California company has only updated its rules for developers to prevent the hoarding of user data and emailing or texting their contacts out of the blue, three months after the Cambridge Analytica scandal hit headlines.
+
+The "data use and sharing" section of Apple's developer guidelines was extensively updated last week, shortly after the introduction of new data privacy rules in Europe.
+
+At a glance | Your data rights under GDPR
+The General Data Protection Regulation (GDPR) is a tough regulation regime for companies that gather personal data, introduced by the EU in April 2016. Enforcement begins 25 May 2018.
+
+The GDPR legislates eight data rights for individuals:
+
+Right to be informed – You must be clearly informed when your data is collected and the purpose for which it is intended.
+
+Right of access – You must be allowed to view the data companies have gathered on you.
+
+Right to rectification – You have the right to correct erroneous information about yourself in a company’s data records.
+
+Right of erasure – Also known as the “right to be forgotten”. You have the right to request the deletion of personal data held on you, although this right is not absolute.
+
+Right to restrict processing – You can request the suppression of your personal data file, or restrict its processing.
+
+Right to data portability – You have the right to take the data a company has collected on you and share it elsewhere, eg. to get a better customer deal.
+
+Right to object – You have the right to object and prevent your data being used for particular purposes, eg. for direct marketing. This right is superseded by legal claims.
+
+Rights related to automatic decision-making – You may only be profiled with your explicit consent, where this is necessary to enter into a contract or where such processing is authorised by the state.
+
+Post-Brexit the UK is likely to introduce its own equivalent data protection law. In any case, companies which gather data on EU citizens will have to abide by the GDPR.
+
+The rules now ban developers from building apps that harvest contacts "for sale/distribution to third parties". It also bans users from gaining consent from users to collect data about other apps on the user's iPhone.
+
+The rules block developers from using the data to contact other users without explicit permission from the user. The changes mean app developers cannot gain access to user data and then use it for a purpose they hadn't already gained permission for.
+
+Data gathered by iOS apps could, therefore, be used for marketing or attempting to rapidly grow apps. One iOS app developer told Bloomberg they could previously "instantly transfer all the contacts info into some random server or upload it to Dropbox if I wanted to, the very moment a user says okay to giving contacts permission. Apple doesn’t track it, nor do they know where it went."
+
+The news comes after Apple used its annual developers conference earlier this month to attack Facebook's privacy record. Apple said it will update its browser technology to shut down "like" and "share" buttons which can be used to track users around the internet.

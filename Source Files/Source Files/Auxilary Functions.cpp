@@ -232,13 +232,13 @@ string getFileName(int fileName) {
 
 void preprocessing(string& word, set<ll>& numbers_in_word) {
 	string::reverse_iterator it;
-	string result;
+	string result = "";
 	ll cur_number;
 	int num_digit = 0;
 	bool last_char_is_digit = false;
 	for (it = word.rbegin(); it != word.rend(); ++it) {
 		if (*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\'')) {
-			result.push_back(tolower(*it));
+			result = string(1, tolower(*it)) + result;
 			if (isdigit(*it)) {
 				if (!last_char_is_digit) {
 					cur_number = *it - '0';
@@ -259,6 +259,17 @@ void preprocessing(string& word, set<ll>& numbers_in_word) {
 		}
 	}
 	if (cur_number != 0) numbers_in_word.insert(cur_number);
+	word = result;
+}
+
+void preprocessing(string& word){
+	string::iterator it;
+	string result;
+	for (it = word.begin(); it != word.end(); ++it) {
+		if (*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\'')) {
+			result.push_back(tolower(*it));
+		}
+	}
 	word = result;
 }
 

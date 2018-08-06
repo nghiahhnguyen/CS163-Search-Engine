@@ -1,0 +1,35 @@
+How the ticketing world is taking on scalpers and botsYour favorite band is coming to town and there's no way you're going to miss them. You've saved up for the best seat in the house and set an alarm so you'll be ready the moment tickets go on sale. But by the time you've logged in and made it to the front of the virtual queue, everything's sold out and your hot ticket is going for twice the asking price on a dodgy-looking website.
+
+You grit your teeth and resign yourself to a night in with Spotify. You wonder, why does this keep happening, and what is the industry doing to make it better?
+
+Ticket resellers, scalpers or touts: Whatever you call them, they're the bane of both fans and artists. In some ways, they're not all that different from a guy hanging out near a concert venue, trying to sell last-minute tickets to anyone who happens to be passing by. Euphemistically described as "power users" within the ticket industry, they do business on sites such as StubHub, Viagogo and Get Me In. They use bots to scoop up tickets to popular events as soon as they go on sale, then sell them for huge markups.
+
+But as reselling tickets has grown into an industry worth billions of dollars, technological advances are helping stop scalpers in their tracks and get real fans in the seats where they belong.
+
+A blight on the industry
+Helen Rolle is the venue business manager in charge of marketing and special events at Islington Assembly Hall, an art deco live music venue in north London. She says touts are a blight on the music industry and blames their getting away with it for so long on paper tickets.
+
+"Paper tickets have been a tout's dream," Rolle says. "You get them and you can [easily] pass them on." Although it's possible to set up rules around paper ticketing -- insisting that the name on the ticket has to match an ID or credit card details, for example -- she's found that that hasn't been secure enough. So in September 2017, Islington Assembly Hall partnered with ticketing startup Dice to tighten up security by getting rid of paper tickets.
+
+Dice, which launched in 2014 in partnership with digital design studio Ustwo, now sells 50 percent of the tickets to all shows at the Islington Assembly Hall, with the rest allocated to various promoters. Dice's tickets live within its app, appearing as an animated QR code so you can't take a screenshot and send it to another phone. Russ Tannen, Dice's head of music, says that locking a ticket to a phone ensures that tickets will only go to people who are going to go and see the show.
+
+"I think as soon as you actually send someone an e-ticket or you send someone any of sort of PDF or, obviously worst case, a paper ticket," Tannen says, "you're completely losing control of who's actually gonna end up coming."
+
+fd-raumfeld-stereo-l-11.jpg
+19
+Test your music system with these great rock tracks
+Dice is made for dedicated music fans. Its typical user is under 30 and goes to an exhausting-sounding four to five concerts a week. But on the opposite side of the cultural world, another app is working to pull in young people who can't afford a hot ticket and would frankly rather curl up on the sofa and watch Netflix. In the process, it's found a way to offer affordable seats that don't get resold.
+
+TodayTix has sold tickets to theater, dance, stand-up comedy and other live cultural events in New York, London and other cities since 2013. Rather than selling the best seat in the house three months in advance, the company focuses on pulling in people who are intimidated by high prices and sold-out hits. It also hosts virtual "lotteries," offering tickets to high-demand and high-priced shows.
+
+Lottery tickets cost $25 to $40 on average and aren't easy to resell. That's partly because they're handed over to the winner in person at the theater and winners' IDs have to match the name on their account. But it's also significant that most winners are only selected two to four hours before showtime. "You'd have to be incredibly crafty and turn that around very quickly," says Emily Hammerman, TodayTix's VP of account services.
+
+Letting the fans down
+Artists hate to see their tickets fall into the hands of resellers. They don't profit from the artificially increased prices and hate to hear from disappointed fans. Tannen was working in artist management in 2012, just as social media was making it easier for fans to communicate with their favorite musicians. The more the two worlds merged, the harder the problem with touts was to ignore.
+
+Sonos One
+19
+The growing crowd of smart speakers is ready for your command
+Tannen says that shows were selling out only to have tickets listed on reselling sites an hour later for double the price. Fans' complaints weren't disappearing into a customer service email address anymore -- they were on Twitter for everyone to see, the artist included. Those artists have since become a driving force, pressuring their managers and ticketing companies to crack down on resellers.
+
+From Tannen's perspective, offering refunds for tickets to sold-out shows and limiting the ability to pass them on are two ways to cut reselling. "I don't think that people should be able to resell their tickets for many times the face value, making a huge profit outside of what the artist or promoters in the show are making."

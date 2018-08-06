@@ -1,0 +1,28 @@
+Are computers better than people at predicting who will commit another crime?
+In courtrooms around the United States, computer programs give testimony that helps decide who gets locked up and who walks free.
+
+These algorithms are criminal recidivism predictors, which use personal information about defendants — like family and employment history — to assess that person’s likelihood of committing future crimes. Judges factor those risk ratings into verdicts on everything from bail to sentencing to parole.
+
+Computers get a say in these life-changing decisions because their crime forecasts are supposedly less biased and more accurate than human guesswork.
+
+But investigations into algorithms’ treatment of different demographics have revealed how machines perpetuate human prejudices. Now there’s reason to doubt whether crime-prediction algorithms can even boast superhuman accuracy.
+
+Computer scientist Julia Dressel recently analyzed the prognostic powers of a widely used recidivism predictor called COMPAS. This software determines whether a defendant will commit a crime within the next two years based on six defendant features — although what features COMPAS uses and how it weighs various data points is a trade secret.
+
+Dressel, who conducted the study while at Dartmouth College, recruited 400 online volunteers, who were presumed to have little or no criminal justice expertise. The researchers split their volunteers into groups of 20, and had each group read descriptions of 50 defendants. Using such information as sex, age and criminal history, the volunteers predicted which defendants would reoffend.
+
+A comparison of the volunteers’ answers with COMPAS’ predictions for the same 1,000 defendants found that both were about 65 percent accurate. “We were like, ‘Holy crap, that’s amazing,’” says study coauthor Hany Farid, a computer scientist at Dartmouth. “You have this commercial software that’s been used for years in courts around the country — how is it that we just asked a bunch of people online and [the results] are the same?”
+
+There’s nothing inherently wrong with an algorithm that only performs as well as its human counterparts. But this finding, reported online January 17 in Science Advances, should be a wake-up call to law enforcement personnel who might have “a disproportionate confidence in these algorithms,” Farid says.
+
+“Imagine you’re a judge, and I tell you I have this highly secretive, highly proprietary, expensive software built on big data, and it says the person standing in front of you is high risk” for reoffending, he says. “The judge would be like, ‘Yeah, that sounds quite serious.’ But now imagine if I tell you, ‘Twenty people online said this person is high risk.’ I imagine you’d weigh that information a little bit differently.” Maybe these predictions deserve the same amount of consideration. 
+
+Judges could get some better perspective on recidivism predictors’ performance if the Department of Justice or National Institute for Standards and Technology established a vetting process for new software, Farid says. Researchers could test computer programs against a large, diverse dataset of defendants and OK algorithms for courtroom use only if they get a passing grade for prediction.
+
+Farid has his doubts that computers can show much improvement. He and Dressel built several simple and complex algorithms that used two to seven defendant features to predict recidivism. Like COMPAS, all their algorithms maxed out at about D-level accuracy. That makes Farid wonder whether trying to predict crime with anything approaching A+ accuracy is an exercise in futility.
+
+“Maybe there will be huge breakthroughs in data analytics and machine learning over the next decade that [help us] do this with a high accuracy,” he says. But until then, humans may make better crime predictors than machines. After all, if a bunch of average Joe online recruits gave COMPAS a run for its money, criminal justice experts — like social workers, parole officers, judges or detectives — might just outperform the algorithm.
+
+Even if computer programs aren’t used to predict recidivism, that doesn’t mean they can’t aid law enforcement, says Chelsea Barabas, a media researcher at MIT. Instead of creating algorithms that use historic crime data to predict who will reoffend, programmers could build algorithms that examine crime data to find trends that inform criminal justice research, Barabas and colleagues argue in a paper to be presented at the Conference on Fairness, Accountability and Transparency in New York City on February 23.
+
+For instance, if a computer program studies crime statistics and discovers that certain features — like a person’s age or socioeconomic status — are highly related to repeated criminal activity, that could inspire new studies to see whether certain interventions, like therapy, help those at-risk groups. In this way, computer programs would do one better than just predict future crime. They could help prevent it.

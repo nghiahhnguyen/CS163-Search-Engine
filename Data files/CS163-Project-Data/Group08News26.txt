@@ -1,0 +1,75 @@
+What I actually learned about my family after trying 5 DNA ancestry testsCommercials abound for DNA testing services that will help you learn where your ancestors came from or connect you with relatives. I’ve been interested in my family history for a long time. I knew basically where our roots were: the British Isles, Germany and Hungary. But the ads tempted me to dive deeper.
+Previous experience taught me that different genetic testing companies can yield different results (SN: 5/26/18, p. 28). And I knew that a company can match people only to relatives in its customer base, so if I wanted to find as many relatives as possible, I would need to use multiple companies. I sent my DNA to Living DNA, Family Tree DNA, 23andMe and AncestryDNA. I also bought the National Geographic Geno 2.0 app through the company Helix. Helix read, or sequenced, my DNA, then sent the data to National Geographic to analyze.
+These companies analyze hundreds of thousands of natural DNA spelling variations called single nucleotide polymorphisms, or SNPs. To estimate ethnic makeup, a company compares your overall SNP pattern with those of people from around the world. SNP matches also help companies see who in their database you’re related to.
+Some of the companies also analyze a person’s Y chromosome or mitochondrial DNA. Y chromosome DNA traces a man’s paternal line. In contrast, mitochondrial DNA traces maternal heritage, since people inherit mitochondria, which generate energy for cells, only from their mothers. Neither type of DNA changes that much over time, so those tests usually can’t tell you much about recent ancestors.
+Once I sent in DNA samples, my Web-based results arrived in just a few weeks. But my user experience, and results, were quite different for each company.
+National Geographic Geno 2.0
+At $199.95, National Geographic’s test is the most expensive, yet the least useful. The results are generic, and the ethnicity categories are overly broad. My results say that 45 percent of my heritage came from people living in southwestern Europe 500 to 10,000 years ago. That doesn’t tell me much and doesn’t reflect what I know of my family history.
+Pros
+Specialized for looking into the deep past
+Cons
+Provides no ancestry information within the last 500 years
+There’s no relative matching, though Geno 2.0 shows which historical “geniuses” may have shared your mitochondrial or Y chromosome DNA. I don’t know how National Geographic knows about the mitochondria of Petrarch, Copernicus or Abraham Lincoln. So I’m skeptical that I am actually related to those famous figures, even from the distance of 65,000 years, the last time we supposedly had an ancestor in common. The service also calculated the percentage of Neandertal ancestry that I carry. I take geeky pride that 1.5 percent of my DNA comes from Neandertals, topping the 1.3 percent average for Geno 2.0 customers.
+Overall, Geno 2.0 has a nice presentation, but I learned more about my family history elsewhere. Since I bought the Geno 2.0 kit as an app through Helix, I don’t know if the kit purchased directly from National Geographic, which is processed by Family Tree DNA, would yield different results.
+Living DNA
+ Living DNA family ancestry map
+ENGLISH ANCESTRY Living DNA offers fine-scale ethnicity estimates for people of British or Irish descent (Saey’s results shown). The company is less certain about subregional estimates than it is about global estimates.
+LIVING DNA
+Another expensive test ($159) came from Living DNA. When I saw the company’s ad claiming to pinpoint exactly where in the British Isles a person’s genetic roots stem from, I decided to give it a go. The company highlights ethnicity on a world map, then lets you zoom in from the continent level. I found that 22.5 percent of my heritage came from Lincolnshire in east-central England. I haven’t yet traced any ancestors to Lincolnshire, but I did find through much genealogical sleuthing that one of my sixth-great-grandfathers came from Aberdeen, Scotland. Living DNA says that 3.1 percent of my DNA is from Aberdeenshire. Written narratives on the website provide a history of each reported region.
+Pros
+Offers detailed ethnicity estimates for people of British or Irish descent
+Cons
+Can’t link relatives to a family tree
+Using mitochondrial DNA and, if applicable, Y chromosome DNA, the company can trace your maternal and paternal lines back to human origins in Africa and show where and when your particular line probably branched off the original. My “motherline” probably arose in the Near East 19,000 to 26,000 years ago, Living DNA claims, and my ancestors were some of the first people to enter Europe. In February, the company announced that it would soon launch a relative-matching service for its customers.
+I’m not sure the service would be worth the price tag for people whose ancestry doesn’t contain a strong British or Irish tilt, though Living DNA says it is working to improve ethnicity estimates in Germany and elsewhere.
+Family Tree DNA
+ Family Tree DNA
+ANCIENT DNA MATCHES Family Tree DNA is the only company Saey tried that compares customers’ DNA with that of ancient modern humans. But based on the results’ presentation, it wasn’t clear whether Saey actually shares DNA with the ancient people indicated on the map (shown).
+FAMILY TREE DNA
+The most no-frills of the bunch is Family Tree DNA. For $79, “autosomal” testing looks for genetic variants on all of the chromosomes except the X and Y sex chromosomes. Y chromosome and mitochondrial DNA analysis costs extra.
+Pros
+Incorporates DNA results into family trees
+Cons
+Doesn’t explain results well
+Website is hard to navigate
+Family Tree DNA allows a user to build a family tree, incorporating personal DNA tests and matches from the site’s relative-matching section. I found more than 2,400 potential relatives. A chromosome viewer lets me see exactly which bit of DNA I have in common with any particular relative, or with up to five relatives at a time. That feature also allows users to trace how they inherited DNA from a shared ancestor. But I found this tool difficult to use.
+The website offers little explanation of results. For instance, I was excited to see that my DNA was compared with that of ancient Europeans, including Ötzi the Iceman, who lived 5,300 years ago (SN: 9/17/16, p. 9). Family Tree DNA is the only company I tried that incorporates ancient DNA into its results and that feature was what convinced me try this company. I did get a breakdown of how different groups — Stone Age hunter-gatherers, early farmers and “Metal Age Invaders” from the Eurasian steppes — contributed to my DNA. But when I saw Ötzi’s dot on my ancestry map, it wasn’t clear if that meant we share DNA or if the map was merely showing where he lived.
+23andMe
+23andMe
+MELTING POT 23andMe color-codes parts of chromosomes according to the ethnic group that contributed the DNA. For instance, Saey inherited from her dad a bit of DNA on chromosome 15 that carries western Asian and northern African heritage (purple).
+23ANDME
+23andMe ($99) offers one of the more complete packages of information. Most companies show a map of ethnic heritage. 23andMe does, too, but also presents an interactive diagram of all of a person’s chromosomes, indicating which portions carry a particular ethnic ancestry. Because my parents also did 23andMe, I learned that my dad handed me a tiny bit of chromosome 15 that carries western Asian and northern African heritage. My mom gave me the 0.3 percent of my DNA that comes from the Balkans, in a single chunk on chromosome 7, which makes sense since her grandparents came from Hungary. Playing with the chromosomes is fun. But I question the accuracy of these results (see my related article for more on why ancestry tests may miss the mark).
+Pros
+Explains results well
+Cons
+Can’t link relatives to a family tree
+23andMe presents Neandertal heritage in terms of the number of genetic variants you carry. A family-and-friends scoreboard shows where you stack up. (I top my leaderboard with 296 Neandertal variants, more than what 80 percent of 23andMe customers have.) The report also explains what some of those Neandertal variants do, including ones linked to back hair, straight hair, height and whether you’re likely to sneeze after eating dark chocolate. The company doesn’t test for all possible Neandertal variants, including ones that have been linked to health (SN Online: 10/10/17; SN: 3/5/16, p. 18).
+Like Geno 2.0, 23andMe uses mitochondrial and Y chromosome DNA to trace the migration patterns of a person’s ancestors, from Africa to the present day.
+Relative matching is both interesting and frustrating. I could see the people I match, how we might be related and compare our chromosomes. But 23andMe doesn’t provide a way to build family trees to further explore these relationships.
+AncestryDNA
+Ancestry DNA
+OLD AND NEW ROOTS AncestryDNA shows ethnic groups in the Old World that contribute to your history. For some people, the map (orange blob) may indicate your ancestors settled in the United States early in American history.
+ANCESTRYDNA
+AncestryDNA ($99) doesn’t give the variety of information other companies do. But it has useful genealogical tools, provided you link your results to a family tree that you can build with help from historical records via a paid subscription to Ancestry.com.
+Pros
+Allows DNA results to be combined with traditional genealogical records
+Cons
+Provides no information about ancient ancestry
+One interesting feature of my heritage report was that it went beyond spots on the map in Europe to also show a region of the United States called “Northeastern States Settlers.” A match to that category tells me that my ancestors who came from Europe probably initially settled in New England or around the Great Lakes. They did. One branch of my family tree set roots in Massachusetts in the 1640s. Using birth, death and immigrant records from Ancestry.com, I could build a timeline to show when and from where individual ancestors immigrated to the United States.
+AncestryDNA also matches you with relatives, but you can only see how you’re related to those people if they have also chosen to make family trees.
+A feature unique to AncestryDNA is called DNA circles. It shows connections between individuals and family groups who share DNA with you. These circles also contain descendants of your ancestors who you don’t directly share DNA with. Therefore, this feature allows you to extend relative matches beyond what traditional DNA matching can do.
+For instance, I am in a family group with my uncle and a cousin. We all share DNA with 24 other descendants of Samuel Pickerill, a drummer during the Revolutionary War. Pickerill has 42 other descendants with whom my family group doesn’t share DNA. Those 42 Pickerill descendants happened to inherit different bits of DNA from Pickerill than my uncle, his cousin and I did. That sometimes happens because of the random nature of the rules of biology and genetics (for more on those rules, check out this video).
+Genealogy junkie
+Although I’ve always been interested in family history, DNA testing has gotten me hooked on genealogy research.
+23andMe and AncestryDNA were the most fun to use. 23andMe can tell me whether a relative is on my mother’s or father’s side of the family. But then I have to go back to AncestryDNA and comb through my family tree to learn how we’re really connected. DNA can kick-start a genealogy hunt, but combing through marriage certificates, military rolls, census records, immigration documents, old photographs and other records — which Ancestry.com can provide — is what really tells me who my ancestors were.
+All in the family
+A variety of consumer genetic testing companies offer ancestry testing. Here’s how five such services compare.
+ 	Geno 2.0	Living DNA	Family Tree DNA	23andMe	AncestryDNA
+Cost	$199.95	$159	$79*	$99	$99
+Services include:	 	 	 	 	 
+Ethnicity estimates	?	?	?	?	?
+Relative matching	 	Coming soon	?	?	?
+Neandertal results	?	 	 	?	 
+Y chromosome analysis	?	?	?	?	 
+Mitochondrial DNA analysis	?	?	?	?	 
+Family tree building	 	 	?	 	?

@@ -1,0 +1,22 @@
+How to take iPhone photos with just your voice.
+"Life's photo-worthy moments can be fleeting. Whether the light is just right or your kid is actually cooperating, unlocking your phone to take a photo might mean you miss the moment. But, if you instead use Siri to take photos, more of those moments might make it into your camera roll.
+Once you're set up, you'll be able to shoot photos -- including in specific formats -- with a simple voice command, even when your phone is locked. Here's how.
+Using Siri to take photos
+To avoid the precious seconds it takes to use Touch ID, Face ID or enter your passcode to unlock your iPhone, you can enable access to Siri from the lock screen. Go to Settings > Siri & Search and toggle on Allow Siri When Locked. And if you want to bark orders at Siri on a locked iPhone without needing to press a button to summon it, then also toggle on Listen for ""Hey Siri.""
+Screenshot by Matt Elliott/CNET
+Just be aware of the caveats here. By enabling ""Hey, Siri"" when your phone is locked, someone could (theoretically) access information like your contacts, send text messages, look at your calendar appointments and make phone calls. To minimize the chances of someone gaining access to your info from the lock screen, be sure to train Siri to only recognize your voice.
+Siri's photo commands
+With Siri available from the lock screen, you can now use these voice commands:
+""Take a picture"" or ""take a photo"" and Siri will open the Camera app
+""Take a square picture""
+""Take a panoramic picture""
+""Take a video""
+""Take a slo-mo video""
+Basically, any mode for photos and videos will work, except for Portrait mode
+Sadly, Siri does not seem to know that my iPhone X has a portrait mode. When I asked Siri to take a portrait photo, she opened the Camera app to the regular photo mode. I assume the same holds true on the iPhone 8 Plus and iPhone 7 Plus, the other two models with dual cameras and portrait mode.
+Siri's selfie game is only so-so. You can ask Siri to ""take a selfie"" or even ""take a square selfie"" and Siri will open the camera app with the front-facing camera activated. What Siri can't do is actually capture the photo, leaving you to stretch your arm out and tap the shutter or volume button yourself.
+Read more: Change these three camera settings in iOS 11
+Share your voice
+9 comments
+Tags
+Apple Mobile Photography iOS 11 Siri"

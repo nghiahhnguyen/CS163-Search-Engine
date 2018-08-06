@@ -1,0 +1,19 @@
+At-home telomere testing is not a reliable marker of aging, researcher says
+Stay younger, longer. Great idea. But direct-to-consumer test kits that promise to gauge a person’s biological age by analyzing a drop of blood are not worth the $100 or so investment, says oncologist Mary Armanios. The tests measure the length of telomeres, the bits of DNA that cap and protect the ends of chromosomes. But the consumer tests are unreliable and can be misinterpreted, Armanios says.
+“These kinds of tests can do harm, suggesting there is something wrong when there isn’t,” says the Johns Hopkins School of Medicine researcher, who uses a clinical test of telomere length to diagnose and treat people with certain rare disorders.
+Oncologist Mary Armanios
+Johns Hopkins Medicine
+These kinds of tests can do harm, suggesting there is something wrong when there isn’t.
+— Mary Armanios
+Armanios gets calls from people who panic when they get their results from consumer tests. One man in his 40s was told his telomeres were those of an 80-year-old. He sold his house and quit work to make the most of the short time he was convinced he had left. Worse, she says, because he was under the misguided impression that surgeries shorten telomeres, he had decided to delay removal of a precancerous skin spot.
+Armanios trained in the lab of Carol Greider, who shared the 2009 Nobel Prize in physiology or medicine for discovering telomerase, the enzyme that controls telomere lengthening (SN: 10/24/09, p. 14). Today Armanios is clinical director of the telomere center at Johns Hopkins.
+There is a wide range of “normal” when it comes to telomere length. Work by her team and others has shown that cells don’t stop dividing or die because of telomere shortening unless the ends get very short, far from the median.
+Yet, commercial testing companies will label clients as older than their birthday suggests if their telomeres are anywhere shorter than the median. Longer means younger. But excessively long telomeres are not a guarantee of a long life and may be associated with higher cancer risk.
+The test many consumer companies use, quantitative polymerase chain reaction, or qPCR, has a 20 percent variability rate?—?tests on different days can yield different answers, studies by Armanios and others have shown. The clinical test Armanios’ group uses is flow cytometry and fluorescent in situ hybridization, or flow-FISH, which has a lower, 5 percent, variability rate.
+Genetic testing goes mainstream
+Daniel Hertzberg
+This story is part of a series on consumer genetic testing. See the whole series.
+The researchers use the more precise test to study a small group of disorders united by telomere defects. For two of the illnesses, treatment decisions can change based on clinical telomere testing. A hereditary form of aplastic anemia, a failure of the bone marrow to make blood cells, can be treated with a stem cell transplant with immune suppression. People whose telomeres are short need less immune suppression with the transplant. In a study by Armanios and colleagues in the March 6 Proceedings of the National Academy of Sciences, telomere testing flagged nine of 38 patients who required a gentler approach.
+Likewise, patients with short telomeres who are receiving lung transplants for idiopathic pulmonary fibrosis should get low immune suppression. In fact, traditional levels can be lethal. With this knowledge, the transplant can be done more safely.  
+“The telomere belongs in the clinic,” Armanios says, “and should not be used as a form of molecular palm reading.”
+https://www.sciencenews.org/article/home-telomere-testing-not-reliable-marker-aging-researcher-says?mode=topic&context=69&tgt=nr 

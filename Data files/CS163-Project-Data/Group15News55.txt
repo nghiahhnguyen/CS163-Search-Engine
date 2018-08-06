@@ -1,0 +1,21 @@
+Intelligent machines will 'end human evolution', says tech boss
+
+The man who helped set up Britain's largest technology company has warned that artificial intelligence is so advanced that we “have arrived at a time in history where evolution is coming to an end”.
+
+Arm founder Hermann Hauser, who has been dubbed "the godfather of venture capital" after investing in more than 100 tech startups, said that it was critical that businesses and governments started shaping how artificial intelligence will affect society. 
+
+“We are quite bad at defining problems, so having a common way of working out among ourselves what our goals are as humanity is the key problem for next 20 to 30 years,” he said during the Cogx conference in London.
+
+“Humanity has a new partner in intelligent machines and the key thing for us to get right is how to co-evolve with them,” he added.
+
+Hauser alluded to Max Tegmark’s critically acclaimed 2017 novel Life 3.0 and suggested society had evolved from an organic being, to designing our own software through education and culture. The next stage, where society designs its own hardware using machine learning-fuelled gene therapies to eradicate disease, is just around the corner, he suggested.
+
+Hauser said that gene therapies would be the most useful and valuable application for artificial intelligence and that health was the area for investors and businesses to watch. “It is the only trillion dollar opportunity I know for artificial intelligence,” he said.
+
+Arm creates the equipment that powers technology and artificial intelligence, manufacturing the chips that are currently used in iPhones, computers and driverless cars. It was sold for £24bn to Japan's Softbank in 2016. Softbank announced last week that it will cede control of Arm's Chinese operations and the unit will be run as a joint venture with Chinese partners.
+
+Hauser’s sentiments surrounding ethical AI are echoed by the company he helped form. Since the sale the company has installed an ethics committee to discuss and take a position on artificial intelligence. It hopes that this will help engineers design products that mitigate potential misuse in the future, in both its own company and their customers' operations.
+
+Carolyn Herzog, General Counsel at Arm told the Telegraph that a range of employees on legal, marketing and data science teams had come to the conclusion that “artificial intelligence should be a force for the common good" but to ensure this "we should proceed cautiously”. Arm engineers will discuss ethics with customers about how to develop technology with privacy by design when they license their intellectual property to them.
+
+“AI should be like the internet, which we can use across borders and across companies and countries to enhance our lives but that means we need to design with privacy and ethics in mind,” she said.

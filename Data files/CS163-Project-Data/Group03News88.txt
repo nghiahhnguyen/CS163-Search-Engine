@@ -1,0 +1,24 @@
+EYE SPY Smart TVs are watching YOU – here’s how your telly gives away your viewing habits
+You probably didn't realise that your fancy new television was spying on EVERYTHING you watch
+MOST of us spend hours watching our smart TVs – but few realise that those same televisions are watching you right back.
+A new report reveals how smart TVs are snooping on everything you view, and profiting off the info they collect.
+The New York Times has published an investigation into a company called Samba TV that hoovers up data about your viewing habits.
+Samba TV has deals with top telly makers around the world, including Sony, Sharp, TCL and Philips.
+Those deals put snooping software on your TVs, which can recognise exactly what you're watching.
+The software then uses this info to serve advertisements to you – even on other devices, like your smartphone
+When you buy a new TV from one of these companies, you'll be prompted to accept Samba TV during setup.
+It promises to recommend shows to you by "cleverly recognising onscreen content".
+But critics have complained that there's not enough detail about how this works – or what it means for users.
+According to one Samba TV exec, more than 90% of people had opted into the feature.
+Samba TV works by tracking everything that appears on your screen on a second-by-second basis.
+It reads the pixels of the image you're seeing to identify what shows you're watching, and even which advertisements are playing.
+This includes content from app-style services like Netflix and HBO, as well as video games played through consoles.
+But it gets even more invasive: Samba TV can identify other devices in your home that share the TV's internet connection.
+So how does Samba TV make money? It doesn't actually sell your data straight to advertisers.
+Instead, advertisers will pay Samba TV to direct their ads to gadget's in people's homes.
+Samba TV will use your viewing habits to target ads after a company's TV advertisement has played, or perhaps when a rival company's ad airs.
+The snooping firm can also work out if a person has visited an advertiser's site after watching one of their TV ads.
+According to Ofcom, around 40% of British homes now have a smart TV.
+Typically when customers buy a TV, they're excited to get it set up and start watching telly – and may rush through opt-in menus.
+Samba TV's own opt-in request reads: "Interact with your favorite shows. Get recommendations based on the content you love.
+"Connect your devices for exclusive content and special offers. By cleverly recognizing onscreen content, Samba Interactive TV lets you engage with your TV in a whole new way."

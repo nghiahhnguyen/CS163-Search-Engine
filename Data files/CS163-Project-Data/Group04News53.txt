@@ -1,0 +1,63 @@
+Supreme Court rules states can collect sales tax from out-of-state retailers
+
+By Alex Swoyer - The Washington Times - Thursday, June 21, 2018
+
+The Supreme Court overturned decades of precedent Thursday and paved the way for states to impose broader internet sales taxes, a ruling that has the potential to help local bricks-and-mortar retailers while dangling a new source of revenue for state governments.
+
+The justices, in the 5-4 ruling, said an old rule that applied only to businesses that had a physical presence in a state was a vestige of the mail-order catalog era and no longer applies in the internet age.
+
+“Each year, the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” wrote Justice Anthony M. Kennedy, who delivered the opinion for the court in the case of South Dakota v. Wayfair.
+
+South Dakota had challenged the physical presence rule, saying it was losing roughly $48 million to $58 million in revenue each year. It enacted a law requiring online retailers with $100,000 in sales of goods or with more than 200 transactions to collect and remit sales taxes, and then brought cases against online retailer Overstock and home goods company Wayfair.
+
+Lower courts, using the physical presence precedent, ruled against the state’s law. But the high court said Thursday that it was time to overturn those rulings, which date back to 1967 and were updated in 1992.
+
+“The internet’s prevalence and power have changed the dynamics of the national economy,” Justice Kennedy wrote.
+
+The decision produced a curious lineup, crossing the court’s usual ideological divisions.
+
+Justice Ruth Bader Ginsburg, perhaps the most liberal justice, joined four Republican-appointed members in the majority — besides Justice Kennedy, Justices Samuel A. Alito Jr., Clarence Thomas and Neil M. Gorsuch.
+
+Meanwhile, Chief Justice John G. Roberts Jr. led the dissent, joined by three Democrat-appointed jurists: Justices Stephen G. Breyer, Sonia Sotomayor and Elena Kagan.
+
+Chief Justice Roberts argued that Congress should be the one to address the regulation of commerce between states.
+
+“Nothing in today’s decision precludes Congress from continuing to seek a legislative solution. But by suddenly changing the ground rules, the court may have waylaid Congress’s consideration of the issue,” he wrote.
+
+Since every bricks-and-mortar store is located in only one state and most of the customers are from that state, the custom and law have always been for merchants to collect sales tax on behalf of that one state and then forward it to the government — a simple task.
+
+Online sellers could have clientele in every state but have a legal obligation to collect taxes from customers in only one. Theoretically, customers are supposed to pay sales taxes to the state themselves if merchants don’t charge them, but hardly anyone does.
+
+As a result, many online merchants simply didn’t collect sales taxes, which cost the state revenue and gave online merchants a price edge over bricks-and-mortar stores.
+
+Among the major online sellers that don’t charge sales taxes on goods shipped to every state are pet store Chewy.com, jeweler Blue Nile and clothier L.L. Bean. Etsy and eBay don’t require their sellers, who are usually smaller-scale, to collect sales tax.
+
+Andrew Moylan, executive vice president of the National Taxpayers Union Foundation, said the court also dealt a blow to taxpayers by giving states the power to tax businesses all over the country.
+
+“Congress should immediately move legislation along the lines of the No Regulation Without Representation Act,” Mr. Moylan said. “Congress must now act to contain the fallout of this case.”
+
+But retail stores celebrated the decision, saying it closes a loophole that benefited only online sellers.
+
+“Today’s decision culminates years of tireless work by the retail community to reverse a pre-internet-era rule that distorts free markets and puts local bricks-and-mortar stores at a competitive disadvantage with their online-only counterparts,” said Deborah White, counsel for the Retail Industry Leaders Association.
+
+On Wall Street, stock prices dropped for online retailers dropped but went up for larger chain stores. Wayfair lost 1.4 percent of its value to close at $114.58, and Overstock.com fell 7 percent to $36.15. Etsy and Amazon also were down at the session’s close.
+
+Meanwhile, Target shares rose 1.2 percent to close at $76.32, and Nordstrom stocks gained almost 2 percent value in a day.
+
+Doing business may get complicated for smaller retailers, considering that about 10,000 jurisdictions nationwide have some sort of taxing power.
+
+David Campbell, CEO of TaxCloud, one of the companies that manufactures tax compliance software, told The Associated Press that unless Congress creates a uniform threshold at which small retailers would be exempt, each state will be free to set its own ceiling.
+
+On Capitol Hill, the ruling produced deep divisions even within political parties, based on whether lawmakers’ states are considered winners or losers from internet taxes.
+
+Sen. Ron Wyden of Oregon, the top Democrat on the Finance Committee, said American companies will face major compliance costs to try to navigate sales tax rules of 50 states and lesser government bodies. Foreign companies, he said, will gain a leg up because they won’t have to pay the taxes.
+
+“Small business will be forced to carry the financial burden of other states’ taxes. That’s because local politicians desperate to find money to improve schools, roads and law enforcement will look outside their borders to find it,” he said.
+
+But his Democratic colleague, Senate Minority Whip Richard J. Durbin of Illinois, said the court’s decision will help Main Street businesses.
+
+“This ruling clears the way for our retailers to compete on a level playing field with internet giants,” he said.
+
+President Trump celebrated the decision on Twitter.
+
+“Big Supreme Court win on internet sales tax - about time! Big victory for fairness and for our country. Great victory for consumers and retailers,” the president tweeted.

@@ -1,0 +1,18 @@
+ACLU wants Amazon to stop offering surveillance technology.
+"The ACLU wants Amazon to stop using surveillance technology.
+Getty Images
+The American Civil Liberties Union wants Amazon to stop providing its facial surveillance technology, Rekognition, to governments and law enforcement.
+The organization's Washington branch on Monday delivered a petition, with more than 150,000 signatures, to Amazon's Seattle headquarters. Addressed to company CEO Jeff Bezos, the petition was signed by representatives from nearly 70 organizations and Amazon shareholders concerned about immigrants' rights as well as privacy and discrimination, the ACLU said in a statement.
+""The rights of immigrants, communities of color, protesters and others will be put at risk if Amazon provides this powerful surveillance system to government agencies,"" Shankar Narayan, technology and liberty director of ACLU of Washington, said in the statement.
+Amazon Rekognition relies, in part, on artificial intelligence to analyze images and videos. As a result, ""You can detect, analyze and compare faces for a wide variety of user verification, people counting, and public safety use cases,"" according to the website.
+The ACLU specifically wants Amazon ""to end its practice of selling its dragnet surveillance system, Rekognition, to local enforcement."" The organization in May released emails it says shows how Amazon has been pushing its surveillance technology to law enforcement.
+""Rekognition marketing materials read like a user manual for authoritarian surveillance,"" Nicole Ozer, technology and civil liberties director for the ACLU of California, said last month. ""We're blowing the whistle before it's too late.""
+Microsoft also came under scrutiny recently after writing in January that it was ""proud"" to supply its Azure cloud services, which include the ability to use ""deep learning capabilities to accelerate facial recognition and identification"" to US Immigration and Customs Enforcement (ICE). Microsoft has since changed its stance, saying it's ""dismayed"" by the actions of ICE in a statement.
+Amazon Rekognition is being used in Florida and Oregon, and Arizona and California have expressed interest in the technology, the ACLU said.
+Amazon didn't immediately respond to a request for comment.
+First published June 18 at 2:47 p.m. PT.
+Update, 3 p.m. PT: Adds information about Microsoft also coming under scrutiny for facial recognition services.
+Share your voice
+3 comments
+Tags
+Security Sci-Tech Tech Industry"
