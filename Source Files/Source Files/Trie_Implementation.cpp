@@ -108,6 +108,9 @@ void Trie_t::inputFromFile(const string& folder_path) {
 		string paragraph, word;
 		stringstream ss;
 		
+		set<ll>numbers_in_file;
+		
+		
 		//process each paragraph
 		while (fin.good()) {
 			//increment the count of paragraphs
@@ -123,7 +126,7 @@ void Trie_t::inputFromFile(const string& folder_path) {
 			//start processing words
 			while (ss.good()) {
 				ss >> word;
-				preprocessing(word);
+				preprocessing(word, numbers_in_file);
 				para_wmi = para_word_count.find(word);
 				//if the word doesn't exist in the dictionary
 				if (para_wmi == para_word_count.end()) {
@@ -192,6 +195,8 @@ void Trie_t::inputFromFile(const string& folder_path) {
 			//sort the file list
 			sort(word_in_trie->file_list.begin(), word_in_trie->file_list.end(), NodeMaxFirst);
 		}
+
+		this->numbers.insert(numbers_in_file.begin(), numbers_in_file.end());
 		fin.close();
 	}
 }

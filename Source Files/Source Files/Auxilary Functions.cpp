@@ -230,16 +230,38 @@ string getFileName(int fileName) {
 	return name;
 }
 
-void preprocessing(string& word) {
-	string::iterator it;
+void preprocessing(string& word, set<ll>& numbers_in_word) {
+	string::reverse_iterator it;
 	string result;
-	for (it = word.begin(); it != word.end(); ++it) {
+	ll cur_number;
+	int num_digit = 0;
+	bool last_char_is_digit = false;
+	for (it = word.rbegin(); it != word.rend(); ++it) {
 		if (*it >= 32 && *it <= 126 && (isalnum(*it) || *it == '$' || *it == '#' || *it == '\'')) {
 			result.push_back(tolower(*it));
+			if (isdigit(*it)) {
+				if (!last_char_is_digit) {
+					cur_number = *it - '0';
+					num_digit = 1;
+					last_char_is_digit = true;
+				}
+				else
+					cur_number += (*it - '0')*int(pow(10, num_digit++));
+			}
+			else {
+				if (last_char_is_digit) {
+					numbers_in_word.insert(cur_number);
+					cur_number = 0;
+					num_digit = 0;
+				}
+				last_char_is_digit = false;
+			}
 		}
 	}
+	if (cur_number != 0) numbers_in_word.insert(cur_number);
 	word = result;
 }
+
 vector<Node> Trie_t::getQueryData(string quiery, set<string> &highlightWords) {
 	vector<string> tokens = splitString(quiery);
 	int n = tokens.size();
