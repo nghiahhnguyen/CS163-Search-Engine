@@ -1,0 +1,31 @@
+Owls See the World Much Like We Do
+Barn owls have simpler brains than primates, but they can process information about things moving 
+in their environment in a similarly complex way.
+Owl eyes are round, but not spherical. These immobile, tubular structures sit on the front of an 
+owl’s face like a pair of built-in binoculars. They allow the birds to focus in on prey and see in 
+three dimensions, kind of like humans — except we don’t have to turn our whole heads to spot a slice 
+of pizza beside us.
+Although owls and humans both have binocular vision, it has been unclear whether these birds of prey 
+process information they collect from their environments like humans, because their brains aren’t 
+as complex. But in a study published in the Journal of Neuroscience on Monday, scientists tested 
+the ability of barn owls to find a moving target among various shifting backgrounds, a visual 
+processing task earlier tested only in primates.
+The research suggests that barn owls, with far simpler brains than humans and other primates, also 
+group together different elements as they move in the same direction,  to make sense of the world 
+around them.
+“Humans are not so different from birds as you may think,” said Yoram Gutfreund, a neuroscientist 
+at Technion Israel Institute of Technology who led the study with colleagues from his university 
+and RWTH Aachen University in Germany.
+A critical part of perception is being able to distinguish an object from its background. One way 
+humans do this is by grouping elements of a scene together to perceive each part as a whole. In 
+some cases, that means combining objects that move similarly, like birds flying in a flock, or the 
+single bird that breaks away from it.
+Scientists have generally considered this type of visual processing as a higher level task that 
+requires complex brain structures. As such, they’ve only studied it in humans and primates.
+But Dr. Gutfreund and his team believed this ability was more basic — like seeing past camouflage. 
+A barn owl, for example, might have evolved a similar mechanism to detect a mouse moving in a 
+meadow as wind blows the grass in the same direction.
+To test visual detection tactics in their feathered subjects, they showed barn owls screens of 
+black, moving dots on a gray background and attached cameras to their heads to track their gazes. 
+Then the team measured how long it took the birds to turn their heads toward a target dot, moving 
+in a different direction than numerous other shifting dots.

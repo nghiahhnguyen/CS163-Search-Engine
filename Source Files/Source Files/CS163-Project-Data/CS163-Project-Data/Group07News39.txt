@@ -1,0 +1,50 @@
+﻿"Treating patients caught in the world's war zones
+Last summer, Dr. Mohamad Al-Hosni got a WhatsApp message from doctors in Syria. They couldn't figure out why an infant born prematurely at 34 weeks was having a hard time breathing. The St. Louis neonatologist, along with about 20 other US physicians, received an image of a chest X-ray in a group chat.
+The US doctors discovered the baby's intestines had moved into his chest through a hole in the diaphragm, preventing normal lung development. They referred the infant to a large hospital in Turkey staffed with specialists who could treat the condition.
+Al-Hosni is one of nearly 60 physicians volunteering with the nonprofit Syrian American Medical Society (SAMS) who use WhatsApp to help treat patients thousands of miles away. Several times a week, medical staff in the war-ravaged Idlib province use the messaging app to call him or send texts, photos and videos of patients they need help with.
+""It can be lifesaving, especially from an ICU standpoint,"" Al-Hosni says. ""A few minutes can make a big difference in the life of a baby.""
+More than 470,000 people have been killed and 1.9 million injured since the Syrian conflict began in 2011, according to estimates by the Syrian Center for Policy Research. Treating the injured is both difficult and dangerous. Nearly 900 medical workers have been killed, according to Physicians for Human Rights. The Syrian government, opposition groups and ISIS all block access to medical supplies, equipment and fuel. Hospitals and clinics are regularly targeted by airstrikes, forcing doctors to operate in overcrowded commercial buildings that rely on generators for power and electricity. Medical specialists are rare outside of referral hospitals.
+That's where telemedicine â€” which uses the internet, messaging apps and other communications technologies to connect doctors in the field with experts thousands of miles away â€” plays a critical role. Telemedicine isn't new or cutting-edge. Yet its ability to call on outside expertise makes it a vital tool for many of the world's volunteer organizations bringing health care to remote or dangerous areas. These includes SAMS and MÃ©decins Sans FrontiÃ¨res (MSF), also known as Doctors Without Borders.
+Transcending borders
+SAMS trains Syrian medical staff in disciplines such as surgery and internal medicine, and sends volunteers and medical equipment to areas in need.
+When medical staff inside Syria need virtual backup, they use WhatsApp as their messaging platform of choice because of its reliability, Al-Hosni says. These WhatsApp groups typically comprise about 20 US physicians representing the different specialties that might be needed, such as radiology and infectious diseases. The specialists will review the patient's information as well as images, such as X-rays and CT scans, to determine the best treatment.
+More than 1.9 million people have been injured in Syria since 2011.
+Syrian Center for Policy Research
+MSF, on the other hand, uses its own telemedicine network â€” itself based on a platform from Collegium Telemedicus that was designed specifically to connect specialists with health care workers in faraway regions. Doctors and nurses in the field will upload a patient's medical information to the MSF network, at which point one of the nine coordinators stationed around the world will send the information to a specific specialist who can comment on the case, ask for more information or request additional tests. If that specialist wants to consult others, she'll ask coordinators to add them.
+""The constraints of where [they're] working don't allow for access to specialists or all the technology that referring physicians are used to having,"" says Dr. John Lawrence, a pediatric surgeon at Maimonides Medical Center in Brooklyn, New York. He's one of nearly 300 doctors around the world consulting for MSF.
+Last July, Lawrence received a CT scan of a 5-year-old Syrian boy from a hospital in eastern Lebanon. The boy had a pelvic tumor removed when he was a year old, and the hospital was concerned the tumor had returned.
+It had.
+Lawrence recommended transferring the child to one of the main pediatric hospitals in Beirut for a new operation, where he says health care is comparable to that of the US.
+Mother of invention
+Dr. Adi Nadimpalli, who specializes in pediatric and internal medicine, often works in MSF-run hospitals in the field. That includes South Sudan, where four years of violent civil war have displaced more than 3 million people â€” forcing many into substandard living conditions â€” and destroyed clinics and hospitals.
+See more from CNET Magazine.
+Mark Mann
+Last year, a woman who was six months pregnant and short of breath came into the hospital where Nadimpalli was working. To discover the cause, the hospital took an ultrasound of her heart and lungs, then forwarded the image to a cardiologist in the US. He diagnosed rheumatic heart disease. The condition meant another pregnancy could kill her.
+It's not a diagnosis she wanted to hear â€” or believe. To convince her, local doctors called an obstetrician in Australia, who persuaded her to have a tubal ligation. That's no easy feat in a culture where women are expected to bear many children.
+""Because we had this stronger diagnosis, we were able to convince her, her husband and her father,"" Nadimpalli says.
+MSF had used its simple telemedicine network to bridge cultural differences, not just medical gaps.
+Its use may become increasingly important in a world where violence and economic hardships have displaced more people than in World War II.
+""Necessity is the mother of invention,"" says Dr. Sharmila Anandasabapathy, director of the Baylor Global Innovation Center at Baylor College of Medicine, in Houston, Texas.
+""In settings where there are no other options, you're almost forced to rely upon the quickest route. And often, the most expedient and effective route is telemedicine.""
+This story appears in the summer 2018 edition of CNET Magazine. Click here for more magazine stories.
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.
+Follow the Money: This is how digital cash is changing the way we save, shop and work.
+CNET Magazine
+reading
+â€¢
+Treating patients caught in the world's war zones
+Jun 14
+â€¢
+We aren't ready for a solar storm smackdown
+Jun 11
+â€¢
+These dogs sniff out cybercrime
+May 29
+â€¢
+CNET Magazine catches up with Keegan-Michael Key
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+CNET Magazine Internet Sci-Tech WhatsApp"

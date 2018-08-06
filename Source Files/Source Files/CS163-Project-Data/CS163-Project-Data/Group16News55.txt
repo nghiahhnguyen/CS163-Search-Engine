@@ -1,0 +1,44 @@
+The silver lining in the Xiaomi cloud
+China’s plan to bring home its best tech companies has seen hype hit financial reality.
+
+Following Chinese President Xi Jinping’s expansive pledges to open up the financial system in speeches earlier this year, officials rushed to put his promises into action. The centerpiece of their plans was to be Chinese Depository Receipts, a new instrument that would allow companies listed abroad to also be traded at home, bypassing the domestic market’s restrictive initial public offering rules.
+
+But to the officials’ embarrassment, their urgent action failed at the first hurdle. Smartphone maker Xiaomi was to kick off the CDR market this month as part of what was billed to be a $10 billion IPO split between Shanghai and Hong Kong. Instead, Xiaomi abandoned the CDR part, settling for a $4.7 billion Hong Kong-only offering.
+
+However, Beijing can profit from this setback, which now gives officials a chance to re-examine China’s complex rules and take their time to devise CDR regulations that can work.
+
+China has no lack of tech heavyweights. But they are almost all listed outside the mainland, primarily in the U.S. or in some cases, Hong Kong. Chinese investors who on a daily basis use the services of Alibaba Group Holding, Baidu or JD.com have no means to invest in these companies even though they are the companies’ revenue base.
+
+The China Securities Regulatory Commission and local exchanges rushed through the administrative rules to allow for the listing of CDRs. However, they failed to establish any mechanism to link CDRs directly with the ostensibly underlying shares listed offshore let alone address the question of pricing companies like Xiaomi that were seeking a new listing.
+
+Chinese tech companies have struggled to list at home because most simply do not meet the official IPO criteria which demand that candidate companies show at least three consecutive years of profits. Neither does China permit companies to have different classes of shares with different voting rights. On top of all this, there is a multi-year IPO waiting list. Listing in the U.S. bypasses all of these obstacles.
+
+Xiaomi filed for its IPO just after Hong Kong changed its rules to allow dual-class shares. Chinese officials appeared to signal they too could accept dual-class shares with CDRs and potentially even with new domestic listings. CDRs were showing surprising momentum given the usual torturous lead times for new financial products in China.
+
+So much for that. In late June, after cancelling its CDR listing, Xiaomi priced its Hong Kong deal at the bottom end of the offering range. Instead of a planned market value of $100 billion, it settled for just $54 billion.
+
+Tight deal deadlines always meant this would be a demanding offering but the problems really go back to the CSRC. 
+
+After Xiaomi filed its CDR proposal, the CSRC responded with a long list of questions, querying  everything from the company’s business model to the offering pricing.  That would be fair for a typical domestic listing but the same rules should not have been applied to a CDR listing.
+
+The CDR is a shadow stock which gives exposure to a share listed abroad under different disclosure rules. If Xiaomi is to be treated like a domestic stock, then change the listing rules to let it list directly at home.
+
+For years, the CSRC has limited the price-to-earnings ratios of new issues to 23, knowing that the shares will jump to a higher multiple immediately upon listing – and seeing that as a good thing for local investors and for market interest.
+
+Many tech stocks indeed trade at a P/E well over 23 -- Alibaba is now at about 46 and JD.com at 300.  The CSRC’s demand that domestic buyers get a discount-priced offering would have been grossly unfair to buyers of its Hong Kong shares.
+
+The collapse of the Xiaomi CDR may not be a bad thing.  It was always going to be a challenge to pull off so many “firsts” in one go.  A safer option for the CSRC is to work with Alibaba, probably the most famous private-sector company in China, and introduce CDRs with its name; its New York shares have a long track record of price movement, providing a basis for transparency and fairness on pricing.
+
+Alibaba, JD.com and others which would qualify under the CDR rules have all grown cautious after the Xiaomi debacle. They don’t necessarily want to get caught up in Chinese disclosure rules and frankly don’t need more capital anyway.
+
+A few months ago, when the idea of CDRs was gaining traction, the China market looked relatively stable, economic data was reasonably strong and domestic stocks were about to be included in the benchmark emerging markets indexes of MSCI.
+
+But while China did indeed join MSCI’s indexes in June, the market looks worse in almost all areas. Domestic stocks are at multi-year lows, a U.S.-China trade war has started, the yuan has fallen significantly against the dollar and economic data has weakened.  Not an environment which would encourage the authorities to take risks with CDRs or other new products.
+
+The call from the top may still be for reform and opening, but that will require a totally different approach from what has happened until now. For a start, China needs to go ahead with long discussed plans to shift from CSRC approval of every listing candidate to a disclosure-based approach in which companies would publish information and investors would be forced to take more ownership of the process and be responsible for their decisions.
+
+Instead, the CSRC, in an effort to improve the quality of listed companies, has become ever-more involved in the approval process.  Good intentions, but a wrong approach.
+
+Unless the authorities show a willingness to change the underlying rules, not least on pricing, to allow China’s tech giants to list at home, CDRs will be able to provide an alternative. But the CSRC needs to understand that the underlying disclosure, pricing and share structures for CDRS have to be fundamentally different from those for mainland IPOs. CDRs can work if difference is embraced, but the embarrassing fiasco of Xiaomi should remind all investors in China of the vagaries of the nation’s reforms.
+
+Ultimately there are conflicting signals from the very top: ensure financial stability and control risk, but at the same time open up and reform.  The two sets of imperatives just don’t sit well together, especially for stocks in a bear market and a slowing economy entering a trade war.

@@ -1,0 +1,19 @@
+How Smart TVs in Millions of U.S. Homes Track More Than What’s On Tonight
+The growing concern over online data and user privacy has been focused on tech giants like Facebook 
+and devices like smartphones. But people’s data is also increasingly being vacuumed right out of 
+their living rooms via their televisions, sometimes without their knowledge.
+In recent years, data companies have harnessed new technology to immediately identify what people 
+are watching on internet-connected TVs, then using that information to send targeted advertisements 
+to other devices in their homes. Marketers, forever hungry to get their products in front of the 
+people most likely to buy them, have eagerly embraced such practices. But the companies watching 
+what people watch have also faced scrutiny from regulators and privacy advocates over how 
+transparent they are being with users.
+Samba TV is one of the bigger companies that track viewer information to make personalized show 
+recommendations. The company said it collected viewing data from 13.5 million smart TVs in the 
+United States, and it has raised $40 million in venture funding from investors including Time 
+Warner , the cable operator Liberty Global and the billionaire Mark Cuban.
+Samba TV has struck deals with roughly a dozen TV brands — including Sony, Sharp, TCL and Philips 
+— to place its software on certain sets. When people set up their TVs, a screen urges them to enable 
+a service called Samba Interactive TV, saying it recommends shows and provides special offers 
+“by cleverly recognizing onscreen content.” But the screen, which contains the enable button, does 
+not detail how much information Samba TV collects to make those recommendations.

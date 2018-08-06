@@ -1,0 +1,15 @@
+China-based espionage campaign targets satellite, defense companies.
+"A group of hackers traced to China are waging a sophisticated cyber espionage campaign against satellite operators, telecommunication companies and defense contractors in the US and Southeast Asia, a security researcher said Tuesday.
+Symantec said it's been monitoring a hacking group it's dubbed ""Thrip"" since 2013, but in January detected ""powerful malware"" in Southeast Asia the company believes was used to spy on infected computers. But what Symantec said it found most troubling was the hackers infected computers that monitor and control satellites.
+""The attack group seemed to be particularly interested in the operational side of the company, looking for and infecting computers running software that monitors and controls satellites,"" Symantec said in a blog post. ""This suggests to us that Thrip's motives go beyond spying and may also include disruption.""
+The campaign comes to light amid rising tensions between the US and China over national security concerns. In December, the Trump administration identified China as a country that hacks to steal intellectual property, an issue that came to a head during the Obama administration. In 2015, Obama and Chinese president Xi Jinping made an agreement banning the countries from hacking each other for economic gain.
+Symantec said it traced the campaign, which relied on a mix of custom malware and commonly used hacker tools, to three computers in China. The group also employed ""living off the land tactics"" -- making use of operating system features or legitimate network administration tools to compromise victims' networks without arousing suspicion, Symantec said.
+""They operate very quietly, blending in to networks, and are only discovered using artificial intelligence that can identify and flag their movements,"" Symantec CEO Greg Clark said in a statement. ""We stand ready to work with appropriate authorities to address this serious threat.""
+Symantec said it's working with various law enforcement agencies to identify and mitigate threats.
+""However, like many espionage-based groups, they are persistent and often retool their malware and eventually attempt to return or target new organizations and industries in renewed campaigns,"" a Symantec spokesperson said.
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad services that will change your life.
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+Share your voice
+1 comment
+Tags
+Security Hacking Symantec"

@@ -1,0 +1,34 @@
+The newest League of Legends champion is Zoe, a trickster mage
+
+League of Legends has an ebb and flow of new content. When the professional tournaments end towards the last few months of the year, updates come in thick and fast, with the game seeing its biggest changes around that sort of time so that it doesn't impact professional play. One of those changes is a brand new champion coming to League of Legends: Zoe, the Aspect of Twilight.
+
+She's the latest character for the game, offering new abilities and filling a new niche for the game. She's classified as a mage, a spellcasting hero who deals a large amount of damage to enemies, with her abilities built to take advantage of, well, an advantage. Here's what she does.
+
+PASSIVE: More Sparkles!
+After casting a spell, Zoe's next basic attack deals bonus magic damage.
+
+Q: Paddle Star
+
+Zoe fires a star that deals magic damage in a small area and applies her passive. She can recast Q mid-flight to redirect the star to a new position near her. The star's damage increases based on the distance it has traveled in a straight line.
+
+W: Spell Thief
+
+Enemy summoner spells and active item casts drop spell shards on the ground for an extended period of time. Some minions also drop a spell shard when killed by Zoe. Collecting a spell shard grants one cast of that spell or active item.
+
+When casting any summoner spell, Zoe briefly gains bonus movement speed and tosses missiles at the nearest enemy (prioritizing her nearest enemy). Each missile can trigger her passive.
+
+E: Sleepy Trouble Bubble
+
+Zoe throws a ball that detonates on the first target hit, dealing magic damage and making the struck enemy drowsy. After a couple of seconds, drowsy enemies will briefly fall asleep and take extra damage from the next attack or spell. Whenever an enemy falls asleep, this ability's cooldown is reduced. If the Bubble hits nothing, it lingers on the ground as a trap. If cast over a wall, it gains casting range.
+
+R: Portal Jump
+
+Briefly teleport to a targeted position, then teleport back. During the teleport you can use abilities and attack normally, and see over walls. However, you won't be able to move.
+
+What's unique about Zoe, as a damage dealing mage, is she actually only has one regular damage dealing ability. Technically both More Sparkles! and Spell Thief can augment her damage, but they're less reliable, Paddle Star is the only regular damaging ability, her ultimate, Portal Jump, doesn't do damage, which is pretty unique for a mage.
+
+That's because she's one of the champions that's built to 'unlock' at when she gets that ultimate ability. It's on a short cooldown, and allows Zoe to deal a huge amount of damage with Paddle Star: by sending the first cast of Paddle Star backwards, she can then Portal Jump forwards, recast it, and cause the projectile to do a huge amount of damage.
+
+Typically, mages in League of Legends will be all about assassinating an enemy with spells, or dealing sustained damage over time with regular spells. Zoe seems to be more of the latter, her Paddle Star acting as a constant threat of damage if she can land it.
+
+She's going to be tested on the League of Legends Public Beta Environment (PBE) for the next few weeks, with a likely release towards the end of November. She's coming  with one cosmetic skin at launch, too, called Cyberpop Zoe. She's currently disabled on the PBE, but will be fixed soon.

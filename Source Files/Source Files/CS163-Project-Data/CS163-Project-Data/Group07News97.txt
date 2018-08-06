@@ -1,0 +1,61 @@
+World Cup 2018: How to get your TV ready to watch.
+"Getting a good picture is the goooooooaaal!
+Sarah Tew/CNET
+The world is now officially crazy for football (aka soccer) in the month-long, quadrennial frenzy of competition known as the FIFA World Cup. Sure, hundreds of thousands of people get to see the matches in person in Russia, but hundreds of millions more will watch on TV all over the globe.
+If you plan to be one of them, here are a few tips for getting your TV ready for the goal.
+Go big
+Soccer is presented primarily in a press box view, with a lot of the field visible at once, studded with all-too-tiny players. More so than most TV programs, it's best suited to larger screens. You'll get a better experience watching on as large a TV as you have available. And if possible, a projector.
+If your TV is smaller, you can get a similar effect by sitting closer. High-def images often look great even from very close distances, so it might be worthwhile to move your seat closer to the TV for the match. That is, if doing so won't obscure the screen for your friends.
+12
+Best TVs for watching the World Cup 2018
+Check the setup: HDMI, high-def and Wi-Fi (plus 4K HDR!)
+The first thing you want to do is make sure the TV is set up correctly. If you have a high-definition cable or satellite box, make sure it's connected via HDMI. You'll also want to make sure you're tuned to the high-def versions of the broadcast -- available on Fox, FS1, Telemundo and NBC Universo. Most cable and satellite providers in the US carry both HD and standard-definition channels, and HD will look much better.
+If you're watching from a streaming device you'll want to make sure you have enough bandwidth. If you experience break-up or buffering during the match, make sure other devices in your house aren't using the Wi-Fi at the same time. You can also try moving stuff around, going with a wired Ethernet connection or, if all else fails, upgrading your internet speed. For more, check out How to improve TV streaming.
+World Cup 2018: When it starts, how to watch and more
+If you happen to subscribe to DirecTV or Dish Network in the US, you can watch games live in 4K HDR (schedules here and here, respectively). Local providers Layer3 and Altice (formerly Cablevision) will also provide a live 4K feed, as will the Fox Sports app exclusive to Hisense TVs. Comcast will also carry 4K HDR games on its Infinity X1 platform as well, but only next-day on-demand. UK viewers can stream 4K HDR games via the iPlayer app. In any case you'll need a compatible TV, source device and package (where applicable) package.
+Sound matters
+You should also get your audio set up correctly. If you're using the TV speakers for audio, set your box to output stereo as opposed to 5.1 surround sound (Dolby Digital). But hopefully you're using an external audio system or sound bar, which can not only deliver real or simulated surround sound (perfect for that great crowd noise) but also much better dialogue.
+Speaking of dialogue and crowd noise, the 2010 World Cup was famously plagued (enhanced?) by the sound of the Vuvuzela trumpet, whose characteristic buzzing monotone dominated the broadcasts. It's not expected to play as large a role in Russia, but different instruments might prove similarly annoying to TV watchers. Or maybe you're the kind of person who prefers to listen to the crowd noise, instruments and all, and would rather turn down the announcers.
+Sarah Tew/CNET
+If that's the case, try playing around with the sound controls. Many TVs and external sound systems have a multiband equalizer (above) that lets you decrease certain frequencies independently of others, quieting those sounds you don't want to hear. If your equipment doesn't have an equalizer, try experimenting with a sound mode or even the basic bass and treble controls.
+And if you happen to be listening to the surround-sound broadcast on a surround system, you can turn down the center channel to minimize the dialogue from the announcers. Conversely, if you'd rather hear them over the crowd, turn down the other speakers (Left, Right and Surround) and turn up the center.
+Picture settings: Bright ideas
+At CNET, we calibrate the picture settings of every TV we review to get the best picture quality. If you happen to own one of the TVs we've reviewed, you can actually try our calibrated settings yourself. Search our picture settings forum for your TV to find out if we, or another reader, has posted settings for it.
+Of course, our calibrations happen in a dark room, while you might be watching World Cup matches during the day. If the picture seems too dim, try increasing the backlight control, which boosts the power of the illumination (typically LEDs) behind the LCD screen. If you have a plasma TV, try increasing Contrast or Cell Light instead. Also, be sure to disable any room lighting sensors, automatic brightness controls or energy saver controls.
+Maybe you're even planning on taking the TV outside during the day. If that's the case you'll want the brightest picture possible. Try one of the Vivid or Dynamic picture modes, max out the backlight, and try to keep the TV out of direct sunlight (and the rain!). If you feel like buying a TV specifically for outdoor use, market leader SunBrite has you covered... for a price.
+Not easy being green
+During our calibrations we attempt to get the most accurate color possible. For soccer, the most common color you'll see is the green of the field, and if it's not accurate, it's pretty easy to see. The human eye is very sensitive to green, and you can usually tell if grass looks too brownish or dull, or too yellowish or vibrant. When you're watching football, you want as natural and accurate a color green as possible -- the World Cup pitch should not look like AstroTurf.
+Getting the right color green is almost as crucial as remaining on-sides.
+Francois Nel / Getty Images
+If you don't have access to our picture settings, one of the best ways to assure accurate colors, including green, is to engage the Movie or Cinema preset. Yes, it sounds counterintuitive, but Movie usually provides a more accurate color green than Sports or other picture modes. Those are often punched-up and oversaturated-looking, with greens that are much more intense than in real life. If you like the punchy look, on the other hand, maybe you'll prefer one of those modes to a more-accurate one.
+On some TVs, unfortunately, Movie will look too dark, even if you turn up the Backlight or Contrast all the way. If that's the case, choose a different picture mode and look for a control called ""color space"" or something similar. There, you'll want to choose the ""HD"" or ""Auto"" or ""Rec 709"" setting, not the ""Native"" setting. You may also be able to get the grass looking more natural by decreasing the color control.
+The best time to make adjustments to the picture by eye is during the match itself -- using another channel or program, even another grass-centric sporting event, won't work as well. For more advice, check out How to set up a TV by eye.
+If you have a TV equipped with smoothing or dejudder (aka The Soap Opera Effect) you may want to do some experimenting with those settings as well. Look for a setting called Auto Motion Plus on Samsung, TruMotion on LG, Smooth Motion Effect on Vizio, and MotionFlow on Sony TVs. Football can sometimes benefit from the blur-reduction effects of those settings, but on the other hand, you may notice artifacts, for example trails behind fast-moving objects like a ball during a quick pass or goal kick. If you notice these effects, try turning the setting off completely.
+Gooooooaaaaaaaal!
+So, if you've decided you won't be making the trek to Russia or buying a new TV, at least you now have some ideas for getting your TV and home theater into prime match-time shape. Now feel free to redecorate your man cave in a nationalistic theme, invite your buddies over, and scream at the screen. Just try not to sound like an American, OK?
+Watch this: World Cup referees to use goal-line technology to settle...
+1:52
+Best TVs right now: The past year's best sets, all in one place.
+CNET Smart Home: We transformed a real house into a test lab for the hottest category in tech.
+World Cup
+reading
+â€¢
+World Cup 2018: How to get your TV ready to watch
+Jun 21
+â€¢
+World Cup 2018 memes: Don't cry for Lionel Messi and Argentina
+Jun 20
+â€¢
+World Cup 2018 memes: Twitter users are Russian to comment
+Jun 20
+â€¢
+World Cup 2018: How to watch, when it starts, schedule and more
+Jun 18
+â€¢
+The fastest way to check FIFA World Cup results on all your devices
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+World Cup TVs Media Streamers HDMI LG Samsung Sony Vizio"

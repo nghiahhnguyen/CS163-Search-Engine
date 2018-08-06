@@ -1,0 +1,54 @@
+In her short life, mathematician Emmy Noether changed the face of physics
+On a warm summer evening, a visitor to 1920s Göttingen, Germany, might have heard the hubbub of a party from an apartment on Friedländer Way. A glimpse through the window would reveal a gathering of scholars. The wine would be flowing and the air buzzing with conversations centered on mathematical problems of the day. The eavesdropper might eventually pick up a woman’s laugh cutting through the din: the hostess, Emmy Noether, a creative genius of mathematics.
+
+At a time when women were considered intellectually inferior to men, Noether (pronounced NUR-ter) won the admiration of her male colleagues. She resolved a nagging puzzle in Albert Einstein’s newfound theory of gravity, the general theory of relativity. And in the process, she proved a revolutionary mathematical theorem that changed the way physicists study the universe.
+
+It’s been a century since the July 23, 1918, unveiling of Noether’s famous theorem. Yet its importance persists today. “That theorem has been a guiding star to 20th and 21st century physics,” says theoretical physicist Frank Wilczek of MIT.
+
+Noether was a leading mathematician of her day. In addition to her theorem, now simply called “Noether’s theorem,” she kick-started an entire discipline of mathematics called abstract algebra.
+But in her career, Noether couldn’t catch a break. She labored unpaid for years after earning her Ph.D. Although she started working at the University of Göttingen in 1915, she was at first permitted to lecture only as an “assistant” under a male colleague’s name. She didn’t receive a salary until 1923. Ten years later, Noether was forced out of the job by the Nazi-led government: She was Jewish and was suspected of holding leftist political beliefs. Noether’s joyful mathematical soirees were extinguished.
+She left for the United States to work at Bryn Mawr College in Pennsylvania. Less than two years later, she died of complications from surgery — before the importance of her theorem was fully recognized. She was 53.
+Although most people have never heard of Noether, physicists sing her theorem’s praises. The theorem is “pervasive in everything we do,” says theoretical physicist Ruth Gregory of Durham University in England. Gregory, who has lectured on the importance of Noether’s work, studies gravity, a field in which Noether’s legacy looms large.
+
+Making connections
+Noether divined a link between two important concepts in physics: conservation laws and symmetries. A conservation law — conservation of energy, for example — states that a particular quantity must remain constant. No matter how hard we try, energy can’t be created or destroyed. The certainty of energy conservation helps physicists solve many problems, from calculating the speed of a ball rolling down a hill to understanding the processes of nuclear fusion.
+
+Symmetries describe changes that can be made without altering how an object looks or acts. A sphere is perfectly symmetric: Rotate it any direction and it appears the same. Likewise, symmetries pervade the laws of physics: Equations don’t change in different places in time or space.
+Noether’s theorem proclaims that every such symmetry has an associated conservation law, and vice versa — for every conservation law, there’s an associated symmetry.
+
+Conservation of energy is tied to the fact that physics is the same today as it was yesterday. Likewise, conservation of momentum, the theorem says, is associated with the fact that physics is the same here as it is anywhere else in the universe. These connections reveal a rhyme and reason behind properties of the universe that seemed arbitrary before that relationship was known.
+
+During the second half of the 20th century, Noether’s theorem became a foundation of the standard model of particle physics, which describes nature on tiny scales and predicted the existence of the Higgs boson, a particle discovered to much fanfare in 2012 (SN: 7/28/12, p. 5). Today, physicists are still formulating new theories that rely on Noether’s work.
+
+When Noether died, Einstein wrote in the New York Times: “Noether was the most significant creative mathematical genius thus far produced since the higher education of women began.” It’s a hearty compliment. But Einstein’s praise alluded to Noether’s gender instead of recognizing that she also stood out among her male colleagues. Likewise, several mathematicians who eulogized her remarked on her “heavy build,” and one even commented on her sex life. Even those who admired Noether judged her by different standards than they judged men.
+
+Symmetry leads the way
+There’s something inherently appealing about symmetry (SN Online: 4/12/07). Some studies report that humans find symmetrical faces more beautiful than asymmetrical ones. The two halves of a face are nearly mirror images of each other, a property known as reflection symmetry. Art often exhibits symmetry, especially mosaics, textiles and stained-glass windows. Nature does, too: A typical snowflake, when rotated by 60 degrees, looks the same. Similar rotational symmetries appear in flowers, spider webs and sea urchins, to name a few.
+But Noether’s theorem doesn’t directly apply to these familiar examples. That’s because the symmetries we see and admire around us are discrete; they hold only for certain values, for example, rotation by exactly 60 degrees for a snowflake. The symmetries relevant for Noether’s theorem, on the other hand, are continuous: They hold no matter how far you move in space or time.
+
+One kind of continuous symmetry, known as translation symmetry, means that the laws of physics remain the same as we move about the cosmos.
+
+The conservation laws that relate to each continuous symmetry are basic tools of physics. In physics classes, students are taught that energy is always conserved. When a billiard ball thwacks another, the energy of that first ball’s motion is divvied up. Some goes into the second ball’s motion, some generates sound or heat, and some energy remains with the first ball. But the total amount of energy remains the same — no matter what. Same goes for momentum.
+
+These rules are taught as rote facts, but there’s a mathematical reason behind their existence. Energy conservation, according to Noether, comes from translation symmetry in time. Similarly, momentum conservation is due to translation symmetry in space. And conservation of angular momentum, the property that allows ice skaters to speed up their spins by hugging their arms close to their bodies, emerges from rotational symmetry, the idea that physics stays the same as we spin around in space.
+
+In Einstein’s general theory of relativity, there is no absolute sense of time or space, and conservation laws become more difficult to comprehend. It’s that complexity that brought Noether to the topic in the first place.
+
+Gravity gets Noether’d
+In 1915, general relativity was a fascinating new theory. German mathematicians David Hilbert and Felix Klein, both at the University of Göttingen, were immersed in the new theory’s quirks. Hilbert had been competing with Einstein to develop the mathematically complex theory, which describes gravity as the result of matter curving spacetime (SN: 10/17/15, p. 16).
+
+But Hilbert and Klein stumbled on a puzzle. Attempts to use the framework of general relativity to write an equation for conservation of energy resulted in a tautology: Like writing “0 equals 0,” the equation had no physical significance. This situation was a surprise to the pair; no previously accepted theories had energy conservation laws like this. The duo wanted to understand why general relativity had this peculiar feature.
+The two recruited Noether, who had expertise in relevant areas of mathematics, to join them in Göttingen and help them solve the riddle.
+
+Noether showed that the seemingly strange type of conservation law was inherent to a certain class of theories known as “generally covariant.” In such theories, the equations associated with the theory hold whether you’re moving steadily or accelerating wildly, because both sides of the theory’s equations change in sync. The result is that generally covariant theories — including general relativity — will always have these nontraditional conservation laws. This discovery is known as Noether’s second theorem.
+
+This is what Noether did best: fitting specific concepts into their broader mathematical context. “She was just able to see what’s right at the heart of what’s going on and to generalize it,” says philosopher of science Katherine Brading of Duke University, who has studied Noether’s theorems.
+
+On her way to proving the second theorem, Noether proved her first theorem, about the connection between symmetries and conservation laws. She presented both results in a July 23, 1918, lecture to the Göttingen Mathematical Society, and in a paper published in Göttinger Nachrichten.
+
+It’s not easy to find quotes of Noether reflecting on the significance of her work. Once she made a discovery, she seemed to move on to the next thing. She referred to her own Ph.D. thesis as “crap,” or “Mist” in her native German. But Noether recognized that she changed mathematics: “My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously,” she wrote to a colleague in 1931.
+
+“Warm like a loaf of bread”
+Born in 1882, Noether (her full name was Amalie Emmy Noether) was the daughter of mathematician Max Noether and Ida Amalia Noether. Growing up with three brothers in Erlangen, Germany, young Emmy’s mathematical talent was not obvious. However, she was known to solve puzzles that stumped other children.
+
+At the University of Erlangen, where her father taught, women weren’t officially allowed as students, though they could audit classes with the permission of the professor. When the rule changed in 1904, Emmy Noether was quick to take advantage. She enrolled and earned her Ph.D. in 1907.

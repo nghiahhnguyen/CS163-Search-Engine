@@ -1,0 +1,31 @@
+Scientists have captured the clearest and most detailed image yet of Zika, the virus that set off a global health crisis in 2015 and 2016 and left thousands of babies with serious birth defects. The work could contribute to the development of more effective vaccines and treatments to combat the virus.
+
+The research, published Tuesday in the journal Structure, combined tens of thousands of two-dimensional images to construct a three-dimensional model of the virus’s structure.
+
+The team used electron microscopy, a technique that sends beams of electrons through a particle, projecting an image. The wavelengths of electrons — much shorter than that of light — are roughly the same as the distance between atoms, so scientists are able to perceive minute details.
+
+“Previous studies didn’t hit this level of granularity,” said Dr. Peter Katona, an infectious disease specialist at the University of California, Los Angeles, who was not involved in the study.
+
+The result is the highest-resolution image ever captured of a virus with an envelope, or protective outer shell. By visualizing the virus in such detail, the researchers may find pockets on its surface where the drug molecules could attach.
+
+Such features may help scientists understand how vaccines and antiviral drugs could interact with Zika.
+
+“A vaccine is a key that must fit perfectly into a virus’s lock,” Dr. Katona said. “The better we know the details of the lock, the better we can design the key.”
+
+Zika is a flavivirus, a family that includes dengue and Japanese encephalitis, which are also transmitted by mosquitoes. A comparison with these viral relatives showed prominent differences at a specific region of Zika’s surface called the glycan loop.
+
+That site might determine the type of cell that a virus infects — and in turn, the symptoms it would cause.
+
+The microscopic distinctions may explain why dengue sometimes develops into a hemorrhagic fever, while Zika manifests as birth defects, for example, said Michael G. Rossmann, a microbiologist at Purdue University and one of the study’s authors.
+
+“At a lower resolution, many of these viruses just look like matching spherical balls,” said Madhumati Sevvana, the study’s lead author. “Once you zoom in, you start to see the differences in their landscapes.”
+
+The Zika virus is a strong candidate for high-resolution imaging because, compared to other flaviviruses, it is heat-resistant and remains active in varying conditions. That resilience can be detrimental to a feverish patient, but in an imaging lab, it is essential.
+
+“When a virus isn’t stable, it often falls apart on you, and you’re chasing bits and pieces of it instead of the whole thing,” Dr. Rossmann said. “Zika allowed for a homogeneous sample of a flavivirus — and when we understand one a little bit better, we understand them all a bit better.”
+
+The study’s findings likely will not have an immediate impact on disease prevention, according to Kristian G. Andersen, a genomic researcher at the Scripps Research Institute. At present, many promising Zika vaccine candidates cannot be fully tested in humans because of a decline in infections. Bioethicists are conflicted over whether to allow testing in healthy people.
+
+Development of antiviral medicines to treat patients is still in early stages, too.
+
+“Zika has only been under the microscope for the last few years,” said Duane J. Gubler, an emeritus professor of infectious disease at Duke-NUS Medical School in Singapore. “Yes, this is critical information about the structure that is going to be necessary for therapeutics down the road, but I’d add: Don’t hold your breath.”

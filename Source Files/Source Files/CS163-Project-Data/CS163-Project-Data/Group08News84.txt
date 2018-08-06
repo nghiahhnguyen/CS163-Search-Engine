@@ -1,0 +1,28 @@
+Future smart clothes could pack serious gadgetry
+In the future, leaving your phone charger at home will mean only one thing: You forgot to put on pants.
+
+Just as smartphones untethered users from their desktop computers, smart clothing is poised to bring personal electronics out of our pockets and onto our sleeves.
+
+The current generation of wearable technology that includes smart glasses and watches is still more marginal than mainstream. Google Glass fizzled out, and nearly a third of the people who buy fitness trackers lose interest over time. But gadget-packed garments may have an edge when it comes to seamless integration into our lives.
+
+“One conference, somebody stood up and [said], ‘I get that wearable technology is a thing, but I just don’t think I’m going to be willing to get up every single day and remember to put something on,’ ” recalls wearable technology researcher Lucy Dunne. “I looked at her and said, ‘You’re wearing clothes right now. I’m pretty sure you do that already.’ ”
+Plus, technology-laden clothing is “right next to and against your body. It has a large surface area compared to personal devices, and it goes with us everywhere,” says Dunne, of the University of Minnesota campus in St. Paul. “That kind of access is ... rich with opportunity.”
+Some advanced apparel is already for sale, like gloves threaded with heat-conducting wires to warm fingers on extra cold days, or bathing suits equipped with UV sensors to alert suntanners when they are close to overbaked. But engineers have set their sights on a vast menu of souped-up clothes that could make daily life more convenient — or just better looking.
+
+Job one, though, is to refashion conventional electronics. Typical battery packs and digital displays are too rigid and heavy for weaving into everyday duds. Engineers are getting creative to make lightweight, flexible devices that keep clothing comfortable and still perform as well as their clunky counterparts. Once researchers have built something that works well and is reasonably wearable, they still have to make sure their stuff is sturdy enough to withstand daily wear and tear, not to mention runs through the laundry.
+
+Most next-gen clothing is years away from hitting retail racks. In fact, a lot of the tech hasn’t left the lab yet. But fashionistas and gearheads can look forward to a future where electronic clothes are in vogue. Here’s a sneak peek.
+1. Change your fashion on the fly
+Clothing woven from color-changing yarns could give a whole new meaning to the phrase “goes with anything.”
+
+Most existing color-changing textiles, like sun-activated T-shirts with designs that go from white to rainbow, are triggered by shifts in ambient lighting or body heat. Now, researchers have created clothes that change color with the tap of a smartphone screen.
+
+These garments, presented April 4 in Phoenix at the Materials Research Society spring meeting, are made from yarns as thick as a few strands of human hair. Each yarn comprises a copper wire sheathed in a polymer sleeve. The polymer could be polyester, nylon or some other material, depending on how soft or sturdy you want your fabric, says optics and photonics researcher Joshua Kaufman, a codeveloper of the yarns at the University of Central Florida in Orlando.
+
+The polymer sleeves are laced with pigments that shift color in response to temperature changes too subtle for the wearer to feel. The wearer controls the clothing’s appearance by sending Wi-Fi signals from a smartphone to a battery attached to the garment. The battery feeds electric current into the yarn’s copper wire, heating the pigment to activate a color switch. These yarns could make clothes that rotate between solids, stripes, plaids and other patterns.
+
+Fashion trendsetters and people who just can’t decide what to wear in the morning probably stand the most to gain from this technology.
+
+But it could have benefits for the rest of us, too. Spilled food on your light-colored shirt at lunch? Hide the stain with a darker hue. Want to wear a lighter shade when you’re out in the sun or biking home in the dark? Tap an app. Need to sneak in a second-day wear after skipping laundry day? No problem.
+
+This kind of fabric could also be used for bags, car upholstery, curtains and furniture, says optics and photonics researcher Ayman Abouraddy, also at Central Florida. “We don’t anticipate more than a year or two before you could buy something [made of these fabrics] from the mall,” he says. 

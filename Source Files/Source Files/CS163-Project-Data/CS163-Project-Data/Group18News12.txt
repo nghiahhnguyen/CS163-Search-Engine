@@ -1,0 +1,34 @@
+Google's 'Reserve' tool winning converts, taking search to next level
+The service spares users the phone calls, online searching and form filling typically associated with appointments.
+Alphabet Inc’s Google is drawing thousands of new customers to gyms and salons each month through an appointment-booking tool released last year, Reuters has learned, a quiet step in the company’s transition to the next generation of search.
+The service, known as Reserve with Google, spares users the phone calls, online searching and form filling typically associated with appointments. Say you want a massage at 5 p.m. someplace within a half-mile of work. Google.com/maps/reserve displays openings at nearby businesses and allows users to book, and even pay, without having to call or visit another website.
+Google declined to comment on performance of the tool, which it launched last March.
+But in interviews with Reuters, seven software firms that supply schedule data to Google described the volume as significant, with as much as 75 percent of bookings representing new customers. Consumers like the convenience. Business owners say the tool is putting their names in front of more potential clients.
+The early results are a good sign for Google’s strategy for search at a time when it is battling technology rivals to guide consumers to shops, products, recipes, music and more. Google wants to do more than supply users with a list of web pages that they must research themselves. The next step is to complete tasks for them and provide direct solutions.
+Google Assistant - the company’s version of Apple Inc’s Siri or Amazon.com Inc’s Alexa - is a central piece of the effort. Users will be able to make Reserve bookings via voice commands to Google Assistant by later this year, people familiar with the matter said. That is something not yet built into Siri or Alexa.
+Google says its Assistant will even place robo-calls to businesses to make bookings if a suitable option is not available through Reserve, a feature it showed off in May at Google I/O, the company’s conference for software developers.
+“There’s a competitive race to be the established consumer brand for appointment booking,” said Marc Woodward, vice president at scheduling software maker Genbook. “But you’re going to need this omniscient understanding of availability” at businesses.
+Google does not charge users or businesses for Reserve. And it has not told schedule partners how it would make money on the service.
+But shops may place more advertising with Google if Reserve drives customers through their doors. Or Google could eventually charge businesses transaction fees.
+CEO Sundar Pichai told analysts in April that completing actions on users’ behalf “obviously...has a commercial impact.”
+Initial results
+Dozens of firms peddle booking software that spas, restaurants and other businesses use to accept reservations on their websites.
+To launch Reserve, Google cut deals with 25 large software suppliers, promising to consolidate and polish the process to increase bookings to the firms’ clients.
+The arrangement gives Google continuous feeds of schedules from tens of thousands of shops spanning 13 countries. These are mostly health, beauty and restaurant businesses not already covered by booking giants such as Expedia Group Inc , OpenTable Inc and Zocdoc Inc.
+Google does not pay for the data. The payoff, schedule suppliers say, is that the booking tool makes clients more attractive in Google results.
+Schedulers declined to provide Reuters with detailed performance and financial information about their results with Reserve, citing nondisclosure agreements with Google. Still, they said Reserve’s monthly growth has won them over.
+Buenos Aires-based Restorando, which works with restaurants in Latin America, said Google attracted about 15,000 diners who spent about $270,000 in the first few weeks, according to spokesman Frank Martin.
+TimeTrade, a Tewksbury, Mass.-firm whose clients include beauty chain Sephora, said 75 percent of clients’ Reserve reservations have come from new customers. Another supplier, San Francisco-based MyTime, estimated its figure at 50 percent. About 40 percent of all Google reservations to MyTime clients come after hours, evidence of its advantage over phone bookings, CEO Ethan Anderson said.
+Vancouver-based fitness entrepreneur Chara Marie, who uses Yocale schedule software and coaches clients on exercise and nutrition, said about one in four new clients a week have come through Reserve in recent months.
+She is an avid user too, booking about 45 nail, hair and massage appointments in the last year through Reserve. Marie, 29, said she is hooked on the convenience and does not miss playing phone tag.
+“It allows you to spend more time doing what you want to be doing,” Marie said.
+To be sure, some business owners have questioned Google diluting customer relationships and capturing data.
+“Am I losing control of my business a little bit?” said George Mardigian of Reserve bookings to his Oakland, Calif. gym Flex Fitness. “We’re a neighborhood gym, and we want to keep things sort of close to the vest.”
+The Reserve tool has worked well enough that Google says new partners are coming soon, including schedulers who work with horseback riding tours, magic shows and baby sitters.
+Assessing competition
+Google is not the only big technology company looking to commercialize online bookings outside of restaurants and travel.
+Amazon Home Services has schedules for TV installers, landscapers and other home-related service providers. Facebook Inc’s Instagram recently announced deals with 11 of the same schedulers as Google.
+Yelp Inc said its list of “bookable” businesses, last reported at 100,000 in 2016, is growing, though some schedulers have declined to accept its revenue-sharing terms.
+Google can stand apart if it can master the integration with Google Assistant, Genbook’s Woodward said. He pointed to search data showing increasingly complex queries such as “where to get a Swedish massage nearby at a discount today.”
+If Google can deliver the answer, along with a seamless, voice-activated booking, it will be hard to beat, he said.
+“It’s going to be about what you can achieve on the platform,” Woodward said.

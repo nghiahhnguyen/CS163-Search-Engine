@@ -1,0 +1,22 @@
+Bitcoin's soaring value down to manipulation, scientists claim
+
+Bitcoin’s meteoric price rise may have been down to price manipulation using another virtual currency, researchers have suggested.
+
+Scientists at the University of Texas analysed transactions on Bitfinex, where Bitcoin can be bought and sold and identified patterns which suggest that the prices were successfully pushed up when they slumped at other exchanges, by using another virtual currency called Tether.
+
+“Tether seems to be used to stabilize and manipulate Bitcoin prices," said Professor John Griffin and Amin Shams in their research paper.
+Promoted Stories
+
+"Tether is ‘pushed’ through a supply-driven scheme to make up a currency, convert it into Bitcoin, and then manipulate the price of Bitcoin and other cryptocurrencies."
+
+The cryptocurrency reached a high of $20,000 before crashing at the start of this year. As of Wednesday it sat at around $6,500.
+
+Tether is a digital currency backed by the US dollar one-for-one and offers the stability of traditional currency but the flexibility and speed of cryptocurrency. It was created by many of the same people who were behind the leading cryptocurrency exchange site, Bitfinex.
+
+Bitfinex and Tether boss JL van der Velde said: "Bitfinex nor Tether is, or has ever, engaged in any sort of market or price manipulation.
+
+"Tether issuances cannot be used to prop up the price of Bitcoin or any other coin or token on Bitfinex.”
+
+Following the release of the paper, the price of Bitcoin fell 2pc against the dollar. It since rallied slightly and is down by 1.5pc, as of Wednesday afternoon.
+
+Co-author Amin Shams said that the research “highlights the lack of transparency in the market but we will have to wait and see what the long term impact.”

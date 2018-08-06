@@ -1,0 +1,17 @@
+A little brain can be surprisingly good at nothing. Honeybees are the first invertebrates to pass a test of recognizing where zero goes in numerical order, a new study finds.
+
+Even small children struggle with recognizing “nothing” as being less than one, says cognitive behavioral scientist Scarlett Howard of the Royal Melbourne Institute of Technology in Australia. But honeybees trained to fly to images of greater or fewer dots or whazzits tended to rank a blank image as less than one, Howard and colleagues report in the June 8 Science.
+
+Despite decades of discoveries, nonhuman animals still don’t get due credit outside specialist circles for intelligence, laments Lars Chittka of Queen Mary University of London, who has explored various mental capacities of bees. For the world at large, he emphasizes that the abilities described in the new paper are “remarkable.”
+
+Researchers recognize several levels of complexity in grasping zero. Most animals, or maybe all, can understand the simplest level — just recognizing that the absence of something differs from its presence, Howard says. Grasping the notion that absence could fit into a sequence of quantities, though, seems harder. Previously, only some primates such as chimps and vervet monkeys, plus an African gray parrot named Alex, have demonstrated this level of understanding of the concept of zero (SN: 12/10/16, p. 22).
+
+The researchers first trained bees to visit a spot with either a Y-shaped maze or an upright display, both offering images with different numbers of elements, such as dark circles of different sizes. Some bees were trained to fly to the image with the lower numbers of objects, while other bees were taught to go to the higher-number image. The researchers offered the bees a sweet treat for the correct image, and a bitter quinine solution for a wrong answer.
+
+“I was fairly afraid of bees when I began working with them,” Howard says. But learning their ways convinced her that a lot of what humans mistake for aggression from a foraging bee buzzing around is usually “just curiosity.”
+
+The trained bees then performed a series of tests with no rewards. In one test that offered the bees a choice between a single shape image versus a blank image, bees trained to pick the lower number of objects flew to the blank image — the zero — 63 percent of time. Overall, the test results showed the bees treating zero as being less than one, Howard says.
+
+The results convince evolutionary behavioral biologist Rafael Rodríguez of the University of Wisconsin–Milwaukee that honeybees are indeed getting the basics of zero. Now he’s wondering about earlier studies that might hint that certain spiders would be worth testing, too.
+
+Still, the most sophisticated sense of zero, using a symbol for it in mathematical calculation, is a feat only humans have demonstrated. So far. Howard muses about the possibility of someday testing bees’ prowess on that harder feat.

@@ -1,0 +1,36 @@
+Eggshell nanostructure protects a chick and helps it hatch
+A chicken eggshell has a tricky job: It must protect a developing chick, but then ultimately let the chick break free. The secret to its success lies in its complex nanostructure — and how that structure changes as the egg incubates.
+
+Chicken eggshells are about 95 percent calcium carbonate by mass. But they also contain hundreds of different kinds of proteins that influence how that calcium carbonate crystalizes. The interaction between the mineral crystals and the proteins yields an eggshell that’s initially crack-resistant, while making nanoscale adjustments over time that ultimately let a chick peck its way out, researchers report online March 30 in Science Advances.
+
+Researchers used a beam of ions to cut thin cross sections in chicken eggshells. They then analyzed the shells with electron microscopy and other high-resolution imaging techniques. The team found that proteins disrupt the crystallization of calcium carbonate, so that what seems at low resolution to be neatly aligned crystals is actually a more fragmented jumble. This misalignment can make materials more resilient: Instead of spreading unimpeded, a crack must zig and zag through scrambled crystals.
+Lab tests back up that finding: The researchers added a key shell-building protein called osteopontin to calcium carbonate to yield crystals like those seen in the eggshells. The presence of that protein makes calcium carbonate crystals form in a nanostructured pattern, rather than smooth and even crystal, study coauthor Marc McKee, a biomineralization researcher at McGill University in Montreal, and colleagues found.  
+
+The team also found structural variation on a minute scale throughout the eggshell, though it’s only about a third of a millimeter thick. Inner layers have less osteopontin, leading to bigger nanostructures. That may make the inner shell less resilient than the outer shell, which makes sense, McKee says­­. The outer shell needs to be hard enough to protect the chick, while the inner shell nourishes the developing chick.
+
+Over time, the inner layers of the shell dissolve through a chemical reaction, releasing calcium to build a chick’s developing bones. The eggshell undergoes structural changes to facilitate that process, McKee and his colleagues found.
+
+The researchers compared fertilized eggs incubated for 15 days to nonfertilized eggs. Over time, the nanostructures toward the inner shell became smaller in fertilized eggs, but remained the same in the nonfertilized eggs. The change gives the inside of the eggshell a bumpier texture, and by extension, more surface area. That provides more space for that shell-dissolving chemical reaction to take place, the researchers propose. The reaction also thins the shell overall, making it easier for a chick to break through from the inside when it’s time to hatch.
+
+Advances in imaging technology are helping scientists find new details like this even in objects as familiar as a chicken eggshell, says Lara Estroff, a materials scientist at Cornell University who wasn’t part of the research. In connecting the eggshell’s functionality with its fine-grain structure, the new study could provide inspiration for designing new kinds of materials with specific properties.
+The Large Hadron Collider is getting an upgrade Smashing together a billion protons a second wasn’t enough for the Large Hadron Collider.
+
+The particle accelerator, located at CERN in Geneva, is getting spiffed up to allow it to carry out collisions at an even faster rate. On June 15, scientists announced the start of construction for an LHC upgrade called the High-Luminosity LHC.
+
+The upgrade will boost the collision rate by at least a factor of five. That increase should beef up the LHC’s ability to search for new particles and to study the Higgs boson, the particle that the LHC detected in 2012.
+
+The first stage of construction involves establishing new buildings, shafts and caverns to house equipment. Eventually, scientists will begin replacing equipment inside the accelerator, including the magnets that focus and steer the beams of particles. The plan is for the HL-LHC to be in business by 2026.
+The sun shrinks a teensy bit when it’s feeling active
+How big is the sun? Well, that depends on when you’re measuring.
+
+The sun slightly shrinks and expands as it goes through a solar cycle, a roughly 11-year period of high and low magnetic activity, a new study finds. When the sun is the most active, its radius decreases by 1 or 2 kilometers, two researchers report in a paper accepted in the Astrophysical Journal. Given that the sun’s full radius is about 700,000 kilometers, that’s a tiny change.
+
+Unlike a planet, the sun has no solid surface, so defining the absolute size isn’t simple. “It’s a slippery concept: What does it mean, the radius of the sun?” says astronomer Jeff Kuhn of the University of Hawaii in Maui. One way of defining the sun’s width is based on how the brightness of the sun decreases from its center. In 2010, Kuhn and colleagues found no signs that the sun’s radius varied during the solar cycle, when based on brightness.
+
+But the new study considered a different benchmark called the seismic radius, which is measured via seismic waves that travel through the sun’s interior. Any shrinking or expanding of the sun will change the frequency of those waves.
+
+That different yardstick has some advantages. “By using the seismic radius, we can measure more accurately,” says Alexander Kosovichev of the New Jersey Institute of Technology in Newark, who coauthored the paper with Jean-Pierre Rozelot of Université Côte d’Azur in Nice, France. To tease out the seismic radius, the astrophysicists used 21 years’ worth of data on the waves’ frequencies collected by two spacecraft. The amount of expansion or contraction varied by depth: Some layers within the sun contracted while others expanded. But the final result was an overall decrease in seismic radius for a more active sun.
+
+The new measurement, however, is not a replacement for measuring the radius of the sun’s brightness. “I think that’s a separate question,” Kuhn says. The two measurements rely on different techniques, and therefore probe different aspects of the sun’s behavior.
+
+Still, the sun’s seismic radius may help scientists understand the fluctuating strengths of magnetic fields at different depths within the sun, a potential cause of the shrinkage, says astrophysicist Sabatino Sofia, who is retired from Yale University. While there previously have been hints of variation in the sun’s seismic radius, the additional data “really confirms that during the activity cycle, the seismic radius of the sun is changing.”

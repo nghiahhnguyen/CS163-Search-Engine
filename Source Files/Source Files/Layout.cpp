@@ -2,12 +2,12 @@
 
 struct keys
 {
-	char key[200],keyO[200];
+	char key[50],keyO[50];
 	int rank;
 };
 int KEYs = 0;
 
-keys ListKey[500];
+keys ListKey[50];
 
 void ResizeConsole(int w, int h) {
 	HWND console = GetConsoleWindow();
@@ -37,7 +37,7 @@ void tsize(int x) {
 }
 
 void genKey(char s[]) {
-	while (strlen(s) < 199) {
+	while (strlen(s) < 49) {
 		int tmp = strlen(s);
 		s[tmp++] = ' ';
 		s[tmp] = '\0';
@@ -58,13 +58,13 @@ void LoadText() {
 }
 
 void readHistory() {
-	char s[200];
+	char s[50];
 	ifstream fi;
 	fi.open("Logs\\SearchedKey.txt");
 	int dem = -1;
 	while (!fi.eof()) {
 		fi >> ListKey[++dem].rank; fi.ignore(10, '\n');
-		fi.get(s, 200, '\n'); fi.ignore(10, '\n');
+		fi.get(s, 50, '\n'); fi.ignore(10, '\n');
 		strcpy(ListKey[dem].keyO, s);
 		strcpy(ListKey[dem].key, s);
 		genKey(ListKey[dem].key);
@@ -89,7 +89,7 @@ void LoadBorder() {
 	GOTOXY(115, 6);
 	for (int i = 0; i < 31; i++) cout << "-";
 	for (int i = 3; i < 6; i++) { GOTOXY(115, i); cout << "|                             |"; }
-	GOTOXY(117, 4); cout << "Run time: 0.000s";
+	GOTOXY(117, 4); cout << "Run time: ";
 
 	GOTOXY(1, 14);
 	for (int i = 0; i < 145; i++) cout << "-";
@@ -105,21 +105,21 @@ void LoadBorder() {
 
 void AddHistory(char s[]) {
 	
-	char ss[200];
+	char ss[50];
 	strcpy(ss, s);
-	genKey(s);
+	genKey(ss);
 
 	int tmp = -1;
 	for (int i = 0; i <= KEYs; i++) {
-		if (strcmp(ListKey[i].key, s) == 0) { tmp = i; break; }
+		if (strcmp(ListKey[i].key, ss) == 0) { tmp = i; break; }
 	}
 
 	//cout << tmp; p;
 
 	if (tmp == -1) {
 		ListKey[++KEYs].rank = 5;
-		strcpy(ListKey[KEYs].keyO, ss);
-		strcpy(ListKey[KEYs].key, s);
+		strcpy(ListKey[KEYs].keyO, s);
+		strcpy(ListKey[KEYs].key, ss);
 	}
 	else {
 		ListKey[tmp].rank++;
@@ -152,17 +152,38 @@ bool inKey(char s[], char ss[], int &i) {
 	if (strlen(s) > strlen(ss)) return false;
 	int tmp = 0;
 	for (i = 0; i < strlen(ss); i++) {
-		//cout << i << " " << s[tmp] << " " << ss[i] << " " << tmp; p;
 		if (ss[i] == s[tmp]) tmp++; else { tmp = 0; if (ss[i] == s[tmp]) tmp++;	}
 		if (tmp == strlen(s)) return true;
 	}
 	return false;
 }
+bool inKeyy(char s[], string ss) {
+	int i;
+	if (strlen(s) > ss.length()) return false;
+	int tmp = 0;
+	for (i = 0; i < ss.length(); i++) {
+		if (tolower(ss[i]) == tolower(s[tmp])) tmp++; else { tmp = 0; if (ss[i] == s[tmp]) tmp++; }
+		if (tmp == strlen(s)) return true;
+	}
+	return false;
+}
+bool inKeyyy(string ss, char s[]) {
+	int i;
+	if (strlen(s) < ss.length()) return false;
+	int tmp = 0;
+	for (i = 0; i < strlen(s); i++) {
+		if (tolower(ss[tmp]) == tolower(s[i])) tmp++; else { tmp = 0; if (ss[tmp] == s[i]) tmp++; }
+		if (tmp == ss.length() && (s[i+1]==' ' || s[i+1]=='\0')) return true;
+	}
+	return false;
+}
+
 
 void preSearch() {
+
 	for (int i = 13; i < 39; i++) {
 		GOTOXY(2, i);
-		cout << "                                                                            ";
+		cout << "                                                                                                                                                ";
 	}
 	GOTOXY(1, 14);
 	for (int i = 0; i < 145; i++) cout << "-";
@@ -171,7 +192,7 @@ void preSearch() {
 void KeySelect(char s[]) {
 	preSearch();
 	int selected[500];
-	for (int i = 0; i < 500; i++) selected[i] = -1;
+	for (int i = 0; i < 50; i++) selected[i] = -1;
 	for (int i = 0; i <= KEYs; i++) {
 		int index = -1;
 		if (inKey(s, ListKey[i].keyO, index))
@@ -204,19 +225,18 @@ void KeySelect(char s[]) {
 	}
 }
 
-void ready(char (&s)[500]) {
-	GOTOXY(3,11);
+void ready(char (&s)[50]) {
+	GOTOXY(2, 40); cout << "                                                                           ";
+	GOTOXY(3, 11); cout << "                                                                           ";
+	GOTOXY(3,11); 
 	int i;
 	tc(112);
 	inputUName(3, 11, s);
-	//KeySelect(s);
 	AddHistory(s);
 	preSearch();
-	//cout << s;
-
 }
 
-void inputUName(int x, int y, char(&s)[500]) {
+void inputUName(int x, int y, char(&s)[50]) {
 	s[0] = '\0'; int dem = -1;
 	char c = 0;
 	c = _getch();

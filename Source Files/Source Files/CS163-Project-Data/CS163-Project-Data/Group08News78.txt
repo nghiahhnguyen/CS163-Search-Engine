@@ -1,0 +1,15 @@
+Underwater fiber-optic cables could moonlight as earthquake sensors
+The global network of seafloor cables may be good for more than ferrying digital communication between continents. These fiber-optic cables could also serve as underwater earthquake detectors, researchers report online June 14 in Science.
+
+“It’s a very exciting proposition,” says Barbara Romanowicz, a seismologist at the University of California, Berkeley and the Collège de France in Paris.
+
+Almost all seismic stations around the world are based on land, leaving many oceanic earthquakes undetected. Harnessing the million-plus kilometers of underwater fiber-optic cables to monitor seafloor earthquakes would be “a great step forward” for studying Earth’s interior, Romanowicz says.
+
+What’s more, quake-detecting cables could bolster tsunami alert systems. “The more [seismic] stations feeding into a tsunami warning system, the faster it can give a warning,” says study coauthor Richard Luckett, a seismologist at the British Geological Survey in Edinburgh.
+
+To use a telecommunication cable as a seismic sensor, researchers inject light from a laser into one end of the optical fiber and monitor the light that exits the other end. When a seismic wave rattles the cable, it distorts the laser light travelling through it. By comparing the original laser signal with the light that exits the cable, researchers determine how much the beam was distorted along the way — and therefore the strength of the seismic wave that strummed the cable.
+
+Combining measurements from multiple fiber-optic cables can triangulate the earthquake’s point of origin, explains study coauthor Giuseppe Marra, a frequency metrology researcher at the National Physical Laboratory in Teddington, England. Once researchers know the strength of a seismic wave when it passed the cable and where the wave started, they can determine the original earthquake’s magnitude.
+Marra and colleagues tested their quake-detecting technique on both land-based and submarine fiber-optic cables. One 79-kilometer cable in southern England sensed vibrations from quakes originating in New Zealand and Japan that seismometers put at magnitude 7.9 and 6.9, respectively. Other land-based cables in the United Kingdom and Italy sensed a magnitude 7.3 quake that rocked the Iraq-Iran border last November. And an underwater cable that runs 96 kilometers from Sicily to Malta detected a magnitude 3.4 tremor emanating from the middle of the Mediterranean Sea last September. This seismic sensing technique still needs to be tested on longer cables that cross oceans, Marra says.
+
+Fiber-optic cables that identify earthquakes far from land could provide new insight into geologic goings-on under the sea. For instance, better views of seafloor movements could help researchers understand how volcanism at mid-ocean ridges creates new oceanic crust, Luckett says (SN: 10/19/13, p. 22). Monitoring seafloor seismic activity could also help scientists study mantle plumes, upwellings of hot, buoyant rock within Earth’s mantle, Romanowicz says (SN: 10/22/11, p. 8).

@@ -1,0 +1,22 @@
+﻿"Firefox makers working on voice-controlled web browser called Scout
+Stephen Shankland/CNET
+Mozilla, the organization behind Firefox, is exploring a very different web browser called Scout that's operated by voice rather than keyboard, mouse or touch-screen taps.
+The nonprofit revealed the Scout project in an agenda item for an all-hands meeting taking place this week in San Francisco. ""With the Scout app, we start to explore browsing and consuming content with voice,"" Mozilla said. A sample command shows how it might work: ""Hey Scout, read me the article about polar bears.""
+Voice control over electronic devices, once a sci-fi idea, is increasingly common as we talk to our digital doodads to make calendar appointments, dictate messages and search for TV shows. New artificial intelligence technology is key to letting computing devices understand us -- and communicate back to us with voice. Services like Amazon Alexa, Google Assistant and Apple's Siri sound ever more human.
+For Mozilla, a voice-controlled browser could open up a new way to use the web, and provide a possible source of growth and relevance for a browser maker that's struggled to compete with Google's Chrome. Chrome accounts for 58 percent of web usage compared with Firefox's 5 percent, according to analytics firm StatCounter.
+And it could help reshape the internet for people with vision problems who today rely on screen readers and other difficult fixes to adapt the internet. Part of Mozilla's mission is to foster ""an internet that includes all the peoples of the earth -- where a person's demographic characteristics do not determine their online access, opportunities or quality of experience.""
+Mozilla wouldn't comment in detail about what it termed an ""early-stage project.""
+""We use our internal All Hands conference to come together so we can plan and build for the future,"" Mozilla said. ""We look forward to discussing these efforts publicly when they are further developed.""
+Delivering the Scout presentation Wednesday is Tamara Hills, a Mozilla programmer who's worked on the nonprofit's earlier efforts to build software for connected devices like kitchen appliances.
+Mozilla is trying to reinvigorate its competitiveness in several ways, but the biggest right now is the release of its ""Quantum"" versions of the Firefox browser that are being fundamentally rebuilt for speed through a years-long project. The first Firefox Quantum version arrived in November, but work continues to overhaul other parts of the browser.
+Earlier at the all-hands meeting, Mozilla presented some indications of success with the Quantum push. Firefox has been downloaded 100 million times, and people are sticking with the browser 6 percent more than in the past, Chief Marketing Office Jascha Kaykas-Wolff told Mozillians on Tuesday.
+Paid Content
+Microsoft's latest feels like more laptop, less Surface
+Microsoft Surface Laptop review
+Paid Content by Microsoft
+Fight the Power: Take a look at who's transforming the way we think about energy.
+Crowd Control: A crowdsourced science fiction novel written by CNET readers.
+Share your voice
+2 comments
+Tags
+Tech Enabled Laptops Scoop Amazon Chrome Firefox Google Mozilla Siri"

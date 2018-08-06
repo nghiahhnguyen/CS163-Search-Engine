@@ -1,0 +1,35 @@
+Karlie Kloss is expanding her summer school to help more girls to learn code
+Karlie Kloss' passion for coding hasn't faded. And to prove it, the 25-year-old model and entrepreneur is taking her nonprofit coding program to the next level.
+
+After taking a coding class herself, Kloss launched Kode With Klossy in 2015 in the hopes of making coding lessons more accessible to young girls and inspiring them to pursue careers in the tech industry. Now, the program is expanding its reach by launching 50 coding summer camps in 25 cities across America
+As a result, Kode With Klossy will be able to serve 1,000 girls this year between the ages of 13 and 18. The nonprofit is also partnering with Teach For America in a new initiative to train educators, so they can bring coding curricula back to their own communities.
+
+"I initially took a coding class because I wanted to understand what this language I kept hearing about was," Kloss said, explaining that she didn't originally set out to start a nonprofit.
+
+But after realizing what a powerful role coding plays in creating technologies that can transform society, she knew it was something she wanted to expose others to.
+
+"I realized coding is amazing and thought, 'How did I not have access to these skills sooner?'" she said.
+I wanted to offer that experience and that kind of learning to other girls who also might not have access to it," she added, "because it's going to continue to be relevant in the world that we live in."
+
+A day in the life of a Koder
+The 1,000 girls that will get the opportunity to attend Karlie's coding camps this summer will ultimately learn how to build a mobile app or website by the end of the two-week program.
+
+Kode With Klossy currently teaches different "tracks," including back-end and front-end development, allowing kids to learn the fundamentals of programming languages such as HTML, CSS, Ruby, and Javascript.
+"This year we've also got a really exciting new track on Swift, so the girls at our camps not only learn the ABCs of code, but real-world examples of tech that touches our lives today," Kloss said. "They’re learning what a loop is or how to interpolate using concepts or ideas that touch their lives, like Instagram, Twitter, or Postmates."
+And while that all sounds like very serious, semi-intimidating business, Kloss said the camps are tons of fun. Kode With Klossy works with WeWork to obtain shared work spaces that help build close communities and encourage collaboration, and the program breaks things up with knowledgable guest speakers, healthy snacks and lunch, and even games.
+
+"We work hard and play hard," Kloss said. 
+
+She hopes the program will help girls everywhere realize that they're never too young to start chasing their dreams.
+
+"Never say never. I truly believe anything is possible, and I want girls to realize they can be anything they want to be and do anything they put their minds to," she said.
+
+Koding with Klossy and beyond
+With the new initiative, Kode With Klossy will grow from 15 camps in 12 cities last year to 50 camps in 25 cities this year — but that's not the only way the program is expanding its reach. 
+
+By partnering with Teach For America, Kode With Klossy has recruited and hired 50 instructors who will learn how to code themselves and lead the summer camps, and also bring their coding curricula back to their communities to teach to others year-round. 
+
+While it's difficult to measure how successful or impactful coding programs for kids are, considering they're still relatively new, several girls who've participated in Kode With Klossy have gone on to use what they learned to win hackathons, build their own web and mobile apps, and set up coding clubs in their own communities.
+Kode With Klossy camps will be coming to the following cities this summer: Albuquerque, Atlanta, Austin, Baltimore, Boston, Buffalo, Chicago, Dallas-Fort Worth, Denver, Detroit, Los Angeles, Miami, Minneapolis, Nashville, New Orleans, New York City, Omaha, Philadelphia, Phoenix, Portland, Raleigh-Durham, San Francisco, Seattle, St. Louis, and Tulsa.
+
+Applications for the 2018 camps launch this week at KodeWithKlossy.com, with a deadline of April 15. You can also nominate girls for the program here.

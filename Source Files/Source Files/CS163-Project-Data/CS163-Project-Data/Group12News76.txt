@@ -1,0 +1,71 @@
+A boom in artificial intelligence research has drawn the tech industry’s biggest companies and their checkbooks to the storied English city.
+
+CAMBRIDGE, England — When you step off the train here and walk into the city square outside the railway station, you will not see the spires of King’s College Chapel or the turrets atop the Trinity Great Court. The University of Cambridge is still a cab ride away. But you will see a stone and glass office building with a rooftop patio. This is where Amazon designs its flying drones.
+
+Just down the block, inside a stone building of its own, Microsoft is designing some sort of computer chip for artificial intelligence. And if you keep walking, you will soon reach a third building, marked with a powder-blue Apple logo, where engineers are pushing the boundaries of Siri, the talking digital assistant included with every iPhone.
+
+For years, journalists, city planners and other government officials have called this “Silicon Fen,” envisioning the once sleepy outskirts of Cambridge as Britain’s answer to Silicon Valley. The name — a nod to the coastal plain, or Fenlands, that surrounds Cambridge — never quite stuck. But the concept certainly did, so much so that the world’s tech powers have moved in, snapping up engineers and researchers, particularly in the burgeoning field of artificial intelligence.
+Their arrival provides a welcome fillip for the British economy that’s expected to be bruised by its departure from the European Union. Apple, Amazon and Google established research and engineering hubs in Britain by acquiring companies that emerged from local universities, spending millions or even hundreds of millions of dollars.
+
+There are more than 4,500 high-tech firms in Cambridge, employing nearly 75,000 people, many of them commuters from other communities, according to Cambridge Network, a city business group.
+
+Just across the street from Amazon’s Cambridge headquarters, ARM, the computer chip company owned by SoftBank, the Japanese tech giant, recently moved a team of engineers into a row of temporary offices. And a new building is going up just yards away. This is where Samsung, the South Korean tech conglomerate, will soon open another artificial intelligence lab, hiring as many as 150 researchers, engineers and other staff.
+
+“For anybody who hasn’t been here for 20 years, they may say: ‘Is this the same place?’” said Claire Ruskin, the chief executive of Cambridge Network, as she drove through the city on a recent afternoon.
+
+But those buildings outside the train station are reminders that Britain — like Europe as a whole — does not have its own internet powerhouse, a corporate power capable of pushing the world in new technical, cultural and political directions. The closest match was ARM, and that was acquired by SoftBank in 2016.
+
+In London, a 45-minute train ride from Cambridge, you will find DeepMind, perhaps the world’s leading A.I. lab. DeepMind is at the forefront of a technological revolution that many believe will shift economic and societal norms across the globe, and it was acquired by Google in 2014.
+
+“We welcome the big existing companies,” said Matthew Hancock, the British secretary of state who oversees digital policy. “But we’re incredibly determined to ensure that the next generation of companies are built here.”
+
+On a recent Friday morning, Chris Bishop, who oversees Microsoft Research Cambridge, looked out his fifth-floor office window, with its panoramic view of Cambridge, and pointed to the spires of King’s College Chapel rising over the trees in the distance. “Alan Turing was at King’s,” he said.
+
+In 1950, with his essay “Computing Machinery and Intelligence,” Turing, the British mathematician, codebreaker and computing pioneer, asked whether machines would ever think on their own. Mr. Bishop, an A.I. researcher who studied at Oxford and took a professorship at the University of Edinburgh before moving to Cambridge, views his work as another link in a long British legacy.
+
+Mr. Bishop joined the lab in 1997, just after it was founded. In those days, Microsoft was the one tech giant paying big money to lure top academics into this kind of corporate research. Now, as artificial intelligence takes center stage at leading tech companies, paying big dollars for academics is common.
+
+Five years ago, Microsoft moved its lab to the city-block-size building near the rail station. Many of Mr. Bishop’s former students and colleagues now work at other big tech companies.
+
+Neil Lawrence, a University of Sheffield professor who studied with Mr. Bishop at Cambridge, now works at the new Amazon Cambridge Development Center just down the street. Two prominent A.I. researchers who worked under Mr. Bishop at Microsoft have since moved to Google and DeepMind.
+
+Many of these researchers, like a number of other top A.I. researchers in Britain, were born outside the country. Still, local policymakers are concerned about local talent moving into foreign companies.
+
+“We have some of the top A.I. researchers in the world in the U.K.,” said Dame Wendy Hall, a computer science professor at the University of Southampton. “How do we stop the A.I. brain drain to the U.S. — or to the U.S. companies anyway?”
+
+Last year, the British government commissioned a report on the country’s A.I. landscape from Dame Hall and Jerome Pesenti, the chief executive of BenevolentAI, an artificial intelligence start-up based in London. Within weeks of the report’s release, Mr. Pesenti moved to Facebook. He is now vice president of artificial intelligence in the company’s New York office.
+
+“It does illustrate the point,” Dame Hall said. “Once your head is above the parapet in this world, you draw interest, particularly from the big Silicon Valley giants.”
+
+The report called for increased financing for universities, and in the months following the government responded, saying it would fund 200 new Ph.D.s in artificial intelligence and related fields by 2020 and invest a total of $500 million in math, digital and technical education across Britain.
+
+In Cambridge, there are bigger questions about the boundaries between academia and industry. Even those who have prospered financially from the dynamic aren’t sure where to draw the line.
+
+Zoubin Ghahramani, a Cambridge professor who sold a start-up to Uber and is now the company’s chief scientist while still maintaining his ties with the university, worries about a brain drain from Europe in artificial intelligence. He has called for the creation of a European research institute to recruit people in the region who may otherwise go work for a Silicon Valley firm.
+
+His colleague at Cambridge Steve Young, a respected speech-recognition researcher who has sold companies to Microsoft, Google and Apple, noted that it was “almost impossible” for the university to compete for staff against tech companies, limiting who will teach the next generation of students. “That could have some very severe consequences,” he said.
+
+His comment came with a laugh. Mr. Young splits time between the university and Apple, where an important part of his job is recruitment for the company. “I don’t recruit from Cambridge,” he joked.
+
+Vishal Chatrath was the first employee and the chief business officer at VocalIQ, a Cambridge speech technology start-up that Apple acquired in late 2015 and transformed into a local Siri development center. Now, just two blocks from Apple’s Cambridge outpost, he oversees a new start-up called Prowler, which aims to automate business decisions that are typically made by humans.
+
+For Mr. Chatrath, Prowler shows how acquisitions by foreign companies can spur the creation of new start-ups. A second VocalIQ employee left and recently founded a start-up called PolyAI, which is trying to build truly conversational computing systems.
+
+“A lot of capital is now flowing in Cambridge, and that capital helps push the next wave of entrepreneurs,” Mr. Chatrath said.
+
+For others, the question is whether start-ups like this will evolve into vibrant companies — or just disappear into a company like Apple or Google.
+
+The big American companies are also attracted by the salaries they can pay here. According to the recruitment website Hired, the average tech salary in London is $78,000 a year, versus $142,000 in Silicon Valley.
+
+“It remains one of the huge competitive advantages that you can get the same, or better, talent for cheaper and less churn,” said Matt Clifford, a co-founder of Entrepreneur First, a start-up incubator in London that recruits students from Cambridge and Oxford. Entrepreneur First helped create Magic Pony, yet another A.I. company, which Twitter acquired for $150 million in 2016.
+
+But some wonder whether these companies could better serve Britain by staying independent.
+
+Ian Hogarth trained as a machine learning researcher at Cambridge, founded the live music app Songkick and is now an angel investor in Britain. He argued that if DeepMind had remained an independent, it may have grown into the country’s first tech superpower.
+
+Following a similar path were start-ups like VocalIQ (acquired by Apple) and Evi, the company that Amazon acquired in 2013 as part of its effort to build the Alexa digital assistant. Evi was the foundation for Amazon’s Cambridge operation.
+
+Many have applauded the enormous economic change these acquisitions are helping to drive in London and Cambridge. But not everyone is clapping.
+
+Last year, in Cambridge, a new housing development was vandalized with graffiti written in Latin: “Locus in Domos Loci Populum.” As the BBC reported, this translates to “local homes for local people.” As the tech workers land the big salaries, home prices are skyrocketing, and the locals are being squeezed out. It is yet another example of Silicon Fen’s looking a lot like Silicon Valley.
+

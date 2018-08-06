@@ -1,0 +1,65 @@
+Maryland researchers say they discovered 'Holy Grail' of machine learning
+
+By Cheryl K. Chumley - The Washington Times - Tuesday, May 29, 2018
+ANALYSIS/OPINION:
+
+POTOMAC, Md. — A team of researchers from Maryland say they’ve invented a general artificial intelligence way for machines to identify and process 3-D images that doesn’t require humans to go through the tedium of inputting specific information that accounts for each and every instance, scenario, difference, change and category that could crop up.
+
+Quite a mouthful, right? But stay with me, layperson.
+
+This is actually a huge deal for the technology sector — a massive step for the case of general AI versus specific AI. And once fine-tuned, this development will have the power to shape and change how everyone from police and intelligence officials to retail marketers and medical professionals go about their daily business.
+
+First, the basics — a quick rundown of existing technology.
+
+Currently, neural networks, defined as those computing systems that are aimed at mimicking how humans think and make decisions, are only as good as the information that’s inputted. But seriously, that information has to get quite specific; it has to account for each and every circumstance that could come, else face system failure.
+
+It has to be prophetic. God-like in omniscience, even.
+
+For example: Autonomous vehicle creators, in order to guarantee safe passage to their car passengers, have to be able to devise algorithms that account for every different scenario that could come on the roadway. They have to account for pedestrian crosswalks; they have to account for bike paths and sidewalks and concrete barriers that touch the street.
+
+They have to account for every bitty scenario that could cross the autonomous car’s path in order to program that technologically powered car with the proper computerized directions to react.
+Miss a scenario? Forget or fail to program for, say, a pedestrian who crosses a street outside a clearly marked crosswalk? Accidents — injuries, deaths to humans — could occur.
+
+But that’s specific artificial intelligence for you; the system can only follow the step-by-step and detailed directions that are inputted.
+
+Yet wait. The real programming challenge in specific AI comes when glitches are discovered.
+To keep using the autonomous car example — let’s just say a pedestrian is indeed hit and injured due to a system design flaw that failed to take into account the scenario that brought on that particular accident. Designers, reeling from the failure, under pressure from the manufacturers and industry folk, now have to find a speedy fix for the system. What they have to do, in essence, is go back into the code and input data that accounts for that particular scenario, in order to prevent a similar accident from happening again. Problem is, they can’t just stick in a new direction, a new command.
+
+No. The system designers have to go back to the algorithm beginning, start all over with the existing steps — the old steps — and then layer in the new directions. They have to return to Programming, Step One, repeating all the information they’ve already inputted, all the commands they’ve already codified, and weave in the new as they proceed. Tedious? To put it mildly.
+That’s how specific artificial intelligence goes.
+
+The limits of specific AI are truly — well, limited.
+
+Enter ZAC.
+
+ZAC, for Z Advanced Computing Inc., is bringing general artificial intelligence to the 3-D world.
+“We have figured out how to apply General-AI to Machine Learning, for the first time in history,” said ZAC executives Bijan Tadayon and Saied Tadayon in a PowerPoint, during a private presentation from their Maryland home-based office.
+
+Their demonstration of their ZAC Cloud technology focused on the identification and description of various types of shoes — open-toed versus close-toed, high-heeled versus flat, buckled boot versus leather banded boot, and so on. Basically, it entailed dragging and dropping an image of a shoe across a computer screen into their ZAC Platform feature. Sound trivial? Hardly.
+That simple act could very well prove the shot heard ‘round the technology world.
+
+Here’s how they explained it: “In our demo, we [chose] shoe, because shoe represents quite a complex object with many details and huge variations. Often, shoe designers throw in interesting features and various bells or whistles … A trained neural network … can only generically recognize shoes, e.g., ‘brown boot,’ and it is incapable of detailed recognition, especially for small features (e.g., bands, rings, and buckles).”
+
+But theirs? Their General AI-powered ZAC Cloud platform?
+
+Theirs correctly identified distinguishing features of the shoes — open-toe, versus closed-toe, for example — and in a variety of different angles, whether the image was presented as toe-to-the-front or toe-to-the-side. What’s of even greater significance is that theirs doesn’t take a total reprogramming of the system in order to add in new information.
+
+The new can simply be layered and inputted atop the old.
+
+Think of the applications.
+
+Retailers trying to snag online customers can market, advertise and showcase their products with a variety of descriptors, in a variety of angles, and add in new merchandise without having to reprogram the entire system — and buyers, meanwhile, will be able to search on specific terms that will direct them right toward the products they’re actually seeking, “bells or whistles” and all.
+
+That’s just retail.
+
+Think medical applications; national security and law enforcement. What if doctors could simply upload 3-D images of their patients and receive speedy identification of diseases? Or police, scanning crowds for suspects, could input photos of faces for quick, even real-time alerts?
+“With our demo, we have demonstrated general-AI technology for the first time in history, as the tip of the iceberg, developed by us to revolutionize AI & Machine Learning,” Bijan Tadayon said in a followup email. “We have demonstrated a very complex task … [that’s] not at all possible with the use of Deep Neural Networks (or other specific-AI technologies).”
+
+And, maybe even more eye-opening for the programmers of the world: “With our demo,” he went on, “we have demonstrated that you do not need millions of images to train a complex task. … We only need a small number of training samples to do the training. That is the ‘Holy Grail’ of AI & Machine Learning.”
+
+Given Team ZAC’s background, this can hardly be dismissed as pie-in-the-sky stuff.
+In mid-May, Team ZAC earned a “Judges Choice Award” for their general AI innovation at the U.S.-China Innovation Alliance forum in Texas, out of a field of about 120 participants. They were given all-paid trips to China to present their findings to major technology companies and investors in the next few months. And the Tadayons themselves hold impressive technology credentials that include graduation at the top of their class from Cornell University; the invention and patent of more than 100 science-based applications and products; and the start-up and development of several technological business ventures.
+
+They’re not small potatoes, in other words. They’re not two-bit techies simply trying to cash in on an AI quest for the next level of computerized learning.
+
+Indeed, Bijan Tadayon and Saied Tadayon — they very well could hold the “Holy Grail” of machine learning within their grasp.

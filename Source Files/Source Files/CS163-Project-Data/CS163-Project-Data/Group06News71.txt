@@ -1,0 +1,34 @@
+Breast cancer surgeons don't always order genetic testing for patients
+(Reuters Health) - Many breast cancer patients may miss out on genetic tests that could help pinpoint the ideal treatment regimen at least in part because their surgeons are uncomfortable discussing the pros and cons of these tests, a U.S. study suggests.
+
+Approximately one-third of patients receive genetic testing after a diagnosis of breast cancer, and testing with a multigene panel is rapidly replacing tests based on just two - BRCA1 and BRCA2 - that have long been linked to aggressive tumors, researchers note in JAMA Surgery. Current practice guidelines recommend genetic testing for breast cancer patients who have an elevated risk of genetic mutations based on age, family history, and tumor characteristics.
+
+Even though most patients will see a surgeon as they determine their ideal treatment regimen, little research to date has examined variation among surgeons on how often genetic tests get ordered, researchers note.
+
+For the current study, researchers surveyed 5,080 women treated for early-stage breast cancer by 377 surgeons in the state of Georgia and the city of Los Angeles between 2013 and 2015.
+
+Overall, about 35 percent of patients had an elevated risk of carrying a genetic mutation. But just 27 percent of all the women in the study got genetic testing.
+
+“Breast cancer treatments today are highly effective and tumor testing is increasingly more accurate in terms of informing clinicians about treatment recommendations for patients,” said study leader Dr. Steven Katz, a health policy and management researcher at the University of Michigan in Ann Arbor.
+
+“Really important advances are saving lives,” Katz said by email. “But the clinical utility of germline genetic testing - analysis of mutations in the genes that we inherit in normal tissues - after diagnosis is less certain and there is less consensus among surgeons and other cancer doctors about the approach to counseling and testing because of this clinical uncertainty.”
+
+Even among women at higher risk of carrying genetic mutations, just 52 percent got genetic testing, the study found. About 14 percent of women with an average risk of carrying genetic mutations got testing.
+
+Roughly one-third of surgeons said they often or always delayed surgery to obtain genetic testing, and slightly more than half of surgeons said they were quite or extremely confident discussing genetic tests with their patients.
+
+Surgeons in both these categories were most likely to order genetic tests.
+
+Altogether, about 17 percent of the variation in genetic testing rates could be explained by surgeons’ practice patterns, the study found.
+
+Women at the highest risk of carrying genetic mutations had about a 26 percent probability of getting genetic tests when they saw a surgeon who ordered these tests less often than 95 percent of the surgeons in the study.
+
+These same women at the highest genetic risk, however, had a 72 percent chance of getting genetic tests when they saw a surgeon who ordered these tests more often than 95 percent of other surgeons in the study.
+
+The study wasn’t designed to prove whether or how surgeons’ decisions directly impacted genetic testing rates or cancer treatment outcomes for women. And researchers lacked data to determine whether genetic testing or counseling was appropriate in cases when surgeons did recommend it.
+
+Still, the results suggest that to avoid missing necessary tests it might make sense to order genetic testing for all women, Dr. Lisa Newman of the Henry Ford Health System in Detroit writes in an accompanying editorial.
+
+“Genetic testing to evaluate for inherited breast and/or ovarian cancer risk is generally categorized as being optional, but for some women these test results may influence their decisions regarding lumpectomy versus mastectomy and reconstruction,” Newman said by email.
+
+“In other women BRCA testing may influence options regarding how they handle their ovaries, either as a component of their breast cancer treatment or to prevent ovarian cancer,” Newman added. “Patients may also utilize this information to assist relatives with decisions regarding genetic counseling and testing.”

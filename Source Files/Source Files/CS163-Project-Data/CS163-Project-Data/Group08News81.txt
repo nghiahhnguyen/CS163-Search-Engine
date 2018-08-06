@@ -1,0 +1,10 @@
+A new 3-D printer builds temporary electronics on your skin
+A new 3-D printer draws precise patterns of electrically conductive material directly on a person’s skin, creating temporary, tattoolike electronic devices.
+
+Unlike other 3-D printers designed to layer material on stiff, motionless objects, the new system uses computer vision to compensate for a moving printing surface — say, the back of a fidgety hand, researchers report in the June 6 Advanced Materials.
+
+Michael McAlpine, an engineer at the University of Minnesota in Minneapolis, and colleagues used this motion-savvy 3-D printer to construct wearable LEDs. The printer first stuck a premade LED light to the wearer’s skin, then drew a circuit around the bulb using a polymer ink laced with silver flakes, which allow the ink to conduct electric current.
+
+After waiting 15 minutes for the ink to dry, the user could keep the LED lit by holding a wireless power transmitter over the printed circuit. Future on-the-body electronics could be powered by 3-D printed batteries, McAlpine says. The researchers also printed moisture sensors, which could be used to monitor sweat accumulation to gauge stress levels.
+
+The wearable devices stay on for at least two hours, but users can dispose of the prints by peeling them off with tweezers or washing them off with water. McAlpine’s team imagines soldiers toting the compact 3-D printer, which weighs about 1.4 kilograms, in their packs to print chemical or biological agent sensors or solar cells on the fly (SN Online: 4/5/18). 

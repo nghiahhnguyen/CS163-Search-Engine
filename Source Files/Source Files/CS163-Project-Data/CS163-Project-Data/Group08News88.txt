@@ -1,0 +1,32 @@
+Private web browsing doesn’t mean no one is watching
+Private web browsing isn’t nearly as private as many people think.
+
+Major web browsers, such as Google’s Chrome and Apple’s Safari, offer a private browsing option, sometimes known as “incognito.” The option allows people to surf the internet through a private window that doesn’t log activity into the browser’s history or influence future autofill recommendations. As such, incognito mode can hide one’s activity from others sharing the same device.
+
+But many believe incorrectly that the privacy setting offers broader protections — even after they’ve read a web browser’s explanation of incognito mode.
+
+In a new study, 460 people were asked to read one web browser’s description of private browsing, and then answer questions about their privacy expectations while using the tool. (See some sample questions below in our quiz.) The researchers are scheduled to report their findings April 26 at the Web Conference in Lyon, France.
+
+Respondents expressed significant misconceptions about incognito mode, no matter which browser explanation they read. For instance, more than half of respondents thought logging into a Google account through a private window meant Google couldn’t record their search history. Not true. About a quarter of participants believed private browsing cloaked their device’s IP address, a unique ID number that can be used to approximate physical location. It doesn’t.   
+
+Blase Ur, a computer security and privacy researcher at the University of Chicago, and colleagues suggest companies could mitigate this confusion by providing clearer, more explicit explanations of incognito mode. For instance, these descriptions should avoid vague, sweeping promises of anonymity, such as Opera’s assurance that “your secrets are safe” and Firefox’s encouragement to “browse like no one’s watching.”
+
+
+Mistaken assumptions
+Many people overestimate the privacy offered by web browsers in incognito mode. Find out how much you know about private web browsing, and see how you stack up against the study’s 460 respondents.
+
+
+Synthetic nanoparticles used to fight cancer could also heal sickly plants.
+
+The particles, called liposomes, are nanosized, spherical pouches that can deliver drugs to specific parts of the body (SN: 12/16/06, p. 398). Now, researchers have filled these tiny care packages with fertilizing nutrients. The new liposomes, described online May 17 in Scientific Reports, soak into plant leaves more easily than naked nutrients. That allows the nanoparticles to give malnourished crops a more potent pick-me-up than the free-floating molecules in ordinary nutrient spray.
+
+Each liposome is a hollow sphere about 100 nanometers across, and is made of fatty molecules extracted from soybean plants. Once a plant leaf absorbs these nanoparticles, the liposomes spread to cells in the plant’s other leaves and its roots, where the fatty envelopes break down and release their molecular cargo.
+Researchers first exposed tomato plants to either liposomes packed with a rare earth metal called europium, or free-floating europium molecules. Europium doesn’t naturally exist in plants or soil, so it’s easy to trace how much of this element plants soaked up after treatment. Three days after exposure, plants treated with liposomes had absorbed up to 33 percent of the nanoparticles. Plants exposed to free-floating europium took in less than 0.1 percent of the molecules
+
+The researchers then spritzed iron- and magnesium-deficient tomato plants with either a standard spray containing iron and magnesium, or a solution containing liposomes packed with those nutrients. Two weeks later, the leaves on plants treated with free-floating nutrients were still tinged yellow and curled. Plants that received liposome treatment sported healthy, green leaves.
+
+Avi Schroeder, a chemical engineer at the Israel Institute of Technology in Haifa, and colleagues don’t know exactly why liposomes are more palatable to plants than plain nutrients. But sprays that contain nutrient-loaded liposomes could help farmers rejuvenate frail plants more efficiently than existing mixtures, Schroeder says.
+
+Liposome-based spray would need to be tested on a variety of vegetation before it could enter widespread use, says Ramesh Raliya, a nanobiotechnology researcher at Washington University in St. Louis not involved in the work. That’s because the pores on leaves where liposomes are assumed to enter plants can range from 50 to 150 nanometers across. If a plant’s pores are smaller than 100 nanometers, the liposomes can’t squeeze inside.  
+
+Mariya Khodakovskaya, a biologist at the University of Arkansas at Little Rock, is wary of the potential cost of this new technique. Fashioning liposomes is expensive. That’s not a problem for making liposome-based medication, which requires only a small amount of nanoparticles. But for any new agricultural practice to take root, she says, “it has to be massive, and it has to be cheap.”
