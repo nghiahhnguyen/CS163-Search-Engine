@@ -1,0 +1,23 @@
+ Never forget your ID or keys
+Someday, you may be able to embellish your clothes with enough data to get you in the building.
+
+Researchers have created passcode-storing clothes made with thread that contains silver or copper filings. Normally, the magnetic poles of atoms in those metallic threads are pointed in random directions. But holding a magnet close to the thread aligns all the poles in a single section of cloth to point either north or south. Those magnetic orientations encode a bit of data, a 1 or 0, which an instrument called a magnetometer can read.
+
+This data-embedded fabric, presented last October in Quebec City at the Association for Computing Machinery’s Symposium on User Interface Software and Technology, holds onto its magnetic information through washing, drying and ironing — at least for the short term. The strength of the data signal wanes by about 30 percent over the course of a week.
+
+The material can be remagnetized with the same or a different pattern of 1s and 0s, but the researchers first have to build a device that can rewrite this data, similar to the tech used to reprogram hotel keycards, says Justin Chan, a computer scientist and engineer at the University of Washington in Seattle.
+
+Chan and Washington colleague Shyam Gollakota have written magnetic codes into neckties, belts and wristbands, but the tech is still in the nascent stage. Right now, each 1 or 0 is about 2 centimeters across. The researchers are working on packing more data into smaller swatches, Chan says.
+
+Once data-storing clothing is available, you could simply scan your sleeve to enter your office or apartment building. To some people, that may not seem like much of an advance. But the forgetful types who misplace their keys every other day might appreciate one less thing to scramble for on the way out the door.
+Micromanage your moves
+Training yourself to drive a golf ball, play piano or just sit with better posture could get a whole lot easier, thanks to motion-sensing clothes that detect the slightest twitch.
+
+“If you want to know exactly what somebody’s doing — whether or not they’re bending their knee in a healthy way, or what their heart rate and muscle activity is telling you about their emotional state — then you need sensors everywhere,” Dunne says.
+
+To that end, industrial engineer Joshua DeGraff and colleagues have built superthin motion detectors that can be embedded in anything from shoulder braces to shoe soles.
+
+The key component of these sensors is a sheet of material called buckypaper — a dense mesh of carbon nanotubes about as thick as a red blood cell is wide. Normally, buckypaper conducts electricity with no problem (SN: 3/8/14, p. 18). But stretching the material creates gaps in the nanotube network that stymie the flow of electric charge. DeGraff’s team at Florida State University in Tallahassee is using that weakness as an advantage. Connecting a piece of buckypaper to a circuit and measuring changes in electrical resistance across the paper can reveal how much the bucky-paper has been stretched
+Sensors fashioned by DeGraff’s team register as little as a 0.005 percent change in material length. The sensors, described last November in Materials and Design, could be powered by watch-sized batteries, DeGraff says.
+
+Buckypaper sensors could prove useful for people who need to micromanage their movements in the short term — like physical therapy patients whose rehab requires them to move in exactly the way their therapist prescribed.

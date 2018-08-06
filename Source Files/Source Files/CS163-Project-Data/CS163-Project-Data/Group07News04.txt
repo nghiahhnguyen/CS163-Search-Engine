@@ -1,0 +1,45 @@
+﻿"9 hidden features of Google Drive
+Google Drive lets you sync files on PCs, phones and Google's servers.
+Google
+I use Google Drive every day. I use it for work. I wrote this blog post in Google Docs, in fact. I use it at home, whether using Sheets to map out the summer schedule for my kids, or adding to my ever-expanding folder of recipes -- it makes it easy to share favorites with friends or access needed ingredients on my phone when I'm at the grocery store. It's hard to imagine my digital life before Google Drive.
+I've used Drive long enough that I've discovered a few hidden gems along the way that make Google's cloud service an even better tool. Here are nine features that I use that might also help you.
+Watch this: 3 ways to get more Google Drive storage for free
+1:04
+Kick photos out of Recent view
+I turn to Google Drive's Recent view to find the documents I'm working on this week or this month. Or, I did before I started using Google Photos to back up photos on my iPhone. Now, photos clog my Recent view, rendering it largely useless. I wish Google would give me an option to exclude photos from my Recent list of files, but until it does, you can use this workaround.
+In the search field, enter -jpg and all of your photos will be filtered out, letting you browse the files you've recently created or edited. You can use this workaround in Google Drive on the web and the mobile app.
+Turn on Quick Access
+This new feature adds a belt of thumbnails across the top of the My Drive view that give you, well, quick access to recently modified files. (And, thankfully, it doesn't include photos like the Recent view does.) You'll find a line for Quick Access in Drive's settings. Just click the box for Make relevant files handy when you need them and then refresh the page.
+Filter your searches
+This one's hiding in plain sight. In the search box at the top of Google Drive, there's a down-arrow button along the right edge. Click it and you'll get a panel of search options to filter your search results. If you've used Google Drive for years and have accumulated a large library of files, then these search options are hugely useful to narrow your results. You can filter by file type, date modified and owner. For shared documents, you can filter by someone with whom you've shared a file. And so you don't leave someone hanging, you can also filter by files that have an action item assigned to you or have suggestions waiting for you in a file.
+Enlarge Image
+Filtering searches can save a lot of time.
+Screenshot by Matt Elliott/CNET
+Send links to files instead of attachments
+There's a little Drive icon at the bottom of Gmail's compose window. It lets you attach files you have stored in Drive or simply send a link. For Google Drive formats -- Docs, Sheets, Slides and so on -- your only option is to send a link to the file. For other file types -- PDFs, Word docs, images -- you have the option of sending them as an attachment or a Drive link, which lets you share files larger than Gmail's 25MB size limit for attachments.
+Quickly clear formatting
+You've got a few options for clearing the formatting for text you paste into Docs. You can highlight the text and select Normal text from the toolbar at the top. Or you can go to Format > Clear formatting. (For the latter, you can use the keyboard shortcut Ctrl-\, or Command-\ for Mac.) You can avoid the format-removal process by holding down Shift when you paste text. Yep, Ctrl-Shift-V pastes without any formatting.
+One-tap phone backup
+Want to back up your phone's important data to Drive? You can! And with a single tap. On the mobile app, go to Settings > Backup and choose what you want to back up -- contacts, calendar events or photos and videos (or all three). Just tap the Start Backup button to get rolling. It'll likely take a while, so you might want to start the process overnight. Your phone will need to be plugged in and connected to Wi-Fi.
+Screenshot by Matt Elliott/CNET
+Back up folders on PC or Mac
+With Google's Backup and Sync app, you can back up the contents of your Mac or PC -- or just selected folders. And you can go the other way and sync the files you have stored on Google Drive to your computer for easy, offline access. Check out how to get started with Google's Backup and Sync app for instructions on how to start backing up and syncing your files.
+Comment directly on Microsoft Office files
+Earlier this year, Google added the ability to comment on Microsoft Office files, saving you from needing to convert a Word doc, for example, to a Google Doc in order to comment or using a Chrome extension. Now, you can open a Word doc, Excel file, PowerPoint presentation and the like and add your comments directly to the file. Your comments will show up whether your collaborators open the file in Google Drive or in the applicable Microsoft app. To add your comment, click the add comment button -- it looks like a square speech bubble with a plus sign inside it. Why can't we all get along as well and Google and Microsoft when it comes to commenting on files?
+Set up offline access
+Need to work during your commute or other times when you are not connected to the internet? No problem. Google Drive lets you access your files when you are offline, and then it'll sync your changes when you get back online, but you must do two things first to set up offline access:
+Install the Google Docs Offline extension.
+Sign into Google Drive, click the cog button to open Settings and then check the box in the Offline section for Sync Google Docs, Sheets, Slides & Drawings files to this computer so you can edit offline.
+Screenshot by Matt Elliott/CNET
+One last thing: to edit files when you are offline, you must first be signed into your Google account and use Chrome.
+Paid Content
+Microsoft's latest feels like more laptop, less Surface
+Microsoft Surface Laptop review
+Paid Content by Microsoft
+Read more: 10 features of Google Docs that you should be using
+Originally published on June 16, 2017.
+Update, June 14, 2018: Added new tips.
+Share your voice
+1 comment
+Tags
+Laptops Applications Internet Services Chrome Google Drive Microsoft Office Google Microsoft"

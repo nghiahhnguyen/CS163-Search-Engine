@@ -1,0 +1,53 @@
+What is cryptocurrency, how does it work and why do we use it?
+
+Cryptocurrency is a form of digital money that is designed to be secure and, in many cases, anonymous. 
+
+It is a currency associated with the internet that uses cryptography, the process of converting legible information into an almost uncrackable code, to track purchases and transfers.
+
+Cryptography was born out of the need for secure communication in the Second World War. It has evolved in the digital era with elements of mathematical theory and computer science to become a way to secure communications, information and money online. 
+
+The first cryptocurrency was bitcoin, which was created in 2009 and is still the best known. There has been a proliferation of cryptocurrencies in the past decade and there are now more than 1,000 available on the internet. Bitcoin soared as high as $20,000 at the end of last year before crashing back to around $7,500 now. 
+
+Here's everything you need to know about cryptocurrencies. 
+
+How do cryptocurrencies work? 
+Cryptocurrencies use decentralised technology to let users make secure payments and store money without the need to use their name or go through a bank. They run on a distributed public ledger called blockchain, which is a record of all transactions updated and held by currency holders.
+
+FAQ | Bitcoin
+What is it?
+A digital currency, used to make payments of any value without fees. It runs on the blockchain, a decentralised ledger kept running by “miners” whose powerful computers crunch transactions and are rewarded in bitcoins
+
+Who invented it?
+Satoshi Nakamoto, a secretive internet user, invented bitcoin in 2008 before it went online in 2009. Many attempts to identify Satoshi have been made without conclusive proof
+
+What’s it for?
+People see value in money free from government control and the fees banks charge; as well as the blockchain, to verify transactions. Bitcoin has been seen as a tool for private, anonymous transactions, and it’s the payment of choice for drug deals and other illegal purchases
+
+Is it worth anything?
+Yes. As of December 2017, there were around 16.7m bitcoins in circulation. Each was worth around $14,000 after a recent high of close to $20,000 for a market value of $230 billion.
+
+Units of cryptocurrency are created through a process called mining, which involves using computer power to solve complicated maths problems that generate coins. Users can also buy the currencies from brokers, then store and spend them using cryptographic wallets.
+
+Cryptocurrencies and applications of blockchain technology are still nascent in financial terms and more uses should be expected. Transactions including bonds, stocks and other financial assets could eventually be traded using the technology.  
+
+What are the most common cryptocurrencies? 
+
+Bitcoin: Bitcoin was the first and is the most commonly traded cryptocurrency to date.  The currency was developed by Satoshi Nakamoto in 2009, a mysterious figure who developed its blockchain. It has a market capitalisation of around $128 billion billion as of May 2018. 
+
+Ethereum: Developed in 2015, ether is the currency token used in the ethereum blockchain, the second most popular and valuable cryptocurrency. Ether has a market capitalisation of around $56 billion as of May 2018. However, ether has had a turbulent journey. After a major hack in 2016 it split into two currencies, while its value at one stage it reached as high as $1,300 but it has previously crashed briefly to as low as 10 cents. It has proved hugely popular as a launch pad for other cryptocurrencies in 2017, which use the ethereum blockchain's code.
+
+Ripple: Ripple is another distributed ledger system that was founded in 2012. Ripple can be used to track more kinds of transactions, not just of the cryptocurrency. The company behind it has worked with banks and financial institutions, including Santander. It has a market capitalisation of around $24 billion.
+
+Litecoin: This currency is most similar in form to bitcoin, but has moved more quickly to develop new innovations, including faster payments and processes to allow many more transactions. The total value of all Litecoin is around $6 billion.
+
+Why would you use a cryptocurrency?
+
+Cryptocurrencies are known for being secure and providing a level of anonymity. Transactions in them cannot be faked or reversed and there tend to be low fees, making it more reliable than conventional currency. Their decentralised nature means they are available to everyone, although they can be complicated to set up and few stores accept them for spending.
+
+As a new form of cash, the cryptocurrency markets have been known to boom suddenly, meaning a small investment can become a large sum over night. 
+
+This has led to a spur in professional and amateur speculators investing in bitcoin and other cryptocurrencies, seeing them either as a quick way to make returns or as part of an investment portfolio.
+
+But the same works the other way. People look to invest in cryptocurrencies should be aware of the volatility of the market and the risks they take when buying. They have dropped significantly several times, potentially costing investors their millions.
+
+Because of the level of anonymity they offer, cryptocurrencies are often associated with illegal actvity, particularly on the dark web. Users should be careful about the connotations when choosing to buy the currencies.

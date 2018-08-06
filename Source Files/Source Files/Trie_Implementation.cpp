@@ -93,7 +93,7 @@ void Trie_t::inputFromFile(const string& folder_path) {
 	//to read all the num
 	string file_path;
 	//traverse the file. Total files: 2268
-	for (int i = 200; i <= 500; ++i) {
+	for (int i = 1; i <= 2268; ++i) {
 
 		//get the name of file
 		file_path = folder_path + "\\Group07News" + itoXX(i) +".txt";

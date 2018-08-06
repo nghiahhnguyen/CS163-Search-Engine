@@ -1,19 +1,39 @@
-36
+44
+love
+40
 come
 33
 nguyen
+30
+hanoi population
+22
+cat
+16
+vu cat tuong
 13
 become "Vincom *"
+9
+$300
+8
+dog
+8
+there
+7
+"vu cat tuong"
+7
+coffee
 7
 nigga
+7
+trang
 6
-hanoi population million 2010
+food
 6
 pho mua dong nguyen ha
 6
 population
 5
-	become "Vincom *"
+"Cat Tuong"
 5
 "Ho Chi Minh" -district
 5
@@ -21,27 +41,43 @@ population
 5
 "Vincom *"
 5
+"Vu cat tuong"
+5
 "a developer version"
 5
 "a list of trusted dental"
+5
+"cat tuong"
 5
 "vincom *"
 5
 #food
 5
+#how
+5
+#xinchao
+5
 2018
 5
-There was no assault,"
+BEACH
+5
+SHIT
+5
+ahihi
+5
+anime manga
+5
+apple
 5
 approach
 5
-become "Vincom *"
+becom "Vincom *"
 5
 camera 24mp
 5
 cham day noi dau
 5
-d
+city
 5
 dgdg
 5
@@ -53,17 +89,49 @@ dien thoai samsung
 5
 dinh ba tien
 5
+doi vui thi sao ne
+5
+don't you do
+5
+don't you games mini search engine
+5
+dsfasdfsdfsdfsdfsdfd
+5
 erik cham day noi dau
+5
+fasfdsfasdfsafsfds
+5
+fd
+5
+forum apple
 5
 gdsg
 5
-hanoi population
+girl or boy
+5
+hanoi
+5
+hanoi population million 2010
+5
+happy
 5
 ho tuan thanh
 5
 ho tuan thanh bigO
 5
+hoang gia
+5
+home
+5
 intitle:weather Hanoi
+5
+iso
+5
+isomania
+5
+live
+5
+millon
 5
 mini search engine
 5
@@ -91,13 +159,23 @@ nihon
 5
 nihon no uta
 5
+nvnvnvnvnvnvnvnvnvnvn
+5
+poop
+5
 roi loan luong cuc
 5
 the gioi di dong
 5
 thoi gian
 5
+threr
+5
+trang xinh dep
+5
 vgj
 5
 vu hoang minh
+5
+you
 0

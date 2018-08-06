@@ -1,0 +1,39 @@
+Google aims to show you how it uses your data.
+"If you're tired of hunting aimlessly for privacy information in your Google account settings, this announcement is for you.
+Google said Thursday it's made account settings easier to navigate and understand.
+""We always want to make sure that people feel in control of what data they're sharing data with Google,"" Tamar Yehoshua, the Google vice president who oversees account security, said in an interview with CNET. ""It's important to us that they understand what they're signing up for.""
+It's important for users, too.
+The changes have been in place for a week. Android users can now search all settings within the Google Account hub to find specific topics, use a revamped interface to navigate privacy settings more easily and receive more noticeable notifications when Google thinks there might be something wrong with your account, the company said in a blog post Thursday.
+The changes will roll out to iPhones and iPads as well as web browsers later this year, Google said.
+While a new user interface might not seem like the world's most exciting announcement, the changes come as governments and advocacy groups focus attention on the way tech companies collect and use your data. Facebook continues to weather a scandal for sharing data with third-party app developers and device manufacturers. Google and Twitter, too, have faced scrutiny for how their platforms, tailored to users based on their personal information, may have helped an alleged Russian misinformation campaign target its users.
+That all makes the way personal information gets used -- and the way companies tell you about it -- a hot-button issue.
+Yehoshua said the changes to the Google Account hub come after extensive user testing. Google gave groups of testers mockups of the new interface and asked them things like, ""Find the controls for your location information,"" she said.
+Just as important as finding the information we're looking for is knowing what it means when we do. To give us the clues we need, Google now provides better explanations of what each privacy control does.
+""It provides very clear language about what the settings are and what the impact is,"" Yehoshua said.
+Let's make this clear
+Google doesn't have a perfect track record with communicating with users about data collection, said Jeremy Gillula, tech policy director at the Electronic Frontier Foundation, a group that advocates for internet user privacy. The company hasn't always made it clear, for instance, that certain types of information could be used to target ads to users, he said. But, he added, they've been working on it.
+Navigating your privacy
+Facebook privacy settings make you work to stop the data sharing
+Google makes privacy policy clearer than ever to comply with EU law
+Congress grills Facebook, Twitter, Google over Russian influence
+As part of that effort, Google Account hub now explains how sharing data with Google might benefit users. One example: Reminders about upcoming flights, which requires letting Google access information about travel reservations from our email accounts.
+Gillula agrees it's important to show examples of the real information the search giant collects to help us decide if it's something we want to keep sharing. In the Google Account hub, that information can be found in the My Activity section, which appears just under the settings that control what data you share with Google.
+Clicking on My Activity will show your recent searches on Google's search engine, Maps and even inside your Gmail account. That information can be both revealing and workaday -- for example, my recent searches show I'm interested in a conference in Baltimore this fall, and I'm looking for a deal on really comfortable shoes.
+A screenshot of the Google Account hub shows a notification that Google found security issues in an account.
+CNET
+And targeted ads, too
+Of course, Google also uses your information to show you tailored ads. You know, like the weeks of ads for comfortable shoes that I'd be likely to see based on my recent searches. You can opt out of tailored ads in the Google Account hub.
+Google provides a simple on-off button for users, letting them opt out of tailored ads. But that option is separate from the controls that let you decide whether to share information like your recent searches and location.
+""It will say things like the feature gives you more personalized experiences and better recommendations,"" Gillula said. ""It doesn't explicitly say, 'to target ads at you.'""
+Still, Google did publish a blog post last week explaining how the information you share with it affects the ads you see.
+""For example, if you watched highlights from a recent soccer match on YouTube or searched 'soccer fields near me' you might see an ad for a slick pair of soccer shorts,"" Google product manager Philippe de Lurand Pierre-Paul said in the post.
+Finding the Google Account hub
+One aspect of the Google Account hub that Yehoshua said she hopes to keep improving is helping users find it to begin with.
+There's an access point to the hub from any Google app on your phone, she said, but it's easier to find in some apps than in others. Right now, it takes four taps to get from the home screen of an Android phone to the Google Account hub through the Gmail app, but other apps like Maps or Photos don't have the same clear path to the settings for the entire Google account.
+""You will see more access points over time, especially in apps,"" Yehoshua said.
+Cambridge Analytica: Everything you need to know about Facebook's data mining scandal.
+Security: Stay up-to-date on the latest in breaches, hacks, fixes and all those cybersecurity issues that keep you up at night.
+Share your voice
+Post a comment
+Tags
+Security Digital Media Hacking Privacy"

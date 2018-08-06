@@ -7,6 +7,7 @@
 #include<Windows.h>
 #include <cstdio>
 #include<conio.h>
+#include<time.h>
 #include<string.h>
 #include<string>
 #include<consoleapi.h>
@@ -25,10 +26,12 @@ using namespace std;
 void ResizeConsole(int w, int h);
 void GOTOXY(int x, int y);
 void tsize(int x);
-void ready(char(&s)[500]);
+void ready(char(&s)[50]);
 void readHistory();
-void inputUName(int x, int y, char(&s)[500]);
+void preSearch();
+bool inKeyy(char s[], string ss);
+bool inKeyyy(string ss, char s[]);
+void inputUName(int x, int y, char(&s)[50]);
 void LoadText();
-void inputUName(int x, int y, char(&s)[500]);
 void LoadBorder();
 #endif /* HLyaout */

@@ -1,0 +1,61 @@
+﻿"JPEG XL could let you pack twice as many photos into your phone
+Joint Photographic Experts Group
+JPEG turns 25 this year, a remarkable achievement when you think about how the latest smartphone becomes ho-hum in a matter of months. But to celebrate JPEG's birthday, we might finally be seeing something better.
+That's because the Joint Photographic Experts Group has begun work on a successor, called JPEG XL that at a minimum should cut photo file sizes by 60 percent.
+The more efficient format yields a big advantage: By more than halving photo sizes, it'll let you fit more than twice as many shots on your phone, cut spending on cloud storage services and ease your data usage when browsing the web or sharing snapshots with your friends.
+But don't rejoice just yet, because other next-gen photo format contenders are also under development -- and they have big-name backers. That could mean the long reign of JPEG might end with heirs squabbling to claim the throne, rather than a smooth succession.
+One format, now called AVIF (AV1 Image Format), is under development by Mozilla, Google, Netflix and others. Another, MIAF (Multi-Image Application Format), is a simplified version of a format called HEIF (High Efficiency Image Format) that Apple and Microsoft are already enthusiastic about. Apple employees have been involved in MIAF at the standards group that produced HEVC, a video compression standard.
+Watch this: JPEG has a successor that's more efficient. But it's...
+1:31
+Regardless of what happens, though, it's clear the tech industry wants to build something better.
+""The days of JPEG are over,"" said Dror Gill, chief technology officer of Beamr, which sells software to compress photos and videos a little more tightly.
+That doesn't mean JPEG will completely disappear. The same cameras, web browsers, phones and photo-editing apps that display and save JPEGs today will be able to do so tomorrow. But embracing a JPEG successor could modernize photography in ways that are important -- not just cutting file sizes, but also opening the door to live photos, 3D editing effects and other improvements.
+What do photo formats like JPEG actually do?
+The chief job of JPEG is to throw away image data without humans noticing. This type of compression is called ""lossy"" because some of the original information is lost.
+Lossy compression mars a photo with artifacts that become more obvious as you dial up the compression factor. Those artifacts include bands of color or blocky patterns in a photo's blue sky; muddy text; and washed-out colors. Better image formats reduce artifacts for a given file size.
+The days of JPEG are over.
+Dror Gill, chief technology office, Beamr
+Speed is another factor. An ideal format compresses an image quickly when you're creating it and decompresses it quickly when it's time to show it on a screen. But there are always trade-offs between image quality and performance.
+Computers with faster processors and more memory can use more-advanced compression techniques, and some chips can accelerate specific video and photo compression technologies. A big part of finding a successful sequel to JPEG will be persuading chip companies like Arm, Intel, Qualcomm and Apple to build in support.
+Hello, JPEG XL
+The group behind JPEG XL has high hopes. It's asked interested organizations to submit technology ideas by Sept. 1 and says 60 percent improvement over JPEG is just the starting point.
+""We expect much higher compression efficiency with JPEG XL when compared to JPEG,"" said Touradj Ebrahimi, chairman of the JPEG standardization committee and a professor at the Ecole Polytechnique FÃ©dÃ©rale de Lausanne in Switzerland.
+Watch this: iPhone X and Galaxy Note 8: Which has the best cameras?
+3:53
+Lots of other features are possible, too, several already developed for other image standards from the group, he added. Among them are transparency, which makes it easier to overlay an image onto various backgrounds; high-dynamic range (HDR) images that better capture a wide range of bright and dark details; animations constructed from multiple frames; and tools to adapt an image on demand for varying network capacity, screen resolution and image quality.
+JPEG XL support initially will be through software, but hardware support will help preserve battery life and enable the features possible with more advanced JPEG XL profiles that need the horsepower, Ebrahimi said.
+Risk of too many photo formats
+Ebrahimi is hoping he can attract enough big players to prevent a fragmented future where no standard has enough adoption to become the de facto standard to help us into the future.
+""There is a risk that any new format does not get adopted,"" he said.
+""If three or more competing image compression formats are pushed by large companies that dominate sizable portions of the multimedia ecosystem, they will weaken each other mutually,"" Ebrahimi said. ""They can even all fail and never replace the good old legacy JPEG format if consumers cannot open pictures they receive.""
+It's possible that MIAF or AVIF could become a foundation for JPEG XL. Microsoft and Apple both are active members of JPEG, he said, and the group ""was recently approached about MIAF.""
+And AVIF's backers don't rule that idea out, said Thomas Daede, codecs engineer at Mozilla, the maker of Firefox and a primary backer of AVIF.
+Alternatives to JPEG XL
+MIAF and AVIF both grew from efforts to improve video compression -- the HEVC and AV1 standards, respectively. To compress video, you need to compress the still images that make up each frame. And because phones and laptops need to handle video with a minimal hit to battery life, processor support is a priority. That opens the door to some new photo formats.
+Enlarge Image
+These three images, each compressed to a size of 28KB, compare the original JPEG format (left) with Apple's HEIC format (center) and an early version of the AVIF photo format (right).
+Mozilla
+MIAF is a simplified subset of HEIF, which Apple began promoting heavily in 2017 when it added support in iPhones, Macs and iPads. In particular, Apple likes a variation called HEIC that uses the HEVC video compression technology.
+But HEIF is a container that can accommodate other compression technology besides the HEVC one Apple has endorsed. That flexibility is appealing -- indeed, the AVIF backers also embraced the container for their own project, Daede said. That move should ease AVIF's arrival.
+HEIC is working on phones today with hardware support already. It offers support for features like photo bursts, transparency for parts of the image, depth maps that describe the distance between a camera and the subjects it's photographing, and the brief videos called live photos -- although Apple doesn't actually use HEIF for live photos, at least not yet.
+It's not clear what subset of features MIAF will support. Apple didn't comment for this story, and Microsoft wouldn't comment beyond its earlier statement about supporting HEIF in Windows.
+AVIF is later to market than HEIC and HEIF. The first version of the technology isn't done yet, and AV1 hardware support won't arrive in chips in 2020. Like HEIC, it supports transparency, HDR, and sequences and collections of photos.
+AVIF may not be first out of the gate, but advocates promise better compression than HEIC, and there's another advantage: It requires no patent royalty payments.
+Video patent problems
+HEVC has suffered from a particularly messy and uncertain licensing situation, with three separate groups offering licenses for various involved patents and some other licensors going it alone. Even if patent licensing were simple, though, it's a big red flag for a photo format. That's because browser makers and others in the web community despise technology that's available only to those with deep-enough pockets.
+For a standard to successfully replace JPEG, it'll need backing by all the big players in imaging technology, Ebrahimi said. And to get that support, he believes, the technology must be ""royalty-free and open to use by all.""
+MIAF and AVIF originate from video compression, but Ebrahimi is skeptical about that approach for still images.
+CNET Daily News
+Get today's top news and reviews collected for you.
+""A good cameraman is not necessarily a good photographer and vice versa. This is also true for the technologies used to compress each data type,"" which have different mathematical and visual constraints, he said. Some still-image compression methods, such as wavelets, aren't appropriate for video, he said. ""I believe JPEG XL ... will offer such a great compression efficiency compared to AV1 or HEVC that it will be easier for future applications to adopt it because the gain will be more worth the effort.""
+But being able to take advantage of hardware support already built in to computing devices is a compelling advantage. And AVIF's developers have added some photo optimizations into AV1, Daede said.
+For now, it's not clear whether any of the standards has the chance to dominate in the same way as JPEG. Earlier efforts like JPEG XR from Microsoft and WebP from Google achieved only limited success.
+JPEG has survived for a quarter century ""due to ubiquitous support in cameras, phones, operating systems, browsers and other software,"" Beamr's Gill said. ""Nobody has succeeded in the past to break this vicious circle of compatibility.""
+31
+Favorite Portrait Mode photos: CNET Editors share their best
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad services that will change your life.
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+Share your voice
+11 comments
+Tags
+Phones Photography Sci-Tech Tech Industry Qualcomm Google Intel Microsoft Mozilla Apple"

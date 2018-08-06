@@ -1,0 +1,30 @@
+Surveillance drones taught to spot fights and suspicious behaviour
+
+Terrorists and violent crowd members during events like the World Cup could be spotted instantly by police using new drone surveillance tech.
+
+A project, that came about after its researchers were horrified by the Manchester Arena terror attack last year, has developed software for camera-equipped drones that can identify fights and dubious behaviour in crowds of people.
+
+The University of Cambridge study found there is the potential to spot individuals leaving suspicious packages and carrying weapons in public spaces using a £150 drone that could easily be flown through streets and stadiums.   
+
+In a paper titled “Eye in the Sky,” the researchers from the UK and India’s National Institute of Technology describe the system which transmits video footage over a mobile internet connection from the aerial camera for real-time analysis.
+
+A computer program was trained to judge the poses of humans in the video and pair them to postures the researchers have designated as violent. These are aggressive positions, which include strangling, punching, kicking, shooting, and stabbing, are then flagged to a human observer.
+
+Lead researcher Amarjot Singh, from the University of Cambridge, told The Telegraph this technology could prevent terror attacks at events, like the Manchester Arena bombing, in the future.
+
+He said the drone artificial intelligence (AI) could be used by police to protect its citizens in stadiums, rather than it being sold to private companies who may use the technology maliciously.    
+
+Mr Singh said: “The worst case scenario is if an authoritarian government, such as Saudi Arabia, gets their hands on it.
+
+“They could manipulate the software to identify certain individuals in crowds, such as journalists, and use it to control freedom of speech or protests.”  
+
+Mr Singh said, however, that presently actions such as a high-five can be registered as violent by the AI. He says the system currently is 94 per cent accurate at identifying poses, but this drops slightly as the crowd gets larger.
+
+Plans to test the drones during two upcoming festivals in India, Technozion and Spring Spree, will be used to improve the technology’s accuracy.
+
+Experts have raised concerns about the research, saying it could have "grave consequences".
+
+Meredith Whittaker, a AI researcher at New York University, said: "AI is facing a mounting ethical crisis.
+
+"Those who have the knowledge to make AI don't deserve the power to determine its use."
+

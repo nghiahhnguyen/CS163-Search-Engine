@@ -1,0 +1,67 @@
+Diamonds and more suggest unusual origins for asteroids
+A space rock that fell to Earth a decade ago may once have been part of a planet. It would have been a planet that met its end in the solar system’s early days, new data indicate. Inside this meteorite, scientists found tiny pockets of iron and sulfur. They were wrapped in diamonds. Those crystal gems formed under high pressure, the researchers say — likely inside a planet the size of Mercury or Mars.
+There’s also a second newfound space oddity. Scientists have been studying a renegade asteroid that travels in a strange direction. They now report that this space rock appears to have been born somewhere outside our solar system.
+
+The new observations come from a pair of new papers.
+
+Let’s start with the gem-studded meteorite. It's parent no longer exists. It likely would have been a protoplanet — a moon- to Mars-sized celestial “embryo” that could have helped build a true planet through a series of energetic collisions. But in that process, the meteorite’s parent appears to have been smashed to smithereens. It would have been long ago — in those violent early days of our solar system’s formation.
+
+“We probably have in our hands a piece of one of these first planets that have disappeared,” says Philippe Gillet. He’s a geophysicist in Switzerland who works at a research institute and university. It’s known as EPFL. That’s short for École Polytechnique Fédérale in Lausanne.
+
+Along with his colleagues, including EPFL physicist Farhang Nabiei, Gillet analyzed tiny rock fragments. The pieces came from the Almahata Sitta meteorites. These meteorites are famous because they are parts of the first asteroid that scientists tracked all the way from space to their crash-landing on Earth. This asteroid streaked across the Nubian desert in Sudan in 2008.
+
+Almahata Sitta meteorites are a type called ureilites (Yu-ree-AY-leits). Their makeup differs from any of the known stony planets in our solar system. Inside these ureilites are very small diamonds.
+Diamonds are crystals made of pure carbon. They can form from a powerful collision. Or they can form in a dense environment where pressures are very high, such as inside a space rock. The width of diamonds inside the meteorites was only about 100 micrometers (about four thousandths of an inch). But that still made them too large to have been formed by two ordinary asteroids colliding. Such diamonds could form, however, inside very large asteroids. If the asteroid was at least 1,000 kilometers (600 miles) wide, the pressure inside it could be high enough to squeeze carbon into diamonds. 
+Also odd
+The researchers discovered another strange thing. It made them question whether the gems came from an asteroid at all. The diamonds had grown around even smaller crystals of iron and sulfur. Normally iron and sulfur would repel each other like oil and water, says Cécile Hébert. She’s another physicist at EPFL.
+It must have taken enormous pressure to make those crystals hold together. You’d need pressure almost 200,000 times higher than what we feel at sea level on Earth. Where could such an environment exist? “That can only be at the center of a very large planet,” Hébert says. The planet would have to have been somewhere between the sizes of Mercury and Mars. That would make its diameter about 4,900 to 6,800 kilometers (3,000 to 4,200 miles), Hébert says.
+As they were forming, these would have been what are called protoplanets. They likely existed some 4 billion years ago, during the early days of the solar system. But only a few survived to become the today’s four true rocky planets: Mercury, Venus, Earth and Mars. The rest probably smashed into each other, breaking apart within the first 100 million years. Scientists have seen this in simulations of the early solar system.
+
+“We are confirming the existence of such former planets,” Gillet says. He and his team shared their new findings April 17 in Nature Communications.
+
+It isn’t surprising that these planets may have existed, says Meenakshi Wadhwa. She’s a space chemist at Arizona State University in Tempe. But, she notes, this is the first time a meteorite has held direct evidence for a vanished protoplanet.
+
+Not so fast, says Martin Bizzarro. He’s a space chemist at the Natural History Museum of Denmark in Copenhagen. A protoplanet is not the only explanation possible.
+
+"They've done very careful work," Bizzarro says. But more research needs to be done. For example, scientists might test for magnetic fields left over from the rock’s time inside its planet. That could reveal if the meteorites were once within a large planet's hot, liquid core. Whether the meteorites really came from a protoplanet is “still an open question,” he concludes.
+Now for that renegade rock. Known as 2015 BZ509, it shares its orbit with Jupiter. Asteroids in the infant solar system formed from one swirling cloud. They should therefore travel in the same direction — even now. To find out why one of them doesn’t, astronomers turned to a computer model. Such computer programs run a lot of complex simulations. These can test many ideas and then home in on the most likely explanation or prediction of some event.
+That modeling showed that the odd asteroid could have been traveling in reverse ever since the solar system’s youth. The best explanation for why: that this rock migrated from another star’s planetary system. If true, it would be the first asteroid known to do so.
+Fathi Namouni of the Côte d’Azur Observatory in Nice, France, and Helena Morais of Universidade Estadual Paulista in Rio Claro, Brazil shared their analysis May 21. It appears in the Monthly Notices of the Royal Astronomical Society Letters.  
+Power Words
+(for more about Power Words, click here)
+asteroid     A rocky object in orbit around the sun. Most asteroids orbit in a region that falls between the orbits of Mars and Jupiter. Astronomers refer to this region as the asteroid belt.
+astronomy     The area of science that deals with celestial objects, space and the physical universe. People who work in this field are called astronomers.
+carbon     The chemical element having the atomic number 6. It is the physical basis of all life on Earth. Carbon exists freely as graphite and diamond. It is an important part of coal, limestone and petroleum, and is capable of self-bonding, chemically, to form an enormous number of chemically, biologically and commercially important molecules.
+celestial     (in astronomy) Of or relating to the sky, or outer space.
+colleague     Someone who works with another; a co-worker or team member.
+computer model     A program that runs on a computer that creates a model, or simulation, of a real-world feature, phenomenon or event.
+computer program     A set of instructions that a computer uses to perform some analysis or computation. The writing of these instructions is known as computer programming.
+core     Something — usually round-shaped — in the center of an object. (in geology) Earth’s innermost layer. Or, a long, tube-like sample drilled down into ice, soil or rock. Cores allow scientists to examine layers of sediment, dissolved chemicals, rock and fossils to see how the environment at one location changed through hundreds to thousands of years or more.
+crystal     (adj. crystalline) A solid consisting of a symmetrical, ordered, three-dimensional arrangement of atoms or molecules. It’s the organized structure taken by most minerals. Apatite, for example, forms six-sided crystals. The mineral crystals that make up rock are usually too small to be seen with the unaided eye.
+diameter     The length of a straight line that runs through the center of a circle or spherical object, starting at the edge on one side and ending at the edge on the far side.
+diamond     One of the hardest known substances and rarest gems on Earth. Diamonds form deep within the planet when carbon is compressed under incredibly strong pressure.
+embryo     The early stages of a developing organism, or animal with a backbone, consisting only one or a few cells. As an adjective, the term would be embryonic — and could be used to refer to the early stages or life of a system or technology.
+environment     The sum of all of the things that exist around some organism or the process and the condition those things create. Environment may refer to the weather and ecosystem in which some animal lives, or, perhaps, the temperature and humidity (or even the placement of components in some electronics system or product).
+geophysics     A field of science that applies and focuses on the principles of physics (energy and forces) to the study of Earth and to similar structures in other celestial bodies (such as exoplanets). People who work in this field are known as geophysicists.
+iron     A metallic element that is common within minerals in Earth’s crust and in its hot core. This metal also is found in cosmic dust and in many meteorites.
+Jupiter     (in astronomy) The solar system’s largest planet, it has the shortest day length (10 hours). A gas giant, its low density indicates that this planet is composed of light elements, such as hydrogen and helium. This planet also releases more heat than it receives from the sun as gravity compresses its mass (and slowly shrinks the planet).
+magnetic field     An area of influence created by certain materials, called magnets, or by the movement of electric charges.
+Mars     The fourth planet from the sun, just one planet out from Earth. Like Earth, it has seasons and moisture. But its diameter is only about half as big as Earth’s.
+Mercury      (in astronomy) A rocky planet and the one whose orbit is closest to the sun. (Here, the term is capitalized.)
+meteorite     A lump of rock or metal from space that passes through Earth’s atmosphere and collides with the ground.
+micrometer     (sometimes called a micron) One thousandth of a millimeter, or one millionth of a meter. It’s also equivalent to a few one-hundred-thousandths of an inch.
+model     A simulation of a real-world event (usually using a computer) that has been developed to predict one or more likely outcomes. Or an individual that is meant to display how something would work in or look on others.
+moon     The natural satellite of any planet.
+observatory     (in astronomy) The building or structure (such as a satellite) that houses one or more telescopes.
+orbit     The curved path of a celestial object or spacecraft around a star, planet or moon. One complete circuit around a celestial body.
+physicist     A scientist who studies the nature and properties of matter and energy.
+planet     A celestial object that orbits a star, is big enough for gravity to have squashed it into a roundish ball and has cleared other objects out of the way in its orbital neighborhood. To accomplish the third feat, the object must be big enough to have pulled neighboring objects into the planet itself or to have slung them around the planet and off into outer space.
+pressure     Force applied uniformly over a surface, measured as force per unit of area.
+protoplanet     A consolidating celestial object that might one day turn into a planet — but only if its mass is large, it orbits some star, and during that orbiting it eventually sweeps other debris out of its path.
+sea level     The overall level of the ocean over the entire globe when all tides and other short-term changes are averaged out.
+simulation     (v. simulate) An analysis, often made using a computer, of some conditions, functions or appearance of a physical system. A computer program would do this by using mathematical operations that can describe the system and how it might change over time or in response to different anticipated situations.
+solar system     The eight major planets and their moons in orbit around our sun, together with smaller bodies in the form of dwarf planets, asteroids, meteoroids and comets.
+star     The basic building block from which galaxies are made. Stars develop when gravity compacts clouds of gas. When they become dense enough to sustain nuclear-fusion reactions, stars will emit light and sometimes other forms of electromagnetic radiation. The sun is our closest star.
+sulfur     A chemical element with an atomic number of sixteen. Sulfur, one of the most common elements in the universe, is an essential element for life. Because sulfur and its compounds can store a lot of energy, it is present in fertilizers and many industrial chemicals.
+sun     The star at the center of Earth’s solar system. It’s an average size star about 26,000 light-years from the center of the Milky Way galaxy. Also a term for any sunlike star.
+Venus     The second planet out from the sun, it has a rocky core, just as Earth does. Venus lost most of its water long ago. The sun’s ultraviolet radiation broke apart those water molecules, allowing their hydrogen atoms to escape into space.

@@ -1,0 +1,33 @@
+Trapping carbon pollution underground for thousands of years is key to fighting climate change
+Trapping carbon emissions deep within Earth's crust may be a clever way to keep warming greenhouse gases from amassing in the planet's atmosphere. 
+Giant wind turbines and solar-paneled roofs are almost certainly the energy future, but until the greater transition from burning fuels is complete, fuel-burning plants will continue to expel carbon into the air, which has already led to a rapid and accelerating disruption of Earth's climate. 
+Researchers now say that if carbon is pumped into the Earth, only small amounts, if that, are likely to leak out. 
+The storing of these emissions in the ground for thousands of years, or longer — a technology called Carbon Capture and Storage (CCS) — is a solution already employed in places like Norway's North Sea, but it has yet to be widely adopted. 
+However, if CCS were widely accepted, a new study published Tuesday in the journal Nature Communications suggests that well over 90 percent of this carbon will likely stay put for some 10,000 years, if stored correctly.
+Permanently storing this carbon miles beneath the ground will likely play a critical role in keeping Earth's warming to less than 2 degrees Celsius (3.6 Fahrenheit) below that of pre-industrial times by century's end, an ambitious goal agreed upon by nearly 200 nations at the Paris climate talks.
+"Tackling greenhouse gas emissions is a really complex problem and there is no one single solution," Stephanie Flude, a study coauthor and CCS researcher, said over email. 
+"Storing billions of tonnes of CO2 [carbon dioxide] underground is most likely essential to limit global warming to 2 degrees Celsius or less, but we still need to apply other solutions, such as reducing consumption, improved efficiency, switching to renewable and low-carbon energy and feedstocks, and improved land-use."
+Flude said there have been some misleading ideas that these sites won't leak any carbon, and also the opposite, that a single leak could release all of a site's carbon, so Flude and her team wanted to present a more realistic picture. 
+In doing so, they built a "storage security calculator," which benefited from a rich history of how other gases have leaked — and not leaked — in the past. 
+They projected the storage of carbon dioxide in the ground — which is pressurized and heated into a liquid state — over the years 2020 to 2050. Their results, that this carbon will mostly stay there for thousands of years, are consistent with what other geologists and engineers have found.
+"Leakage back to the atmosphere, while a potential concern from social and political perspectives, isn’t much of concern from a scientific perspective because studies such as this continue to find it unlikely," Jeffrey Bielicki, who heads the Energy Sustainability Research Laboratory at Ohio State University and had no involvement in the study, said in an interview.  
+Though, whether carbon dioxide might find its way back to the surface isn't the only concern. 
+"There’s a worry it could delay the transition to renewables," Paul Olsen, who researches earth and environmental sciences at the Lamont Doherty Earth Observatory of Columbia University, said in an interview.
+"The logical thing is reducing the boring of fossil fuels and replacing that with renewables," said Olsen, who had no involvement in the study. "However, it won’t happen overnight."
+Flude acknowledged the argument that advancing carbon storage might deter from the march toward renewables, but noted that CCS can also lock away other sources of carbon, beyond that produced by power plants. Steel, cement, and chemical plants all emit loads of carbon dioxide, so switching to renewable power won't stop those industries from venting carbon into the air, she said. 
+Carbon, however, can't be trapped in the ground wherever's convenient. The geology needs to be right. 
+Places with lots of big voids in the ground, like the limestone beneath West Texas, won't do because there are too many caverns, escape routes, and holes in the ground. Expansive slabs of impervious granite won't work either, as the hard rock doesn't have much porous space. 
+"You can’t just pump it down anywhere," said Olsen. 
+The best places, said Flude, are areas where gas companies are already removing vast bounties of fossil fuels from the ground. These areas are made up of layered sedimentary rock that have multiple hard rock "caps" that can trap any escaping gases, just like they've trapped pockets of gas and oil for millions of years.
+And there's an even better solution: We can pump carbon dioxide into underground rocks that react with the carbon, and then quickly transform it into hardened rock (specifically limestone and quartz). This carbon then gets stuck underground, in perpetuity. 
+But this, again, requires the right geology, which includes something like ancient lava rock, known as basalt. That said, there's a lot of that kind of rock beneath New York City, said Olsen.
+"In places like New York, or places with large-scale CO2 sources from power plants, it makes sense to look at the carbon storage model," said Olsen. "I think it's stupid not to."
+But, Olsen noted that the deep subsurface needs to be well-researched before you can start pumping liquified carbon dioxide into the ground, expecting it to turn into rock. 
+"Every place is special," he said, adding that scientists need to ensure the underground will actually trap carbon the way scientists think it will.
+Going forward, scientists know the technology can work — and in some places already does. The problem is scaling it up to be useful to greater society — not just a kind of successful test site somewhere. 
+"To make a large dent in the emissions, that's where the challenges are," said Bielicki.
+The study's authors did find that if these storage sites weren't well monitored for possible leaks, more than 20 percent of the carbon might escape back into the air. But it's unlikely this will ever be the case. 
+Every nation seriously considering or already using CCS, like Canada, Norway, and the United States, will almost certainly be carefully watching these sites.
+"That's the way it's likely to play out," said Bielick.
+Watching for leaks, diligently researching these underground worlds, and transporting highly-pressurized carbon to these places, however, isn't expected to be simple, nor cheap.
+"There's no free lunch here," said Olsen. "The only free lunch you get is with renewables."

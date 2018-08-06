@@ -1,0 +1,35 @@
+Here’s what we know about the deadly Nipah virus
+KOCHI, India — The rare and deadly Nipah virus has emerged in southern India, killing at least 11 people and causing more than 25 others to be hospitalized. Although global health officials consider that, so far, to be a relatively small outbreak, they’re worried.
+Nipah is on the World Health Organization’s priority list of emerging diseases that could cause a global pandemic, alongside Zika and Ebola.
+“This is the first time we’ve seen the virus in south India,” says R.L. Sarita, the director of health services in the Indian state of Kerala. “And we want to make sure that it stays contained here.”
+Those infected suffer a quick onset of symptoms, including fever, vomiting, disorientation, mental confusion, encephalitis and — in up to 70 percent of cases, depending on the strain — ultimately death. Here’s what we know, and don’t know, about this incurable disease:
+How is the Nipah virus spread?
+Several species of fruit bat that live throughout Asia carry Nipah. During outbreaks in Bangladesh from 2001 to 2007, most people contracted the virus by drinking raw date palm sap that virus-carrying fruit bats had also sipped and contaminated (SN: 12/19/09, p. 15).
+Bats can also transmit Nipah to pigs and other livestock, which can then pass the infection onto humans. And humans can spread the virus through saliva and possibly other bodily fluids. One victim in the latest outbreak was a 31-year-old nurse who had been treating Nipah patients.
+To find the source of this outbreak, health officials in India are testing local bats, livestock and food samples, including mangos that may have been bitten by bats, found in the home of a family that lost four members to Nipah.
+fruit bats
+HANGING OUT Several species of fruit bats are known to carry the Nipah virus without getting sick themselves. Cases in Bangladesh likely involved greater Indian fruit bats (Pteropus giganteus), such as these pictured. The animals can spread the virus through their saliva and urine.
+David Brossard/Flickr (CC BY-SA 2.0)
+How does the virus cause infection?
+Nipah and its viral cousin Hendra latch onto a proteins called ephrin-B2 and ephrin-B3 on the surface of nerve cells and the endothelial cells lining blood and lymph vessels, researchers have found. Nipah can also invade lung and kidney cells.
+Virologists who have studied Nipah’s behavior in animals think that in humans, it initially targets the respiratory system before spreading to the nervous system and brain. Most patients who die succumb to an inflammation of blood vessels and a swelling of the brain that occurs in the later stages of the disease. 
+Why are epidemiologists worried about Nipah?
+“The No. 1 reason is that it’s just so lethal,” says Linfa Wang, who heads the emerging infectious diseases program at the Duke-NUS Medical School in Singapore. In fact, the villain virus in the 2011 film Contagion was based on Nipah (SN Online: 10/19/11).
+Since the virus was first documented in 1998, there have been small, contained outbreaks almost every year in southeast Asia and Bangladesh.
+But Nipah has the potential to spread farther — due to the fact that its fruit bat carriers live across a wide range extending from Australia to West Africa.
+In addition, some strains are more lethal than others. An outbreak in Malaysia in 1999 was caused by a strain with a 30 percent mortality rate, while the Bangladesh outbreaks involved a different strain that killed 70 percent of infected humans. Scientists aren’t sure why the mortality rates are so different.
+Is Nipah the next Ebola?
+Not quite, says Stanford University epidemiologist Stephen Luby, who has studied the disease in Bangladesh, where there have been either outbreaks or sporadic cases almost every year since 2001. The two known Nipah strains currently circulating aren’t all that easy to transmit.
+Nipah virus in cells
+VIRAL CLOSEUP Scientists still know little about how the Nipah virus, shown in this transmission electron migrograph, operates once it invades human cells.
+Cynthia Goldsmith/CDC
+While the mortality rate for those infected can be high, infection is not all that common. Before this latest outbreak, about 300 deaths had been linked to Nipah, most of which occurred in Southeast Asia and Bangladesh. But the actual number could be higher, Luby says, with some cases going untested or unreported. Because the symptoms of Nipah infection are similar to those for other diseases, including encephalitis and the flu, cases may be misdiagnosed. India has only two main diagnostic laboratories, both in the central city of Pune, equipped to confirm Nipah infection. 
+“In order for a disease to spread globally, each person has to infect at least more than one person,” Luby says. But a person with Nipah tends to infect either zero or one other person, according to a 2009 study published online by the U.S. Centers for Disease Control and Prevention. By comparison, a person with measles can infect on average 10 others who aren’t vaccinated. And people who caught Ebola during the 2014 outbreak in West Africa tended to pass it on to between one and three others, PLOS Current Outbreaks reported in 2014.
+But “anytime the virus is inside a human, it has the opportunity to evolve and adapt to that human-specific environment,” Luby says. The worst-case scenario is a future strain that can transmit more quickly or easily among humans, which is why the WHO and global health experts are urging more research into vaccines and treatments.
+“I hope what we learned from the Ebola outbreak, is that if we have the ability to prepare, we should do that,” says Emily Gurley, an infectious disease epidemiologist at the Johns Hopkins Bloomberg School of Public Health in Baltimore
+In fact, in response to this latest outbreak, the Coalition for Epidemic Preparedness Innovations (CEPI), a global alliance that formed last year to encourage and finance the development of vaccines, has announced that they will be granting $25 million to two American biotech companies to accelerate work on a Nipah vaccine. Researchers have tested experimental Nipah vaccines on animals, but have yet to conduct clinical trials. 
+Are fruit bats the problem?
+Having been around for millions of years, bats have probably carried infectious diseases for nearly as long, Gurley says. Several bat species can carry viruses that are deadly to humans, including Ebola, Marburg, SARS and Nipah, without getting sick themselves (SN: 3/9/13, p. 10).
+But scientists say that villainizing bats is not the answer. “They’re a crucial part of their ecosystems,” Gurley says. “They are also really important pollinators.”
+Several factors have increased the chance of bat-borne viruses being passed humans, including development that has encroached on the bats’ natural habitats. “It used to be that these bats stayed far away from human populations,” Wang says.
+https://www.sciencenews.org/article/here-is-what-we-know-about-deadly-nipah-virus?mode=topic&context=69&tgt=nr

@@ -1,0 +1,16 @@
+AI better at finding skin cancer than doctors: study
+Most dermatologists at expert level with years of experience were outperformed by the machine.
+A computer was better than human dermatologists at detecting skin cancer in a study that pitted human against machine in the quest for better, faster diagnostics, researchers said Tuesday.
+A team from Germany, the United States and France taught an artificial intelligence system to distinguish dangerous skin lesions from benign ones, showing it more than 100,000 images.
+The machine -- a deep learning convolutional neural network or CNN - was then tested against 58 dermatologists from 17 countries, shown photos of malignant melanomas and benign moles.
+Just over half the dermatologists were at "expert" level with more than five years of experience, 19 percent had between two and five years' experience, and 29 percent were beginners with less than two years under their belt.
+"Most dermatologists were outperformed by the CNN," the research team wrote in a paper published in the journal Annals of Oncology.
+On average, flesh and blood dermatologists accurately detected 86.6 percent of skin cancers from the images, compared to 95 percent for the CNN.
+"The CNN missed fewer melanomas, meaning it had a higher sensitivity than the dermatologists," the study's first author Holger Haenssle of the University of Heidelberg said in a statement.
+It also "misdiagnosed fewer benign moles as malignant melanoma... this would result in less unneccessary surgery."
+The dermatologists' performance improved when they were given more information of the patients and their skin lesions.
+The team said AI may be a useful tool for faster, easier diagnosis of skin cancer, allowing surgical removal before it spreads.
+There are about 232,000 new cases of melanoma, and 55,500 deaths, in the world each year, they added.
+But it is unlikely that a machine will take over from human doctors entirely, rather functioning as an aid.
+Melanoma in some parts of the body, such as the fingers, toes and scalp, are difficult to image, and AI may have difficulty recognising "atypical" lesions or ones that patients themselves are unaware of.
+"Currently, there is no substitute for a thorough clinical examination," experts Victoria Mar from Monash University in Melbourne and Peter Soyer of the University of Queensland wrote in an editorial published with the study.

@@ -1,0 +1,14 @@
+﻿"An MIT chip may power long-lasting, bug-size drones
+MIT chip may power long-lasting mini drones.
+MIT Researchers
+Drones that are smarter, smaller and run much longer may be on their way.
+MIT said in a release Wednesday that its researchers, co-led by Vivienne Sze and Sertac Karaman, built a fully customized chip that's as tiny as a LEGO minifigure's footprint and consumes only about one-thousandth the energy to power a light bulb.
+Last year, the researchers designed a computer chip small enough to power ""Nanodrones,"" or other honeybee-size drones. This year's version is smaller and more powerful. Tiny drones can use this chip to help with navigation, particularly in remote or inaccessible places. Small robots or devices that need to operate for a long time could also benefit from this chip's energy-saving quality.
+MIT said the chip can process in real-time camera images at up to 171 frames per second (DJI Phantom 3's camera shoots at 30 frames per second). It can use inertial measurements to determine where it is in space.
+The researchers will present the chip this week at the Symposia on VLSI Technology and Circuits, a conference for world's top technologists to exchange ideas.
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad services that will change your life.
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+Share your voice
+Post a comment
+Tags
+Sci-Tech Drones Tech Industry Drones Lego"

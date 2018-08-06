@@ -1,0 +1,40 @@
+﻿"iOS 12: What's new in the Photos app
+With iOS 12, Apple is adding a few new features to its Photos app that make the app more like Google Photos with a new curated tab, sharing suggestions and search upgrades.
+Keep in mind, iOS 12 is currently in beta, and some of the features mentioned below could change before its final release this fall.
+For you
+Apple
+A new For You tab is probably the most significant change to the Photos app with iOS 12. The tab along the bottom of the app is where you'll find curated memories from photos and videos, along with sharing suggestions.
+The most exciting feature of the For You tab is the sharing suggestion feature.
+Sharing suggestions
+Apple
+If you use iCloud Photo library, starting with iOS 12, you will begin to see suggestions of which photos to share with specific contacts. It takes a little time for your device to learn who is in each picture, but you only have to assign a contact to a face in a photo once, and iOS 12 will remember your settings.
+When you share photos with people who are also using iOS 12, they will receive a prompt to share photos they have of you from the same location or event.
+Search
+Apple, Inc.
+A more robust search tool will let you search for photos taken at a specific location, event, or person. But instead of searching for a single item, you can now use multiple search terms to find a particular photo.
+Watch this: Apple refreshes Photos with new search, sharing features
+2:15
+48
+Here are the biggest iOS 12 features Apple announced at WWDC 2018
+Apple
+reading
+â€¢
+iOS 12: What's new in the Photos app
+Jun 20
+â€¢
+2019 Honda Insight first drive review: The 55-mpg Civic
+Jun 20
+â€¢
+Tech condemns Trump: Apple, Microsoft, Airbnb oppose separating families at the border
+Jun 20
+â€¢
+Microsoft employees protest company's work with ICE
+Jun 19
+â€¢
+Couple uses Facebook to raise over $5M to reunite immigrant families
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+Mobile Operating Systems iOS 12 Google Apple"

@@ -1,0 +1,39 @@
+AI in the newsroom -- a mixed blessing of fact vs. compassion
+
+By Cheryl K. Chumley - The Washington Times - Wednesday, May 9, 2018
+ANALYSIS/OPINION:
+
+There could very well come a time when journalists — who’ve never made it to the top of favorability polls with the people, anyway — may be phased out, replaced by robotic reporters.
+Not today. But someday. One day. It’s already in the works. And it’s a mixed-bag blessing, at best.
+
+The Washington Post, for example, has debuted Heliograf, a machine learning program that’s been used to record and analyze medal counts and scores and produce hundreds of short stories during the Rio Olympics, to cover political races on Election Day and to write up high school football stories — and tweet out the results.
+
+The Associated Press has used artificially intelligent robots to generate coverage of market earnings; USA Today, to produce news-related videos. And the AI-powered methods are working.
+
+Just this March, Heliograf won first place in the “Excellence in Use of Bots” category at the Global BIGGIES Awards for the 850 or so news reports it’s churned over the last year. Another Post technology program, ModBot — software the news outlet credits with helping it “foster healthier comment sections” — won the top prize for “Excellence in Use of Artificial Intelligence (Non-Bot)” at the same event.
+
+It’s a real sit up and take notice time for newsrooms around the nation.
+
+AI that helps with online comments’ sections — the bane of web-based news outlets everywhere — is welcome enough by itself. But the potential AI-news applications are more far-reaching. What about the idea of robotic coverage for, say, war zones?
+
+Or for violent street protests involving the tossing of Molotov cocktails and tear-gas grenades?
+
+Or even for parades and rallies and political events that are mundane and predictable — read: boring — in nature?
+
+With safety in the lurch, and manpower at a minimum, even newsrooms reluctant to turn high-tech might compromise and send in the ‘bot to high-tension, high-crime, high-violence areas, or for that dreaded manpower drain, the obligatory Fourth of July parade photo shot. And honestly, what reporter of repute wouldn’t want to duck and dodge the local fair 4H farm animal judging and let the machine take the beat instead?
+
+The final straw, of course, in news executives turning this page from human to mechanical coverage might be the bottom line. Isn’t it always.
+
+By Washington Post estimates, the 850 articles produced over a year’s time by Heliograf included about 500 stories that generated half-a-million or so clicks — clicks, of course, being code for cha-ching in advertiser talk. The 500,000 clicks aren’t that impressive in terms of eyeballs or dollar signs — except when it’s realized that most of the stories wouldn’t even have been written if The Post had to send human bodies to pen them. Free clicks; robots, remember, don’t collect paychecks.
+
+The AP, meanwhile, guesses that by dedicating its AI software to corporate earnings’ coverage, it’s freed up significant amounts of time for its human reporters to delve into more important stories. And it’s done so without compromising accuracy — nay, even improving it in certain reports, according to AP’s own findings.
+
+The apparent takeaway?
+
+It’s a win-win for all, it seems.
+
+And truly, that may be. At least on the surface. It very well may be that AI-fueled journalism is the way to financial solvency for struggling newsrooms, to safety and security for flesh-and-bone journalists covering dangerous stories, and to greater reader satisfaction at a time when Gallup reports six-in-10 say the media is biased and when President Donald Trump, righteously or not, routinely labels the press the enemy of the people.
+
+But one has to wonder: Would a robot reporter be equipped with the right tools to write with compassion?
+
+Sometimes a story is more than who, what, where, when, why and how. Sometimes — actually, more than sometimes — words count, tone counts, omissions and inclusions matter, and presentation and order and pertinent sourcing and research are just as crucial to the telling as the facts. For that, for all that plus the facts, the human touch is simply irreplaceable.

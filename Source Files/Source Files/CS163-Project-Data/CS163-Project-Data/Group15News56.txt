@@ -1,0 +1,63 @@
+Google pledges not to develop AI weapons 
+
+Google has pledged not to use its artificial intelligence technology in military weapons or anything that might weaken human rights in a set of principles announced on Thursday.
+
+This commitment follows protests from staff over the US military's research into using Google's vision recognition systems to help guide drones.
+
+Google insisted last week that its AI technology is not being used to help drones identify human targets, but told employees that it would no renew its contract after it expires in 2019.
+
+Google chief executive Sundar Pichai said: “We want to be clear that while we are not developing AI for use in weapons, we will continue our work with governments and the military in many other areas.
+
+“These collaborations are important and we’ll actively look for more ways to augment the critical work of these organizations and keep service members and civilians safe.”
+
+Mr Pichai did not explain how Google would reach decisions about when to limit the use of AI, but added the company was not coming up with “theoretical concepts”. He said “They are concrete standards that will actively govern our research and product development and will impact our business decisions.”
+
+Google's seven AI principles
+Be socially beneficial
+Google will strive to make accurate information available using AI, while respecting cultural, social, and legal norms where it operates.
+
+Avoid creating or reinforcing unfair bias
+Google will seek to avoid unjust impacts on people, particularly those related to sensitive characteristics such as race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief.
+
+Be built and tested for safety
+Google will design AI systems to be appropriately cautious, and seek to develop them in accordance with best practices in AI safety research. 
+
+Be accountable to people
+Google will design AI systems that provide opportunities for feedback and explanations. 
+
+Incorporate privacy design principles
+Google will give opportunity for notice and consent, encourage architectures with privacy safeguards, and provide appropriate transparency and control over the use of data.
+
+Uphold high standards of scientific excellence
+Google will work with others to promote leadership in this area. They will responsibly share AI knowledge by publishing educational materials and best practices.
+
+Be available for uses that accord with these principles
+Google will work to limit potentially harmful applications. It will evaluate likely uses in light of the following factors:
+
+Primary purpose and use
+Nature and uniqueness
+Scale
+Nature of Google’s involvement
+AI applications Google will not pursue
+Technologies that cause or are likely to cause overall harm
+Weapons or other technologies whose principal purpose or implementation is to cause or directly facilitate injury to people.
+Technologies that gather or use information for surveillance violating internationally accepted norms.
+Technologies whose purpose contravenes widely accepted principles of international law and human rights.
+
+The new AI principles follow weeks of protest from over 3,000 Google employees over "Project Maven", an programme with the US Pentagon on AI for drones. 
+
+Miles Brundage, a Research Fellow at the University of Oxford, said on Twitter: “A bit vague in places, they don't exclude offensive cyber security or anti-materiel autonomous weapons but it's a start.”
+
+At a glance | Autonomous weapons
+
+Lethal autonomous weapons are military robots with the ability to make lethal decisions free from human oversight. They are designed to select and attack military targets without intervention or control of a human operator and are capable of operation in the air, on land, on water, under water or in space.
+
+The development of autonomous weapons systems has been heavily criticised in an open letter to the UN. Signed by over 100 artificial intelligence and robotics experts, the letter warns that not sanctioning a ban on autonomous weapons would herald a “third revolution in warfare”, after gunpowder and nuclear weapons.
+
+The principles clearly state that Google will not work on AI for weapons but they also leave room for interpretation for company executives and allow Google to work for the military.
+
+Among its objectives, the projects aim is to develop and integrate “computer-vision algorithms needed to help military and civilian analysts.”
+
+In an open letter from Google employees to Mr. Pichai, employees expressed concern that the military could weaponize AI. “We believe that Google should not be in the business of war...Google’s unique history and its direct reach to the lives of billions of user set it apart.”
+
+The principles also address a much broader range of concerns. Mr Pichai pledges to avoid creating systems that reinforce “societal biases on gender race or sexual orientation,” and says that privacy safeguards should be incorporated into AI.

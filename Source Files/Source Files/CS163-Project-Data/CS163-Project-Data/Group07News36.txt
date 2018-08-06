@@ -1,0 +1,56 @@
+﻿"California lawmakers gut net neutrality bill
+Ted Soqui
+California will not be the poster child for the nation's strongest set of net neutrality protections, as lawmakers in the state Assembly voted to cut many of the bill's most powerful provisions.
+The vote on Wednesday in a California Assembly committee hearing advanced a bill that implements some net neutrality protections, but it scaled back all the measures of the bill that had gone beyond the rules outlined in the Federal Communications Commission's 2015 regulation, which was officially taken off the books by the Trump Administration's commission last week. In a surprise move, the vote happened before the hearing officially started, after which the committee listened to public feedback.
+""It is, with the amendments, a fake net neutrality bill,"" said Sen. Scott Wiener from San Francisco, who introduced the original bill. He said the amendments ""mutilated"" the rules.
+The move is a major blow to Democrats in Congress and in state houses across the country, who were looking to California to set a high standard, as they push to reinstate strong net neutrality protections to replace the Obama-era rules the Republican-led FCC voted to eliminate.
+It is, with the amendments, a fake net neutrality bill.
+Sen. Scott Wiener from San Francisco
+""It sends exactly the wrong message to other lawmakers across the country,"" said Evan Greer, deputy director of Fight for the Future. ""And it's an embarrassment for both the Democratic party and the California State Legislature as a whole.""
+California's bill was considered the ""gold standard"" in net neutrality protections, because it went beyond the FCC's 2015 net neutrality ""bright line"" rules by including provisions like a ban on zero-rating, a business practice that allows broadband providers like AT&T to exempt their own services from their monthly wireless data caps, while services from competitors are counted against those limits. The result is a market controlled by internet service providers like AT&T, who can shut out the competition by creating an economic disadvantage for those competitors through its wireless service plans.
+Assemblyman Miguel Santiago, a Democrat from Los Angeles, expressed concern that the bill went too far and could have hurt consumers who would benefit in the short term from perks like zero-rated plans. He also worried the strict rules would hurt investment from broadband and wireless companies, which would be prohibited from experimenting with new business models in a changing market.
+During the hearing, Santiago compared internet access to a bridge connecting a village, noting that he doesn't see an issue with the bridge operator setting up fast lanes. He added that additional regulations would stymie the creation of new bridges, which he argued would result in lower tolls for everyone.
+But critics like Fight For the Future say Santiago caved to pressure from industry lobbyists who had donated thousands of dollars to his campaigns.
+Watch this: California net neutrality law beset by political infighting
+1:00
+Santiago denied those allegations.
+""This is the legislative process at work,"" he said in an email. ""Any suggestions of actions taken today somehow being otherwise motivated are irresponsible, at best and insulting beyond that.""
+In a prepared statement, he said he was concerned by ""Trump's rollback"" of the net neutrality regulations. He added that, ""California should once again stand as a back-stop of 'the resistance' by beating back both Trump's administration and the billion-dollar corporations he's trying to protect."" And he explained that's why he supports the amended bill, which he said he is certain will eventually be challenged in court by the industry.
+""Make no mistake,"" he added. ""The industry supports Trump's actions and will do everything they can to sue and block implementation of net neutrality in California. When that happens, we will fight back.""
+An AT&T representative said he opposed the Wiener bill and defended the practice of zero-rated plans. He kicked off his comments during the hearing with the company's vow that it would not degrade high-speed internet service, and argued that the California bill, as it originally stood, went far beyond the Obama-era FCC's 2015 net neutrality order.
+""There's no presentation of evidence of an actual problem,"" he said. ""You're not blocked.""
+Steve Carlson, speaking for the CTIA wireless trade group at the hearing, said he opposed the bill both in its original and amended form, arguing both bills go beyond the 2015 order. He called the fears over the lack of net neutrality laws ""alarmist speculation.""
+Wiener attempted to pull the bill from further consideration, but the committee overrode his decision and opted to continue the process of turning the amended bill into law.
+Sen. Kevin de Leon had introduced a second net neutrality bill, and de Leon and Wiener had plans to combine the bills. The committee denied amendments that would have linked the bills, so they could be considered together. Sen. de Leon wasn't present at Wednesday's hearing and his bill was never mentioned during the proceeding. A spokesman for the senator offered this statement: ""I am very disappointed in the outcome of today's hearing in the Assembly Communications Committee. However, Senator Wiener and I are committed to continue working with all parties to protect consumers and Net Neutrality in California.""
+Sen. de Leon withdrew his bill when the committee indicated they would add the same amendments as Wiener's bill, according to a person familiar with de Leon's thinking.
+The fight continues
+Still, net neutrality supporters vow to continue the fight. A slew of individuals, consumer advocacy groups and other parties chimed in with support of Wiener's bill and hailed the amendments as ""hostile."" And California is still on track to pass some form of net neutrality protections. The bill still has another committee to face in the California Assembly before heading to Governor Jerry Brown's desk for signing.
+Advocates such as Greer said there's growing momentum for net neutrality and that the fight in California was just one piece of it.
+""We are continuing to fight for net neutrality at the federal level in the House of Representatives, in the courts, and in other states,"" she said. ""We've succeeded in making net neutrality a mainstream political issue for the first time ever. And politicians need to decide right now which side of history they want to be on.""
+More than two dozen other states, like New York, Connecticut, and Maryland, are also considering legislation to reinstate net neutrality rules. Oregon and Washington state have already signed their own net neutrality legislation into law. Governors in several states, including New Jersey and Montana, have signed executive orders requiring ISPs that do business with the state adhere to net neutrality principles.
+Democrats in Congress are also still fighting to roll back the FCC's repeal of the 2015 rules through a Congressional Review Act resolution, which allows Congress to nullify recently passed regulation. The measure won in the US Senate, but still needs passage in the House by the end of the year. And after that it needs to be signed by President Trump, which many believe is a long shot.
+And there are also several lawsuits filed in federal appeals court challenging the FCC's removal of the rules.
+This story originally published at 10:39 a.m. PT.
+Update, 1:17 p.m. PT: Adds a statement from Sen. Kevin de Leon.
+Update: 3:56 p.m. PT: Adds statements from Assemblyman Miguel Santiago. Update: 5:42 p.m. PT: To include additional background on Sen. de Leon.
+The Smartest Stuff: Innovators are thinking up new ways to make you, and the things around you, smarter.
+It's Complicated: This is dating in the age of apps. Having fun yet?
+Net Fix
+reading
+â€¢
+California lawmakers gut 'gold standard' net neutrality bill
+Jun 20
+â€¢
+California's net neutrality bill faces a grim fate
+Jun 18
+â€¢
+California lawmakers combine net neutrality bills
+Jun 15
+â€¢
+Why net neutrality supporters are cringing at the AT&T-Time Warner merger
+â€¢
+See All
+Share your voice
+Post a comment
+Tags
+Net Fix Internet Politics Net neutrality AT&T FCC"

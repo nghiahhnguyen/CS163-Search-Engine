@@ -1,0 +1,32 @@
+'Safety net' clinics uneven in delivery of help to quit smoking
+(Reuters Health) - Health clinics where low-income people in the U.S. obtain medical care don’t always offer help with quitting smoking - and availability of that assistance may vary by patients’ ethnicity and insurance, a recent study suggests.
+
+So-called safety net clinics exist to reduce barriers to healthcare. Patients at these clinics have higher-than-average rates of smoking, so it’s particularly important to address these disparities, said Dr. Steffani Bailey, a family medicine researcher at Oregon Health & Science University School of Medicine in Portland.
+
+“We need to ensure that all patients, particularly in these settings, are getting access to the assistance that they need to help them to quit smoking,” she said in an email.
+
+Bailey and her team examined electronic health record data from 136,314 smokers at 143 clinics in 12 states between 2014 and 2016. The researchers analyzed the type of smoking cessation assistance these patients received - whether it was no assistance, counseling only, medication only or counseling and medication together.
+
+They also looked at whether age, gender, race, income level, insurance status and the presence of medical and psychiatric conditions influenced who received cessation help.
+
+The odds of getting both counseling and medication - which is considered best practice - were lower among patients of all ethnicities combined than they were among non-Hispanic whites, the researchers found.
+
+Patients with Medicaid, the government insurance for low-income recipients, had 17 percent higher odds of receiving counseling and medication compared with commercially-insured patients, but uninsured people had the lowest odds, the study team reports in the American Journal of Public Health.
+
+With few exceptions, the study found, women, older people and those with co-existing medical conditions were the most likely to receive assistance with quitting smoking.
+
+While other studies have used electronic health record data, Bailey said, hers is the first to examine predictors of smoking cessation assistance from such a large sample. The study was limited by the fact that researchers do not know the reasons for some patients not receiving smoking cessation medication. They also didn’t have data on patients who purchased nicotine replacement therapy over the counter.
+
+Bailey said her team plans to interview patients and providers and observe clinic visits to better understand why smoking is, or is not, being addressed in these visits.
+
+Dr. Andy Tan, an assistant professor at the Harvard University T.H. Chan School of Public Health in Boston who wasn’t involved in the study, said researchers’ access to electronic health records provides previously unavailable data on service delivery for a large number of patients.
+
+“This is important because this will accelerate the identification of gaps in delivery of smoking cessation among subgroups of patients who smoke, to target training, patient education, and system change that ultimately eliminates disparities in providing this service,” he said in an email.
+
+The U.S. Public Health Service Clinical Practice Guideline recommends that clinicians offer brief smoking cessation interventions at nearly all encounters, Bailey said.
+
+They recommend the “5 A’s model” (Ask about smoking, Advise to quit smoking, Assess willingness/readiness to quit smoking, Assist patient in quitting smoking, and Arrange follow-up). The clinician should discuss medication with the patient and should offer it unless there is a reason, such as pregnancy, that it should not be prescribed, Bailey said.
+
+Offering medication and behavioral counseling together is considered the most effective way to help people quit smoking, said Dr. Kristine Browning of The Ohio State University College of Nursing and The Ohio State University Wexner Medical Center-James Cancer Hospital in Columbus, who wasn’t involved in the study. 
+
+“To continue to close the disparity gaps that exist in healthcare, it is essential that behavioral researchers and healthcare providers continue to illuminate healthcare disparities where they exist, and work toward multifactorial solutions to eliminate disparity and improve patient outcomes.” she said in an email. “All patients deserve that highest evidenced-based treatment.”
