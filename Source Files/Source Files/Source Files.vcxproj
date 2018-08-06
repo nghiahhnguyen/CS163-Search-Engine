@@ -145,7 +145,6 @@
   <ItemGroup>
     <ClCompile Include="Auxilary Functions.cpp" />
     <ClCompile Include="Layout.cpp" />
-    <ClCompile Include="Old code.cpp" />
     <ClCompile Include="Trie_Implementation.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>

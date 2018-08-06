@@ -26,7 +26,8 @@ int main() {
 
 	start = std::chrono::system_clock::now();
 	string input(search);
-	vector<Node> top5Ranking = mainTree.getQueryData(input);
+	set<string>highlightWords;
+	vector<Node> top5Ranking = mainTree.getQueryData(input, highlightWords);
 	end = std::chrono::system_clock::now();
 	elapsed = std::chrono::duration_cast<std::chrono::milliseconds>(end - start);
 	fout << "The running time of the searching operation: " << elapsed.count() << " milliseconds\n";

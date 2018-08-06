@@ -1,2 +1,0 @@
-The running time of the loading operation: 18888 milliseconds
-The running time of the searching operation: 36 milliseconds
