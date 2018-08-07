@@ -191,9 +191,9 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 	vector<string> stringsWithExactVal;
 	if (dotPos == string::npos) return stringsWithExactVal;
 	size_t startValPos = dotPos;
-	while (startValPos >= 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
+	while (startValPos > 0 && keyword[startValPos - 1] >= '0' && keyword[startValPos - 1] <= '9')
 		--startValPos;
-	if (startValPos != 0 && keyword[startValPos - 1] == '-')
+	if (startValPos > 0 && keyword[startValPos - 1] == '-')
 		--startValPos;
 	long long startVal;
 	if (startValPos == dotPos)
