@@ -1,4 +1,5 @@
 #include "Function.h"
+#include "GlobalVariables.h"
 const int BONUSPOINT = 500;
 
 string itoXX(int number) {
@@ -162,7 +163,7 @@ vector<Node> Trie_t::getKeywordData(string keyword, set<string> &highlightWords)
 	ifstream fin;
 	for (int i = 0; i < result.size(); ++i) {
 		result[i].keyword_count = 0;
-		fin.open(getFileName(result[i].file_name).c_str());
+		fin.open(indexToFilename(result[i].file_name).c_str());
 		if (!fin.is_open()) continue;
 		// TODO: count apperance in file
 		string text;
@@ -233,7 +234,7 @@ string getFileName(int fileName) {
 void preprocessing(string& word, set<ll>& numbers_in_word) {
 	string::reverse_iterator it;
 	string result = "";
-	ll cur_number;
+	ll cur_number = 0;
 	int num_digit = 0;
 	bool last_char_is_digit = false;
 	for (it = word.rbegin(); it != word.rend(); ++it) {
@@ -352,7 +353,7 @@ int countFreq(const string &pat, const string &txt, set<string> &highlightWords)
 
 vector<ll> numbersInString(const string& word) {
 	int sz = word.size(), num_digit = 0;
-	ll cur_number;
+	ll cur_number = 0;
 	vector<ll>results;
 	bool last_char_is_digit = false;
 	for (int i = sz - 1; i >= 0; --i) {
@@ -495,3 +496,7 @@ bool checkStopWordUsingTrie_t (string word) {
     
 }
 
+string indexToFilename(int index) {
+	if (index > MAX_FILE_COUNT) return "";
+	return FILENAMES[index - 1];
+}

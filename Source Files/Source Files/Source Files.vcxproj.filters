@@ -35,6 +35,9 @@
     <ClInclude Include="FunctionTrang.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="GlobalVariables.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data\Synonym.txt">

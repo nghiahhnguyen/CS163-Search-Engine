@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="Function.h" />
     <ClInclude Include="FunctionTrang.h" />
+    <ClInclude Include="GlobalVariables.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Auxilary Functions.cpp" />

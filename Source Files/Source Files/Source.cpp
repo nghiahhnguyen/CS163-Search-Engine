@@ -20,7 +20,7 @@ int main() {
 
 	Trie_t stopWord, mainTree;
 
-	mainTree.inputFromFile("CS163-Project-Data");
+	mainTree.inputFromFile("CS163-Project-Data\\CS163-Project-Data\\");
 	mainTree.inputSynonymFromFile();
 
 	char search[50];

@@ -17,6 +17,7 @@ typedef pair<int, int> ii;
 typedef long long ll;
 typedef map<string, int> word_map;
 
+const int MAX_FILE_COUNT=2268;
 #define mp make_pair
 #define ALP 39 //the number of words in the alphabet + 10 digits + '$' + '#' + "  '  "
 
@@ -98,5 +99,6 @@ void preprocessing(string& word, set<ll>& numbers_in_word);
 void preprocessing(string& word);
 vector<ll> numbersInString(const string& word);
 bool checkStopWordUsingTrie_t (string word);
+string indexToFilename(int index);
 
 #endif // !_FUNCTION_H_
