@@ -164,7 +164,7 @@ vector<Node> Trie_t::getKeywordData(string keyword, set<string> &highlightWords)
 	ifstream fin;
 	for (int i = 0; i < result.size(); ++i) {
 		result[i].keyword_count = 0;
-		fin.open(indexToFilename(result[i].file_name).c_str());
+		fin.open(getFileName(result[i].file_name).c_str());
 		if (!fin.is_open()) continue;
 		// TODO: count apperance in file
 		string text;
@@ -227,8 +227,8 @@ vector<string> findExactValue(string keyword, const set<long long> &exactVal) {
 }
 
 string getFileName(int fileName) {
-	string name("CS163-Project-Data\\Group07News");
-	name += itoXX(fileName) + ".txt";
+	string name("CS163-Project-Data\\CS163-Project-Data\\");
+	name += indexToFilename(fileName);
 	return name;
 }
 
