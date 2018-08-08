@@ -38,6 +38,7 @@ int main() {
 		set<string> highlightWords;
 		vector<Node> top5Ranking = mainTree.getQueryData(search, highlightWords);
 		int milliSecondsElapsed = getMilliSpan(start);
+		GOTOXY(130, 4); cout << "      ";
 		GOTOXY(130, 4); cout << milliSecondsElapsed << " ms";
 
 		//Gia - export and display
@@ -48,7 +49,7 @@ int main() {
 		if (numPath != 0)
 			for (int i = 0; i < numPath; i++)
 			{
-				file_path = "CS163-Project-Data\\Group07News" + itoXX(top5Ranking[i].file_name) + ".txt";
+				file_path = "CS163-Project-Data\\CS163-Project-Data\\" +  indexToFilename(top5Ranking[i].file_name);
 
 				ifstream fi;
 				fi.open(file_path);
@@ -59,8 +60,10 @@ int main() {
 
 
 				tc(79);
-				GOTOXY(5, 15 + 5 * i); cout << "[" << (char)(i + 65) << "] " << title;
-				tc(120); GOTOXY(7, 15 + 5 * i + 1); cout << "File name: " << itoXX(top5Ranking[i].file_name);
+				GOTOXY(5, 15 + 5 * i); cout << "[" << (char)(i + 65) << "]";
+				for (int z = 0; z < 120; z++) if (title[z] != '\0') cout << title[z]; else break;
+				cout << "...";
+				tc(120); GOTOXY(7, 15 + 5 * i + 1); cout << "File name: " << indexToFilename(top5Ranking[i].file_name);
 				tc(112);
 
 				int trackingPara = 0;
@@ -131,7 +134,7 @@ int main() {
 		if (c < 5 && c>=0) {
 		ccc;
 		int i = c;
-		file_path = "CS163-Project-Data\\Group07News" + itoXX(top5Ranking[i].file_name) + ".txt";
+		file_path = "CS163-Project-Data\\CS163-Project-Data\\" + indexToFilename(top5Ranking[i].file_name);
 		ifstream fi;
 		fi.open(file_path);
 

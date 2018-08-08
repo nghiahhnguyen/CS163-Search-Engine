@@ -2,7 +2,7 @@
 
 struct keys
 {
-	char key[50],keyO[50];
+	char key[50], keyO[50];
 	int rank;
 };
 int KEYs = 0;
@@ -104,7 +104,7 @@ void LoadBorder() {
 }
 
 void AddHistory(char s[]) {
-	
+
 	char ss[50];
 	strcpy(ss, s);
 	genKey(ss);
@@ -127,9 +127,9 @@ void AddHistory(char s[]) {
 
 	for (int i = 0; i <= KEYs; i++) for (int j = 0; j <= KEYs - 1; j++) {
 		if (strcmp(ListKey[j].key, ListKey[j + 1].key) > 0) {
-			ListKey[KEYs+1] = ListKey[j];
+			ListKey[KEYs + 1] = ListKey[j];
 			ListKey[j] = ListKey[j + 1];
-			ListKey[j + 1] = ListKey[KEYs+1];
+			ListKey[j + 1] = ListKey[KEYs + 1];
 		}
 	}
 
@@ -152,7 +152,7 @@ bool inKey(char s[], char ss[], int &i) {
 	if (strlen(s) > strlen(ss)) return false;
 	int tmp = 0;
 	for (i = 0; i < strlen(ss); i++) {
-		if (ss[i] == s[tmp]) tmp++; else { tmp = 0; if (ss[i] == s[tmp]) tmp++;	}
+		if (ss[i] == s[tmp]) tmp++; else { tmp = 0; if (ss[i] == s[tmp]) tmp++; }
 		if (tmp == strlen(s)) return true;
 	}
 	return false;
@@ -173,7 +173,7 @@ bool inKeyyy(string ss, char s[]) {
 	int tmp = 0;
 	for (i = 0; i < strlen(s); i++) {
 		if (tolower(ss[tmp]) == tolower(s[i])) tmp++; else { tmp = 0; if (ss[tmp] == s[i]) tmp++; }
-		if (tmp == ss.length() && (s[i+1]==' ' || s[i+1]=='\0')) return true;
+		if (tmp == ss.length() && (s[i + 1] == ' ' || s[i + 1] == '\0')) return true;
 	}
 	return false;
 }
@@ -197,13 +197,13 @@ void KeySelect(char s[]) {
 		int index = -1;
 		if (inKey(s, ListKey[i].keyO, index))
 		{
-			if (index < strlen(ListKey[i].keyO)) selected[i] = index-strlen(s)+1;
+			if (index < strlen(ListKey[i].keyO)) selected[i] = index - strlen(s) + 1;
 		}
 	}
 
 	int count = 0;
 	for (int i = 0; i <= KEYs; i++) {
-		if (selected[i] == 0 ) {
+		if (selected[i] == 0) {
 			count++; tc(112);
 			GOTOXY(2, 12 + count); cout << "|                                                                       |";
 			GOTOXY(3, 12 + count); cout << ListKey[i].keyO;
@@ -213,7 +213,7 @@ void KeySelect(char s[]) {
 	for (int i = 0; i <= KEYs; i++) {
 		if (count == 15) break;
 		if (selected[i] > 0) {
-			count++; 
+			count++;
 			tc(112);
 			GOTOXY(2, 12 + count); cout << "|                                                                       |";
 			GOTOXY(3, 12 + count); cout << ListKey[i].keyO;
@@ -225,10 +225,10 @@ void KeySelect(char s[]) {
 	}
 }
 
-void ready(char (&s)[50]) {
+void ready(char(&s)[50]) {
 	GOTOXY(2, 40); cout << "                                                                           ";
 	GOTOXY(3, 11); cout << "                                                                           ";
-	GOTOXY(3,11); 
+	GOTOXY(3, 11);
 	int i;
 	tc(112);
 	inputUName(3, 11, s);
@@ -247,7 +247,7 @@ void inputUName(int x, int y, char(&s)[50]) {
 				s[dem] = '\0';
 				dem--;
 				KeySelect(s);
-				GOTOXY(x + dem + 1, y); 
+				GOTOXY(x + dem + 1, y);
 				if (dem < 0) {
 					cout << "Type here...";
 					preSearch();
