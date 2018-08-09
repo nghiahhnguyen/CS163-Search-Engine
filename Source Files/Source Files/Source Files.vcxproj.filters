@@ -24,7 +24,13 @@
     <ClCompile Include="Auxilary Functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Old code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Layout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalVariables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
