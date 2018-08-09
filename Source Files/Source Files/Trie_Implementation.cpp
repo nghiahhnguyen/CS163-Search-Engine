@@ -37,7 +37,7 @@ Word_t* Trie_t::search(string word) {
 	//Nghia
 	//return the pointer to the word if it exists in the Trie
 	//return NULL if the word doesn't exist in the Trie
-
+	
 
 	Word_t* cur = root;
 	int n = word.size(), link_index;
@@ -57,7 +57,7 @@ Word_t* Trie_t::search(string word) {
 	if (cur->is_end)
 		return cur;
 	else
-		return NULL;
+		return NULL;	
 }
 
 
@@ -89,14 +89,14 @@ void Trie_t::inputSynonymFromFile() {
 void Trie_t::inputFromFile(const string& folder_path) {
 	//Nghia
 	//Read all the find and put all the occurrence of words data into the Trie
-
+	
 	//to read all the num
 	string file_path;
 	//traverse the file. Total files: 2268
-	for (int i = 1; i <= 2268; ++i) {
+	for (int i = 1; i <= 200; ++i) {
 
 		//get the name of file
-		file_path = folder_path + "\\CS163-Project-Data\\" + indexToFilename(i);
+		file_path = folder_path + indexToFilename(i);
 		ifstream fin(file_path);
 
 		if (fin.good()) cout << file_path << " is open\n";
@@ -107,7 +107,10 @@ void Trie_t::inputFromFile(const string& folder_path) {
 		int para_position = 0;
 		string paragraph, word;
 		stringstream ss;
-
+		
+		set<ll>numbers_in_file;
+		
+		
 		//process each paragraph
 		while (fin.good()) {
 			//increment the count of paragraphs
@@ -123,7 +126,7 @@ void Trie_t::inputFromFile(const string& folder_path) {
 			//start processing words
 			while (ss.good()) {
 				ss >> word;
-				preprocessing(word);
+				preprocessing(word, numbers_in_file);
 				para_wmi = para_word_count.find(word);
 				//if the word doesn't exist in the dictionary
 				if (para_wmi == para_word_count.end()) {
@@ -186,12 +189,14 @@ void Trie_t::inputFromFile(const string& folder_path) {
 			word_in_trie->file_list.push_back(this_article);
 
 			//if the word is in the article, pass that info to the Trie
-			if (article_wmi->second.is_intitle)
+			if (article_wmi->second.is_intitle) 
 				word_in_trie->title_list.push_back(Node(article_wmi->second.word_count_title, i));
 
 			//sort the file list
 			sort(word_in_trie->file_list.begin(), word_in_trie->file_list.end(), NodeMaxFirst);
 		}
+
+		this->numbers.insert(numbers_in_file.begin(), numbers_in_file.end());
 		fin.close();
 	}
 }
@@ -199,6 +204,6 @@ void Trie_t::inputFromFile(const string& folder_path) {
 void Trie_t::addAllNumbers(const string& word) {
 	vector<ll>numbers_in_string = numbersInString(word);
 	vector<ll>::iterator it;
-	for (it = numbers_in_string.begin(); it != numbers_in_string.end(); ++it)
+	for (it=numbers_in_string.begin(); it!=numbers_in_string.end(); ++it)
 		numbers.insert(*it);
 }
