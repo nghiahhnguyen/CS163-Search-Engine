@@ -1,0 +1,19 @@
+﻿  Auxilary Functions.cpp
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(133): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(141): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(320): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(321): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(355): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\auxilary functions.cpp(384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Layout.cpp
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\layout.cpp(24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\layout.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\layout.cpp(200): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\layout.cpp(232): warning C4101: 'i': unreferenced local variable
+  Source.cpp
+  Trie_Implementation.cpp
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\trie_implementation.cpp(16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nghia\học tập nghĩa\cs163-search-engine\source files\source files\trie_implementation.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Source Files.vcxproj -> D:\Nghia\Học tập Nghĩa\CS163-Search-Engine\Source Files\Source Files\x64\Debug\Source Files.exe
