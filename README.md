@@ -1,7 +1,12 @@
 # CS163-Search-Engine
 
-This is the report for the final project in the course DATA STRUCTURE CS163. Our group consist of 4 people: Nguyen Ho Huu Nghia, Nguyen Ngoc Phuong Trang, Vu Hoang Minh, Nguyen Hoang Gia. Our task for the project is creating a search engine which supports the following operators besides the normal searching:
+This is the report for the final project in the course DATA STRUCTURE CS163. Our group consist of 4 people: 
+- Nguyen Ho Huu Nghia, 
+- Nguyen Ngoc Phuong Trang
+- Vu Hoang Minh
+- Nguyen Hoang Gia
 
+Our task for the project is creating a search engine which supports the following operators besides the normal searching:
 1. AND
 2. OR
 3. Manchester –united
@@ -19,7 +24,8 @@ which are all synonyms of “set”
 
 In this report we are going to elaborate the process of creating this search engine. When we was first tasked with such a project, we were overwhelmed by the idea of the project alone. Therefore, it took us quite a lot of time to finally come up with the idea on how to implement this project. After that, we just went on to do the work until everything is done.
 
-1. Design issues:
+## Design issues:
+  
   The first issue with the project is that we have to find a way to store our data so that when we receive a query from the user, we can retrieve information about the best ranking documents. In order to deal with this, we agree with the idea that each word that appear in the data set will be stored as a node in a tree-like data structure. We construct the abstract data type for this node as a class named Word_t. Then in each node (which represent a word), we will store the following information in an std::vector named file_list.
   
   The index of the documents that the word appears in.
@@ -58,7 +64,7 @@ In this report we are going to elaborate the process of creating this search eng
   
   Finally is the “~A” operation. This operators add all the symnonyms of A to the ranking process. We add this feature to the engine simply by adding a vector of every synonym of a word into its node. By doing so, every time the ~A is found, every synonym of A is treated the same as A.
 
-2. Data structures:
+# Data structures:
 
   As said above, the data structure we use for storing the information about all the words that appeared on the data set is Trie. The reason we choose Trie over many others search trees namely B-Tree, Red Black Tree, AVL Tree etc. is that its time complexity for an inserting or searching operation of a word in O(n) with n being the length of the word. It is actually quite impressive compared to the time comlexities of inserting and searching for a word in Red Black Tree and AVL Tree, both of which are O(log(n)) with n being the length of the word.
   
@@ -70,12 +76,12 @@ In this report we are going to elaborate the process of creating this search eng
   
   An array of pointers pointing to the next node in the Trie.
   
-3. Optimization issues:
+# Optimization issues:
   When building the Trie, we scan through all the files in our database to extract keywords and add data to the Trie. This procedure happens every time the program is executed and it is time-consuming. To optimize this process, after finishing the first running time, we should save the Trie into a file. Later, we can load the data from that file.
   
   Another problem is that if the user wants to add a new file into the database, we will have to rebuild the whole Trie. A way to solve this issue is that we can extract keywords from the new file and add new data into the existing Trie.
   
-4. Scalability:
+# Scalability:
 
   Our implementation is efficient in the case of very large text collections.
   
